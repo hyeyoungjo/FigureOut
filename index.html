@@ -84,11 +84,11 @@
                                 </p>
                         </div>
                         <div class="figures">
-                            <img src="img/1_1.png" alt="figure 1">
-                            <img src="img/1_2.png" alt="figure 2">
-                            <img src="img/1_3.jpeg" alt="figure 3">
-                            <img src="img/1_4.png" alt="figure 4">
-                            <img src="img/1_5.png" alt="figure 5">
+                            <img src="/img/1_1.png" alt="figure 1">
+                            <img src="/img/1_2.png" alt="figure 2">
+                            <img src="/img/1_3.jpeg" alt="figure 3">
+                            <img src="/img/1_4.png" alt="figure 4">
+                            <img src="/img/1_5.png" alt="figure 5">
                         </div>
                     </figcaption>
 
@@ -165,7 +165,7 @@
             var imgSrc="";
             var imgIdx=0;
            $(".figures img").on("mouseenter", function(){
-               imgSrc= "../"+$(this).attr('src');
+               imgSrc= ".."+$(this).attr('src');
                imgIdx=$(this).index()+1;
                $(this).parents("figure").find("p.img").css("background-image","url('"+ imgSrc +"')")
                $(this).parents("figure").find("p.fig_des span:nth-of-type(2)").html("Figure "+imgIdx+". Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp")
