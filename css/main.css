@@ -1,0 +1,389 @@
+@charset 'utf-8';
+
+div.container {}
+
+nav {
+    background: #F95700;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 5px 10px;
+}
+
+nav div {
+    height: 100%;
+}
+
+nav div.logo {
+    margin-top: 10px;
+    width: 70px;
+    background: url("/img/logo.png") center no-repeat;
+    background-size: contain;
+    cursor: pointer;
+}
+
+nav div.nav_tab {
+    width: 23%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav div.nav_tab a {
+    color: white;
+    text-transform: uppercase;
+    font-size: 16px;
+    transition: 0.2s;
+}
+
+nav div.nav_tab a:hover {
+    color: #9c3d09;
+    ;
+}
+
+
+nav div.search {
+    width: 45%;
+    height: 85%;
+    position: relative;
+}
+
+nav div.search input {
+    width: 100%;
+    height: 100%;
+    border-radius: 17px;
+    border: none;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    color: #F95700;
+}
+
+nav div.search input::placeholder {
+    color: #f95700;
+    text-transform: uppercase;
+}
+
+nav div.search p {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: url("/img/search.png") center no-repeat;
+    background-size: contain;
+    cursor: pointer;
+}
+
+nav div.icons {
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav div.icons p {
+    width: 80px;
+    height: 90%;
+    background: center no-repeat;
+    background-size: contain;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+nav div.icons p:hover {
+    opacity: 0.6;
+}
+
+nav div.icons p:nth-of-type(1) {
+    background-image: url("/img/I_History.png");
+}
+
+nav div.icons p:nth-of-type(2) {
+    background-image: url("/img/I_Cart.png");
+}
+
+nav div.icons p:nth-of-type(3) {
+    background-image: url("/img/I_Profile2.png");
+}
+
+section.main {
+    width: 70%;
+    margin: 0 auto;
+}
+
+section.main>ul {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+section.main>ul li {
+    width: 34%;
+    text-align: center;
+    font-size: 18px;
+    text-transform: capitalize;
+    padding-bottom: 15px;
+    color: #757575;
+    border-bottom: 2px solid #757575;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+section.main>ul li.active,
+section.main>ul li:hover {
+    color: #F95700;
+    border-color: #f95700;
+}
+
+section.main ul li.pub {}
+
+section.main ul li.aut {}
+
+section.main ul li.fil {}
+
+section.main div.list {
+    margin-top: 40px;
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+section.main div.list figure {
+    width: 95%;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+}
+
+section.main div.list figure p.img {
+    width: 30%;
+    height: 100%;
+    float: left;
+    background: url("/img/1_1.png") center no-repeat;
+    background-size: cover;
+    cursor: pointer;
+    border-right: 1px solid #757575;
+}
+
+section.main div.list figure figcaption {
+    width: 70%;
+    height: 100%;
+    float: right;
+    padding: 12px 40px;
+    position: relative;
+}
+
+section.main div.list figure figcaption div.bar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+section.main div.list figure figcaption div.bar span {
+    font-size: 12px;
+    margin-right: 5px;
+    position: relative;
+    text-transform: capitalize;
+    padding-bottom: 5px;
+}
+section.main div.list figure figcaption div.bar span:after{
+    content:" ";
+    width: 100%;
+    height: 4px;
+    border-radius: 3px;
+    background: #000;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+section.main div.list figure figcaption div.bar span#background {
+    color: black;
+}
+section.main div.list figure figcaption div.bar span#background:after {
+    background:black;
+}
+
+section.main div.list figure figcaption div.bar span#method {
+    color:coral
+}
+section.main div.list figure figcaption div.bar span#method:after {
+   background: coral;
+}
+
+section.main div.list figure figcaption div.bar span#result {
+    color: cornflowerblue;
+}
+section.main div.list figure figcaption div.bar span#result:after {
+    background: cornflowerblue;
+}
+
+section.main div.list figure figcaption div.bar span#discussion {
+    color: #8ddd5c;
+}
+section.main div.list figure figcaption div.bar span#discussion:after {
+    background: #8ddd5c;
+}
+
+section.main div.list figure figcaption div.bar span#conclusion {
+    color: #a6a6a6;
+}
+section.main div.list figure figcaption div.bar span#conclusion:after {
+    background: #a6a6a6;
+}
+
+section.main div.list figure figcaption div.info {
+    width: 100%;
+    padding: 15px 0px 5px 0;
+}
+
+section.main div.list figure figcaption div.info>span {
+    height: 100%;
+    color: #a6a6a6;
+    margin-right: 20px;
+    font-size: 12px;
+    text-align: right;
+}
+section.main div.list figure figcaption div.info>span span{
+    height: 9px;
+    width: 9px;
+    margin-right: 5px;
+}
+
+section.main div.list figure figcaption div.info span.conf {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+}
+section.main div.list figure figcaption div.info span.cite {
+    color: #4865FF;
+}
+section.main div.list figure figcaption div.info span.cite span {
+    background: url("/img/cite.png") center no-repeat;
+    background-size: contain;
+}
+
+section.main div.list figure figcaption div.info span.down {}
+section.main div.list figure figcaption div.info span.down span {
+    background: url("/img/download.png") center no-repeat;
+    background-size: contain;
+}
+
+section.main div.list figure figcaption div.info span.graph {
+    color: #585858;
+}
+section.main div.list figure figcaption div.info span.graph span {
+    background: url("/img/graph.png") center no-repeat;
+    background-size: contain;
+}
+
+section.main div.list figure figcaption div.info span.figure {
+    color: #585858;
+}
+section.main div.list figure figcaption div.info span.figure span {
+    background: url("/img/figure.png") center no-repeat;
+    background-size: contain;
+}
+
+section.main div.list figure figcaption div.caption {
+    width: 100%;
+    overflow: hidden;
+}
+
+section.main div.list figure figcaption div.caption h3 {
+    text-transform:none;
+}
+
+section.main div.list figure figcaption div.caption ul {
+    margin-top: 5px;
+    text-transform: capitalize;
+}
+
+section.main div.list figure figcaption div.caption ul li {
+    font-size: 12px;
+}
+
+section.main div.list figure figcaption div.caption span.abstract,
+section.main div.list figure figcaption div.caption p.fig_des {
+    margin-top: 15px;
+}
+
+section.main div.list figure figcaption div.caption p.fig_des {
+    display: none;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+section.main div.list figure figcaption div.caption p span:nth-of-type(1) {
+    color: #4865FF;
+    margin-right: 10px;
+}
+
+section.main div.list figure figcaption div.caption p span:nth-of-type(2) {
+
+}
+
+section.main div.list figure figcaption div.figures {
+    width: 100%;
+    height: 60px;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    bottom: -100px;
+    padding-left: 40px;
+}
+
+section.main div.list figure figcaption div.figures img {
+    height: 100%;
+    margin-right: 7px;
+    border: 1px solid #757575;
+    opacity:0.5;
+    cursor: pointer;
+    transition: 0.2s;
+}
+section.main div.list figure figcaption div.figures img:hover{
+    opacity: 1;
+}
+
+section.main div.list aside {
+    width:auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+section.main div.list aside span {
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+section.main div.list aside span.thumb {
+    background: url("/img/thumb.png") center no-repeat;
+    background-size: contain;
+}
+
+section.main div.list aside span.cart {
+    background: url("/img/cart.png") center no-repeat;
+    background-size: contain;
+}
+
+section.main div.list aside span.thumb.active {
+    background: url("/img/thumb_active.png") center no-repeat;
+    background-size: contain;
+}
+
+section.main div.list aside span.cart.active {
+    background: url("/img/cart_active.png") center no-repeat;
+    background-size: contain;
+}
