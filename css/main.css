@@ -20,7 +20,7 @@ nav div {
 nav div.logo {
     margin-top: 10px;
     width: 70px;
-    background: url("/img/logo.png") center no-repeat;
+    background: url("../img/logo.png") center no-repeat;
     background-size: contain;
     cursor: pointer;
 }
@@ -75,7 +75,7 @@ nav div.search p {
     right: 10px;
     top: 50%;
     transform: translateY(-50%);
-    background: url("img/search.png") center no-repeat;
+    background: url("../img/search.png") center no-repeat;
     background-size: contain;
     cursor: pointer;
 }
@@ -101,15 +101,15 @@ nav div.icons p:hover {
 }
 
 nav div.icons p:nth-of-type(1) {
-    background-image: url("img/I_History.png");
+    background-image: url("../img/I_History.png");
 }
 
 nav div.icons p:nth-of-type(2) {
-    background-image: url("img/I_Cart.png");
+    background-image: url("../img/I_Cart.png");
 }
 
 nav div.icons p:nth-of-type(3) {
-    background-image: url("img/I_Profile2.png");
+    background-image: url("../img/I_Profile2.png");
 }
 
 section.main {
@@ -166,7 +166,7 @@ section.main div.list figure p.img {
     width: 30%;
     height: 100%;
     float: left;
-    background: url("img/1_1.png") center no-repeat;
+    background: url("../img/1_1.png") center no-repeat;
     background-size: cover;
     cursor: pointer;
     border-right: 1px solid #757575;
@@ -267,13 +267,13 @@ section.main div.list figure figcaption div.info span.cite {
     color: #4865FF;
 }
 section.main div.list figure figcaption div.info span.cite span {
-    background: url("img/cite.png") center no-repeat;
+    background: url("../img/cite.png") center no-repeat;
     background-size: contain;
 }
 
 section.main div.list figure figcaption div.info span.down {}
 section.main div.list figure figcaption div.info span.down span {
-    background: url("img/download.png") center no-repeat;
+    background: url("../img/download.png") center no-repeat;
     background-size: contain;
 }
 
@@ -281,7 +281,7 @@ section.main div.list figure figcaption div.info span.graph {
     color: #585858;
 }
 section.main div.list figure figcaption div.info span.graph span {
-    background: url("img/graph.png") center no-repeat;
+    background: url("../img/graph.png") center no-repeat;
     background-size: contain;
 }
 
@@ -289,7 +289,7 @@ section.main div.list figure figcaption div.info span.figure {
     color: #585858;
 }
 section.main div.list figure figcaption div.info span.figure span {
-    background: url("img/figure.png") center no-repeat;
+    background: url("../img/figure.png") center no-repeat;
     background-size: contain;
 }
 
@@ -369,21 +369,21 @@ section.main div.list aside span {
 }
 
 section.main div.list aside span.thumb {
-    background: url("img/thumb.png") center no-repeat;
+    background: url("../img/thumb.png") center no-repeat;
     background-size: contain;
 }
 
 section.main div.list aside span.cart {
-    background: url("img/cart.png") center no-repeat;
+    background: url("../img/cart.png") center no-repeat;
     background-size: contain;
 }
 
 section.main div.list aside span.thumb.active {
-    background: url("img/thumb_active.png") center no-repeat;
+    background: url("../img/thumb_active.png") center no-repeat;
     background-size: contain;
 }
 
 section.main div.list aside span.cart.active {
-    background: url("img/cart_active.png") center no-repeat;
+    background: url("../img/cart_active.png") center no-repeat;
     background-size: contain;
 }
