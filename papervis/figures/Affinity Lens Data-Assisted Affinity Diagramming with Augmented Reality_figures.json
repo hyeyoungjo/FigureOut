@@ -1,0 +1,131 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1: Affinity Lens used to split a larger affinity cluster based on income level. (a) The user applies a heatmap lens to an\nexisting cluster which shows two sub-groups. (b) The designer regroups the notes. (c) A histogram lens compares sleeping\nschedules for the two sub-clusters found in (a).\n",
+            "bbox": [
+                53.798,
+                428.230854,
+                558.1803300000003,
+                459.11485400000004
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2: Affinity Lens User Interface. (a) main camera view,\n(b) contextual lens selector, (c) lens configuration options, (d)\nlens modes\n",
+            "bbox": [
+                317.67699999999996,
+                552.570854,
+                559.283856,
+                583.454854
+            ],
+            "page": "5"
+        },
+        "3": {
+            "caption": "Figure 3: Affinity Lens workflow. Data is acquired (a) and automatically tagged for a Marker (b) for printing. Various forms of\nDAAD (c, d, e) can be documented (f) along with associated insights (g).\n",
+            "bbox": [
+                53.798,
+                499.98285400000003,
+                558.1803299999998,
+                519.907854
+            ],
+            "page": "6"
+        },
+        "4": {
+            "caption": "Figure 4: A sampling of Affinity Lens AR Lenses\n",
+            "bbox": [
+                208.8,
+                416.107854,
+                403.19184600000006,
+                425.073854
+            ],
+            "page": "7"
+        },
+        "5": {
+            "caption": "Figure 5: System Architecture. (1) Scene analyzer extracts notes from camera feed, (2) lens controller determines set of lenses\napplicable to notes in view, (3) dynamic view configurator updates the interface with available lenses, (4) lens queries for data\nfrom the (5) Data access and analytics module, and renders the augmented visualization.\n",
+            "bbox": [
+                53.798,
+                523.7888540000001,
+                558.18033,
+                554.672854
+            ],
+            "page": "9"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                144.43890055555556,
+                589.3152549486113,
+                1555.5387790130555,
+                894.316686111111
+            ],
+            "bbox": [
+                53.7980042,
+                471.845993,
+                558.1939604447,
+                578.0465082185
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                896.924981111111,
+                252.36789550222198,
+                1536.854481462222,
+                548.9277649999999
+            ],
+            "bbox": [
+                324.6929932,
+                596.1860046,
+                551.4676133263999,
+                699.3475576192001
+            ],
+            "page": "5"
+        },
+        "3": {
+            "crop_coord": [
+                195.0,
+                252.36637307027792,
+                1505.0216103694445,
+                725.4444461111111
+            ],
+            "bbox": [
+                72.0,
+                532.6399994,
+                540.007779733,
+                699.3481056946999
+            ],
+            "page": "6"
+        },
+        "4": {
+            "crop_coord": [
+                164.9999913888889,
+                252.366770525,
+                1535.029234836111,
+                988.8750202777778
+            ],
+            "bbox": [
+                61.1999969,
+                437.8049927,
+                550.810524541,
+                699.347962611
+            ],
+            "page": "7"
+        },
+        "5": {
+            "crop_coord": [
+                245.0,
+                252.36644967999996,
+                1454.9823882511112,
+                628.8750033333332
+            ],
+            "bbox": [
+                90.0,
+                567.4049988,
+                521.9936597704,
+                699.3480781152
+            ],
+            "page": "9"
+        }
+    }
+}

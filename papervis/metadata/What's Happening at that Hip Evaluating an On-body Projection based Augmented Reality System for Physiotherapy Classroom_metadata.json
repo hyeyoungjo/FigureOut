@@ -1,0 +1,130 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2019xr/What's Happening at that Hip Evaluating an On-body Projection based Augmented Reality System for Physiotherapy Classroom.pdf",
+    "paper_id": "What's Happening at that Hip Evaluating an On-body Projection based Augmented Reality System for Physiotherapy Classroom",
+    "venue": "chi2019xr",
+    "keywords": [
+        "Augmented reality",
+        "Pen-based interactions",
+        "Annotation",
+        "Projection mapping",
+        "Educational system"
+    ],
+    "doi": "10.1145/3290605.3300464",
+    "paragraph_containing_keyword": "KEYWORDS\nAugmented reality, pen-based interactions, annotation, pro-\njection mapping, educational system.\nACM Reference Format:\nHasan Shahid Ferdous, Thuong Hoang, Zaher Joukhadar, Martin N\nReinoso, Frank Vetere, David Kelly, Louisa Remedios. 2019. \u201cWhat\u2019s\nHappening at that Hip?\u201d: Evaluating an On-body Projection based\nAugmented Reality System for Physiotherapy Classroom. In Pro-\nceedings of CHI Conference on Human Factors in Computing Sys-\ntems Proceedings (CHI 2019). ACM, New York, NY, USA, 12 pages.\nhttps://doi.org/10.1145/3290605.3300464",
+    "paragraph_after_keyword": "1 INTRODUCTION\nAugmented reality (AR) systems have been adopted as a pow-\nerful tool to enhance the teaching and learning experience\nin many classrooms. AR systems overlay virtual information\ndirectly on the physical world, offering great potential to im-\nprove training and educational outcomes [6, 20, 25]. These\nsystems often leverage virtual 3D visualizations to make diffi-\ncult ideas more comprehensible [25]. They can transform the\nphysical space into interactive venues, where otherwise inac-\ncessible digital information can be observed and analyzed [6].\nAR visualization in instructional settings can also improve\ntask completion times and lead to fewer errors [20].\nWhile providing a novel visualization capability through\noverlaying digital information with real world artifacts, these\nsystems typically prioritize display capability rather than in-\nteractivity. A systematic review of AR trends in education\n[3] shows that the majority of AR educational systems focus\non visualization by aiming to \u201caugment information\u201d (40.6%)\nand/or \u201cexplain a topic\u201d (43.7%), as compared to support \u201clab\nexperiments\u201d (12.5%) or \u201cexploration\u201d (3.13%) where interac-\ntions with the contents are encouraged.\nBillinghurst et al. [4] outline the promise of hybrid user\ninterfaces [7] that combine AR with other interactive tech-\nnologies such as virtual reality (VR) and pen-based devices.",
+    "sections": [
+        {
+            "word_count": 667,
+            "figure_citations": {
+                "1": [
+                    "Figure 1)."
+                ]
+            },
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 752,
+            "figure_citations": {
+                "1": [
+                    "Figure 1(b)) as an interaction mechanism alongside the projection mapping system to create a hybrid user interface.",
+                    "Figure 1(c))."
+                ],
+                "2": [
+                    "Figure 2(c)), which was then projected on the human model."
+                ]
+            },
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 216,
+            "figure_citations": {},
+            "section_index": 2,
+            "title": "RESEARCH DESIGN"
+        },
+        {
+            "word_count": 1143,
+            "figure_citations": {
+                "2": [
+                    "Figure 2(a)).",
+                    "Figure 2(c)).",
+                    "Figure 2(c))."
+                ],
+                "1": [
+                    "Figure 1(a)).",
+                    "Figure 1(b))."
+                ]
+            },
+            "section_index": 3,
+            "title": "INTERFACE"
+        },
+        {
+            "word_count": 1699,
+            "figure_citations": {
+                "2": [
+                    "Figure 2(c))."
+                ]
+            },
+            "section_index": 4,
+            "title": "AUGMENTED BODY SYSTEM"
+        },
+        {
+            "word_count": 750,
+            "figure_citations": {
+                "2": [
+                    "Figure 2(b)) and used retroreflective markers with Velcro stickers to put on the volunteer student\u2019s clothing (Figure 1(a))."
+                ],
+                "3": [
+                    "Figure 3(a)), thus enabling the teacher and students to draw directly on the volunteer\u2019s body and to select muscle(s) or bone(s).",
+                    "Figure 3(b)) which the teacher used to select brush size, color, eraser, create groups of muscles/bones, and to selectively turn on/off the muscle and skeleton view as well as remove specific muscles to reveal the inner layers (Figure 4(a)) using the developed pen."
+                ],
+                "4": [
+                    "Figure 4(b))."
+                ]
+            },
+            "section_index": 5,
+            "title": "CUSTOM PEN INTERFACE"
+        },
+        {
+            "word_count": 2277,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "OUTCOMES OF AUGMENTED BODY SYSTEM"
+        },
+        {
+            "word_count": 1020,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 144,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 66,
+            "figure_citations": {},
+            "section_index": 9,
+            "title": "ACKNOWLEDGMENTS"
+        },
+        {
+            "word_count": 753,
+            "figure_citations": {},
+            "section_index": 10,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "\"What's Happening at that Hip?\": Evaluating an On-body Projection based Augmented Reality System for Physiotherapy Classroom",
+    "authors": "Hasan Shahid Ferdous, Thuong Hoang, Zaher Joukhadar, Martin N. Reinoso, Frank Vetere, David Kelly, Louisa Remedios",
+    "abstract": "We present two studies to discuss the design, usability analysis, and educational outcome resulting from our system Augmented Body in physiotherapy classroom. We build on prior user-centric design work that investigates existing teaching methods and discuss opportunities for intervention. We present the design and implementation of a hybrid system for physiotherapy education combining an on-body projection based virtual anatomy supplemented by pen-based tablets to create real-time annotations. We conducted a usability evaluation of this system, comparing with projection only and traditional teaching conditions. Finally, we focus on a comparative study to evaluate learning outcome among students in actual classroom settings. Our studies showed increased usage of visual representation techniques in students'11 note taking behavior and statistically significant improvement in some learning aspects. We discuss challenges for designing augmented reality systems for education, including minimizing attention split, addressing text-entry issues, and digital annotations on a moving physical body.",
+    "publication": {
+        "venue": "N/A",
+        "venue_full": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "year": "2019",
+        "date": "2019/5/2"
+    },
+    "version": 4
+}

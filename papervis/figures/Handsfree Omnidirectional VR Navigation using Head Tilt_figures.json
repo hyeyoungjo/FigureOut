@@ -1,0 +1,131 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1. Head tilt is used to indicate the direction of travel\nWalking-in-place (WIP) closely mimics walking, e.g., users\nprovide step-like motions while remaining stationary [29].\nWIP closely approximates real walking input in terms of per-\nformance [25] and presence [27]. Compared to a controller,\nWIP is handsfree; offers higher presence [33]; improves spa-\ntial orientation [19]; and is less likely to induce cybersickness\n[16], because of the generation of proprioceptive feedback.\nHowever, a controller allows for 360\u25e6 omnidirectional nav-\nigation, where WIP only navigates users in the direction of\ntheir gaze. This impedes navigation ef\ufb01ciency, for example,\nif a user wants to back up a little bit, it requires them to turn\naround, move forward, turn around again and then move to\nwhere they want to be. Because prior studies [25, 13, 27,\n37] have only evaluated navigation tasks that include forward\nmotion, they \ufb01nd a similar performance for WIP as controller\ninput. However, these results are misleading, as VR naviga-\ntion also contains lateral movements [15] and controller input\noutperforms WIP as it allows omnidirectional navigation.\n",
+            "bbox": [
+                320.626,
+                328.567992,
+                565.91318566,
+                537.7102699999999
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2. head tilt de-\n\ufb01ned using vectors.\n",
+            "bbox": [
+                482.526,
+                479.28227,
+                565.48573,
+                496.21826999999996
+            ],
+            "page": "2"
+        },
+        "3": {
+            "caption": "Figure 3. Reticle shows: 1) no 2) right\n3) right-back 4) back motion.\n",
+            "bbox": [
+                169.441,
+                212.74027,
+                297.00085000000007,
+                229.67627000000002
+            ],
+            "page": "3"
+        },
+        "4": {
+            "caption": "Figure 4. Left: navigation task showing corridor with the obstacles the\nparticipant users must navigate. Right: when colliding with an obstacle\nit turns red and becomes sticky; requiring users to navigate laterally.\n",
+            "bbox": [
+                321.094,
+                562.36727,
+                564.1630600000002,
+                588.26927
+            ],
+            "page": "3"
+        },
+        "5": {
+            "caption": "Figure 5. Avg Likert scores and standard deviation for each method\n",
+            "bbox": [
+                327.682,
+                612.1142699999999,
+                557.57834,
+                620.08427
+            ],
+            "page": "4"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                886.9277613888887,
+                411.5051777777775,
+                1572.0912422222223,
+                692.894439722222
+            ],
+            "bbox": [
+                321.0939941,
+                544.3580017,
+                564.1528472,
+                642.0581360000001
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                1301.7533280555556,
+                489.55727472222225,
+                1572.1274819444445,
+                813.6861080555555
+            ],
+            "bbox": [
+                470.4311981,
+                500.8730011,
+                564.1658935,
+                613.9593811
+            ],
+            "page": "2"
+        },
+        "3": {
+            "crop_coord": [
+                439.1294352777778,
+                1459.1525691666668,
+                829.9784258333334,
+                1554.0805730555555
+            ],
+            "bbox": [
+                159.8865967,
+                234.3309937,
+                296.9922333,
+                264.9050751
+            ],
+            "page": "3"
+        },
+        "4": {
+            "crop_coord": [
+                886.9277613888887,
+                168.2289208333334,
+                1572.0566558333333,
+                557.9889000000002
+            ],
+            "bbox": [
+                321.0939941,
+                592.923996,
+                564.1403961,
+                729.6375885
+            ],
+            "page": "3"
+        },
+        "5": {
+            "crop_coord": [
+                886.9277613888887,
+                148.22278361111114,
+                1572.1327802777776,
+                464.07779277777774
+            ],
+            "bbox": [
+                321.0939941,
+                626.7319946,
+                564.1678009,
+                736.8397979
+            ],
+            "page": "4"
+        }
+    }
+}

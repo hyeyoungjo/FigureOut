@@ -1,0 +1,306 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1. A participant is using the Ambiotherm system with a Sam-\nsung\u2122 Gear VR HMD. The control module is attached behind the neck.\n",
+            "bbox": [
+                321.094,
+                415.20027000000005,
+                565.55781,
+                432.13727
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2. Different locations selected for delivering thermal stimuli: (A)\nBehind The Ear, (B) On The Throat, and (C) Behind The Neck.\n",
+            "bbox": [
+                53.929,
+                600.47227,
+                297.5320500000002,
+                617.40827
+            ],
+            "page": "4"
+        },
+        "3": {
+            "caption": "Figure 3. Normalized average rating scores: (A) heating sensation at\nthree locations and (B) cooling sensation at three locations. (Error bars\nrepresent 95% CI, n = 15).\n",
+            "bbox": [
+                321.094,
+                566.34827,
+                564.1630600000001,
+                592.25127
+            ],
+            "page": "4"
+        },
+        "4": {
+            "caption": "Figure 4. Normalized average sensation and comfort scores: (A) four\nheating stimuli and (B) four cooling stimuli. (Error bars represent 95%\nCI, n = 15).\n",
+            "bbox": [
+                321.094,
+                562.5232699999999,
+                564.9600600000001,
+                588.4262699999999
+            ],
+            "page": "5"
+        },
+        "5": {
+            "caption": "Figure 5. Operational procedure of Ambiotherm: (1) VR environment\n(Android Application) sends commands to (2) control module that ac-\ntives (3a) thermal module and (3b) wind module.\n",
+            "bbox": [
+                53.666000000000004,
+                510.76827,
+                298.3210900000002,
+                536.6712699999999
+            ],
+            "page": "6"
+        },
+        "6": {
+            "caption": "Figure 6. Ambiotherm: (A) Main components, (B) Control Module, (C)\nWind Simulation Module, and (D) Ambient Temperature Module.\n",
+            "bbox": [
+                320.69599999999997,
+                457.47227000000004,
+                564.6970500000001,
+                474.40927
+            ],
+            "page": "6"
+        },
+        "7": {
+            "caption": "Figure 7. User\u2019s \ufb01rst-person view following the virtual guide in (A) the\nhot desert and (B) the snowy mountain virtual environments.\n",
+            "bbox": [
+                53.929,
+                608.5912699999999,
+                296.9980600000001,
+                625.5272699999999
+            ],
+            "page": "7"
+        },
+        "8": {
+            "caption": "Figure 8. Normalized average Sensory and Realism Factors scores for\nfour stimuli con\ufb01gurations (Error bars represent 95% CI, n = 20).\n",
+            "bbox": [
+                321.094,
+                592.23527,
+                564.3384000000002,
+                609.17227
+            ],
+            "page": "7"
+        },
+        "9": {
+            "caption": "Figure 9. Normalized average engagement scores for four stimuli con\ufb01g-\nurations (Error bars represent 95% CI, n = 20).\n",
+            "bbox": [
+                53.929,
+                635.37727,
+                298.32108000000017,
+                652.31427
+            ],
+            "page": "8"
+        },
+        "10": {
+            "caption": "Figure 10. Normalized average thermal, wind, and overall Involvement\nscores for four stimuli con\ufb01gurations (Error bars represent 95% CI, n =\n20).\n",
+            "bbox": [
+                321.094,
+                532.41827,
+                564.1630600000002,
+                558.32127
+            ],
+            "page": "8"
+        },
+        "11": {
+            "caption": "Figure 11. Normalized average consistency scores of VR Environment\ncompared to Real-World and consistency scores for sensory information\nfor four stimuli con\ufb01gurations (Error bars represent 95% CI, n = 20).\n",
+            "bbox": [
+                53.929,
+                575.79027,
+                296.99806000000024,
+                601.69327
+            ],
+            "page": "9"
+        },
+        "12": {
+            "caption": "Figure 12. Normalized average scores assessing the quickness to adjust\nto the VR Environment with four stimuli con\ufb01gurations (Error bars rep-\nresent 95% CI, n = 20).\n",
+            "bbox": [
+                321.094,
+                602.14927,
+                565.4860800000001,
+                628.05227
+            ],
+            "page": "9"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                886.9277613888887,
+                554.8271263888888,
+                1572.107009722222,
+                991.6888683333333
+            ],
+            "bbox": [
+                321.0939941,
+                436.7920074,
+                564.1585235,
+                590.4622345
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                155.26946166666667,
+                168.22243583333318,
+                819.5412444444445,
+                477.0472125
+            ],
+            "bbox": [
+                57.6970062,
+                622.0630035,
+                293.234848,
+                729.6399231
+            ],
+            "page": "4"
+        },
+        "3": {
+            "crop_coord": [
+                886.9277613888887,
+                168.2234952777779,
+                1572.1410452777777,
+                546.927761388889
+            ],
+            "bbox": [
+                321.0939941,
+                596.9060059,
+                564.1707762999999,
+                729.6395417
+            ],
+            "page": "4"
+        },
+        "4": {
+            "crop_coord": [
+                886.9277613888887,
+                168.22442777777752,
+                1572.1399008333333,
+                557.5527952777777
+            ],
+            "bbox": [
+                321.0939941,
+                593.0809937,
+                564.1703643,
+                729.6392060000001
+            ],
+            "page": "5"
+        },
+        "5": {
+            "crop_coord": [
+                144.80278027777777,
+                168.23413444444475,
+                829.9388802777778,
+                701.3194530555556
+            ],
+            "bbox": [
+                53.9290009,
+                541.3249969,
+                296.9779969,
+                729.6357115999999
+            ],
+            "page": "6"
+        },
+        "6": {
+            "crop_coord": [
+                886.9277613888887,
+                168.2289208333334,
+                1572.125066111111,
+                874.2694347222223
+            ],
+            "bbox": [
+                321.0939941,
+                479.0630035,
+                564.1650238,
+                729.6375885
+            ],
+            "page": "6"
+        },
+        "7": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22811555555552,
+                830.0223797222222,
+                454.4944255555557
+            ],
+            "bbox": [
+                53.9290009,
+                630.1820068,
+                297.0080567,
+                729.6378784
+            ],
+            "page": "7"
+        },
+        "8": {
+            "crop_coord": [
+                886.9277613888887,
+                168.2301499999999,
+                1572.109764722222,
+                499.9277666666665
+            ],
+            "bbox": [
+                321.0939941,
+                613.826004,
+                564.1595153,
+                729.637146
+            ],
+            "page": "7"
+        },
+        "9": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22485194444445,
+                830.0066547222222,
+                380.0861274999998
+            ],
+            "bbox": [
+                53.9290009,
+                656.9689941,
+                297.00239569999997,
+                729.6390533
+            ],
+            "page": "8"
+        },
+        "10": {
+            "crop_coord": [
+                886.9277613888887,
+                168.22374999999997,
+                1572.1331616666666,
+                641.1777836111111
+            ],
+            "bbox": [
+                321.0939941,
+                562.9759979,
+                564.1679382,
+                729.63945
+            ],
+            "page": "8"
+        },
+        "11": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2240041666668,
+                830.0142416666666,
+                520.6999800000001
+            ],
+            "bbox": [
+                53.9290009,
+                606.3480072,
+                297.005127,
+                729.6393585
+            ],
+            "page": "9"
+        },
+        "12": {
+            "crop_coord": [
+                886.9277613888887,
+                168.22315638888887,
+                1572.136679722222,
+                447.4805536111111
+            ],
+            "bbox": [
+                321.0939941,
+                632.7070007,
+                564.1692046999999,
+                729.6396637
+            ],
+            "page": "9"
+        }
+    }
+}

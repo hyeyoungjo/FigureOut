@@ -1,0 +1,91 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/VR_2017/Understanding Low Vision People\u2019s Visual Perception on Commercial Augmented Reality Glasses.pdf",
+    "paper_id": "Understanding Low Vision People\u2019s Visual Perception on Commercial Augmented Reality Glasses",
+    "venue": "VR_2017",
+    "keywords": [
+        "Accessibility",
+        "Augmented reality",
+        "User study",
+        "Low vision"
+    ],
+    "paragraph_containing_keyword": "ABSTRACT \nPeople with low vision have a visual impairment that affects \ntheir ability to perform daily activities. Unlike blind people, \nlow vision people have functional vision and can potentially \nbenefit  from  smart  glasses  that  provide  dynamic,  always-\navailable visual information. We sought to determine what \nlow  vision  people  could  see  on  mainstream  commercial \naugmented  reality  (AR)  glasses,  despite \ntheir  visual \nlimitations  and  the  device\u2019s  constraints.  We  conducted  a \nstudy  with  20  low  vision  participants  and  18  sighted \ncontrols,  asking  them  to  identify  virtual  shapes  and  text  in \ndifferent  sizes,  colors,  and  thicknesses.  We  also  evaluated \ntheir  ability  to  see  the  virtual  elements  while  walking.  We \nfound  that  low  vision  participants  were  able  to  identify \nbasic  shapes  and  read  short  phrases  on  the  glasses  while \nsitting  and  walking.  Identifying  virtual  elements  had  a \nsimilar  effect  on  low  vision  and  sighted  people\u2019s  walking \nspeed,  slowing \nit  down  slightly.  Our  study  yielded \npreliminary  evidence  that  mainstream  AR  glasses  can  be \npowerful  accessibility  tools.  We  derive  guidelines  for \npresenting  visual  output  for  low  vision  people  and  discuss \nopportunities for accessibility applications on this platform.  \nAuthor Keywords \nAccessibility; augmented reality; user study; low vision.  \nACM Classification Keywords \nH.5.1. Information interfaces and presentation: Multimedia \nInformation Systems \nINTRODUCTION \nAccording \nthe  Centers  for  Disease  Control  and \nto \nPrevention (CDC), 3.3 million Americans who are 40 years \nold  and  older  have  low  vision.  A  person  has  low  vision  if \nshe  has  a  visual  impairment  that  adversely  affects  her \nability  to  perform  daily  activities  and  cannot  be  corrected \nwith  glasses  or  contact  lenses.  People  with  low  vision  can \nhave  a  variety  of  visual  conditions,  including  reduced \ncontrast  sensitivity,  loss  of  visual  field,  and  lower  visual \nacuity  [3].  Since  most  diseases  or  conditions  causing  low \nvision occur as people age, the number of low vision people",
+    "paragraph_after_keyword": "Permission  to  make  digital  or  hard  copies  of  all  or  part  of  this  work  for \npersonal or classroom use is granted without fee provided that copies are \nnot made or distributed for profit or commercial advantage and that copies \nbear  this  notice  and  the  full  citation  on  the  first  page.  Copyrights  for \ncomponents  of  this  work  owned  by  others  than  ACM  must  be  honored. \nAbstracting  with  credit  is  permitted.  To  copy  otherwise,  or  republish,  to \npost on servers or to redistribute to lists, requires prior specific permission \nand/or a fee. Request permissions from Permissions@acm.org. \nCHI 2017, May 06-11, 2017, Denver, CO, USA \n\u00a9 2017 ACM. ISBN 978-1-4503-4655-9/17/05\u2026$15.00 \nDOI: http://dx.doi.org/10.1145/3025453.3025949",
+    "doi": "10.1145/3025453.3025949",
+    "sections": [
+        {
+            "word_count": 1004,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 816,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 3111,
+            "figure_citations": {
+                "1": [
+                    "Figure 1).",
+                    "Figure 1)."
+                ],
+                "2": [
+                    "Figure 2).",
+                    "Figure 2)."
+                ],
+                "4": [
+                    "Figure 4).",
+                    "Figure 4)."
+                ],
+                "3": [
+                    "Figure 3b) and also verbally identify the virtual shapes or text that appeared as soon as possible.",
+                    "Figure 3a)."
+                ]
+            },
+            "section_index": 2,
+            "title": "METHOD"
+        },
+        {
+            "word_count": 1889,
+            "figure_citations": {},
+            "section_index": 3,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 970,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 110,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 56,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "ACKNOWLEDGMENTS"
+        },
+        {
+            "word_count": 1519,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Understanding Low Vision People's Visual Perception on Commercial Augmented Reality Glasses",
+    "authors": "Yuhang Zhao, Michele Hu, Shafeka Hashash, Shiri Azenkot",
+    "abstract": "People with low vision have a visual impairment that affects their ability to perform daily activities. Unlike blind people, low vision people have functional vision and can potentially benefit from smart glasses that provide dynamic, always-available visual information. We sought to determine what low vision people could see on mainstream commercial augmented reality (AR) glasses, despite their visual limitations and the device's constraints. We conducted a study with 20 low vision participants and 18 sighted controls, asking them to identify virtual shapes and text in different sizes, colors, and thicknesses. We also evaluated their ability to see the virtual elements while walking. We found that low vision participants were able to identify basic shapes and read short phrases on the glasses while sitting and walking. Identifying virtual elements had a similar effect on low vision and sighted people's walking speed, slowing it down slightly. Our study yielded preliminary evidence that mainstream AR glasses can be powerful accessibility tools. We derive guidelines for presenting visual output for low vision people and discuss opportunities for accessibility applications on this platform.",
+    "publication": {
+        "venue": "CHI '17",
+        "venue_full": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+        "year": "2017",
+        "date": "2017/5/2"
+    },
+    "version": 4
+}

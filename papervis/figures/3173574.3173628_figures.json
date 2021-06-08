@@ -1,0 +1,256 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1. FaceDisplay is a modified VR HMD consisting of three touch sensitive displays and a depth camera attached to its back (a-c). This allows people in\nthe surrounding to perceive the virtual world through the displays and interact with the HMD user either through touch (e) or gestures (d).\n",
+            "bbox": [
+                53.933,
+                380.65327,
+                564.1564600000006,
+                397.58927
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2. The hardware prototype of FaceDisplay, consisting of three\ntouchscreens and a Leap Motion depth camera attached to the back and\nthe sides of an Oculus Rift DK2\n",
+            "bbox": [
+                321.098,
+                378.48427,
+                564.15909,
+                404.38626999999997
+            ],
+            "page": "3"
+        },
+        "3": {
+            "caption": "Figure 3. The technical setup used to reduce the weight of the FaceDisplay\nprototype, using a key retractor (a) and a pair of springs (b).\n",
+            "bbox": [
+                53.933,
+                411.85527,
+                297.27304,
+                428.79227
+            ],
+            "page": "4"
+        },
+        "4": {
+            "caption": "Figure 4. Interaction Gradient for FaceDisplay. Starting from the most engaged a: touch to b:gesture, c: external device and d: observing.\n",
+            "bbox": [
+                87.28,
+                572.0562699999999,
+                530.8094899999999,
+                580.02627
+            ],
+            "page": "5"
+        },
+        "5": {
+            "caption": "Figure 5. The FruitSlicer application with its outside view (a), inside view\n(b), interaction concepts (c) and visualization metaphor (d).\n",
+            "bbox": [
+                320.83500000000004,
+                159.74727,
+                564.4460099999999,
+                176.68427
+            ],
+            "page": "5"
+        },
+        "6": {
+            "caption": "Figure 6. The SpaceFace application and its outside view (a), inside view (b)\ninteraction and visualization concept (c) and physical interaction scenario\n(d).\n",
+            "bbox": [
+                53.67,
+                535.2832699999999,
+                297.52808,
+                561.1862699999999
+            ],
+            "page": "6"
+        },
+        "7": {
+            "caption": "Figure 7. The Conductor application showing its outside view (a), inside\nview (b), hand tracking region (c) and interaction scenario (d).\n",
+            "bbox": [
+                320.899,
+                544.2492699999999,
+                564.15909,
+                561.1862699999999
+            ],
+            "page": "6"
+        },
+        "8": {
+            "caption": "Figure 8. The distribution of our data from (a) the GEQ In-Game Module, GEQ Social Module, the SUS and (b) the SAM questionnaire. All bar charts\nshowing the mean with standard deviation.\n",
+            "bbox": [
+                53.933,
+                580.43827,
+                564.1564600000007,
+                597.37427
+            ],
+            "page": "8"
+        },
+        "9": {
+            "caption": "Figure 9. Boxplots of our own questions on discomfort \"I felt uncomfortable\ntouching/being touched/gesturing/being gestured at\", understanding \"I was\nalways able to understand the current state of the game\" and agency \"I was\nalways able to influence the outcome of the game\"\n",
+            "bbox": [
+                53.932999999999964,
+                410.73027,
+                296.99771,
+                445.59927
+            ],
+            "page": "8"
+        },
+        "10": {
+            "caption": "Figure 10. A variety of physical interaction poses participants used during the study emphasizing the vast possibilities of physical interaction arising from\nSpaceFace: (a) The Kraken: The Non-HMD User abused his power and wraps around the HMD User to restrict his motions. (b) The Leg-press: the HMD User\nutilizes his legs to either find or push the Non-HMD User away. (d) The Hedgehog: the HMD User rolls in like a hedgehog to hide from the attacks.\n",
+            "bbox": [
+                53.933,
+                507.57527,
+                564.1590100000001,
+                533.47727
+            ],
+            "page": "9"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                144.80278027777777,
+                593.5730063888888,
+                1572.4850041666668,
+                1087.655503888889
+            ],
+            "bbox": [
+                53.9290009,
+                402.2440186,
+                564.2946015,
+                576.5137177
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                886.9277613888887,
+                509.4349416666669,
+                1572.1077727777777,
+                1068.7749566666666
+            ],
+            "bbox": [
+                321.0939941,
+                409.0410156,
+                564.1587982,
+                606.803421
+            ],
+            "page": "3"
+        },
+        "3": {
+            "crop_coord": [
+                144.80278027777777,
+                535.9979502777777,
+                829.9222227777776,
+                1000.9805805555554
+            ],
+            "bbox": [
+                53.9290009,
+                433.446991,
+                296.97200019999997,
+                597.2407379
+            ],
+            "page": "4"
+        },
+        "4": {
+            "crop_coord": [
+                178.26666083333333,
+                168.24918111111123,
+                1538.561918333333,
+                575.3499688888888
+            ],
+            "bbox": [
+                65.9759979,
+                586.6740112,
+                552.0822906,
+                729.6302948
+            ],
+            "page": "5"
+        },
+        "5": {
+            "crop_coord": [
+                886.9277613888887,
+                1244.4436477777779,
+                1572.104212222222,
+                1701.2805430555557
+            ],
+            "bbox": [
+                321.0939941,
+                181.3390045,
+                564.1575164,
+                342.20028679999996
+            ],
+            "page": "5"
+        },
+        "6": {
+            "crop_coord": [
+                144.80278027777777,
+                168.23680472222236,
+                829.9222227777776,
+                633.2194350000001
+            ],
+            "bbox": [
+                53.9290009,
+                565.8410034,
+                296.97200019999997,
+                729.6347503
+            ],
+            "page": "6"
+        },
+        "7": {
+            "crop_coord": [
+                886.9277613888887,
+                168.23680472222236,
+                1572.0472038888888,
+                633.2194350000001
+            ],
+            "bbox": [
+                321.0939941,
+                565.8410034,
+                564.1369933999999,
+                729.6347503
+            ],
+            "page": "6"
+        },
+        "8": {
+            "crop_coord": [
+                140.21962317,
+                168.359756204264,
+                1570.4184134338886,
+                535.7223714264861
+            ],
+            "bbox": [
+                52.2790643412,
+                600.939946286465,
+                563.5506288362,
+                729.590487766465
+            ],
+            "page": "8"
+        },
+        "9": {
+            "crop_coord": [
+                148.68518826388888,
+                636.2213256493058,
+                831.8272129166668,
+                956.5877720729166
+            ],
+            "bbox": [
+                55.326667775,
+                449.42840205375,
+                297.65779665,
+                561.1603227662499
+            ],
+            "page": "8"
+        },
+        "10": {
+            "crop_coord": [
+                144.80278027777777,
+                168.27045888888898,
+                1571.7638566666665,
+                710.188836111111
+            ],
+            "bbox": [
+                53.9290009,
+                538.132019,
+                564.0349884,
+                729.6226348
+            ],
+            "page": "9"
+        }
+    }
+}

@@ -1,0 +1,321 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1. Spark interactive tabletop exhibit. \n",
+            "bbox": [
+                354.84,
+                60.635999999999996,
+                523.8236199300001,
+                69.636
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2. Linking two representations of a circuit (a) side-by-\nside on one display and (b) with AR on a second display. \n",
+            "bbox": [
+                321.3,
+                470.373,
+                555.83094294,
+                489.69599999999997
+            ],
+            "page": "2"
+        },
+        "3": {
+            "caption": "Figure 3. Snapshot of Spark system in the single-display \ncondition. \n",
+            "bbox": [
+                332.34,
+                564.3330000000001,
+                547.91971881,
+                583.6560000000001
+            ],
+            "page": "3"
+        },
+        "4": {
+            "caption": "Figure 4. Electron model display in the AR condition. The \nblue dots are moving electrons and the red dots represent ions \nin conductive materials. Resistors have higher ion densities \nthan wires. \n",
+            "bbox": [
+                319.3120349999999,
+                345.762,
+                559.4393246399995,
+                385.839
+            ],
+            "page": "3"
+        },
+        "5": {
+            "caption": "Figure 5. Final task (task 3) in the series of tasks.  \n",
+            "bbox": [
+                79.74,
+                538.1761,
+                271.73421656999994,
+                547.1761
+            ],
+            "page": "4"
+        },
+        "6": {
+            "caption": "Figure 6. Post-interview questions and two examples of \nchildren\u2019s drawings to show the flow of current. \n",
+            "bbox": [
+                67.92008849999996,
+                316.962,
+                281.1615584399998,
+                336.339
+            ],
+            "page": "4"
+        },
+        "7": {
+            "caption": "Figure 7. Snapshots of parent-child dyads using the exhibit in \nthe single-display condition (left) and the AR condition (right)\n",
+            "bbox": [
+                319.7988297,
+                567.3330000000001,
+                558.4439408400003,
+                586.6560000000001
+            ],
+            "page": "5"
+        },
+        "8": {
+            "caption": "Figure 8. Children\u2019s mental models of current flow path in \ncontrol condition (C1); single-display condition (C2); and AR \ncondition (C3). \n",
+            "bbox": [
+                56.457,
+                550.9560000000001,
+                293.922,
+                580.6560000000001
+            ],
+            "page": "7"
+        },
+        "9": {
+            "caption": "Figure 9. Children\u2019s mental models of mechanism of current \nflow with cyclic model and concurrent model grouped as \n\u201dprogressed\u201d conceptions. \n",
+            "bbox": [
+                322.02,
+                551.19,
+                556.3763999999998,
+                580.836
+            ],
+            "page": "7"
+        },
+        "10": {
+            "caption": "Figure 10. Parent-child dyad predictions for task 3. \n",
+            "bbox": [
+                339.72,
+                568.836,
+                538.6811999999998,
+                577.836
+            ],
+            "page": "8"
+        },
+        "11": {
+            "caption": "Figure 11. Different types of parental roles in task 2 in the \nsingle-display condition (C2) and the AR condition (C3). \n",
+            "bbox": [
+                326.82,
+                414.99899999999997,
+                551.6174999999998,
+                434.376
+            ],
+            "page": "9"
+        },
+        "12": {
+            "caption": "Figure 12. A demonstration of Tangible Spark. \n",
+            "bbox": [
+                349.26,
+                535.5360000000001,
+                530.0097000000001,
+                544.5360000000001
+            ],
+            "page": "10"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                881.0000186111112,
+                1509.6667055555554,
+                1553.6666786111111,
+                1991.0000186111113
+            ],
+            "bbox": [
+                318.9600067,
+                77.0399933,
+                557.5200043,
+                246.719986
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                881.6666580555554,
+                175.66664777777785,
+                1555.0,
+                824.9999913888887
+            ],
+            "bbox": [
+                319.1999969,
+                496.8000031,
+                558.0,
+                726.9600068
+            ],
+            "page": "2"
+        },
+        "3": {
+            "crop_coord": [
+                883.6666616666666,
+                174.3333263888889,
+                1555.3333197222223,
+                561.4999897222223
+            ],
+            "bbox": [
+                319.9199982,
+                591.6600037,
+                558.1199951,
+                727.4400025
+            ],
+            "page": "3"
+        },
+        "4": {
+            "crop_coord": [
+                897.0000033333334,
+                635.6666649999999,
+                1535.666690277778,
+                1113.6666530555556
+            ],
+            "bbox": [
+                324.7200012,
+                392.8800049,
+                551.0400085,
+                561.3600006
+            ],
+            "page": "3"
+        },
+        "5": {
+            "crop_coord": [
+                153.00001361111114,
+                175.00000833333328,
+                810.3333283333334,
+                665.0000169444444
+            ],
+            "bbox": [
+                56.8800049,
+                554.3999939,
+                289.9199982,
+                727.199997
+            ],
+            "page": "4"
+        },
+        "6": {
+            "crop_coord": [
+                221.66668361111113,
+                764.9999916666666,
+                740.3333366666667,
+                1250.9999933333331
+            ],
+            "bbox": [
+                81.6000061,
+                343.4400024,
+                264.7200012,
+                514.8000030000001
+            ],
+            "page": "4"
+        },
+        "7": {
+            "crop_coord": [
+                881.6666580555554,
+                173.66668694444456,
+                1555.0,
+                555.0
+            ],
+            "bbox": [
+                319.1999969,
+                594.0,
+                558.0,
+                727.6799927
+            ],
+            "page": "5"
+        },
+        "8": {
+            "crop_coord": [
+                149.49998638888886,
+                165.9999933333332,
+                817.3333399999999,
+                570.6666649999999
+            ],
+            "bbox": [
+                55.6199951,
+                588.3600006,
+                292.44000239999997,
+                730.4400024
+            ],
+            "page": "7"
+        },
+        "9": {
+            "crop_coord": [
+                879.3333349999999,
+                165.50001361111114,
+                1554.5000202777778,
+                570.1666852777778
+            ],
+            "bbox": [
+                318.3600006,
+                588.5399933,
+                557.8200073,
+                730.6199951
+            ],
+            "page": "7"
+        },
+        "10": {
+            "crop_coord": [
+                879.3333349999999,
+                165.49997111111134,
+                1554.5000202777778,
+                579.1666580555554
+            ],
+            "bbox": [
+                318.3600006,
+                585.3000031,
+                557.8200073,
+                730.6200104
+            ],
+            "page": "8"
+        },
+        "11": {
+            "crop_coord": [
+                879.3333349999999,
+                597.5000255555556,
+                1554.5000202777778,
+                993.3333419444444
+            ],
+            "bbox": [
+                318.3600006,
+                436.1999969,
+                557.8200073,
+                575.0999908
+            ],
+            "page": "9"
+        },
+        "12": {
+            "crop_coord": [
+                882.5,
+                165.9999933333332,
+                1554.1666580555554,
+                627.6666769444442
+            ],
+            "bbox": [
+                319.5,
+                567.8399963,
+                557.6999969,
+                730.4400024
+            ],
+            "page": "10"
+        },
+        "13": {
+            "crop_coord": [
+                882.5,
+                617.6666769444447,
+                1554.1666580555554,
+                672.3333486111112
+            ],
+            "bbox": [
+                319.5,
+                551.7599945,
+                557.6999969,
+                567.8399962999999
+            ],
+            "page": "10"
+        }
+    }
+}

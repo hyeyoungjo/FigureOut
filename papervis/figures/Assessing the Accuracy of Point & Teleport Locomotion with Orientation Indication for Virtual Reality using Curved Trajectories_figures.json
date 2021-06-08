@@ -1,0 +1,306 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1: A user is teleporting herself in a Virtual Environment using the Curved Teleport. It allows her to teleport around an \nobstacle and graphically choose the orientation, which she wants to face after teleportation only by using the curved trajectory \nvisualization with orientation indication, and without having to turn her body in the physical world. \n",
+            "bbox": [
+                53.555907200000036,
+                364.42088,
+                560.6865248,
+                395.4266912
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2: A user is using the Linear Teleport to move onto a \ntarget. The orientation that the user is facing is the forward \nvector of the straight teleport line. \n",
+            "bbox": [
+                53.56487360000003,
+                592.6728800000001,
+                296.28532160000003,
+                623.6786912
+            ],
+            "page": "3"
+        },
+        "3": {
+            "caption": "Figure 3: The Parabola Teleport uses a parabola shaped visu-\nalization to indicate the target position of the teleport. After \nthe teleport, users face the forward vector of the teleport. \n",
+            "bbox": [
+                317.9549999999999,
+                592.6728800000001,
+                560.6306159999999,
+                623.6786912
+            ],
+            "page": "3"
+        },
+        "4": {
+            "caption": "Figure 4: The AngleSelect Teleport uses a parabola visualiza-\ntion to show the user the target position. Further it uses an \norientation indicator that lets the user select the orientation \nthat the user is facing after the teleport. \n",
+            "bbox": [
+                53.798,
+                581.7159392000001,
+                296.294288,
+                623.6786912
+            ],
+            "page": "4"
+        },
+        "5": {
+            "caption": "Figure 5: The Curved Teleport visualizes the trajectory of the \nteleportation in a curved line. The orientation that the user \nis facing at the target location can be infuenced by adjusting \nthe steepness of the curve. \n",
+            "bbox": [
+                317.955,
+                581.7159392000001,
+                560.6395823999999,
+                623.6786912
+            ],
+            "page": "4"
+        },
+        "6": {
+            "caption": "Figure  6:  The  visualization  of  the  HPCurved  Teleport  frst \nuses a parabola that behaves like a state-of-the-art Parabola \nTeleport, but at the high point of the parabola turns into a \nCurved Teleport that lets the users chose the target orienta-\ntion. \n",
+            "bbox": [
+                53.79799999999997,
+                570.7589984000001,
+                296.28532160000003,
+                623.6786912
+            ],
+            "page": "5"
+        },
+        "7": {
+            "caption": "Figure 7: We used round targets in our accuracy study. The \ndirection of the target is indicated by the green target area \nand supported by the yellow target area. The rest of the tar-\nget is colored in red indicating the wrong direction. In this \nscreenshot of our accuracy study, the participant is using the \nParabola Teleport. (Picture of participant added for clarity). \n",
+            "bbox": [
+                317.95499999999976,
+                557.5741584000001,
+                560.4423215999999,
+                621.4776912
+            ],
+            "page": "5"
+        },
+        "8": {
+            "caption": "Figure 8: The VE that we created as the environment for con-\nducting the study. The castle in the middle of the environ-\nment is the tutorial area, where participants can practice the \nteleportation method before starting the study. Once partic-\nipants leave the tutorial castle, it disappears and becomes a \ngreen lawn area. \n",
+            "bbox": [
+                53.79799999999986,
+                494.5650576000001,
+                296.2853215999999,
+                558.4416912
+            ],
+            "page": "6"
+        },
+        "9": {
+            "caption": "Figure 9: The average angle \u03b1cor r ect ed  that was corrected by \nthe participants using each teleportation method. All error \nbars  indicate  the  standard  error.  All  conditions  are  signif-\nicantly  diferent,  except  the  two  baseline  conditions  (indi-\ncated with n.s.). \n",
+            "bbox": [
+                53.798,
+                516.4880992000001,
+                296.54077120000005,
+                569.4346912
+            ],
+            "page": "7"
+        },
+        "10": {
+            "caption": "Figure  10:  The  average  time  that  participants  took  to  tele-\nport tt el epor t  using each teleportation method. All error bars \nindicate the standard error. All teleportation methods were \nsignifcantly diferent, except the ones indicated with n.s. \n",
+            "bbox": [
+                317.9549999999999,
+                527.3174512,
+                560.4428224,
+                569.4346912
+            ],
+            "page": "7"
+        },
+        "11": {
+            "caption": "Figure 11: The average time that participants took to correct \ntheir position tcor r ect ed  using natural walking for each tele-\nportation method. All error bars indicate the standard error. \nThe asterisk (*) indicates a statistically signifcant diference \nbetween the teleportation methods. \n",
+            "bbox": [
+                53.49799680000001,
+                516.5129392000001,
+                297.81446400000004,
+                569.4346912
+            ],
+            "page": "8"
+        },
+        "12": {
+            "caption": "Figure 12: The NASA-TLX scores of the VR locomotion tech-\nniques that were assessed in the user study. All error bars \nindicate the standard error. The asterisk (*) indicates a sig-\nnifcant diference between the locomotion techniques. \n",
+            "bbox": [
+                317.9549999999998,
+                527.4719392000001,
+                560.4423215999999,
+                569.4346912
+            ],
+            "page": "8"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                144.43890055555556,
+                693.1536863888891,
+                1555.554911388889,
+                1071.5777841666668
+            ],
+            "bbox": [
+                53.7980042,
+                408.0319977,
+                558.1997681,
+                540.6646728999999
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                144.43890055555556,
+                252.3694441666666,
+                821.7722491666666,
+                437.54445388888894
+            ],
+            "bbox": [
+                53.7980042,
+                636.2839966,
+                294.0380097,
+                699.3470001000001
+            ],
+            "page": "3"
+        },
+        "3": {
+            "crop_coord": [
+                878.2083383333334,
+                252.3694441666666,
+                1555.5416869444446,
+                437.54445388888894
+            ],
+            "bbox": [
+                317.9550018,
+                636.2839966,
+                558.1950073,
+                699.3470001000001
+            ],
+            "page": "3"
+        },
+        "4": {
+            "crop_coord": [
+                144.43890055555556,
+                252.3694441666666,
+                821.7722491666666,
+                437.54445388888894
+            ],
+            "bbox": [
+                53.7980042,
+                636.2839966,
+                294.0380097,
+                699.3470001000001
+            ],
+            "page": "4"
+        },
+        "5": {
+            "crop_coord": [
+                878.2083383333334,
+                252.3694441666666,
+                1555.5416869444446,
+                437.54445388888894
+            ],
+            "bbox": [
+                317.9550018,
+                636.2839966,
+                558.1950073,
+                699.3470001000001
+            ],
+            "page": "4"
+        },
+        "6": {
+            "crop_coord": [
+                144.43890055555556,
+                252.3694441666666,
+                821.7722491666666,
+                437.54445388888894
+            ],
+            "bbox": [
+                53.7980042,
+                636.2839966,
+                294.0380097,
+                699.3470001000001
+            ],
+            "page": "5"
+        },
+        "7": {
+            "crop_coord": [
+                878.2083383333334,
+                252.36762166666665,
+                1555.5580477777778,
+                443.65555666666666
+            ],
+            "bbox": [
+                317.9550018,
+                634.0839996,
+                558.2008972,
+                699.3476562
+            ],
+            "page": "5"
+        },
+        "8": {
+            "crop_coord": [
+                144.43890055555556,
+                252.37050361111108,
+                821.800096388889,
+                618.7583413888889
+            ],
+            "bbox": [
+                53.7980042,
+                571.0469971,
+                294.0480347,
+                699.3466187
+            ],
+            "page": "6"
+        },
+        "9": {
+            "crop_coord": [
+                144.43890055555556,
+                252.36808777777793,
+                821.7882286111111,
+                588.2222408333333
+            ],
+            "bbox": [
+                53.7980042,
+                582.0399933,
+                294.04376229999997,
+                699.3474884
+            ],
+            "page": "7"
+        },
+        "10": {
+            "crop_coord": [
+                878.2083383333334,
+                252.36808777777793,
+                1555.557666388889,
+                588.2222408333333
+            ],
+            "bbox": [
+                317.9550018,
+                582.0399933,
+                558.2007599,
+                699.3474884
+            ],
+            "page": "7"
+        },
+        "11": {
+            "crop_coord": [
+                144.43890055555556,
+                252.36808777777793,
+                821.7882286111111,
+                588.2222408333333
+            ],
+            "bbox": [
+                53.7980042,
+                582.0399933,
+                294.04376229999997,
+                699.3474884
+            ],
+            "page": "8"
+        },
+        "12": {
+            "crop_coord": [
+                878.2083383333334,
+                252.36808777777793,
+                1555.557666388889,
+                588.2222408333333
+            ],
+            "bbox": [
+                317.9550018,
+                582.0399933,
+                558.2007599,
+                699.3474884
+            ],
+            "page": "8"
+        }
+    }
+}

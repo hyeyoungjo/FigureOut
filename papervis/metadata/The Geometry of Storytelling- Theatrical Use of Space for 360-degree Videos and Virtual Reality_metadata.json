@@ -1,0 +1,91 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/VR_2017/The Geometry of Storytelling- Theatrical Use of Space for 360-degree Videos and Virtual Reality.pdf",
+    "paper_id": "The Geometry of Storytelling- Theatrical Use of Space for 360-degree Videos and Virtual Reality",
+    "venue": "VR_2017",
+    "keywords": [
+        "Virtual Reality",
+        "Narrative",
+        "Theatre",
+        "Performance",
+        "Cinematic VR",
+        "Interpersonal Space",
+        "Head-Mounted Display",
+        "Work\ufb02ow",
+        "360-degree video"
+    ],
+    "paragraph_containing_keyword": "ABSTRACT\nUPDATED\u2014January 23, 2017. 360-degree \ufb01lming and head-\nmounted displays (HMDs) give recorded media a new sense of\nspace. Theatre practitioners\u2019 expertise in manipulating spatial\ninteractions has much to contribute to immersive recorded\ncontent. Four theatre directors led teams of three actors to\nstage the same scene for both immersive theatre and for 360-\ndegree \ufb01lming. Each team was recorded performing the scene\nat least six times, three in each condition, to extract actors\u2019\ncoordinates. This study establishes how to quantify theatre\npractitioners\u2019 use of spatial interactions and examines the\nspatial adaptations made when transferring these relationships\nto 360-degree \ufb01lming.\nStaging for a 360-degree camera compared to staging for\nan audience member had shorter distances from the camera\nand between performers, along with fewer instances of the\ncamera being in the middle of the action. Across all groups,\ninterpersonal distance between characters and between the\naudience/camera dropped at the end of the scene when the\ncharacters come together as a team, suggesting that elements\nof Proxemics may be applicable to narrative performance.\nACM Classi\ufb01cation Keywords\nJ.5 Computer Applications: Arts and Humanities, Performing\narts; H.5.1 Information Systems: Multimedia Information\nSystems\nAuthor Keywords\nVirtual Reality; Narrative; Theatre; Performance; Cinematic\nVR; Interpersonal Space; Head-Mounted Display; Work\ufb02ow;\n360-degree video\nINTRODUCTION\nThe \ufb01rst head-mounted display (HMD), nicknamed \u2018Sword\nof Damocles\u2019 because of the bulky and alarming apparatus\nprecariously perched above the viewer, was developed in 1968",
+    "paragraph_after_keyword": "Permission  to  make  digital  or  hard  copies  of  part  or  all  of  this  work  for  personal  or \nclassroom use is granted without fee provided that copies are not made or distributed \nfor pro\ufb01t or commercial advantage and that copies bear this notice and the full citation \non the first page. Copyrights for third-party components of this work must be honored. \nFor all other uses, contact the Owner/Author. \nCopyright is held by the owner/author(s). \nCHI 2017, May 06-11, 2017, Denver, CO, USA\nACM 978-1-4503-4655-9/17/05.\nhttp://dx.doi.org/10.1145/3025453.3025581",
+    "doi": "10.1145/3025453.3025581",
+    "sections": [
+        {
+            "word_count": 678,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 1604,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 2080,
+            "figure_citations": {},
+            "section_index": 2,
+            "title": "METHODOLOGY"
+        },
+        {
+            "word_count": 2806,
+            "figure_citations": {},
+            "section_index": 3,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 655,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "LIMITATIONS"
+        },
+        {
+            "word_count": 310,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "FUTURE DIRECTIONS"
+        },
+        {
+            "word_count": 283,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 450,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 203,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "ACKNOWLEDGMENTS"
+        },
+        {
+            "word_count": 399,
+            "figure_citations": {},
+            "section_index": 9,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "The Geometry of Storytelling: Theatrical Use of Space for 360-degree Videos and Virtual Reality",
+    "authors": "Vanessa C. Pope, Robert Dawes, Florian Schweiger, Alia Sheikh",
+    "abstract": "360-degree filming and head-mounted displays (HMDs) give recorded media a new sense of space. Theatre practitioners' expertise in manipulating spatial interactions has much to contribute to immersive recorded content. Four theatre directors led teams of three actors to stage the same scene for both immersive theatre and for 360-degree filming. Each team was recorded performing the scene at least six times, three in each condition, to extract actors' coordinates. This study establishes how to quantify theatre practitioners' use of spatial interactions and examines the spatial adaptations made when transferring these relationships to 360-degree filming.Staging for a 360-degree camera compared to staging for an audience member had shorter distances from the camera and between performers, along with fewer instances of the camera being in the middle of the action. Across all groups, interpersonal distance between characters and between the audience/camera dropped at the end of the scene when the characters come together as a team, suggesting that elements of Proxemics may be applicable to narrative performance.",
+    "publication": {
+        "venue": "CHI '17",
+        "venue_full": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+        "year": "2017",
+        "date": "2017/5/2"
+    },
+    "version": 4
+}

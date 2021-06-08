@@ -1,0 +1,336 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1: Our GVS device induces proprioceptive feedback\nfor VR motions: (a) riding a roller coaster, (b) driving a car,\n(c) leaping forward, and (d) navigating by flying.\n",
+            "bbox": [
+                53.52,
+                520.3508540000001,
+                295.12685600000003,
+                551.2338540000001
+            ],
+            "page": "5"
+        },
+        "2": {
+            "caption": "Figure 2: The first GVS prototype built using a Light Blue\nBean Board with a custom current driver circuit board.\n",
+            "bbox": [
+                317.955,
+                458.795854,
+                558.190004,
+                478.72085400000003
+            ],
+            "page": "5"
+        },
+        "3": {
+            "caption": "Figure 3: The second and final GVS prototype in the form of\na small wearable device that sits on the user\u2019s neck, similar\nto behind-the-head earphones. The red wire connects the cir-\ncuit to an electrode behind the user\u2019s ear. A similar wire con-\nnects to a second electrode behind the other ear. The white\nwires connect to EDA and HR sensors.\n",
+            "bbox": [
+                53.449000000000005,
+                460.69785399999995,
+                295.637918,
+                524.457854
+            ],
+            "page": "6"
+        },
+        "4": {
+            "caption": "Figure 4: GVS prototype with the 3D printed housing, PCB,\nLiPo battery, sensor ports, and the electrode connectors.\n",
+            "bbox": [
+                317.955,
+                504.39085400000005,
+                559.283856,
+                524.3158540000001
+            ],
+            "page": "6"
+        },
+        "5": {
+            "caption": "Figure 5: We attach electrodes to the mastoid process on the\ntemporal bone behind each ear to electrically stimulate the\nvestibular system. Image courtesy: Wikipedia\n",
+            "bbox": [
+                53.565000000000005,
+                522.2498540000001,
+                294.033004,
+                553.133854
+            ],
+            "page": "7"
+        },
+        "6": {
+            "caption": "Figure 6: Our GVS device without the 3D printed housing.\nThe image shows the EDA and HR sensors plugged into the\nPCB using the onboard connection ports.\n",
+            "bbox": [
+                317.659,
+                490.33085400000004,
+                559.72319,
+                521.2148540000001
+            ],
+            "page": "7"
+        },
+        "7": {
+            "caption": "Figure 7: VR scenes for the with-GVS and without-GVS trials.\n(a) Full visibility, breezy sunny day. (b) Full visibility, over-\ncast day with occasional thunder in the distance.\n",
+            "bbox": [
+                53.52,
+                252.55685400000002,
+                295.63786400000004,
+                283.439854
+            ],
+            "page": "8"
+        },
+        "9": {
+            "caption": "Figure 9: A Pairwise Wilcoxon test shows Flow was signifi-\ncantly higher in VR with the GVS device.\n",
+            "bbox": [
+                317.955,
+                507.949854,
+                559.794918,
+                527.874854
+            ],
+            "page": "10"
+        },
+        "10": {
+            "caption": "Figure 10: Positive Affect was significantly higher and there\nwas no significant difference in the Negative Affect between\nthe with-GVS and without-GVS conditions.\n",
+            "bbox": [
+                317.605,
+                80.88785399999999,
+                558.190808,
+                111.77185399999999
+            ],
+            "page": "10"
+        },
+        "8": {
+            "caption": "Figure 8: Participants had significantly higher presence\nwhen using the GVS device than without.\n",
+            "bbox": [
+                53.449000000000005,
+                395.547854,
+                294.03300399999995,
+                415.472854
+            ],
+            "page": "10"
+        },
+        "11": {
+            "caption": "Figure 11: Perceived realism of experience is higher as indi-\ncated by responses to related questions in the SUS inventory\nfor with-GVS and without-GVS conditions.\n",
+            "bbox": [
+                317.955,
+                585.2318540000001,
+                559.7957220000001,
+                616.115854
+            ],
+            "page": "11"
+        },
+        "12": {
+            "caption": "Figure 12: Results show that 85% of the users preferred the\nVR experience with the GVS device.\n",
+            "bbox": [
+                53.484,
+                581.4308540000001,
+                294.03300399999995,
+                601.355854
+            ],
+            "page": "12"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                144.43890055555556,
+                252.3726655555555,
+                821.7455463888889,
+                638.4277683333333
+            ],
+            "bbox": [
+                53.7980042,
+                563.9660034,
+                294.0283967,
+                699.3458404
+            ],
+            "page": "5"
+        },
+        "2": {
+            "crop_coord": [
+                911.5777841666668,
+                379.79652416666664,
+                1522.1819475,
+                839.8555672222221
+            ],
+            "bbox": [
+                329.9680023,
+                491.4519958,
+                546.1855011,
+                653.4732513
+            ],
+            "page": "5"
+        },
+        "3": {
+            "crop_coord": [
+                177.80834611111112,
+                252.3555416666668,
+                788.4083555555557,
+                712.8055488888889
+            ],
+            "bbox": [
+                65.8110046,
+                537.1900024,
+                282.027008,
+                699.352005
+            ],
+            "page": "6"
+        },
+        "4": {
+            "crop_coord": [
+                911.5777841666668,
+                252.37414888888878,
+                1522.1821169444445,
+                713.1999883333333
+            ],
+            "bbox": [
+                329.9680023,
+                537.0480042,
+                546.1855621,
+                699.3453064
+            ],
+            "page": "6"
+        },
+        "5": {
+            "crop_coord": [
+                277.9083336111111,
+                252.36694333333315,
+                688.3249833333333,
+                633.1527624999999
+            ],
+            "bbox": [
+                101.8470001,
+                565.8650055,
+                245.996994,
+                699.3479004000001
+            ],
+            "page": "7"
+        },
+        "6": {
+            "crop_coord": [
+                911.5777841666668,
+                252.3746577777777,
+                1522.1555413888889,
+                721.8166691666668
+            ],
+            "bbox": [
+                329.9680023,
+                533.9459991,
+                546.1759949,
+                699.3451232
+            ],
+            "page": "7"
+        },
+        "7": {
+            "crop_coord": [
+                211.17499444444442,
+                811.7574988888888,
+                755.0250072222221,
+                1382.3000080555555
+            ],
+            "bbox": [
+                77.822998,
+                296.1719971,
+                270.0090026,
+                497.9673004
+            ],
+            "page": "8"
+        },
+        "8": {
+            "crop_coord": [
+                144.43890055555556,
+                564.599109166667,
+                821.7889066666667,
+                1015.544458888889
+            ],
+            "bbox": [
+                53.7980042,
+                428.2039948,
+                294.0440064,
+                586.9443206999999
+            ],
+            "page": "10"
+        },
+        "9": {
+            "crop_coord": [
+                878.2083383333334,
+                252.37130916666655,
+                1555.5583444444446,
+                703.3166588888888
+            ],
+            "bbox": [
+                317.9550018,
+                540.6060028,
+                558.201004,
+                699.3463287000001
+            ],
+            "page": "10"
+        },
+        "10": {
+            "crop_coord": [
+                880.9333461111112,
+                1666.0769652777778,
+                1204.572668888889,
+                1859.1583166666667
+            ],
+            "bbox": [
+                318.9360046,
+                124.503006,
+                431.8461608,
+                190.41229249999998
+            ],
+            "page": "10"
+        },
+        "11": {
+            "crop_coord": [
+                1229.1805352777778,
+                1667.0774333333334,
+                1552.8198580555556,
+                1859.1583166666667
+            ],
+            "bbox": [
+                444.3049927,
+                124.503006,
+                557.2151489,
+                190.052124
+            ],
+            "page": "10"
+        },
+        "12": {
+            "crop_coord": [
+                880.9333461111112,
+                254.25865166666688,
+                1204.572838611111,
+                458.19998000000004
+            ],
+            "bbox": [
+                318.9360046,
+                628.8480072,
+                431.8462219,
+                698.6668854
+            ],
+            "page": "11"
+        },
+        "13": {
+            "crop_coord": [
+                1229.1805352777778,
+                252.35999222222216,
+                1552.8305394444444,
+                458.19998000000004
+            ],
+            "bbox": [
+                444.3049927,
+                628.8480072,
+                557.2189942,
+                699.3504028
+            ],
+            "page": "11"
+        },
+        "14": {
+            "crop_coord": [
+                244.5444402777778,
+                252.36376444444448,
+                721.68396,
+                499.20276222222213
+            ],
+            "bbox": [
+                89.8359985,
+                614.0870056,
+                258.0062256,
+                699.3490448
+            ],
+            "page": "12"
+        }
+    }
+}

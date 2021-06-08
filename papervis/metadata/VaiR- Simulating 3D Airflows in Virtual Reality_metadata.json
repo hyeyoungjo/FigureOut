@@ -1,0 +1,66 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/VR_2017/VaiR- Simulating 3D Airflows in Virtual Reality.pdf",
+    "paper_id": "VaiR- Simulating 3D Airflows in Virtual Reality",
+    "venue": "VR_2017",
+    "keywords": [
+        "Virtual reality",
+        "Air\ufb02ow",
+        "Presence",
+        "Evaluation"
+    ],
+    "paragraph_containing_keyword": "Author Keywords\nVirtual reality; air\ufb02ow; presence; evaluation.",
+    "paragraph_after_keyword": "INTRODUCTION\nEnhancing presence and immersion is one of the major goals\nof Virtual Reality (VR) research. The sense of being there [7]\nboth occurs and can be supported in three dimensions: the\npersonal, the environmental and the social forms of presence.\nThe main focus of this paper is to enhance the personal feeling\nof presence. This can be achieved by simulating sensory stim-\nuli as close as possible to the capability of a sensor regarding\nrange and intensity. Appealing multiple senses ampli\ufb01es the\nfeeling of presence and immersion in VR applications [3, 6].\nBesides the inherent integration of visual and audio [9, 13]\nin most VR systems, a large body of work exists to include\nfurther channels in the VR experience. Those channels include\nhaptics [1, 19], warmth [4, 5] and smell [21, 20]. Regarding",
+    "doi": "10.1145/3025453.3026009",
+    "sections": [
+        {
+            "word_count": 925,
+            "figure_citations": {
+                "1": [
+                    "Figure 1, can easily be combined with current head mounted displays."
+                ]
+            },
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 1517,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 1325,
+            "figure_citations": {},
+            "section_index": 2,
+            "title": "IMPLEMENTATION"
+        },
+        {
+            "word_count": 2004,
+            "figure_citations": {},
+            "section_index": 3,
+            "title": "EVALUATION"
+        },
+        {
+            "word_count": 590,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 691,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "VaiR: Simulating 3D Airflows in Virtual Reality",
+    "authors": "Michael Rietzler, Katrin Plaumann, Taras Kr\u00e4nzle, Marcel Erath, Alexander Stahl, Enrico Rukzio",
+    "abstract": "The integration of multi-sensory stimuli, e.g. haptic airflow, in virtual reality (VR) has become an important topic of VR research and proved to enhance the feeling of presence. VaiR focuses on an accurate and realistic airflow simulation that goes far beyond wind. While previous works on the topic of airflow in VR are restricted to wind, while focusing on the feeling of presence, there is to the best of our knowledge no work considering the conceptual background or on the various application areas. Our pneumatic prototype emits short and long term flows with a minimum delay and is able to animate wind sources in 3D space around the user's head. To get insights on how airflow can be used in VR and how such a device should be designed, we arranged focus groups and discussed the topic. Based on the gathered knowledge, we developed a prototype which proved to increase presence, as well as enjoyment and realism, while not disturbing the VR experience.",
+    "publication": {
+        "venue": "CHI '17",
+        "venue_full": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+        "year": "2017",
+        "date": "2017/5/2"
+    },
+    "version": 4
+}

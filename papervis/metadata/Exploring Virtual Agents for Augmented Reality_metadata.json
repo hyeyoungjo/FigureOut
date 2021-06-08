@@ -1,0 +1,106 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2019xr/Exploring Virtual Agents for Augmented Reality.pdf",
+    "paper_id": "Exploring Virtual Agents for Augmented Reality",
+    "venue": "chi2019xr",
+    "keywords": [
+        "Augmented reality",
+        "Embodied conversational agents"
+    ],
+    "paragraph_containing_keyword": "KEYWORDS \nAugmented reality; embodied conversational agents",
+    "paragraph_after_keyword": "ACM Reference format: \nIsaac Wang, Jesse Smith, and Jaime Ruiz. 2019. Exploring Virtual Agents \nfor  Augmented  Reality.  In  2019  CHI  Conference  on  Human  Factors  in \nComputing  Systems  Proceedings  (CHI  2019),  May  4\u20139,  2019,  Glasgow, \nScotland,  UK.  ACM,  New  York,  NY,  USA.  Paper  281,  10  pages. \nhttps://doi.org/10.1145/3290605.3300511",
+    "doi": "10.1145/3290605.3300511",
+    "sections": [
+        {
+            "word_count": 650,
+            "figure_citations": {
+                "1": [
+                    "Figure 1)."
+                ]
+            },
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 856,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 1180,
+            "figure_citations": {
+                "2": [
+                    "Figure 2).",
+                    "Figure 2), and that he has a slightly higher-pitched voice than Jake to account for his smaller size."
+                ]
+            },
+            "section_index": 2,
+            "title": "AUGMENTED REALITY AGENTS"
+        },
+        {
+            "word_count": 672,
+            "figure_citations": {
+                "4": [
+                    "Figure 4)."
+                ]
+            },
+            "section_index": 3,
+            "title": "USER STUDY"
+        },
+        {
+            "word_count": 1679,
+            "figure_citations": {
+                "5": [
+                    "Figure 5).",
+                    "Figure 5b) as well as the length of each utterance (Figure 5c).",
+                    "Figure 5d), as well as the duration of each gaze (Figure 5e)."
+                ],
+                "7": [
+                    "Figure 7)."
+                ]
+            },
+            "section_index": 4,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 1511,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 432,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "LIMITATIONS AND FUTURE WORK"
+        },
+        {
+            "word_count": 139,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 67,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "ACKNOWLEDGMENTS"
+        },
+        {
+            "word_count": 1649,
+            "figure_citations": {},
+            "section_index": 9,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Exploring Virtual Agents for Augmented Reality",
+    "authors": "Isaac Wang, Jesse Smith, Jaime Ruiz",
+    "abstract": "Prior work has shown that embodiment can benefit virtual agents, such as increasing rapport and conveying non-verbal information. However, it is unclear if users prefer an embodied to a speech-only agent for augmented reality (AR) headsets that are designed to assist users in completing real-world tasks. We conducted a study to examine users' perceptions and behaviors when interacting with virtual agents in AR. We asked 24 adults to wear the Microsoft HoloLens and find objects in a hidden object game while interacting with an agent that would offer assistance. We presented participants with four different agents: voice-only, non-human, full-size embodied, and a miniature embodied agent. Overall, users preferred the miniature embodied agent due to the novelty of his size and reduced uncanniness as opposed to the larger agent. From our results, we draw conclusions about how agent representation matters and derive guidelines on designing agents for AR headsets.",
+    "publication": {
+        "venue": "N/A",
+        "venue_full": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "year": "2019",
+        "date": "2019/5/2"
+    },
+    "version": 4
+}

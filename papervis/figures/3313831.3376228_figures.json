@@ -1,0 +1,231 @@
+{
+    "captions": {
+        "3": {
+            "caption": "Figure 3. A sample of the study procedure (top) and the timeline \nof each block (bottom). \none  11-20  times.  The  remaining  11  (27.5%)  had  used  VR \nmore than 20 times. The participants were balanced in terms \nof  their  self-reported  receptivity  to  message  notifications, \nwith  10  individuals  fitting  into  each  of  the  following  four \ncategories: 1) tend to ignore notifications; 2) tend not to deal \nwith notifications immediately, but check and respond later; \n3) tend to check notifications immediately, but respond later; \nand 4) tend to check and respond immediately.  \n",
+            "bbox": [
+                54.0,
+                337.6186400000001,
+                297.7410801599999,
+                450.88599999999997
+            ],
+            "page": "4"
+        },
+        "4": {
+            "caption": "Figure 4. Means and SDs of engagement, by VR activity. \n",
+            "bbox": [
+                64.464,
+                597.556,
+                283.34,
+                606.556
+            ],
+            "page": "5"
+        },
+        "6": {
+            "caption": "Figure 6. All notifications\u2019 means and SDs of the outcome variables: Perceived Disruptiveness (top left), Perceived Timeliness (top \ncenter) and Recall (top right); seen notifications\u2019 means and SDs of the outcome variables: Perceived Disruptiveness (bottom left), \nPerceived Timeliness (bottom center) and Recall (bottom right). \n",
+            "bbox": [
+                54.0,
+                422.566,
+                560.227,
+                452.20599999999996
+            ],
+            "page": "6"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                875.0000086111113,
+                1494.3027580555554,
+                1207.7777777777778,
+                1677.6111094444445
+            ],
+            "bbox": [
+                316.8000031,
+                189.8600006,
+                433.0,
+                252.2510071
+            ],
+            "page": "2"
+        },
+        "2": {
+            "crop_coord": [
+                1218.8889058333332,
+                1494.3028005555557,
+                1551.2500255555556,
+                1679.2777930555553
+            ],
+            "bbox": [
+                440.6000061,
+                189.2599945,
+                556.6500092,
+                252.2509918
+            ],
+            "page": "2"
+        },
+        "3": {
+            "crop_coord": [
+                875.0000086111113,
+                1685.9722222222222,
+                1207.7777777777778,
+                1869.027786388889
+            ],
+            "bbox": [
+                316.8000031,
+                120.9499969,
+                433.0,
+                183.25
+            ],
+            "page": "2"
+        },
+        "4": {
+            "crop_coord": [
+                1218.611111111111,
+                1685.9750197222222,
+                1551.5277777777778,
+                1869.027786388889
+            ],
+            "bbox": [
+                440.5,
+                120.9499969,
+                556.75,
+                183.24899290000002
+            ],
+            "page": "2"
+        },
+        "5": {
+            "crop_coord": [
+                145.0,
+                165.008341388889,
+                501.2499830555556,
+                434.6944511111112
+            ],
+            "bbox": [
+                54.0,
+                637.3099976,
+                178.6499939,
+                730.7969971
+            ],
+            "page": "3"
+        },
+        "6": {
+            "crop_coord": [
+                498.1944275,
+                165.008341388889,
+                854.4444105555556,
+                434.6944511111112
+            ],
+            "bbox": [
+                181.1499939,
+                637.3099976,
+                305.7999878,
+                730.7969971
+            ],
+            "page": "3"
+        },
+        "7": {
+            "crop_coord": [
+                851.3888975,
+                165.008341388889,
+                1207.6388805555557,
+                434.6944511111112
+            ],
+            "bbox": [
+                308.3000031,
+                637.3099976,
+                432.94999700000005,
+                730.7969971
+            ],
+            "page": "3"
+        },
+        "8": {
+            "crop_coord": [
+                1197.6388802777776,
+                165.19445611111118,
+                1537.4999913888887,
+                434.72221361111104
+            ],
+            "bbox": [
+                432.9499969,
+                637.3000031,
+                551.6999969,
+                730.7299958
+            ],
+            "page": "3"
+        },
+        "9": {
+            "crop_coord": [
+                228.33333333333334,
+                165.00003388888882,
+                742.2222052777778,
+                590.0000169444445
+            ],
+            "bbox": [
+                84.0,
+                581.3999939,
+                265.3999939,
+                730.7999878
+            ],
+            "page": "4"
+        },
+        "10": {
+            "crop_coord": [
+                228.33333333333334,
+                581.6666580555556,
+                742.1111127777779,
+                939.7222222222222
+            ],
+            "bbox": [
+                84.0,
+                455.5,
+                265.36000060000003,
+                580.8000031
+            ],
+            "page": "4"
+        },
+        "11": {
+            "crop_coord": [
+                297.27779805555554,
+                164.99999166666692,
+                662.3333738888889,
+                513.4722308333335
+            ],
+            "bbox": [
+                108.8200073,
+                608.9499969,
+                236.6400146,
+                730.800003
+            ],
+            "page": "5"
+        },
+        "12": {
+            "crop_coord": [
+                941.7222425,
+                164.99999166666692,
+                1482.9722425000002,
+                513.4722308333335
+            ],
+            "bbox": [
+                340.8200073,
+                608.9499969,
+                532.0700073,
+                730.800003
+            ],
+            "page": "5"
+        },
+        "13": {
+            "crop_coord": [
+                188.05555555555554,
+                165.41664111111103,
+                1511.6111247222223,
+                943.6110941666667
+            ],
+            "bbox": [
+                69.5,
+                454.1000061,
+                542.3800049,
+                730.6500092
+            ],
+            "page": "6"
+        }
+    }
+}

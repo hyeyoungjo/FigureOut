@@ -1,0 +1,86 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/CHI 18/3173574.3173587.pdf",
+    "paper_id": "3173574.3173587",
+    "venue": "CHI 18",
+    "keywords": [
+        "Preschoolers",
+        "Rule compliance",
+        "Engagement",
+        "Parental mediation",
+        "Augmented reality (AR)",
+        "Smart media usage"
+    ],
+    "paragraph_containing_keyword": "ABSTRACT \nThere has been a growing concern over the huge increase in \nuse of smart media by young children. This study explores \nthe  possibility  of  using  augmented-reality(AR)  for  regulat-\ning  preschoolers\u2019  media  usage  behavior.  With  MABLE \n(mobile application for behavioral learning and education), \nparents  can  provide  AR-assisted  feedback  by  changing  fa-\ncial  expressions  and  sound  effects.  When  overlaying  a \nsmart media, which has MABLE running, in front of a QR \nmarker on a puppet, a facial expression is displayed on top \nof the puppet\u2019s face. A two-week long experiment with 36 \nparent-child  pairs  showed  that  compared  to  using  just  the \npuppet,  using  MABLE  showed  higher  amount  of  engage-\nment among preschoolers. For the effectiveness of parental \nmediation  in  terms  of  self-control,  our  data  showed  mixed \nresults. MABLE  had positive effects  in  that the amount of \nrule-compliance  increased  and  problematic  behaviors  de-\ncreased,  whereas  the  level  of  behavioral  dependency  on \nsmart media was not influenced. \nAuthor Keywords \nPreschoolers; rule compliance; engagement; parental medi-\nation; augmented reality (AR); smart media usage. \nACM Classification Keywords \nH.5.1.  Information  interfaces  and  presentation  (e.g.,  HCI): \nMultimedia Information Systems. \nINTRODUCTION \nIn  many  technology-driven  societies,  smart  media  have \ndeeply  integrated  into  young  people\u2019s  everyday  lives  [10, \n14]. Recent studies indicated that on average, Korean chil-",
+    "paragraph_after_keyword": "Permission to make digital or hard copies of all or part of this work for personal or \nclassroom use is granted without fee provided that copies are not made or distributed \nfor profit or commercial advantage and that copies bear this notice and the full cita-\ntion on the first page. Copyrights for components of this work owned by others than \nACM must be honored. Abstracting with credit is permitted. To copy otherwise, or \nrepublish, to post on servers or to redistribute to lists, requires prior specific permis-\nsion and/or a fee. Request permissions from permissions@acm.org. \nCHI 2018, April 21\u201326, 2018, Montr\u00e9al, QC, Canada. \n\u00a9 2018 ACM ISBN 978-1-4503-5620-6/18/04...$15.00. \nhttps://doi.org/10.1145/3173574.3173587",
+    "doi": "10.1145/3173574.3173587",
+    "sections": [
+        {
+            "word_count": 526,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 1486,
+            "figure_citations": {
+                "1": [
+                    "Figure 1)."
+                ]
+            },
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 712,
+            "figure_citations": {},
+            "section_index": 2,
+            "title": "METHODS"
+        },
+        {
+            "word_count": 1356,
+            "figure_citations": {},
+            "section_index": 3,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 1411,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "DISCUSSIONS"
+        },
+        {
+            "word_count": 492,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "LIMITATIONS OF THE STUDY"
+        },
+        {
+            "word_count": 18,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "ACKNOWLEDGMENTS"
+        },
+        {
+            "word_count": 273,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "REFERENCES"
+        },
+        {
+            "word_count": 841,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "CONCLUSION"
+        }
+    ],
+    "title": "MABLE: Mediating Young Children's Smart Media Usage with Augmented Reality",
+    "authors": "Gahgene Gweon, Bugeun Kim, Jinyoung Kim, Kung Jin Lee, Jungwook Rhim, Jueun Choi",
+    "abstract": "There has been a growing concern over the huge increase in use of smart media by young children. This study explores the possibility of using augmented-reality(AR) for regulat-ing preschoolers' media usage behavior. With MABLE (mobile application for behavioral learning and education), parents can provide AR-assisted feedback by changing facial expressions and sound effects. When overlaying a smart media, which has MABLE running, in front of a QR marker on a puppet, a facial expression is displayed on top of the puppet's face. A two-week long experiment with 36 parent-child pairs showed that compared to using just the puppet, using MABLE showed higher amount of engage-ment among preschoolers. For the effectiveness of parental mediation in terms of self-control, our data showed mixed results. MABLE had positive effects in that the amount of rule-compliance increased and problematic behaviors de-creased, whereas the level of behavioral dependency on smart media was not influenced.",
+    "publication": {
+        "venue": "CHI '18",
+        "venue_full": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems",
+        "year": "2018",
+        "date": "2018/4/21"
+    },
+    "version": 3
+}

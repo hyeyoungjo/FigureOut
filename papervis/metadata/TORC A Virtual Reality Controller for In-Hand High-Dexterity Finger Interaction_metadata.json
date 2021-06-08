@@ -1,0 +1,138 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2019xr/TORC A Virtual Reality Controller for In-Hand High-Dexterity Finger Interaction.pdf",
+    "paper_id": "TORC A Virtual Reality Controller for In-Hand High-Dexterity Finger Interaction",
+    "venue": "chi2019xr",
+    "keywords": [
+        "Haptics",
+        "VR object manipulation",
+        "Haptic texture",
+        "Haptic compliance"
+    ],
+    "paragraph_containing_keyword": "KEYWORDS\nHaptics; VR object manipulation; Haptic texture; Haptic com-\npliance\nACM Reference Format:\nJaeyeon Lee1,2, Mike Sinclair2, Mar Gonzalez-Franco2, Eyal Ofek2,\nand Christian Holz2. 2019. TORC: A Virtual Reality Controller for\nIn-Hand High-Dexterity Finger Interaction. In CHI Conference on\nHuman Factors in Computing Systems Proceedings (CHI 2019), May 4\u2013\n9, 2019, Glasgow, Scotland UK. ACM, New York, NY, USA, 13 pages.\nhttps://doi.org/10.1145/3290605.3300301",
+    "doi": "10.1145/3290605.3300301",
+    "paragraph_after_keyword": "Permission to make digital or hard copies of all or part of this work for\npersonal or classroom use is granted without fee provided that copies\nare not made or distributed for profit or commercial advantage and that\ncopies bear this notice and the full citation on the first page. Copyrights\nfor components of this work owned by others than the author(s) must\nbe honored. Abstracting with credit is permitted. To copy otherwise, or\nrepublish, to post on servers or to redistribute to lists, requires prior specific\npermission and/or a fee. Request permissions from permissions@acm.org.\nCHI 2019, May 4\u20139, 2019, Glasgow, Scotland UK\n\u00a9 2019 Copyright held by the owner/author(s). Publication rights licensed\nto ACM.\nACM ISBN 978-1-4503-5970-2/19/05. . . $15.00\nhttps://doi.org/10.1145/3290605.3300301",
+    "sections": [
+        {
+            "word_count": 706,
+            "figure_citations": {
+                "1": [
+                    "Figure 1), a novel hand-held haptic controller for VR that has a rigid shape and no moving parts, making it a suitable candidate for reliable mass manufacturing."
+                ]
+            },
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 1103,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 1995,
+            "figure_citations": {
+                "2": [
+                    "Figure 2, we created a controller form factor that allows the user to move the thumb freely in a plane on a pad, parallel to the rests for the two fingers.",
+                    "Figure 2a, we designed the device to be held with thumb and two fingers of the right hand with the remaining fingers gripping the handle.",
+                    "Figure 2b), we mounted force sensors (Honey-well FSS1500) and voice coil actuators (VCA, Dayton Audio DAEX9-4SM)."
+                ],
+                "3": [
+                    "Figure 3 depicts the schematic of the desk-fixed prototype."
+                ],
+                "5": [
+                    "Figure 5)."
+                ],
+                "6": [
+                    "Figure 6 shows the distribution of scores for each combination of locations of VCAs."
+                ],
+                "7": [
+                    "Figure 7), which has a considerably lighter form factor."
+                ],
+                "8": [
+                    "Figure 8)."
+                ]
+            },
+            "section_index": 2,
+            "title": "TORC CONTROLLER"
+        },
+        {
+            "word_count": 1069,
+            "figure_citations": {
+                "9": [
+                    "Figure 9 (left)).",
+                    "Figure 9 (middle & right))."
+                ],
+                "10": [
+                    "Figure 10)."
+                ],
+                "11": [
+                    "Figure 11)."
+                ],
+                "12": [
+                    "Figure 12)."
+                ]
+            },
+            "section_index": 3,
+            "title": "TORC INTERACTION SCENARIOS"
+        },
+        {
+            "word_count": 1228,
+            "figure_citations": {
+                "13": [
+                    "Figure 13): Locatin\u0434 (Figure 13a\u2013c) and Rotatin\u0434 (Figure 13d\u2013f).",
+                    "Figure 13a).",
+                    "Figure 13b).",
+                    "Figure 13c), she presses the trigger in the left hand.",
+                    "Figure 13d).",
+                    "Figure 13e shows the angular difference of the key and the key hole.",
+                    "Figure 13f).",
+                    "Figure 13a\u2013f)."
+                ],
+                "14": [
+                    "Figure 14), we found that people preferred TORC over VIVE (Q26)."
+                ],
+                "15": [
+                    "Figure 15 (middle) shows the distance error from VIVE and TORC in the Locatin\u0434 task.",
+                    "Figure 15 (right) shows the angular error (calculated as intrinsic geodesic distance between q0 and q1.",
+                    "Figure 15 (left))."
+                ]
+            },
+            "section_index": 4,
+            "title": "USER STUDY"
+        },
+        {
+            "word_count": 1008,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 115,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 11,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "ACKNOWLEDGMENTS"
+        },
+        {
+            "word_count": 2047,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "TORC: A Virtual Reality Controller for In-Hand High-Dexterity Finger Interaction",
+    "authors": "Jaeyeon Lee, Mike Sinclair, Mar Gonzalez-Franco, Eyal Ofek, Christian Holz",
+    "abstract": "Recent hand-held controllers have explored a variety of haptic feedback sensations for users in virtual reality by producing both kinesthetic and cutaneous feedback from virtual objects. These controllers are grounded to the user's hand and can only manipulate objects through arm and wrist motions, not using the dexterity of their fingers as they would in real life. In this paper, we present TORC, a rigid haptic controller that renders virtual object characteristics and behaviors such as texture and compliance. Users hold and squeeze TORC using their thumb and two fingers and interact with virtual objects by sliding their thumb on TORC's trackpad. During the interaction, vibrotactile motors produce sensations to each finger that represent the haptic feel of squeezing, shearing or turning an object. Our evaluation showed that using TORC, participants could manipulate virtual objects more precisely (e.g., position and rotate objects in 3D) than when using a conventional VR controller.",
+    "publication": {
+        "venue": "N/A",
+        "venue_full": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "year": "2019",
+        "date": "2019/5/2"
+    },
+    "version": 4
+}

@@ -1,0 +1,96 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/CHI 18/3173574.3173673.pdf",
+    "paper_id": "3173574.3173673",
+    "venue": "CHI 18",
+    "keywords": [
+        "Virtual Reality",
+        "Amplified movement",
+        "Object manipulation",
+        "Translational gain",
+        "Redirected walking"
+    ],
+    "paragraph_containing_keyword": "ABSTRACT \nRoom-scale Virtual Reality (VR) has become an affordable \nconsumer reality, with applications ranging from entertain-\nment  to  productivity.  However,  the  limited  physical  space \navailable for room-scale VR in the typical home or office en-\nvironment poses a significant problem. To solve this, physi-\ncal  spaces  can  be  extended  by  amplifying  the  mapping  of \nphysical to virtual movement (translational gain). Although \namplified movement has been used since the earliest days of \nVR, little is known about how it influences reach-based in-\nteractions with virtual objects, now a standard feature of con-\nsumer VR. Consequently, this paper explores the picking and \nplacing of virtual objects in VR for the first time, with trans-\nlational  gains  of  between  1x  (a  one-to-one  mapping  of  a \n3.5m*3.5m  virtual  space to the same  sized physical space) \nand 3x (10.5m*10.5m virtual mapped to 3.5m*3.5m physi-\ncal). Results show that reaching accuracy is maintained for \nup to 2x gain, however going beyond this diminishes accu-\nracy and increases simulator sickness and  perceived work-\nload. We suggest gain levels of 1.5x to 1.75x can be utilized \nwithout  compromising  the  usability  of  a  VR  task,  signifi-\ncantly expanding the bounds of interactive room-scale VR. \nAuthor Keywords \nVirtual  Reality; amplified  movement;  object  manipulation; \ntranslational gain; redirected walking. \nACM Classification Keywords \nH.5.m. Information interfaces and presentation (e.g., HCI): \nMiscellaneous; \nINTRODUCTION \nVirtual environments (VEs)  provide limitless  opportunities \nconstrained  only  by  the  creator\u2019s  imagination.  In  practice, \nVEs that are intended to be explored by real-world walking \nare  severely  limited  by  the  physical  space  available  in  the \noffices  and  homes  [41]  where  commercial  Virtual  Reality \nPermission to make digital or hard copies of all or part of this work for personal \nor classroom  use  is granted  without  fee provided  that  copies  are not made or \ndistributed for profit or commercial advantage and that copies bear this notice \nand the full citation on the first page. Copyrights for components of this work \nowned by others than the author(s) must be honored. Abstracting with credit is \npermitted. To copy otherwise, or republish, to post on servers or to redistribute \nto lists, requires prior specific permission and/or a fee. Request permissions from \npermissions@acm.org. \nCHI 2018, April 21\u201326, 2018, Montreal, QC, Canada \nCopyright is held by the owner/author(s). Publication rights licensed to ACM. \nACM. ISBN 978-1-4503-5620-6/18/04\u2026$15.00.  \nDOI: https://doi.org/10.1145/3173574.3173673",
+    "doi": "10.1145/3173574.3173673",
+    "paragraph_after_keyword": "(VR) headsets are being used. A 1:1 mapping of physical to \nvirtual movement requires VEs to fit the constraints of the \nphysical space available. This significantly limits the possi-\nbilities  for  VE  design  and  novel  VR  applications,  reminds \nusers of the physical constraints of their setup and breaks im-\nmersion when physical boundaries interrupt use. \nA number of approaches have been used to overcome physi-\ncal space constraints. Amplified movements allow users to \ntraverse larger virtual spaces by accelerating or amplifying \nthe mapping of physical to virtual movement [22,43,44,57]. \nThis is commonly referred to as translational gain, a multi-\nplier on the x/z position of the VR user, where walking 1m in \nphysical  space can lead  to  walking  2m  (2.0x  gain)  to  50m \n(50.0x  gain)  in  virtual  space.  This  technique  requires  no \ntraining and can enable larger singular virtual rooms whose \nextents  are  fully  reachable  and  spatially  consistent,  with \nevery point in VR mapped to a point in real-world space.  \nTranslational gain has frequently been overlooked in favour \nof both redirected walking and locomotion interfaces. Redi-\nrected walking uses combinations of translational [21], rota-\ntional [27] and curvature [28] gain alongside other perceptual \ntricks to portray infinitely traversable virtual spaces. How-\never, these techniques have significant limitations regarding \nphysical  requirements  (minimum  6m2  [45]  but  realistically \nup room-scale to 22m2 [19]), and they cannot support single-\nroom  virtual  spaces  where  every  visible  corner  is  consist-\nently  reachable  and  fully  explorable.  Virtual  locomotion \ntechniques [54] such as teleportation, walking in-place and \nflight  also  allow  for  infinite  exploration,  but  they  require \ntraining, potentially increase simulator sickness [25] and un-\ndermine the spatial understanding of the virtual space [58]. \nOmni-directional treadmills [12] allow for effortful physical \ntraversal  whilst  remaining stationary  in  reality,  but  require \ncostly additional hardware, and may restrain movement and \ninteraction.  \nConsequently,  this  paper  examines  how  translational  gain \ncan be applied to interactive room-scale VR for the first time. \nTranslational gain has the greatest potential to impact every-\nday  VR  users  across  a  range  of  physical  environments.  It \ncosts  nothing,  is  trivial  to  apply,  and  allows  for  singular, \ncomplex, fully explorable spaces (e.g. small shop, kitchen) \nto be approximated within the limited physical bounds of a \n* These authors contributed equally to this work.",
+    "sections": [
+        {
+            "word_count": 827,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 1556,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED RESEARCH"
+        },
+        {
+            "word_count": 1987,
+            "figure_citations": {
+                "1": [
+                    "Figure 1) consisted of a warehouse with floor, walls, ceiling lights and structural pillars."
+                ],
+                "2": [
+                    "Figure 2).",
+                    "Figure 2)."
+                ],
+                "3": [
+                    "Figure 3)."
+                ],
+                "4": [
+                    "Figure 4)."
+                ]
+            },
+            "section_index": 2,
+            "title": "TRANSLATIONAL GAIN"
+        },
+        {
+            "word_count": 2062,
+            "figure_citations": {
+                "6": [
+                    "Figure 6, where the fixed position of the target evident in Figure 6."
+                ],
+                "8": [
+                    "Figure 8) and on all the TLX subscales, with differences predominantly arising between {1."
+                ]
+            },
+            "section_index": 3,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 1396,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 135,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "CONCLUSIONS"
+        },
+        {
+            "word_count": 15,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "ACKNOWLEDGMENTS"
+        },
+        {
+            "word_count": 1852,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Object Manipulation in Virtual Reality Under Increasing Levels of Translational Gain",
+    "authors": "Graham Wilson, Mark McGill, Matthew Jamieson, Julie R. Williamson, Stephen A. Brewster",
+    "abstract": "Room-scale Virtual Reality (VR) has become an affordable consumer reality, with applications ranging from entertainment to productivity. However, the limited physical space available for room-scale VR in the typical home or office environment poses a significant problem. To solve this, physical spaces can be extended by amplifying the mapping of physical to virtual movement (translational gain). Although amplified movement has been used since the earliest days of VR, little is known about how it influences reach-based interactions with virtual objects, now a standard feature of consumer VR. Consequently, this paper explores the picking and placing of virtual objects in VR for the first time, with translational gains of between 1x (a one-to-one mapping of a 3.5m*3.5m virtual space to the same sized physical space) and 3x (10.5m*10.5m virtual mapped to 3.5m*3.5m physical). Results show that reaching accuracy is maintained for up to 2x gain, however going beyond this diminishes accuracy and increases simulator sickness and perceived workload. We suggest gain levels of 1.5x to 1.75x can be utilized without compromising the usability of a VR task, significantly expanding the bounds of interactive room-scale VR.",
+    "publication": {
+        "venue": "CHI '18",
+        "venue_full": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems",
+        "year": "2018",
+        "date": "2018/4/21"
+    },
+    "version": 3
+}

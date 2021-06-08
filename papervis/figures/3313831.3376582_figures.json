@@ -1,0 +1,221 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1: Scenes from Anonymous, an interactive cinematic virtual reality story about death and loneliness. \n",
+            "bbox": [
+                95.615,
+                417.630992,
+                524.9904109999999,
+                427.823141
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2: Initial diorama of Anonymous using physical card-\nboard. \n",
+            "bbox": [
+                53.929,
+                516.942992,
+                298.66269900000003,
+                538.0941409999999
+            ],
+            "page": "4"
+        },
+        "3": {
+            "caption": "Figure 3: Objects in Anonymous. \n",
+            "bbox": [
+                376.887,
+                432.279992,
+                510.869424,
+                442.472141
+            ],
+            "page": "4"
+        },
+        "4": {
+            "caption": "Figure 4: The virtual environment of Anonymous. \n",
+            "bbox": [
+                76.442,
+                594.966992,
+                276.97726399999993,
+                605.159141
+            ],
+            "page": "5"
+        },
+        "5": {
+            "caption": "Figure 5: The widower character from Anonymous. \n",
+            "bbox": [
+                340.504,
+                539.076992,
+                547.2462130000001,
+                549.269141
+            ],
+            "page": "5"
+        },
+        "6": {
+            "caption": "Figure 6: Screenshot of the viewer inhabiting an object within \nAnonymous. In this image, the viewer\u2019s perspective is shown \nfrom inside the main character\u2019s telephone. The foreground of \nthe image shows the telephone\u2019s number pad and handset, and \nthe main character appears in the background. \n",
+            "bbox": [
+                53.321,
+                399.03899199999995,
+                299.51342529999994,
+                452.837992
+            ],
+            "page": "6"
+        },
+        "7": {
+            "caption": "Figure 7:  Screenshots of becoming the butter\ufb02y.  The upper \nhalf of the image shows the viewer\u2019s perspective when gazing \nat the butter\ufb02y. The lower half shows the viewer\u2019s perspective \nwhen they are embodied as the butter\ufb02y. \n",
+            "bbox": [
+                320.736,
+                409.195992,
+                566.8895501,
+                452.035992
+            ],
+            "page": "6"
+        },
+        "8": {
+            "caption": "Figure 8: Screenshots of the \ufb01nal scene in Anonymous. \n",
+            "bbox": [
+                199.589,
+                530.576992,
+                420.99674899999997,
+                540.769141
+            ],
+            "page": "7"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                169.38613055555555,
+                621.3265819444447,
+                817.1211158333333,
+                989.9555544444446
+            ],
+            "bbox": [
+                62.779007,
+                437.4160004,
+                292.3636017,
+                566.5224304999999
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                899.752773611111,
+                621.2605455555556,
+                1547.432785,
+                989.9555544444446
+            ],
+            "bbox": [
+                325.7109985,
+                437.4160004,
+                555.2758026,
+                566.5462036
+            ],
+            "page": "1"
+        },
+        "3": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2255724999999,
+                830.0030941666666,
+                683.6444347222222
+            ],
+            "bbox": [
+                53.9290009,
+                547.6880035,
+                297.0011139,
+                729.6387939
+            ],
+            "page": "4"
+        },
+        "4": {
+            "crop_coord": [
+                886.9277613888887,
+                168.21696805555575,
+                1572.1169280555555,
+                949.2611269444444
+            ],
+            "bbox": [
+                321.0939941,
+                452.0659943,
+                564.1620941,
+                729.6418914999999
+            ],
+            "page": "4"
+        },
+        "5": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2255300000001,
+                829.9947866666668,
+                497.35276111111096
+            ],
+            "bbox": [
+                53.9290009,
+                614.753006,
+                296.9981232,
+                729.6388092
+            ],
+            "page": "5"
+        },
+        "6": {
+            "crop_coord": [
+                886.9277613888887,
+                168.22909027777803,
+                1572.112986111111,
+                652.6027594444445
+            ],
+            "bbox": [
+                321.0939941,
+                558.8630066,
+                564.160675,
+                729.6375274999999
+            ],
+            "page": "5"
+        },
+        "7": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22430083333364,
+                829.9965244444444,
+                919.8305680555555
+            ],
+            "bbox": [
+                53.9290009,
+                462.6609955,
+                296.9987488,
+                729.6392516999999
+            ],
+            "page": "6"
+        },
+        "8": {
+            "crop_coord": [
+                893.6833361111111,
+                168.23502444444458,
+                1565.3666519444444,
+                922.0583513888888
+            ],
+            "bbox": [
+                323.526001,
+                461.8589935,
+                561.7319947,
+                729.6353912
+            ],
+            "page": "6"
+        },
+        "9": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2299805555555,
+                1572.1494380555555,
+                676.2166680555554
+            ],
+            "bbox": [
+                53.9290009,
+                550.3619995,
+                564.1737977,
+                729.637207
+            ],
+            "page": "7"
+        }
+    }
+}

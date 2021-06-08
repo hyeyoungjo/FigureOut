@@ -1,0 +1,351 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1.  a:  PoCoPo is a handheld pin-based shape display that has 18 pins on two opposite faces of the device (36 pins in total).  The display area \nwhere the pins move up and down touch the user\u2019s \ufb01ngers and palm base.  By controlling the length of the 36 pins, PoCoPo can render various shapes, \nincluding rectangular and curved shapes (e.g., b-1 and b-2 show a user holding a glass).  Moreover, PoCoPo can render dynamic transformations of \ngraspable objects (e.g., c-1 and c-2 show the pins moving up and down to represent the heartbeat of a small animal). \n",
+            "bbox": [
+                53.64208,
+                403.69151999999997,
+                567.1491799999995,
+                438.56026999999995
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2. Top and side views with the dimensions of PoCoPo. \n",
+            "bbox": [
+                339.593,
+                219.36127,
+                547.65782,
+                227.33127
+            ],
+            "page": "3"
+        },
+        "3": {
+            "caption": "Figure 3. Worm gear mechanism used to change the force direction and \nincrease the power. By actuating the worm gear (blue: worm, red: worm \nwheel with lead screw) by a DC motor (black), the pin moves with up-\ndown motion. \n",
+            "bbox": [
+                320.80708,
+                563.3875200000001,
+                566.1555599999999,
+                598.25627
+            ],
+            "page": "4"
+        },
+        "4": {
+            "caption": "Figure 4. Variations in pin length depending on their position: 3, 9, and \n14 mm. A rendered CG image of the worm gear mechanism is overlaid. \n",
+            "bbox": [
+                320.49625,
+                365.28202,
+                566.1555599999999,
+                382.21826999999996
+            ],
+            "page": "4"
+        },
+        "6": {
+            "caption": "Figure  6.  Shape  surface  represented  by  the  blue  areas  (a  circle  here). \nEach pin length is determined so that the midpoint on the outer edge of \neach pin is close to the surface of the target shape. \n",
+            "bbox": [
+                321.094,
+                558.11877,
+                567.5503099999999,
+                584.02127
+            ],
+            "page": "5"
+        },
+        "5": {
+            "caption": "Figure  5.  Overview  of  the  software  and  hardware  architecture  of \nPoCoPo.  Four  types  of  custom  two-layer  PCBs  were  designed  for \nPoCoPo.  The microcontroller (Teensy 3.6) and a Bluetooth module are \nattached  to  the  main  board.  The  motor  driver  board  is  connected  to \nthe main board via I2C. The board with two multiplexers (multiplexer \nboard)  is  used  to  switch  the  optical  encoders  to  read  by  time  division. \nThe  encoder  board  is  placed  at  the  bottom  of  the  pin  to  measure  the \nlength of its extrusion. \n",
+            "bbox": [
+                53.66599,
+                429.32452,
+                300.3853099999999,
+                500.05827
+            ],
+            "page": "5"
+        },
+        "7": {
+            "caption": "Figure 7.  Example applications of PoCoPo regarding the rendering of \nstatic objects.  The user can freely hold a:  a glass (linear surface), b:  a \nmatryoshka  (convex  surface),  or  c:  a  trophy  (concave  surface)  on  the \ntable in VR. \n",
+            "bbox": [
+                321.094,
+                392.13851999999997,
+                566.1555599999999,
+                427.00726999999995
+            ],
+            "page": "5"
+        },
+        "9": {
+            "caption": "Figure 9.  Example setup of Study 1.  The image on the right side shows \nhow the paricipant held the device. \n",
+            "bbox": [
+                321.094,
+                549.35002,
+                566.1555599999999,
+                566.28627
+            ],
+            "page": "6"
+        },
+        "10": {
+            "caption": "Figure 10. Shapes used in the shape prediction study. The images at the \nbottom show examples of how the shapes appeared when rendered by \nPoCoPo. \n",
+            "bbox": [
+                321.094,
+                309.69977,
+                566.4345099999999,
+                335.60227
+            ],
+            "page": "6"
+        },
+        "8": {
+            "caption": "Figure 8.  Example applications of PoCoPo regarding the rendering of \ndynamic objects. The user can freely hold animals in VR. a: Popping up \nof the pins when holding a hedgehog.  b:  Expanding or shrinking of the \ndevice representing hamster pulse. c: Movement of the pins correspond-\ning to the movement of a snake. \n",
+            "bbox": [
+                53.929,
+                507.53727000000015,
+                298.99056,
+                551.37227
+            ],
+            "page": "6"
+        },
+        "11": {
+            "caption": "Figure  11.  Confusion  matrix  summarizing  the  results  from  the  shape \nprediction study (N=10). Each row shows the total number of predicted \nobjects in the \ufb01nal two sets of the study. \n",
+            "bbox": [
+                321.094,
+                471.34177,
+                566.1555599999998,
+                497.24427
+            ],
+            "page": "7"
+        },
+        "12": {
+            "caption": "Figure 12.  Shapes used in the visual size acceptance range study.  The \nimages at the bottom show examples of how the shapes appeared when \nrendered by PoCoPo. \n",
+            "bbox": [
+                321.094,
+                484.58377,
+                566.15556,
+                510.48627
+            ],
+            "page": "8"
+        }
+    },
+    "crops": {
+        "2": {
+            "crop_coord": [
+                144.80278027777777,
+                585.2714625,
+                1572.1350269444442,
+                973.8472325
+            ],
+            "bbox": [
+                53.9290009,
+                443.2149963,
+                564.1686096999999,
+                579.5022735
+            ],
+            "page": "1"
+        },
+        "3": {
+            "crop_coord": [
+                143.1788636111111,
+                1773.199598611111,
+                772.2793072222222,
+                1914.100002777778
+            ],
+            "bbox": [
+                53.3443909,
+                104.723999,
+                276.22055059999997,
+                151.8481445
+            ],
+            "page": "1"
+        },
+        "4": {
+            "crop_coord": [
+                159.84921777777777,
+                1755.0079005555556,
+                414.2936622222223,
+                1851.1190116666667
+            ],
+            "bbox": [
+                59.3457184,
+                127.3971558,
+                147.3457184,
+                158.3971558
+            ],
+            "page": "1"
+        },
+        "7": {
+            "crop_coord": [
+                886.9277613888887,
+                979.0448591666666,
+                1572.131084722222,
+                1555.0583225
+            ],
+            "bbox": [
+                321.0939941,
+                233.9790039,
+                564.1671905,
+                437.7438507
+            ],
+            "page": "3"
+        },
+        "9": {
+            "crop_coord": [
+                954.447225,
+                168.23074333333335,
+                1504.6082305555556,
+                530.2499897222224
+            ],
+            "bbox": [
+                345.401001,
+                602.9100037,
+                539.858963,
+                729.6369324
+            ],
+            "page": "4"
+        },
+        "10": {
+            "crop_coord": [
+                886.9277613888887,
+                658.3184222222221,
+                1572.1188352777779,
+                1130.3527747222224
+            ],
+            "bbox": [
+                321.0939941,
+                386.8730011,
+                564.1627807,
+                553.205368
+            ],
+            "page": "4"
+        },
+        "12": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22277499999984,
+                830.0082230555555,
+                803.0194516666667
+            ],
+            "bbox": [
+                53.9290009,
+                504.7129974,
+                297.0029603,
+                729.639801
+            ],
+            "page": "5"
+        },
+        "13": {
+            "crop_coord": [
+                886.9277613888887,
+                168.22527555555567,
+                1572.1240063888888,
+                569.7889030555557
+            ],
+            "bbox": [
+                321.0939941,
+                588.6759949,
+                564.1646423,
+                729.6389008
+            ],
+            "page": "5"
+        },
+        "14": {
+            "crop_coord": [
+                886.9277613888887,
+                674.4317880555556,
+                1572.1392652777777,
+                1005.9388816666668
+            ],
+            "bbox": [
+                321.0939941,
+                431.6620026,
+                564.1701355,
+                547.4045563
+            ],
+            "page": "5"
+        },
+        "16": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2199775,
+                830.0142841666666,
+                660.4805755555554
+            ],
+            "bbox": [
+                53.9290009,
+                556.0269928,
+                297.0051423,
+                729.6408081
+            ],
+            "page": "6"
+        },
+        "17": {
+            "crop_coord": [
+                886.9277613888887,
+                322.7077144444443,
+                1572.1239638888887,
+                619.0527936111109
+            ],
+            "bbox": [
+                321.0939941,
+                570.9409943,
+                564.164627,
+                674.0252228
+            ],
+            "page": "6"
+        },
+        "18": {
+            "crop_coord": [
+                886.9277613888887,
+                711.2693447222223,
+                1572.1607122222224,
+                1259.8416561111112
+            ],
+            "bbox": [
+                321.0939941,
+                340.2570038,
+                564.1778564,
+                534.1430359
+            ],
+            "page": "6"
+        },
+        "20": {
+            "crop_coord": [
+                886.9277613888887,
+                264.5190663983333,
+                1572.1254625777779,
+                810.8361052777777
+            ],
+            "bbox": [
+                321.0939941,
+                501.8990021,
+                564.165166528,
+                694.9731360966
+            ],
+            "page": "7"
+        },
+        "22": {
+            "crop_coord": [
+                954.447225,
+                168.22451277777782,
+                1504.618148888889,
+                774.0527597222222
+            ],
+            "bbox": [
+                345.401001,
+                515.1410065,
+                539.8625336,
+                729.6391754
+            ],
+            "page": "8"
+        },
+        "24": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22701333333316,
+                1572.1623655555554,
+                423.32500027777775
+            ],
+            "bbox": [
+                53.9290009,
+                641.4029999,
+                564.1784516,
+                729.6382752000001
+            ],
+            "page": "9"
+        }
+    }
+}

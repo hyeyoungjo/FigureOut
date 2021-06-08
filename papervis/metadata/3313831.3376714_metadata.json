@@ -1,0 +1,107 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2020/3313831.3376714.pdf",
+    "paper_id": "3313831.3376714",
+    "venue": "chi2020",
+    "keywords": [
+        "Virtual reality",
+        "Sword \ufb01ghting",
+        "Machine learning",
+        "Animation",
+        "Gesture recognition"
+    ],
+    "doi": "10.1145/3313831.3376714",
+    "paragraph_containing_keyword": "more realistic and engaging interactions than simple hand-\ncrafted interaction logic, while supporting a controllable and \nunderstandable behaviour design. \nAuthor Keywords \nvirtual reality; sword \ufb01ghting; machine learning; animation; \ngesture recognition \nCCS Concepts \n\u2022Human-centered \nreality; \n\u2022Computing  methodologies  \u2192  Machine  learning;  Ani-\nmation; \nINTRODUCTION \nAs VR takes its place as a commoditised medium accessible \nto end users in their own homes, expectations about the possi-\nbilities of the technology are raised. From a user perspective, \nVR should allow us to transform traditional screen-based pro-\nductions into embodied experiences, where one can directly \ninteract with the virtual world from \u201cinside\u201d [46]. However, \ndesigning the mechanics for the virtual world is not always \nstraightforward. Close-range interactions are particularly dif-\n\ufb01cult,  due  to  the  unpredictability  of  user  actions,  and  con-\nventional methods used in non-immersive environments, like \nscreen-based video games, extrapolate poorly to VR.",
+    "sections": [
+        {
+            "word_count": 562,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 1811,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 2390,
+            "figure_citations": {
+                "1": [
+                    "Figure 1 shows a high-level view of Touch\u00e9."
+                ]
+            },
+            "section_index": 2,
+            "title": "SYSTEM DESIGN"
+        },
+        {
+            "word_count": 176,
+            "figure_citations": {},
+            "section_index": 3,
+            "title": "INTERACTION DESIGN METHODOLOGY"
+        },
+        {
+            "word_count": 861,
+            "figure_citations": {
+                "3": [
+                    "Figure 3 plots the prediction accuracy for gesture class and progress."
+                ],
+                "4": [
+                    "Figure 4 visualises this formula for a single pair of bones."
+                ],
+                "5": [
+                    "Figure 5 shows the distribution of the pose difference, measured in square meters."
+                ]
+            },
+            "section_index": 4,
+            "title": "TECHNICAL EVALUATION"
+        },
+        {
+            "word_count": 1536,
+            "figure_citations": {
+                "6": [
+                    "Figure 6 shows the results of the study."
+                ],
+                "7": [
+                    "Figure 7 and Table 1."
+                ]
+            },
+            "section_index": 5,
+            "title": "USER EVALUATION"
+        },
+        {
+            "word_count": 942,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 225,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 42,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "ACKNOWLEDGEMENTS"
+        },
+        {
+            "word_count": 2441,
+            "figure_citations": {},
+            "section_index": 9,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Touch\u00e9: Data-Driven Interactive Sword Fighting in Virtual Reality",
+    "authors": "Javier Dehesa, Andrew Vidler, Christof Lutteroth, Julian Padget",
+    "abstract": "VR games offer new freedom for players to interact naturally using motion. This makes it harder to design games that react to player motions convincingly. We present a framework for VR sword fighting experiences against a virtual character that simplifies the necessary technical work to achieve a convincing simulation. The framework facilitates VR design by abstracting from difficult details on the lower \"physical\" level of interaction, using data-driven models to automate both the identification of user actions and the synthesis of character animations. Designers are able to specify the character's behaviour on a higher \"semantic\" level using parameterised building blocks, which allow for control over the experience while minimising manual development work. We conducted a technical evaluation, a questionnaire study and an interactive user study. Our results suggest that the framework produces more realistic and engaging interactions than simple hand-crafted interaction logic, while supporting a controllable and understandable behaviour design.",
+    "publication": {
+        "venue": "CHI '20",
+        "venue_full": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "year": "2020",
+        "date": "2020/4/21"
+    },
+    "version": 4
+}

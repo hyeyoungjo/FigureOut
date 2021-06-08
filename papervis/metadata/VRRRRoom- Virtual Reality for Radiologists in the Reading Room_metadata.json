@@ -1,0 +1,89 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/VR_2017/VRRRRoom- Virtual Reality for Radiologists in the Reading Room.pdf",
+    "paper_id": "VRRRRoom- Virtual Reality for Radiologists in the Reading Room",
+    "venue": "VR_2017",
+    "keywords": [
+        "Virtual Reality",
+        "Multitouch Surfaces",
+        "Medical Visualization",
+        "Interaction Design"
+    ],
+    "paragraph_containing_keyword": "ABSTRACT\nReading room conditions such as illumination, ambient light,\nhuman factors and display luminance, play an important role\non how radiologists analyze and interpret images. Indeed,\nserious diagnostic errors can appear when observing images\nthrough everyday monitors. Typically, these occur whenever\nprofessionals are ill-positioned with respect to the display or\nvisualize images under improper light and luminance condi-\ntions. In this work, we show that virtual reality can assist\nradiodiagnostics by considerably diminishing or cancel out\nthe effects of unsuitable ambient conditions. Our approach\ncombines immersive head-mounted displays with interactive\nsurfaces to support professional radiologists in analyzing med-\nical images and formulating diagnostics. We evaluated our\nprototype with two senior medical doctors and four seasoned\nradiology fellows. Results indicate that our approach consti-\ntutes a viable, \ufb02exible, portable and cost-ef\ufb01cient option to\ntraditional radiology reading rooms.\nACM Classi\ufb01cation Keywords\nH.5.2 Information Interfaces and Presentation (e.g. HCI):\nInteraction styles, Graphical User Interfaces\nAuthor Keywords\nVirtual Reality; Multitouch Surfaces; Medical Visualization;\nInteraction Design",
+    "paragraph_after_keyword": "Permission  to  make  digital  or  hard  copies  of  all  or  part  of  this  work  for  personal  or \nclassroom use is granted without fee provided that copies are not made or distributed \nfor pro\ufb01t or commercial advantage and that copies bear this notice and the full citation \non the \ufb01rst p age. Copyrights for components of this work owned by others than the \nauthor(s) must be honored. Abstracting with credit is permitted. To copy otherwise, or \nrepublish, to post on servers or to redistribute to lists, requires prior speci\ufb01c permission \nand/or a fee. Request permissions from Permissions@acm.org.\nCHI 2017, May 06 - 11, 2017, Denver, CO, USA\nCopyright is held by the owner/author(s). Publication rights licensed to ACM. \nACM 978-1-4503-4655-9/17/05...$15.00\nDOI: http://dx.doi.org/10.1145/3025453.3025566",
+    "doi": "10.1145/3025453.3025566",
+    "sections": [
+        {
+            "word_count": 620,
+            "figure_citations": {
+                "1": [
+                    "Figure 1A illustrates a typical radiology reading room.",
+                    "Figure 1B."
+                ]
+            },
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 433,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 601,
+            "figure_citations": {
+                "2": [
+                    "Figure 2).",
+                    "Figure 2 on the left.",
+                    "Figure 2 on the right)."
+                ]
+            },
+            "section_index": 2,
+            "title": "INTERACTION DESIGN"
+        },
+        {
+            "word_count": 603,
+            "figure_citations": {
+                "4": [
+                    "Figure 4 displays the graphical elements of our prototype that the user can interact with."
+                ]
+            },
+            "section_index": 3,
+            "title": "IMPLEMENTATION"
+        },
+        {
+            "word_count": 708,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "EVALUATION"
+        },
+        {
+            "word_count": 199,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "CONCLUSIONS"
+        },
+        {
+            "word_count": 49,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "ACKNOWLEDGMENTS"
+        },
+        {
+            "word_count": 884,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "VRRRRoom: Virtual Reality for Radiologists in the Reading Room",
+    "authors": "Maur\u00edcio Sousa, Daniel Mendes, Soraia Paulo, Nuno Matela, Joaquim Jorge, Daniel Sim\u00f5es Lopes",
+    "abstract": "Reading room conditions such as illumination, ambient light, human factors and display luminance, play an important role on how radiologists analyze and interpret images. Indeed, serious diagnostic errors can appear when observing images through everyday monitors. Typically, these occur whenever professionals are ill-positioned with respect to the display or visualize images under improper light and luminance conditions. In this work, we show that virtual reality can assist radiodiagnostics by considerably diminishing or cancel out the effects of unsuitable ambient conditions. Our approach combines immersive head-mounted displays with interactive surfaces to support professional radiologists in analyzing medical images and formulating diagnostics. We evaluated our prototype with two senior medical doctors and four seasoned radiology fellows. Results indicate that our approach constitutes a viable, flexible, portable and cost-efficient option to traditional radiology reading rooms.",
+    "publication": {
+        "venue": "CHI '17",
+        "venue_full": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+        "year": "2017",
+        "date": "2017/5/2"
+    },
+    "version": 4
+}

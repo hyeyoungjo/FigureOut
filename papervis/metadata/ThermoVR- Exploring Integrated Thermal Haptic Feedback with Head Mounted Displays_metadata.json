@@ -1,0 +1,119 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/VR_2017/ThermoVR- Exploring Integrated Thermal Haptic Feedback with Head Mounted Displays.pdf",
+    "paper_id": "ThermoVR- Exploring Integrated Thermal Haptic Feedback with Head Mounted Displays",
+    "venue": "VR_2017",
+    "keywords": [
+        "Thermal display",
+        "Thermal haptics",
+        "Head mounted display"
+    ],
+    "doi": "10.1145/3025453.3025824",
+    "paragraph_containing_keyword": "Author Keywords\nthermal display; thermal haptics; head mounted display",
+    "paragraph_after_keyword": "INTRODUCTION\nHead Mounted Displays (HMDs) have been on the rise as a\ndisplay that lets users immerse themselves in the virtual world.\nBesides visual output, recent research demonstrated further\nenriching VR experience by adding the headset with various\nsensory outputs [11, 3]. This allows for improved immersion\nwhile keeping the device compact and centralized.\nHaptic research, in particular, presented major driving forces\n[3] implemented\ntoward this trend [4, 16]. De Jesus et al.\nspatial vibrotactile cues by embedding the headset with a\nset of vibrotactors around the head. GyroVR [5] enables\nsimulating inertial with augmenting a \ufb02ywheel on the headset.\nIn this work, we explored adding a new dimension of feedback,\nthermal haptic feedback.\nThermal haptics has been independently explored on various\nlocations, such as the wrist [6], palm [13], ear [1] for contexts\nsuch as thermal displays [9] and communication [10, 7]. As far\nas we know, this paper presents a \ufb01rst attempt at integrating an\nHMD with thermal haptics for spatial and immersive thermal\nexperience.",
+    "sections": [
+        {
+            "word_count": 448,
+            "figure_citations": {
+                "1": [
+                    "Figure 1(a)-(c) demonstrates ThermoVR being used to provide thermal cues for a virtual reality game and applications."
+                ]
+            },
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 350,
+            "figure_citations": {
+                "2": [
+                    "Figure 2 (a).",
+                    "Figure 2 (b).",
+                    "Figure 2 (c)) are used for the closed loop control.",
+                    "Figure 2 (a))."
+                ],
+                "1": [
+                    "Figure 1(c)."
+                ]
+            },
+            "section_index": 1,
+            "title": "IMPLEMENTATION"
+        },
+        {
+            "word_count": 847,
+            "figure_citations": {
+                "4": [
+                    "Figure 4 (a)) and the HMD displayed the user interface developed using Unity3 depicted in Figure 4 (b)."
+                ],
+                "1": [
+                    "Figure 1 (b-4) as the visual that is related to the hot stimulation and, Figure 1 (b-2) for the cold."
+                ]
+            },
+            "section_index": 2,
+            "title": "EVALUATIONS"
+        },
+        {
+            "word_count": 354,
+            "figure_citations": {
+                "5": [
+                    "Figure 5(a) shows the overall accuracy for the perception of thermal directional cues.",
+                    "Figure 5(a)).",
+                    "Figure 5(b)(c) indicates the perception accuracy for each cue in hot and cold conditions.",
+                    "Figure 5(d)(e) shows the confusion matrix that depicts which cues were misidentified.",
+                    "Figure 5(f), the study results of visual involvement, Q1, reported 4."
+                ]
+            },
+            "section_index": 3,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 560,
+            "figure_citations": {
+                "5": [
+                    "Figure 5(d)), all the cues on the forehead (Left Up, Up, Right Up) were heavily misidentified with each other and the Front cue.",
+                    "Figure 5(e)) indicated that the Right Up cue was the most difficult to understand as it was confused as Up, Front, Right, Left Down cues.",
+                    "Figure 5(f)), participants rated visual involvement and thermal aspects for no-stimulation, hot and cold stimulations conditions."
+                ]
+            },
+            "section_index": 4,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 260,
+            "figure_citations": {
+                "1": [
+                    "Figure 1(a)) is a first-person point of view game.",
+                    "Figure 1(b)) we designed for enhancing virtual reality experience with thermal haptic feedback."
+                ]
+            },
+            "section_index": 5,
+            "title": "APPLICATIONS"
+        },
+        {
+            "word_count": 194,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 50,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "ACKNOWLEDGEMENTS"
+        },
+        {
+            "word_count": 547,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "ThermoVR: Exploring Integrated Thermal Haptic Feedback with Head Mounted Displays",
+    "authors": "Roshan Lalintha Peiris, Wei Peng, Zikun Chen, Liwei Chan, Kouta Minamizawa",
+    "abstract": "Head Mounted Displays (HMDs) provide a promising opportunity for providing haptic feedback on the head for an enhanced immersive experience. In ThermoVR, we integrated five thermal feedback modules on the HMD to provide thermal feedback directly onto the user's face. We conducted evaluations with 15 participants using two approaches: Firstly, we provided simultaneously actuated thermal stimulations (hot and cold) as directional cues and evaluated the accuracy of recognition; secondly, we evaluated the overall immersive thermal experience that the users experience when provided with thermal feedback on the face. Results indicated that the recognition accuracy for cold stimuli were of approx. 89.5% accuracy while the accuracy for hot stimuli were 68.6%. Also, participants reported that they felt a higher level of immersion on the face when all modules were simultaneously stimulated (hot and cold). The presented applications demonstrate the ThermoVR's directional cueing and immersive experience.",
+    "publication": {
+        "venue": "CHI '17",
+        "venue_full": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+        "year": "2017",
+        "date": "2017/5/2"
+    },
+    "version": 4
+}

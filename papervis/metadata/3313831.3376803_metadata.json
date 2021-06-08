@@ -1,0 +1,87 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2020/3313831.3376803.pdf",
+    "paper_id": "3313831.3376803",
+    "venue": "chi2020",
+    "keywords": [
+        "Attention guidance",
+        "Virtual reality",
+        "Immersion",
+        "Eye-tracking",
+        "Particle swarms",
+        "User studies"
+    ],
+    "paragraph_containing_keyword": "Author Keywords \nAttention guidance, virtual reality, immersion, eye-tracking, \nparticle swarms, user studies",
+    "paragraph_after_keyword": "CCS Concepts \n\u2022Human-centered computing \u2192 Virtual reality; User cen-\ntered design; User studies;\nPermission to make digital or hard copies of all or part of this work for personal or \nclassroom use is granted without fee provided that copies are not made or distributed \nfor pro\ufb01t or commercial advantage and that copies bear this notice and the full citation \non the \ufb01rst page.  Copyrights for components of this work owned by others than the \nauthor(s) must be honored. Abstracting with credit is permitted. To copy otherwise, or \nrepublish, to post on servers or to redistribute to lists, requires prior speci\ufb01c permission \nand/or a fee. Request permissions from permissions@acm.org. \nCHI\u201920, April 25\u201330, 2020, Honolulu, HI, USA \n\u00a9 2020 Copyright held by the owner/author(s).  Publication rights licensed to ACM. \nISBN 978-1-4503-6708-0/20/04. . . $15.00 \nDOI: https://doi.org/10.1145/3313831.3376803",
+    "doi": "10.1145/3313831.3376803",
+    "sections": [
+        {
+            "word_count": 947,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 1014,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 4150,
+            "figure_citations": {
+                "2": [
+                    "Figure 2)."
+                ],
+                "4": [
+                    "Figure 4a).",
+                    "Figure 4d).",
+                    "Figure 4b).",
+                    "Figure 4f).",
+                    "Figure 4c)."
+                ]
+            },
+            "section_index": 2,
+            "title": "GENERAL APPROACH"
+        },
+        {
+            "word_count": 1435,
+            "figure_citations": {},
+            "section_index": 3,
+            "title": "SGD"
+        },
+        {
+            "word_count": 445,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "GENERAL DISCUSSION"
+        },
+        {
+            "word_count": 137,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "FUTURE WORK"
+        },
+        {
+            "word_count": 132,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 1586,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "HiveFive: Immersion Preserving Attention Guidance in Virtual Reality",
+    "authors": "Daniel Lange, Tim Claudius Stratmann, Uwe Gruenefeld, Susanne Boll",
+    "abstract": "Recent advances in Virtual Reality (VR) technology, such as larger fields of view, have made VR increasingly immersive. However, a larger field of view often results in a user focusing on certain directions and missing relevant content presented elsewhere on the screen. With HiveFive, we propose a technique that uses swarm motion to guide user attention in VR. The goal is to seamlessly integrate directional cues into the scene without losing immersiveness. We evaluate HiveFive in two studies. First, we compare biological motion (from a prerecorded swarm) with non-biological motion (from an algorithm), finding further evidence that humans can distinguish between these motion types and that, contrary to our hypothesis, non-biological swarm motion results in significantly faster response times. Second, we compare HiveFive to four other techniques and show that it not only results in fast response times but also has the smallest negative effect on immersion.",
+    "publication": {
+        "venue": "CHI '20",
+        "venue_full": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "year": "2020",
+        "date": "2020/4/21"
+    },
+    "version": 4
+}

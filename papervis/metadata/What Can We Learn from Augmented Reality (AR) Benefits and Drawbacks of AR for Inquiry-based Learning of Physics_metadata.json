@@ -1,0 +1,91 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2019xr/What Can We Learn from Augmented Reality (AR) Benefits and Drawbacks of AR for Inquiry-based Learning of Physics.pdf",
+    "paper_id": "What Can We Learn from Augmented Reality (AR) Benefits and Drawbacks of AR for Inquiry-based Learning of Physics",
+    "venue": "chi2019xr",
+    "keywords": [
+        "Augmented Reality",
+        "Physics Education",
+        "Collaborative Learning"
+    ],
+    "paragraph_containing_keyword": "KEYWORDS \nAugmented Reality; Physics Education; Collaborative Learning",
+    "paragraph_after_keyword": "ACM Reference Format \nIulian  Radu  and  Bertrand  Schneider.  2019. What  Can  We  Learn  from \nAugmented  Reality  (AR)?  Benefits  and  Drawbacks  of  AR  for  Inquiry-\nbased Learning of Physics. In 2019 CHI Conference on Human Factors in \nPermission to make digital or hard copies of all or part of this work for personal or \nclassroom use is granted without fee provided that copies are not made or distributed \nfor  profit  or  commercial  advantage  and  that  copies  bear  this  notice  and  the  full \ncitation on the first page. Copyrights for components of this work owned by others \nthan ACM must be honored. Abstracting with credit is permitted. To copy otherwise, \nor  republish,  to  post  on  servers  or  to  redistribute  to  lists,  requires  prior  specific \npermission and/or a fee. Request permissions from Permissions@acm.org. \nCHI 2019, May 4\u20139, 2019, Glasgow, Scotland Uk  \n\u00a9 2019 Association for Computing Machinery. \nACM ISBN 978-1-4503-5970-2/19/05...$15.00  \nhttps://doi.org/10.1145/3290605.3300774",
+    "doi": "10.1145/3290605.3300774",
+    "sections": [
+        {
+            "word_count": 995,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 290,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 668,
+            "figure_citations": {},
+            "section_index": 2,
+            "title": "SYSTEM DESIGN"
+        },
+        {
+            "word_count": 397,
+            "figure_citations": {},
+            "section_index": 3,
+            "title": "RESEARCH QUESTIONS AND STUDY DESIGN"
+        },
+        {
+            "word_count": 380,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "METHODS"
+        },
+        {
+            "word_count": 665,
+            "figure_citations": {
+                "3": [
+                    "Figure 3 question 5), electricity and movement (e.",
+                    "Figure 3 question 6), electricity and magnetic field (e.",
+                    "Figure 3 question 3) The concept of sequential reasoning indicates the style in which participants answered the open-ended question of \u201cHow is electrical energy turned into sound inside the speaker?\u201d A large number of responses included a narrative which explained the connection between different components as a sequence (Figure 3 q1 top) rather than directly explaining the core physics phenomena driving the speaker."
+                ]
+            },
+            "section_index": 5,
+            "title": "AR"
+        },
+        {
+            "word_count": 1323,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 1452,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 60,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "ACKNOWLEDGEMENTS"
+        },
+        {
+            "word_count": 1185,
+            "figure_citations": {},
+            "section_index": 9,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "What Can We Learn from Augmented Reality (AR)?: Benefits and Drawbacks of AR for Inquiry-based Learning of Physics",
+    "authors": "Iulian Radu, Bertrand Schneider",
+    "abstract": "Emerging technologies such as Augmented Reality (AR), have the potential to radically transform education by making challenging concepts visible and accessible to novices. In this project, we have designed a Hololens-based system in which collaborators are exposed to an unstructured learning activity in which they learned about the invisible physics involved in audio speakers. They learned topics ranging from spatial knowledge, such as shape of magnetic fields, to abstract conceptual knowledge, such as relationships between electricity and magnetism. We compared participants' learning, attitudes and collaboration with a tangible interface through multiple experimental conditions containing varying layers of AR information. We found that educational AR representations were beneficial for learning specific knowledge and increasing participants' self-efficacy (i.e., their ability to learn concepts in physics). However, we also found that participants in conditions that did not contain AR educational content, learned some concepts better than other groups and became more curious about physics. We discuss learning and collaboration differences, as well as benefits and detriments of implementing augmented reality for unstructured learning activities.",
+    "publication": {
+        "venue": "N/A",
+        "venue_full": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "year": "2019",
+        "date": "2019/5/2"
+    },
+    "version": 4
+}

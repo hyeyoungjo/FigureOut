@@ -1,0 +1,76 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/VR_2017/The Poke\u0301mon GO Experience- A Location-Based Augmented Reality Mobile Game Goes Mainstream.pdf",
+    "paper_id": "The Poke\u0301mon GO Experience- A Location-Based Augmented Reality Mobile Game Goes Mainstream",
+    "venue": "VR_2017",
+    "keywords": [
+        "Game Experience",
+        "Game Design",
+        "Augmented Reality",
+        "Location-Based",
+        "Pervasive Game",
+        "Mobile Game",
+        "Pok\u00e9mon GO",
+        "Qualitative Study"
+    ],
+    "paragraph_containing_keyword": "ABSTRACT \nPok\u00e9mon GO is a location-based augmented reality mobile \ngame based on the Pok\u00e9mon franchise. After the game was \nlaunched globally in July 2016, it quickly became the most \nsuccessful  mobile  game  in  both  popularity  and  revenue \nlocation-based \ngeneration  at \naugmented  reality  game  to  reach  a  mainstream  status.  We \nexplore  the  game  experiences  through  a  qualitative  survey \n(n=1000)  in  Finland  focusing  on  the  positive  and  the \nnegative aspects of Pok\u00e9mon GO as told by the players. The \npositive  experiences  are  related  to  movement,  sociability, \ngame mechanics, and brand while the negative experiences \nemerge \ntechnical  problems,  unequal  gaming \nopportunities,  bad  behavior  of  other  players  and  non-\nplayers,  and  unpolished  game  design.  Interestingly,  the \naugmented reality features, safety issues or the free-to-play \nrevenue  model  did  not  receive  considerable  feedback.  The \nfindings are useful for academics and industry practitioners \nfor  studying  and  designing  location-based  augmented \nreality game experiences. \nAuthor Keywords \nGame  Experience;  Game  Design;  Augmented  Reality; \nLocation-Based; Pervasive Game; Mobile Game; Pok\u00e9mon \nGO; Qualitative Study  \nACM Classification Keywords \nHuman-centered  computing,  Human  computer  Interaction \n(HCI), Empirical Studies in HCI",
+    "paragraph_after_keyword": "Permission  to  make  digital  or  hard  copies  of  all  or  part  of  this  work  for \npersonal or classroom use is granted without fee provided that copies are \nnot made or distributed for profit or commercial advantage and that copies \nbear  this  notice  and  the  full  citation  on  the  first  page.  Copyrights  for \ncomponents  of  this  work  owned  by  others  than  ACM  must  be  honored. \nAbstracting  with  credit  is  permitted.  To  copy  otherwise,  or  republish,  to \npost on servers or to redistribute to lists, requires prior specific permission \nand/or a fee. Request permissions from Permissions@acm.org. \nCHI 2017, May 06-11, 2017, Denver, CO, USA \n\u00a9 2017 ACM. ISBN 978-1-4503-4655-9/17/05\u2026$15.00 \nDOI: http://dx.doi.org/10.1145/3025453.3025871",
+    "doi": "10.1145/3025453.3025871",
+    "sections": [
+        {
+            "word_count": 821,
+            "figure_citations": {
+                "1": [
+                    "Figure 1)."
+                ]
+            },
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 250,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "METHOD"
+        },
+        {
+            "word_count": 326,
+            "figure_citations": {},
+            "section_index": 2,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 969,
+            "figure_citations": {},
+            "section_index": 3,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 805,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 106,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "ACKNOWLEDGMENTS"
+        },
+        {
+            "word_count": 836,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "The Pok\u00e9mon GO Experience: A Location-Based Augmented Reality Mobile Game Goes Mainstream",
+    "authors": "Janne Paavilainen, Hannu Korhonen, Kati Alha, Jaakko Stenros, Elina Koskinen, Frans Mayra",
+    "abstract": "Pok\u00e9mon GO is a location-based augmented reality mobile game based on the Pok\u00e9mon franchise. After the game was launched globally in July 2016, it quickly became the most successful mobile game in both popularity and revenue generation at the time, and the first location-based augmented reality game to reach a mainstream status. We explore the game experiences through a qualitative survey (n=1000) in Finland focusing on the positive and the negative aspects of Pok\u00e9mon GO as told by the players. The positive experiences are related to movement, sociability, game mechanics, and brand while the negative experiences emerge from technical problems, unequal gaming opportunities, bad behavior of other players and non-players, and unpolished game design. Interestingly, the augmented reality features, safety issues or the free-to-play revenue model did not receive considerable feedback. The findings are useful for academics and industry practitioners for studying and designing location-based augmented reality game experiences.",
+    "publication": {
+        "venue": "CHI '17",
+        "venue_full": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+        "year": "2017",
+        "date": "2017/5/2"
+    },
+    "version": 4
+}

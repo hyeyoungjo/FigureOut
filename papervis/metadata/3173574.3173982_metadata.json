@@ -1,0 +1,177 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/CHI 18/3173574.3173982.pdf",
+    "paper_id": "3173574.3173982",
+    "venue": "CHI 18",
+    "keywords": [
+        "Feedforward",
+        "Exergame",
+        "Virtual reality (VR)",
+        "Performance",
+        "Intrinsic motivation"
+    ],
+    "doi": "10.1145/3173574.3173982",
+    "paragraph_containing_keyword": "ACM Classi\ufb01cation Keywords\nApplied computing: Computer games; Applied computing:\nConsumer health; Human-centered computing: Virtual reality\nAuthor Keywords\nFeedforward, exergame, virtual reality (VR), performance,\nintrinsic motivation\nINTRODUCTION\nPhysical inactivity has been identi\ufb01ed as the fourth leading\nIt is well established that a\ncause of death globally [50].\nsedentary lifestyle increases the risk of developing diseases\nsuch as type 2 diabetes and cardiovascular disease [87] which\naccount for 30% of global mortality. The American College\nof Sports Medicine (ACSM) recommends adults should do\nat least 150 minutes of moderate exercise or 75 minutes of\nvigorous exercise per week [63]. However, when people begin\nphysical activity regimens, 40% to 65% are predicted to drop\nout within 3 to 6 months [2, 3, 17]. Intrinsic motivation, i.e.\nmotivation derived from enjoyment and satisfaction gained\nfrom an activity, has been identi\ufb01ed as an important predictor\nof adherence to an exercise program [1, 30, 72]. Indeed, lack\nof time and maintaining motivation are the most commonly\ncited barriers to continuing exercise [26] so tackling these two\nchallenges is key to improving global health.\nHigh-intensity interval training (HIIT) \u2013 short intermittent\nbouts of vigorous activity, interspersed with periods of rest or\nlow-intensity exercise [32] \u2013 can reduce the time required for\na healthy exercise regime. Studies show that HIIT is equally\nbene\ufb01cial or superior to traditional aerobic exercise in many\n\ufb01tness and health related measures [33, 49, 61]. Participants",
+    "sections": [
+        {
+            "word_count": 1368,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 1119,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 693,
+            "figure_citations": {
+                "1": [
+                    "Figure 1a.",
+                    "Figure 1c).",
+                    "Figure 1d).",
+                    "Figure 1 b-d), similar to [74].",
+                    "Figure 1b)."
+                ]
+            },
+            "section_index": 2,
+            "title": "EXERGAME DESIGN"
+        },
+        {
+            "word_count": 1712,
+            "figure_citations": {},
+            "section_index": 3,
+            "title": "EXPERIMENTAL DESIGN"
+        },
+        {
+            "word_count": 1064,
+            "figure_citations": {
+                "2": [
+                    "Figure 2 top-left).",
+                    "Figure 2 top-right).",
+                    "Figure 2 bottom-left).",
+                    "Figure 2 bottom-right) showed that SC led to a significantly higher performance, t(22) = 3."
+                ],
+                "3": [
+                    "Figure 3 top-left)."
+                ]
+            },
+            "section_index": 4,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 26,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "VA"
+        },
+        {
+            "word_count": 13,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "NA"
+        },
+        {
+            "word_count": 15,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "FA"
+        },
+        {
+            "word_count": 8,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "NSC"
+        },
+        {
+            "word_count": 823,
+            "figure_citations": {
+                "3": [
+                    "Figure 3: IMI Interest/Enjoyment (left column) and IMI Pressure/Tension (right column) scores for the baseline (B), equal challenge (E) and harder challenge (H) conditions for 1) self competition (SC) framing in different levels of resistance awareness (top row) and 2) without resistance awareness (NA) in self competition (SC) vs.",
+                    "Figure 3 bottom-left).",
+                    "Figure 3 bottomright)."
+                ],
+                "4": [
+                    "Figure 4 top-left).",
+                    "Figure 4: FSQ Balance of Challenges and Skills (left column) and FSQ Absorption in the Task (right column) scores for the baseline (B), equal challenge (E) and harder challenge (H) conditions for 1) self competition (SC) framing in different levels of resistance awareness (top row) and 2) without resistance awareness (NA) in self competition (SC) vs.",
+                    "Figure 4 top-right).",
+                    "Figure 4 bottom-left).",
+                    "Figure 4 bottom-right)."
+                ],
+                "5": [
+                    "Figure 5: IEQ scores in different levels of resistance awareness (left) and competition framing (right).",
+                    "Figure 5 left).",
+                    "Figure 5 right) showed that there was a significant difference between SC and NSC, t(22) = 2."
+                ]
+            },
+            "section_index": 9,
+            "title": "H"
+        },
+        {
+            "word_count": 21,
+            "figure_citations": {},
+            "section_index": 10,
+            "title": "E"
+        },
+        {
+            "word_count": 375,
+            "figure_citations": {
+                "2": [
+                    "Figure 2: \u2206Power (difference from baseline B) for the equal challenge (E) and harder challenge (H) conditions in different levels of resistance awareness (top-left) and in non-self (NSC) vs."
+                ],
+                "3": [
+                    "Figure 3 top-right)."
+                ]
+            },
+            "section_index": 11,
+            "title": "SC"
+        },
+        {
+            "word_count": 2,
+            "figure_citations": {},
+            "section_index": 12,
+            "title": "B"
+        },
+        {
+            "word_count": 8,
+            "figure_citations": {},
+            "section_index": 13,
+            "title": "IEQ"
+        },
+        {
+            "word_count": 1049,
+            "figure_citations": {},
+            "section_index": 14,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 142,
+            "figure_citations": {},
+            "section_index": 15,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 77,
+            "figure_citations": {},
+            "section_index": 16,
+            "title": "ACKNOWLEDGEMENTS"
+        },
+        {
+            "word_count": 2744,
+            "figure_citations": {},
+            "section_index": 17,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Interactive Feedforward for Improving Performance and Maintaining Intrinsic Motivation in VR Exergaming",
+    "authors": "Soumya C. Barathi, Daniel J. Finnegan, Matthew Farrow, Alexander Whaley, Pippa Heath, Jude Buckley, Peter W. Dowrick, Burkhard C. Wuensche, James L. J. Bilzon, Eamonn O'Neill, Christof Lutteroth",
+    "abstract": "Exergames commonly use low to moderate intensity exercise protocols. Their effectiveness in implementing high intensity protocols remains uncertain. We propose a method for improving performance while maintaining intrinsic motivation in high intensity VR exergaming. Our method is based on an interactive adaptation of the feedforward method: a psychophysical training technique achieving rapid improvement in performance by exposing participants to self models showing previously unachieved performance levels. We evaluated our method in a cycling-based exergame. Participants competed against (i) a self model which represented their previous speed; (ii) a self model representing their previous speed but increased resistance therefore requiring higher performance to keep up; or (iii) a virtual competitor at the same two levels of performance. We varied participants' awareness of these differences. Interactive feedforward led to improved performance while maintaining intrinsic motivation even when participants were aware of the interventions, and was superior to competing against a virtual competitor.",
+    "publication": {
+        "venue": "CHI '18",
+        "venue_full": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems",
+        "year": "2018",
+        "date": "2018/4/21"
+    },
+    "version": 2
+}

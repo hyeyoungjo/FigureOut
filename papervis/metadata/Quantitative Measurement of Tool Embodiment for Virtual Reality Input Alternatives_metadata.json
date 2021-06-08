@@ -1,0 +1,103 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2019xr/Quantitative Measurement of Tool Embodiment for Virtual Reality Input Alternatives.pdf",
+    "paper_id": "Quantitative Measurement of Tool Embodiment for Virtual Reality Input Alternatives",
+    "venue": "chi2019xr",
+    "keywords": [
+        "Embodiment",
+        "Tool Embodiment",
+        "Embodied Interaction",
+        "Virtual Reality",
+        "Ready-to-hand",
+        "Unready-to-hand",
+        "Tools"
+    ],
+    "paragraph_containing_keyword": "ABSTRACT\nVirtual reality (VR) strives to replicate the sensation of the\nphysical environment by mimicking people\u2019s perceptions and\nexperience of being elsewhere. These experiences are often\nmediated by the objects and tools we interact with in the\nvirtual world (e.g., a controller). Evidence from psychology\nposits that when using the tool proficiently, it becomes em-\nbodied (i.e., an extension of one\u2019s body). There is little work,\nhowever, on how to measure this phenomenon in VR, and\non how different types of tools and controllers can affect the\nexperience of interaction. In this work, we leverage cognitive\npsychology and philosophy literature to construct the Locus-\nof-Attention Index (LAI), a measure of tool embodiment. We\ndesigned and conducted a study that measures readiness-to-\nhand and unreadiness-to-hand for three VR interaction tech-\nniques: hands, a physical tool, and a VR controller. The study\nshows that LAI can measure differences in embodiment with\nworking and broken tools and that using the hand directly\nresults in more embodiment than using controllers.\nCCS CONCEPTS\n\u2022 Human-centered computing \u2192 HCI design and evalu-\nation methods; Interaction devices; Empirical studies in HCI .\nKEYWORDS\nEmbodiment, Tool Embodiment, Embodied Interaction, Vir-\ntual Reality, Ready-to-hand, Unready-to-hand, Tools.\nACM Reference Format:\nAyman Alzayat, Mark Hancock, and Miguel A. Nacenta. 2019. Quan-\ntitative Measurement of Tool Embodiment for Virtual Reality Input\nPermission to make digital or hard copies of all or part of this work for\npersonal or classroom use is granted without fee provided that copies\nare not made or distributed for profit or commercial advantage and that\ncopies bear this notice and the full citation on the first page. Copyrights\nfor components of this work owned by others than the author(s) must\nbe honored. Abstracting with credit is permitted. To copy otherwise, or\nrepublish, to post on servers or to redistribute to lists, requires prior specific\npermission and/or a fee. Request permissions from permissions@acm.org.\nCHI 2019, May 4\u20139, 2019, Glasgow, Scotland, UK\n\u00a9 2019 Copyright held by the owner/author(s). Publication rights licensed\nto ACM.\nACM ISBN 978-1-4503-5970-2/19/05. . . $15.00\nhttps://doi.org/10.1145/3290605.3300673",
+    "doi": "10.1145/3290605.3300673",
+    "paragraph_after_keyword": "Alternatives. In CHI Conference on Human Factors in Computing Sys-\ntems Proceedings (CHI 2019), May 4\u20139, 2019, Glasgow, Scotland, UK.\nACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3290605.\n3300673\n1 INTRODUCTION\nResearch in virtual reality has a long tradition striving to re-\nproduce the sensations, perceptions and experience of being\nelsewhere (this is often referred to as presence [39, 43], immer-\nsion [19] or spatial-temporal deformation [1]). An important\npart of this presence is interaction; people in an immersive\nVR environment need to be able to interact realistically with\nthe objects in the environment in order not to break the illu-\nsion of immersion in an alternate reality [37]. Presumably, in\norder to produce high-fidelity interaction in immersive VR\nenvironments, we also need an understanding of the issues\nof human physical interaction in the real world.\nFrom research in psychology and philosophy, we know\nthat interaction with objects of the environment is mediated\nby the physicality of our body [8, 9, 11, 29]. I.e., interaction in\nthis context is not only a matter of how an external object is\nperceived by the person\u2019s sensory mechanisms but, perhaps\nmore importantly, involves how the human body itself affects\nthe physical object and how the overall interplay between\nboth the object and the body is processed by the brain.\nTo make things more complex, interaction with both phys-\nical and virtual objects is often mediated by tools. Tools are\nobjects themselves that serve as intermediaries between our\nbodies and other objects that we intend to modify (e.g., we\ncan use a stick in our hand to topple a vase that is out of\nour reach). Tools are particularly interesting in the context\nof human-computer interaction for two main reasons: first,\nVR interaction is often implemented through the use of in-\nput devices (e.g., the Oculus Touch VR Controller), which are\nthemselves presented in VR as tools that mediate interaction\nwith virtual objects. Second, from evidence in psychology\nand theories from philosophy, we know that tools become,\nin some ways, extensions of our own body when sufficient\nproficiency with the tool has been achieved. We know, for\nexample, that experts often refer to their tools as \u201calmost part\nof their own bodies\u201d, and that psychologists have found ev-\nidence that tool use can produce changes in body perception",
+    "sections": [
+        {
+            "word_count": 543,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 4243,
+            "figure_citations": {
+                "1": [
+                    "Figure 1)."
+                ],
+                "2": [
+                    "Figure 2) wearing the Oculus Rift and holding one of three controllers (see Conditions)."
+                ],
+                "5": [
+                    "Figure 5a).",
+                    "Figure 5a."
+                ],
+                "3": [
+                    "Figure 3) to successively find and grab letter cubes from the bookshelf and place them (by releasing with the tool) in the placeholders marked with the corresponding letter.",
+                    "Figure 3)."
+                ],
+                "4": [
+                    "Figure 4c shows the physical apparatus for this condition.",
+                    "Figure 4b)."
+                ],
+                "6": [
+                    "Figure 6)."
+                ],
+                "7": [
+                    "Figure 7)."
+                ]
+            },
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 1242,
+            "figure_citations": {
+                "9": [
+                    "Figure 9 shows the distribution of the indices split by interaction technique, state and phase."
+                ],
+                "10": [
+                    "Figure 10 shows the distributions of the GEQ scores by technique, state and phase."
+                ]
+            },
+            "section_index": 2,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 738,
+            "figure_citations": {},
+            "section_index": 3,
+            "title": "GENERAL DISCUSSION"
+        },
+        {
+            "word_count": 83,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 42,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "ACKNOWLEDGMENTS"
+        },
+        {
+            "word_count": 1224,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Quantitative Measurement of Tool Embodiment for Virtual Reality Input Alternatives",
+    "authors": "Ayman Alzayat, Mark Hancock, Miguel A. Nacenta",
+    "abstract": "Virtual reality (VR) strives to replicate the sensation of the physical environment by mimicking people's perceptions and experience of being elsewhere. These experiences are of-ten mediated by the objects and tools we interact with in the virtual world (e.g., a controller). Evidence from psychology posits that when using the tool proficiently, it becomes em-bodied (i.e., an extension of one's body). There is little work,however, on how to measure this phenomenon in VR, andon how different types of tools and controllers can affect the experience of interaction. In this work, we leverage cognitive psychology and philosophy literature to construct the Locus-of-Attention Index (LAI), a measure of tool embodiment. We designed and conducted a study that measures readiness-to-hand and unreadiness-to-hand for three VR interaction techniques: hands, a physical tool, and a VR controller. The study shows that LAI can measure differences in embodiment with working and broken tools and that using the hand directly results in more embodiment than using controllers.",
+    "publication": {
+        "venue": "N/A",
+        "venue_full": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "year": "2019",
+        "date": "2019/5/2"
+    },
+    "version": 4
+}

@@ -1,0 +1,231 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure  1.  The  3D  panorama  unit  reconstructs  the  local  environment, \nand then streams the stitched point-cloud data to the remote VR expert \nvia the network. The eye gaze and hand gesture information are shared \nback to the local AR worker from the remote VR expert synchronously. \n",
+            "bbox": [
+                320.89475,
+                180.35052,
+                567.1518099999998,
+                215.21927
+            ],
+            "page": "3"
+        },
+        "2": {
+            "caption": "Figure 2.  a) The sensor cluster with eight depth camera units;  b) The \ncalibration result of the sensor cluster. \n",
+            "bbox": [
+                53.929,
+                400.60302,
+                298.9905599999999,
+                417.53927
+            ],
+            "page": "4"
+        },
+        "3": {
+            "caption": "Figure 3.  Natural visual cues shared from the remote to the local user: \nthe purple gaze raycast line,  and the grey hand mesh in a) the remote \nVR mode and b) the local AR mode. \n",
+            "bbox": [
+                320.80708,
+                592.73977,
+                567.4785799999997,
+                618.6422699999999
+            ],
+            "page": "4"
+        },
+        "4": {
+            "caption": "Figure  4.  Auxiliary  awareness  cues  for  the  local  worker:  the  simple \navatar has the purple sphere head and half-transparent yellow view frus-\ntum, and the pin arrow in orange always points to the head sphere. \n",
+            "bbox": [
+                321.094,
+                296.57277,
+                566.1555599999997,
+                322.47526999999997
+            ],
+            "page": "4"
+        },
+        "5": {
+            "caption": "Figure  5.  Experiment  environment:  a)  The  local  section  with  Lego \nbricks placed around desks and the live 3D panorama capture unit in-\nstalled on the ceiling; b) The remote part with the VR headset installed; \nc) A screenshot of the reconstructed live 3D panorama in VR. \n",
+            "bbox": [
+                53.929,
+                447.04852,
+                299.7875599999999,
+                481.91727
+            ],
+            "page": "6"
+        },
+        "6": {
+            "caption": "Figure 6. a) Lego bricks on the tags; b) The overlaid cubes with numbers \nto indicate the brick for picking up, and the overlaid cubes with numbers \nand arrows to indicate the target position and orientation of the Lego \nbrick with the same pickup number. \n",
+            "bbox": [
+                53.929,
+                238.79352,
+                298.99056,
+                273.66227
+            ],
+            "page": "6"
+        },
+        "7": {
+            "caption": "Figure  7.  Results  of  Co-presence  questionnaires  (7-point  Likert  scale \nfrom 1 to 7, the higher the better). \n",
+            "bbox": [
+                321.094,
+                532.04602,
+                566.1555599999998,
+                548.98227
+            ],
+            "page": "7"
+        },
+        "8": {
+            "caption": "Figure  8.  Results  of  the  TLX  questionnaire  (100-points  range  with  5-\npoint steps, 0: very low~100: very high, the lower the better). \n",
+            "bbox": [
+                53.929,
+                248.23602,
+                298.32108,
+                265.17226999999997
+            ],
+            "page": "8"
+        },
+        "9": {
+            "caption": "Figure 9. User preference based ranking results (Rank1 is the most pre-\nferred, *: statistically signi\ufb01cant). \n",
+            "bbox": [
+                321.094,
+                135.41902,
+                565.4860799999999,
+                152.35527
+            ],
+            "page": "8"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                886.9277613888887,
+                1204.4389175,
+                1572.127778611111,
+                1594.2389086111111
+            ],
+            "bbox": [
+                321.0939941,
+                219.8739929,
+                564.1660003,
+                356.6019897
+            ],
+            "page": "3"
+        },
+        "2": {
+            "crop_coord": [
+                144.80278027777777,
+                726.8484911111111,
+                829.9872247222222,
+                1032.2416855555555
+            ],
+            "bbox": [
+                53.9290009,
+                422.1929932,
+                296.9954009,
+                528.5345432
+            ],
+            "page": "4"
+        },
+        "3": {
+            "crop_coord": [
+                886.9277613888887,
+                168.22625805555555,
+                1572.1122058333333,
+                473.6194525
+            ],
+            "bbox": [
+                321.0939941,
+                623.2969971,
+                564.1603941,
+                729.6385471
+            ],
+            "page": "4"
+        },
+        "4": {
+            "crop_coord": [
+                886.9277613888887,
+                990.9123474999999,
+                1572.1122058333333,
+                1296.3055419444445
+            ],
+            "bbox": [
+                321.0939941,
+                327.1300049,
+                564.1603941,
+                433.4715549
+            ],
+            "page": "4"
+        },
+        "5": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22664944444463,
+                829.9872247222222,
+                853.411093888889
+            ],
+            "bbox": [
+                53.9290009,
+                486.5720062,
+                296.9954009,
+                729.6384062
+            ],
+            "page": "6"
+        },
+        "6": {
+            "crop_coord": [
+                144.80278027777777,
+                1126.5040241666666,
+                829.9872247222222,
+                1431.897218611111
+            ],
+            "bbox": [
+                53.9290009,
+                278.3170013,
+                296.9954009,
+                384.6585513
+            ],
+            "page": "6"
+        },
+        "7": {
+            "crop_coord": [
+                886.9277613888887,
+                263.24011833333327,
+                1572.1494947222225,
+                667.1194627777776
+            ],
+            "bbox": [
+                321.0939941,
+                553.6369934,
+                564.1738181000001,
+                695.4335574
+            ],
+            "page": "7"
+        },
+        "8": {
+            "crop_coord": [
+                144.80278027777777,
+                1051.6012227777776,
+                830.0245136111112,
+                1455.4805672222224
+            ],
+            "bbox": [
+                53.9290009,
+                269.8269958,
+                297.00882490000004,
+                411.62355980000007
+            ],
+            "page": "8"
+        },
+        "9": {
+            "crop_coord": [
+                886.9277613888887,
+                1333.2141663888885,
+                1585.6481897222222,
+                1768.8611263888888
+            ],
+            "bbox": [
+                321.0939941,
+                157.0099945,
+                569.0333483,
+                310.24290010000004
+            ],
+            "page": "8"
+        }
+    }
+}

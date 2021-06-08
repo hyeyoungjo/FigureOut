@@ -1,0 +1,281 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1. An illustrative scenario of eyes-free target acquisition in vir-\ntual reality. A user is doing design and he fetches tools in the interaction\nspace around the body in an eyes-free manner. The FOV (\ufb01eld of view)\nsize of his HMD is visualized (110 - 120 degrees).\n",
+            "bbox": [
+                321.094,
+                392.50927,
+                565.4860800000001,
+                427.37827
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2. The setting of the experiment and the task interface in Study1.\nA user moved the controller to acquire the virtual sphere in the 5 \u00d7 5\ngrid. Then he turned head to see which sphere he had acquired (the red\none).\n",
+            "bbox": [
+                320.807,
+                551.21227,
+                565.55781,
+                586.08127
+            ],
+            "page": "3"
+        },
+        "4": {
+            "caption": "Figure 4. The averaged distances between targets and comfort ratings of\nthe target positions with different horizontal angles.\n",
+            "bbox": [
+                321.094,
+                83.91627000000001,
+                564.1630600000001,
+                100.85227
+            ],
+            "page": "4"
+        },
+        "3": {
+            "caption": "Figure 3. The circles summarize the comfort level (color) and the mini-\nmum distance between targets (radius) for different target positions (cen-\nters) when users acquired them.\n",
+            "bbox": [
+                53.929,
+                602.94827,
+                298.3210800000001,
+                628.85127
+            ],
+            "page": "4"
+        },
+        "5": {
+            "caption": "Figure 5. The concept of the experiment settings. The furniture indicates\nthe virtual surroundings of the participants. The red spheres indicate\nthe twelve directions that the participants rotate to, and the green sphere\nindicates the positioned target.\n",
+            "bbox": [
+                321.094,
+                555.9362699999999,
+                564.1630600000001,
+                590.80527
+            ],
+            "page": "5"
+        },
+        "6": {
+            "caption": "Figure 6. Summary of the main results of this experiment. The centers of\nthe circles are the averaged positions of twelve acquisitions of 24 users\nand radiuses are the standard deviations. The blue lines visualize the\noffsets of the average positions from the target\u2019s actual positions. All\ncoordinates and lengths are converted to angles in degrees.\n",
+            "bbox": [
+                53.929,
+                566.2732699999999,
+                296.9980600000002,
+                610.10827
+            ],
+            "page": "6"
+        },
+        "7": {
+            "caption": "Figure 7. (a) The horizontal angular offset of the acquisitions at differ-\nent horizontal angles; (b) The vertical angular offset of the acquisitions\nat different horizontal angles; (c) The spatial offset and head movement\namplitudes of the acquisitions at different horizontal angles; (d) The spa-\ntial offset of the acquisitions after different times of rotations.\n",
+            "bbox": [
+                321.094,
+                500.27826999999996,
+                565.4860800000001,
+                544.1142699999999
+            ],
+            "page": "6"
+        },
+        "8": {
+            "caption": "Figure 8. The interpolation of the standard deviations of the target ac-\nquisition points on the whole surface, visualized into a heat map.\n",
+            "bbox": [
+                321.094,
+                239.23827,
+                565.48608,
+                256.17427
+            ],
+            "page": "7"
+        },
+        "9": {
+            "caption": "Figure 9. The concept of the experiment setting. Targets were located on\nboth sides of users\u2019 body. A shortcut of the target layout was visualized\nin the front, as well as the character for the second task.\n",
+            "bbox": [
+                321.094,
+                561.74627,
+                564.1630600000002,
+                587.64927
+            ],
+            "page": "8"
+        },
+        "10": {
+            "caption": "Figure 10. The speed (average acquisition time) and accuracy (rate) re-\nsults of the acquisitions in different conditions. The error bars represent\nthe standard deviations.\n",
+            "bbox": [
+                53.929,
+                565.7582699999999,
+                298.3210800000001,
+                591.66127
+            ],
+            "page": "9"
+        },
+        "11": {
+            "caption": "Figure 11. User\u2019s subjective ratings for the experience using two ap-\nproaches to acquire targets. The error bars represent the standard devi-\nations.\n",
+            "bbox": [
+                321.094,
+                572.73727,
+                565.4860800000001,
+                598.63927
+            ],
+            "page": "9"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                954.447225,
+                626.7861225747222,
+                1504.5852053172223,
+                1004.9083200000001
+            ],
+            "bbox": [
+                345.401001,
+                432.0330048,
+                539.8506739142,
+                564.5569958731
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                954.447225,
+                168.22785444444446,
+                1504.6215916666667,
+                564.0666877777779
+            ],
+            "bbox": [
+                345.401001,
+                590.7359924,
+                539.863773,
+                729.6379724
+            ],
+            "page": "3"
+        },
+        "3": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22710316000033,
+                829.9960486466667,
+                445.261120277778
+            ],
+            "bbox": [
+                53.9290009,
+                633.5059967,
+                296.9985775128,
+                729.6382428623999
+            ],
+            "page": "4"
+        },
+        "4": {
+            "crop_coord": [
+                988.2083130555557,
+                1549.8150891858334,
+                1470.8393325141667,
+                1911.9249894444445
+            ],
+            "bbox": [
+                357.5549927,
+                105.5070038,
+                527.7021597051,
+                232.26656789310002
+            ],
+            "page": "4"
+        },
+        "5": {
+            "crop_coord": [
+                937.5666808333334,
+                168.2268231755556,
+                1521.515110122222,
+                550.9444258333334
+            ],
+            "bbox": [
+                339.3240051,
+                595.4600067,
+                545.945439644,
+                729.6383436568
+            ],
+            "page": "5"
+        },
+        "6": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22795080722247,
+                829.987842018889,
+                497.32499861111114
+            ],
+            "bbox": [
+                53.9290009,
+                614.7630005,
+                296.9956231268,
+                729.6379377093999
+            ],
+            "page": "6"
+        },
+        "7": {
+            "crop_coord": [
+                886.9277613888887,
+                168.22698006305566,
+                1572.129851485,
+                680.6416744444447
+            ],
+            "bbox": [
+                321.0939941,
+                548.7689972,
+                564.1667465346,
+                729.6382871773
+            ],
+            "page": "6"
+        },
+        "8": {
+            "crop_coord": [
+                920.6916469444444,
+                1089.5517629561111,
+                1538.3882956925,
+                1480.4750144444445
+            ],
+            "bbox": [
+                333.2489929,
+                260.8289948,
+                552.0197864493,
+                397.9613653358
+            ],
+            "page": "7"
+        },
+        "9": {
+            "crop_coord": [
+                988.2083130555557,
+                168.2273885044446,
+                1470.839297162222,
+                559.7111086111112
+            ],
+            "bbox": [
+                357.5549927,
+                592.3040009,
+                527.7021469783999,
+                729.6381401384
+            ],
+            "page": "8"
+        },
+        "10": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2274746491665,
+                829.9894871794444,
+                548.5666824999998
+            ],
+            "bbox": [
+                53.9290009,
+                596.3159943,
+                296.99621538459996,
+                729.6381091263
+            ],
+            "page": "9"
+        },
+        "11": {
+            "crop_coord": [
+                900.4305605555555,
+                168.22881840944427,
+                1558.6219034033334,
+                529.1833158333335
+            ],
+            "bbox": [
+                325.9550018,
+                603.2940063,
+                559.3038852252,
+                729.6376253726
+            ],
+            "page": "9"
+        }
+    }
+}

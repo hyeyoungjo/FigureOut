@@ -1,0 +1,161 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1.  The FaceHaptics system, showing a side and frontal view of the setup for face haptic feedback, affording various sensations including touch, \ntexture, warmth, air \ufb02ow, or wetness. The left image depict one of many possible touch/texture feedback elements, which can easily be exchanged. \n",
+            "bbox": [
+                53.929,
+                362.95202,
+                567.1491799999998,
+                379.88827
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure  2.  System  overview:  elements  of  the  robot  arm  with  different \nfeedback  elements.  The  close  up  shows  a  frontal  view  of  lower  robot \narm  with  fan,  heat  wire  in  front  of  fan,  and  spray  nozzle.  The  blue \noverlay over the face shows the approximate area that can be reached \nusing touch events (wind can be sensed over the whole face). \n",
+            "bbox": [
+                321.094,
+                570.2162700000001,
+                566.15556,
+                614.0512699999999
+            ],
+            "page": "3"
+        },
+        "3": {
+            "caption": "Figure 3. Mean performance for the different conditions, averaged over \nthe two repetitions. Gray dots indicate participant mean data, whiskers \nindicate 95% con\ufb01dence intervals. \n",
+            "bbox": [
+                53.929,
+                457.25477,
+                299.1658999999999,
+                483.15727
+            ],
+            "page": "6"
+        },
+        "4": {
+            "caption": "Figure 4.  Feedback elements with sample events: ventilator depicts fan, \nwire for heat, leaf is the rubber tip and spray the water-air spray. \n",
+            "bbox": [
+                320.80708,
+                499.12802,
+                567.1518099999998,
+                516.06427
+            ],
+            "page": "6"
+        },
+        "5": {
+            "caption": "Figure 5.  Adding biting functionality to FaceHaptics - showing the po-\ntential of extensibility, but also the limitations regarding reloading. \n",
+            "bbox": [
+                321.094,
+                587.65402,
+                565.4860799999999,
+                604.5902699999999
+            ],
+            "page": "9"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                144.80278027777777,
+                741.8249850000001,
+                1572.052798888889,
+                1136.8250019444445
+            ],
+            "bbox": [
+                53.9290009,
+                384.5429993,
+                564.1390076,
+                523.1430054
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                886.9277613888887,
+                168.22595361111084,
+                1572.105441388889,
+                486.37223972222205
+            ],
+            "bbox": [
+                321.0939941,
+                618.7059937,
+                564.1579589,
+                729.6386567000001
+            ],
+            "page": "3"
+        },
+        "3": {
+            "crop_coord": [
+                151.37993724230557,
+                -223.39531413833333,
+                485.9485107461944,
+                849.9683429816666
+            ],
+            "bbox": [
+                56.29677740723001,
+                487.8113965266,
+                173.14146386863,
+                870.6223130898001
+            ],
+            "page": "6"
+        },
+        "4": {
+            "crop_coord": [
+                374.3667290891111,
+                -282.4600356033338,
+                718.6981408480002,
+                849.9700481855556
+            ],
+            "bbox": [
+                136.57202247208,
+                487.8107826532,
+                256.93133070528006,
+                891.8856128172001
+            ],
+            "page": "6"
+        },
+        "5": {
+            "crop_coord": [
+                597.3521680756389,
+                -223.39531413833333,
+                931.9207415795279,
+                849.9683429816666
+            ],
+            "bbox": [
+                216.84678050723002,
+                487.8113965266,
+                333.69146696863004,
+                870.6223130898001
+            ],
+            "page": "6"
+        },
+        "6": {
+            "crop_coord": [
+                886.9277613888887,
+                168.2295991666667,
+                1572.131466111111,
+                758.5611047222224
+            ],
+            "bbox": [
+                321.0939941,
+                520.7180023,
+                564.1673278,
+                729.6373443
+            ],
+            "page": "6"
+        },
+        "7": {
+            "crop_coord": [
+                886.9277613888887,
+                168.21879083333357,
+                1572.0507641666668,
+                512.652791388889
+            ],
+            "bbox": [
+                321.0939941,
+                609.2449951,
+                564.1382751,
+                729.6412353
+            ],
+            "page": "9"
+        }
+    }
+}

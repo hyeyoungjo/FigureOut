@@ -1,0 +1,129 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2020/3313831.3376195.pdf",
+    "paper_id": "3313831.3376195",
+    "venue": "chi2020",
+    "keywords": [
+        "Haptics",
+        "Temperature",
+        "Thermal Feedback",
+        "Virtual Reality"
+    ],
+    "paragraph_containing_keyword": "Author Keywords \nHaptics, Temperature, Thermal Feedback, Virtual Reality",
+    "paragraph_after_keyword": "CCS Concepts \n\u2022Human-centered computing \u2192 Human computer inter-\naction (HCI); Haptic devices; User studies;",
+    "doi": "10.1145/3313831.3376195",
+    "sections": [
+        {
+            "word_count": 760,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 1376,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 1117,
+            "figure_citations": {
+                "2": [
+                    "Figure 2a).",
+                    "Figure 2b)."
+                ],
+                "3": [
+                    "Figure 3c depicts a closeup perspective of the actuator tubes, as well as an example thermal camera view at 43 \u25e6C.",
+                    "Figure 3b shows a user wearing two actuators on the right arm and the abdomen."
+                ]
+            },
+            "section_index": 2,
+            "title": "THERMINATOR CONCEPTS AND SYSTEM"
+        },
+        {
+            "word_count": 2192,
+            "figure_citations": {
+                "3": [
+                    "Figure 3a."
+                ],
+                "1": [
+                    "Figure 1a) shows a participant while exposed to the snow visualization."
+                ]
+            },
+            "section_index": 3,
+            "title": "METHODOLOGY"
+        },
+        {
+            "word_count": 1447,
+            "figure_citations": {
+                "5": [
+                    "Figure 5a.",
+                    "Figure 5b.",
+                    "Figure 5c, the median rating as well as the minimum and maximum ratings show differences with regards to the visuals."
+                ]
+            },
+            "section_index": 4,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 895,
+            "figure_citations": {
+                "5": [
+                    "Figure 5a), the thermal stimuli have the highest impact on the perceived temperature.",
+                    "Figure 5b and Figure 5c), the involvement resulted in higher medians for both stimuli.",
+                    "Figure 5a), they only slightly affect the involvement if there is no visual stimulus displayed."
+                ],
+                "6": [
+                    "Figure 6)."
+                ]
+            },
+            "section_index": 5,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 433,
+            "figure_citations": {
+                "1": [
+                    "Figure 1d).",
+                    "Figure 1c), discovered on a treasure map.",
+                    "Figure 1b)."
+                ]
+            },
+            "section_index": 6,
+            "title": "EXAMPLE APPLICATIONS"
+        },
+        {
+            "word_count": 421,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "LIMITATIONS AND FUTURE WORK"
+        },
+        {
+            "word_count": 105,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 41,
+            "figure_citations": {},
+            "section_index": 9,
+            "title": "ACKNOWLEDGEMENTS"
+        },
+        {
+            "word_count": 2593,
+            "figure_citations": {},
+            "section_index": 10,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Therminator: Understanding the Interdependency of Visual and On-Body Thermal Feedback in Virtual Reality",
+    "authors": "Sebastian G\u00fcnther, Florian M\u00fcller, Dominik Sch\u00f6n, Omar Elmoghazy, Max M\u00fchlh\u00e4user, Martin Schmitz",
+    "abstract": "Recent advances have made Virtual Reality (VR) more realistic than ever before. This improved realism is attributed to today's ability to increasingly appeal to human sensations, such as visual, auditory or tactile. While research also examines temperature sensation as an important aspect, the interdependency of visual and thermal perception in VR is still underexplored. In this paper, we propose Therminator, a thermal display concept that provides warm and cold on-body feedback in VR through heat conduction of flowing liquids with different temperatures. Further, we systematically evaluate the interdependency of different visual and thermal stimuli on the temperature perception of arm and abdomen with 25 participants. As part of the results, we found varying temperature perception depending on the stimuli, as well as increasing involvement of users during conditions with matching stimuli.",
+    "publication": {
+        "venue": "CHI '20",
+        "venue_full": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "year": "2020",
+        "date": "2020/4/21"
+    },
+    "version": 4
+}
