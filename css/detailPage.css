@@ -60,8 +60,8 @@
   /* width: 1000px; */
   /* height: fit-content; */
   /* background: blue; */
-  border-top: 2px solid lightgrey;
-  border-bottom: 2px solid lightgrey;
+  border-top: 3px solid #d6d6d6;
+  border-bottom: 2px solid #d6d6d6;
   padding-top: 15px;
   padding-bottom: 15px;
   margin: 0px;
@@ -230,8 +230,40 @@ div#icon span.graph::before {
 }
 
 #left #figure_list {
-  background: green;
   height: 200px;
+}
+
+#left #figure_list ul {
+  height: 50px;
+  text-align: center;
+  overflow: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  -ms-overflow-style: none; /* hide scrollbar  for IE and Edge */
+  scrollbar-width: none; /* hide scrollbar  for Firefox */
+}
+
+#left #figure_list ul::-webkit-scrollbar {
+  display: none; /* hide scrollbar  for Chrome, Safari and Opera*/
+}
+
+#left #figure_list ul li {
+  max-width: 90px;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  transform: scale(1, 0.85);
+  overflow-y: hidden;
+  border: solid 1px #d6d6d6;
+}
+
+#left #figure_list ul li#list_selected {
+  transform: scale(1);
+}
+
+#left #figure_list ul li img {
+  max-width: 100%;
+  max-height: 100%;
 }
 
 .paper_detail div#right {
