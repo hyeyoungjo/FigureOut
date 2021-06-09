@@ -22,40 +22,40 @@ window.onload = function() {
 
             const card = document.createElement("div");
             card.className = "card";
-            const card_figure = document.createElement("figure");
-            const card_img = document.createElement("p");
-            card_img.className = "img";
-            card_img.style.background = 'url(' + thumbnailSrc + ') center no-repeat';
-            card_img.style.backgroundSize = 'cover'; // contain
-            const card_figcaption = document.createElement("figcaption");
-            const card_aside = document.createElement("aside");
-
+                const card_figure = document.createElement("figure");
+                    const card_img = document.createElement("p");
+                    card_img.className = "img";
+                    card_img.style.background = 'url(' + thumbnailSrc + ') center no-repeat';
+                    card_img.style.backgroundPosition = 'left 30%';
+                    card_img.style.backgroundSize = 'cover'; // contain
+                    
+                    const card_figcaption = document.createElement("figcaption");
+                    card_figcaption.innerHTML = '<div class="bar"> <span id="background" style="width:15%">background</span> <span id="method" style="width:15%">method</span> <span id="result" style="width:30%">result</span> <span id="discussion" style="width:35%">discussion</span> <span id="conclusion" style="width:10%">conclusion</span> </div>'
+                    + '<div class="info"> <span class="conf">' +  venue
+                    + '</span> <span class="cite"><span></span>' + id + '</span> <span class="down"><span></span>122</span> <span class="graph"><span></span>graph</span> <span class="figure"><span></span>figure</span> </div>'
+                    + '<div class="caption"> <h3>' 
+                    + title
+                    + '</h2> <ul class="authors"> <li>author1,</li> <li>author2,</li> <li>author3,</li> </ul>'
+                    + '<span class="abstract">' + abstract 
+                    + '</span> <p class="fig_des"> <span>◄</span> <span>'
+                    + 'Figure 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut'
+                    + '</span> </p> </div> <div class="figures">'
+                    + '<img src="'
+                    + thumbnailSrc
+                    + '" alt="figure 1">'
+                    + '<img src="img/1_2.png" alt="figure 2">'
+                    + '<img src="img/1_3.jpeg" alt="figure 3">'
+                    + '<img src="img/1_4.png" alt="figure 4">'
+                    + '<img src="img/1_5.png" alt="figure 5">'
+                    + '</div>';
+                
+                const card_aside = document.createElement("aside");
+                card_aside.innerHTML = '<span class="thumb"></span> <span class="cart"></span>'; 
+ 
             card_figure.appendChild(card_img);           
             card_figure.appendChild(card_figcaption);
             card.appendChild(card_figure);
             card.appendChild(card_aside);
-
-
-            card_figcaption.innerHTML = '<div class="bar"> <span id="background" style="width:15%">background</span> <span id="method" style="width:15%">method</span> <span id="result" style="width:30%">result</span> <span id="discussion" style="width:35%">discussion</span> <span id="conclusion" style="width:10%">conclusion</span> </div>'
-            + '<div class="info"> <span class="conf">' +  venue
-            + '</span> <span class="cite"><span></span>' + id + '</span> <span class="down"><span></span>122</span> <span class="graph"><span></span>graph</span> <span class="figure"><span></span>figure</span> </div>'
-            + '<div class="caption"> <h3>' 
-            + title
-            + '</h2> <ul class="authors"> <li>author1,</li> <li>author2,</li> <li>author3,</li> </ul>'
-            + '<span class="abstract">' + abstract 
-            + '</span> <p class="fig_des"> <span>◄</span> <span>'
-            + 'Figure 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut'
-            + '</span> </p> </div> <div class="figures">'
-            + '<img src="'
-            + thumbnailSrc
-            + '" alt="figure 1">'
-            + '<img src="img/1_2.png" alt="figure 2">'
-            + '<img src="img/1_3.jpeg" alt="figure 3">'
-            + '<img src="img/1_4.png" alt="figure 4">'
-            + '<img src="img/1_5.png" alt="figure 5">'
-            + '</div>';
-            card_aside.innerHTML = '<span class="thumb"></span> <span class="cart"></span>'; 
- 
             document.getElementById("mainContainer").appendChild(card);
         });
     });
