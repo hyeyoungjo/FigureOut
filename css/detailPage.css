@@ -16,15 +16,14 @@
   padding-top: 15px;
   font-size: 30px;
   line-height: normal;
-  width: 80%;
+  width: 70%;
   float: left;
   overflow: visible;
   text-transform: none;
-  text-indent: 10px;
+  padding-left: 10px;
 }
 
 .paper_info div#title aside {
-  /* background: green; */
   float: right;
   padding: 15px;
 }
@@ -32,10 +31,8 @@
 .paper_info div#title aside span.thumb {
   background: url("../img/thumb.png") center no-repeat;
   background-size: contain;
-  /* width: 100px; */
   width: 36px;
   height: 36px;
-  /* background: red; */
   margin-right: 15px;
 }
 
@@ -44,7 +41,6 @@
   background-size: contain;
   width: 36px;
   height: 36px;
-  /* background: red; */
 }
 
 .paper_info div#title aside span.thumb.active {
@@ -57,23 +53,32 @@
   background-size: contain;
 }
 
-.paper_info div#more_info {
-  list-style: none;
-  margin: 0px;
-  padding: 0px;
-  display: block;
-  overflow: auto;
-  /* background: red; */
+#subsection {
+  width: 100%;
+  /* width: 1000px; */
+  /* height: fit-content; */
+  /* background: blue; */
   border-top: 2px solid lightgrey;
   border-bottom: 2px solid lightgrey;
   padding-top: 15px;
   padding-bottom: 15px;
+  margin: 0px;
+  /* display: inline; */
+  position: relative;
+  /* background: blue; */
 }
-.paper_info div#more_info ul li.info_list {
+
+.paper_info #subsection div#more_info {
+  list-style: none;
+  overflow: auto;
+  /* background: green; */
+  width: 80%;
+}
+.paper_info #subsection div#more_info ul li.info_list {
   width: 100%;
   padding-top: 4px;
   padding-bottom: 4px;
-  text-indent: 10px;
+  padding-left: 10px;
   font-weight: bold;
 }
 
@@ -82,7 +87,6 @@
 #doi {
   display: inline;
   font-weight: normal;
-  /* background: green; */
 }
 
 #authors li {
@@ -108,6 +112,74 @@
   color: inherit;
   text-decoration: none;
 }
+
+.paper_info #subsection div#icon {
+  width: 30%;
+  position: absolute;
+  top: 15px;
+  right: 0px;
+  text-align: right;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-right: 15px;
+}
+
+.paper_info #subsection div#icon span.cite,
+span.down,
+span.graph {
+  padding-left: 35px;
+  font-size: 18px;
+}
+
+div#icon span.cite {
+  color: #4865ff;
+}
+div#icon span.cite::before {
+  content: "";
+  background: url("../img/cite.png") no-repeat 0 0;
+  background-size: 25px;
+  width: 25px;
+  height: 25px;
+  position: relative; /*or absolute*/
+  z-index: 100000; /*a number that's more than the modal box*/
+  left: -10px;
+  top: 10px;
+  display: inline-block;
+}
+
+div#icon span.down {
+  color: #8f8f8f;
+}
+
+div#icon span.down::before {
+  content: "";
+  background: url("../img/download.png") no-repeat 0 0;
+  background-size: 25px;
+  width: 25px;
+  height: 25px;
+  position: relative; /*or absolute*/
+  z-index: 100000; /*a number that's more than the modal box*/
+  left: -10px;
+  top: 10px;
+  display: inline-block;
+}
+
+div#icon span.graph {
+  color: #585858;
+}
+div#icon span.graph::before {
+  content: "";
+  background: url("../img/graph.png") no-repeat 0 0;
+  background-size: 25px;
+  width: 25px;
+  height: 25px;
+  position: relative; /*or absolute*/
+  z-index: 100000; /*a number that's more than the modal box*/
+  left: -10px;
+  top: 10px;
+  display: inline-block;
+}
+/* background: url("../img/cite.png") center no-repeat; */
 
 .paper_detail {
   width: 100%;
