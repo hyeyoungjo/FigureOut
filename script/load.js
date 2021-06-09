@@ -12,26 +12,26 @@ $.ajax({
             var $title=$(this).find("title").html();
             var $venue=$(this).find("venue").html();
             var $paperLength=$(this).find("paperlength").html();
-            var $secLength=$(this).
+            var $secLength=$(this)
             $figures
         });
-        $(list).find("items").find("item").each(function () {
-            var imgSrc = $(this).find("thumb").html();
-            var title = $(this).find("title").html();
-            var year = $(this).find("year").html();
-            $figureG += "<figure><p><img src='" + imgSrc + "'></p><figcaption><h4>" + title + "</h4></figcaption><small>" + year + "</small></figure>"
-        });
+        // $(list).find("items").find("item").each(function () {
+        //     var imgSrc = $(this).find("thumb").html();
+        //     var title = $(this).find("title").html();
+        //     var year = $(this).find("year").html();
+        //     $figureG += "<figure><p><img src='" + imgSrc + "'></p><figcaption><h4>" + title + "</h4></figcaption><small>" + year + "</small></figure>"
+        // });
 
-        $(list).find("threeD").find("item").each(function () {
-            var imgSrc = $(this).find("thumb").html();
-            var title = $(this).find("title").html();
-            var year = $(this).find("year").html();
+        // $(list).find("threeD").find("item").each(function () {
+        //     var imgSrc = $(this).find("thumb").html();
+        //     var title = $(this).find("title").html();
+        //     var year = $(this).find("year").html();
 
-            $figure3 += "<figure><p><img src='" + imgSrc + "'></p><figcaption><h4>" + title + "</h4></figcaption><small>" + year + "</small></figure>"
-        });
+        //     $figure3 += "<figure><p><img src='" + imgSrc + "'></p><figcaption><h4>" + title + "</h4></figcaption><small>" + year + "</small></figure>"
+        // });
 
-        $(".graphic_con section.thum_container").append($figureG);
-        $(".threeD_con section.thum_container").append($figure3);
+        // $(".graphic_con section.thum_container").append($figureG);
+        // $(".threeD_con section.thum_container").append($figure3);
 
     },
     error: function () {
