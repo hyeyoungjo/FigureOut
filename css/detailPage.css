@@ -193,9 +193,45 @@ div#icon span.graph::before {
 
 .paper_detail div#left {
   float: left;
-  background: red;
   width: 40%;
   height: 700px;
+  display: block;
+  padding-right: 50px;
+  padding-top: 10px;
+}
+
+#left #figure_selected {
+  min-height: 500px;
+}
+
+#figure_selected img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#figure_selected #figure_caption {
+  padding-top: 15px;
+  text-align: center;
+}
+
+#figure_selected #figure_caption::before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f0d8";
+  background-size: 25px;
+  width: 25px;
+  height: 25px;
+  position: relative; /*or absolute*/
+  z-index: 100000; /*a number that's more than the modal box*/
+  left: 0px;
+  top: 0px;
+  display: inline-block;
+  color: #ff7777;
+}
+
+#left #figure_list {
+  background: green;
+  height: 200px;
 }
 
 .paper_detail div#right {
