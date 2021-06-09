@@ -12,17 +12,22 @@
     <link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+<<<<<<< Updated upstream
 
     <script src="https://www.gstatic.com/firebasejs/8.6.5/firebase-app.js"></script>
     <!-- <script src="https://www.gstatic.com/firebasejs/8.6.5/firebase-analytics.js"></script> -->
     <script src="firebase.js"></script>
+=======
+    <!-- <script src="script/load.js"></script> -->
+    <script src="script/main.js"></script>
+>>>>>>> Stashed changes
 </head>
 
 <body>
     <div class="container">
         <nav>
             <div class="logo"></div>
-            
+
             <div class="nav_tab">
                 <a href="">Home</a>
                 <a href="">Recommendation</a>
@@ -38,12 +43,57 @@
                 <p></p>
             </div>
         </nav>
-        <section class="main">
-            <ul class="mt_80">
+        <section class="cover">
+            <ul class="mt_50">
                 <li class="pub active">publications</li>
                 <li class="aut">authors</li>
-                <li class="fil">filter</li>
+                <li class="fil">Research Fields</li>
             </ul>
+            <article class="all_figs">
+                <p class="prev">&#60;</p>
+                <p class="next">&#62;</p>
+                <div class="container list_top">
+                    <img src="img/1_1.png">
+                    <img src="img/1_2.png">
+                    <img src="img/1_3.jpeg">
+                    <img src="img/1_4.png">
+                    <img src="img/1_5.png">
+                    <img src="img/1_1.png">
+                </div>
+                <div class="container list_bottom">
+                    <img src="img/1_1.png">
+                    <img src="img/1_2.png">
+                    <img src="img/1_3.jpeg">
+                    <img src="img/1_4.png">
+                    <img src="img/1_5.png">
+                    <img src="img/1_1.png">
+                </div>
+                
+            </article>
+        </section>
+        <section class="main">
+            <div class="tags mt_80">
+                <ul>
+                    <b>Total <i>100</i> Results for : </b>
+                    <li class="active"><span>+</span>VR</li>
+                    <li class="active"><span>+</span>AR</li>
+                    <li class="active"><span>+</span>XR</li>
+                    <li class=""><span>+</span>system</li>
+                    <li class=""><span>+</span>technology</li>
+                    <li class=""><span>+</span>playing</li>
+                    <li class=""><span>+</span>AI</li>
+                    <li class=""><span>+</span>ML</li>
+                </ul>
+            </div>
+            <div class="results">
+                <span>Search Results</span>
+                <ul>
+                    Per Page :
+                    <li class="">10</li>
+                    <li class="active">20</li>
+                    <li class="">30</li>
+                </ul>
+            </div>
             <div class="list">
                 <figure>
                     <p class="img"></p>
@@ -83,7 +133,8 @@
                                 <p class="fig_des">
                                     <span>◄</span>
                                     <span>
-                                        Figure 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                        Figure 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                                        eiusmod tempor
                                         incididunt ut
                                     </span>
                                 </p>
@@ -141,7 +192,8 @@
                                 </span>
                                 <p class="fig_des">
                                     <span>◄</span>
-                                    <span>Figure 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    <span>Figure 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                                        eiusmod tempor
                                         incididunt ut
                                     </span>
                                 </p>
@@ -163,38 +215,6 @@
             </div>
         </section>
     </div>
-
-    <script>
-        $(function () {
-            //-----jquery start------
-            var imgSrc="";
-            var imgIdx=0;
-           $(".figures img").on("mouseenter", function(){
-               imgSrc= $(this).attr('src');
-               imgIdx=$(this).index()+1;
-               $(this).parents("figure").find("p.img").css("background-image","url('"+ imgSrc +"')")
-               $(this).parents("figure").find("p.fig_des span:nth-of-type(2)").html("Figure "+imgIdx+". Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp")
-           })
-           $(".list p.img").on("mouseenter", function(){
-               $(this).siblings("figcaption").find("div.figures").animate({
-                   bottom: "12px"
-               });
-               $(this).siblings("figcaption").find("span.abstract").hide();
-               $(this).siblings("figcaption").find("p.fig_des").delay(200).css("display", "flex");
-           })
-           $("figure").on("mouseleave", function(){
-               $(this).find("div.figures").animate({
-                   bottom: "-100px"
-               });
-               $(this).find("span.abstract").delay(100).show();
-               $(this).find("p.fig_des").hide();
-           })
-           $("aside span").on("click", function(){
-               $(this).toggleClass("active");
-           })
-            //-----jquery end--------
-        });
-    </script>
 
 </body>
 
