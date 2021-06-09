@@ -5,9 +5,17 @@ $.ajax({
     beforeSend: function () {},
     complete: function () {},
     success: function (list) {
-        var $figureG;
-        var $figure3;
-        $(list).find("graphic").find("item").each(function () {
+        
+        var $aside = "<aside><span class='thumb'></span><span class='cart'></span></aside>";
+
+        $(list).find("items").find("article").each(function(){
+            var $title=$(this).find("title").html();
+            var $venue=$(this).find("venue").html();
+            var $paperLength=$(this).find("paperlength").html();
+            var $secLength=$(this).
+            $figures
+        });
+        $(list).find("items").find("item").each(function () {
             var imgSrc = $(this).find("thumb").html();
             var title = $(this).find("title").html();
             var year = $(this).find("year").html();
@@ -24,17 +32,6 @@ $.ajax({
 
         $(".graphic_con section.thum_container").append($figureG);
         $(".threeD_con section.thum_container").append($figure3);
-
-        $(".graphic_con section.thum_container>figure").on("click", function () {
-            var fIdx = $(this).index() - 1;
-            var link = $(list).find("graphic item").eq(fIdx).find("link").html();
-            window.open(link);
-        });
-        $(".threeD_con section.thum_container>figure").on("click", function () {
-            var fIdx = $(this).index() - 1;
-            var link = $(list).find("threeD item").eq(fIdx).find("link").html();
-            window.open(link);
-        });
 
     },
     error: function () {
