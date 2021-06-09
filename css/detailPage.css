@@ -10,10 +10,12 @@
   width: 100%;
   display: block;
   overflow: auto;
-  background: blue;
+  /* background: blue; */
 }
 .paper_info div#title h1 {
-  font-size: 24px;
+  padding-top: 15px;
+  font-size: 30px;
+  line-height: normal;
   width: 80%;
   float: left;
   overflow: visible;
@@ -21,11 +23,37 @@
 }
 
 .paper_info div#title aside {
-  background: green;
+  /* background: green; */
   float: right;
-  width: 100px;
-  display: block;
-  overflow: auto;
+  padding: 15px;
+}
+
+.paper_info div#title aside span.thumb {
+  background: url("../img/thumb.png") center no-repeat;
+  background-size: contain;
+  /* width: 100px; */
+  width: 36px;
+  height: 36px;
+  /* background: red; */
+  margin-right: 15px;
+}
+
+.paper_info div#title aside span.cart {
+  background: url("../img/cart.png") center no-repeat;
+  background-size: contain;
+  width: 36px;
+  height: 36px;
+  /* background: red; */
+}
+
+.paper_info div#title aside span.thumb.active {
+  background: url("../img/thumb_active.png") center no-repeat;
+  background-size: contain;
+}
+
+.paper_info div#title aside span.cart.active {
+  background: url("../img/cart_active.png") center no-repeat;
+  background-size: contain;
 }
 
 .paper_info div#more_info {
