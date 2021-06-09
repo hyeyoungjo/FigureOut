@@ -52,8 +52,8 @@ fs.readdir(metaData, (err, filelist) => {
                     var newfigure = new Object();
                     newfigure.id = key;
                     newfigure.url = obj.filename + "_crop_"+key+".png";
-                    newfigure.caption = key.caption;
-                    newfigure.page = key.page;
+                    newfigure.caption = '' + jsonFig.captions[key]['caption'];
+                    newfigure.page = '' + jsonFig.captions[key]['page'];
                     figlist.push(newfigure);
                 } 
                 var temp = new Object();
