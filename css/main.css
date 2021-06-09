@@ -187,8 +187,8 @@ section.cover article.all_figs div.container{
     top: 0;
     left: 0;
 }
-section.cover article.all_figs div.container.list_top{}
-section.cover article.all_figs div.container.list_bottom{
+section.cover article.all_figs div.container.card_top{}
+section.cover article.all_figs div.container.card_bottom{
     padding-top: 6px;
     padding-bottom: 12px;
     position: absolute;
@@ -207,11 +207,11 @@ section.cover article.all_figs div.container img{
 section.cover article.all_figs div.container img:hover{
     border:2px solid #f95700;
 }
-section.cover article.all_figs div.container.list_top img:nth-of-type(even){
-    display: none;
+section.cover article.all_figs div.container.card_top img:nth-of-type(even){
+    display: ncard
 }
-section.cover article.all_figs div.container.list_bottom img:nth-of-type(odd){
-    display: none;
+section.cover article.all_figs div.container.card_bottom img:nth-of-type(odd){
+    display: ncard
 }
 
 
@@ -312,13 +312,8 @@ section.main div.results ul li.active{
     color: #fff;
 }
 
-<<<<<<< Updated upstream
-section.main div.list {
-   margin-top: 40px;
-=======
 section.main div.card {
     margin-top: 40px;
->>>>>>> Stashed changes
     width: 100%;
     height: auto;
     position: relative;
