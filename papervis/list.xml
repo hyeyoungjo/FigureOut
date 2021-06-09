@@ -1,0 +1,97 @@
+<items>
+    <article>   
+        <title>Interactive Feedforward for Improving Performance and Maintaining Intrinsic Motivation in VR Exergaming</title>
+        <venue>CHI 18</venue>
+        <year>2018</year>
+        <doi>10.1145/3173574.3173982</doi>
+        <keywords>
+            <li>Feedforward</li>
+            <li>Exergame</li>
+            <li>Virtual Reality</li>
+            <li>Performance</li>
+            <li>Intrinsic motivation</li>
+        </keywords>
+        <authors>
+            <author>Soumya C. Barathi</author>
+            <author>Daniel J. Finnegan</author>
+            <author>Matthew Farrow</author>
+        </authors>
+        <abstract>
+        Exergames commonly use low to moderate intensity exercise protocols. Their effectiveness in implementing high intensity protocols remains uncertain. We propose a method for improving performance while maintaining intrinsic motivation in high intensity VR exergaming. Our method is based on an interactive adaptation of the feedforward method: a psychophysical training technique achieving rapid improvement in performance by exposing participants to self models showing previously unachieved performance levels. We evaluated our method in a cycling-based exergame. Participants competed against (i) a self model which represented their previous speed; (ii) a self model representing their previous speed but increased resistance therefore requiring higher performance to keep up; or (iii) a virtual competitor at the same two levels of performance. We varied participants' awareness of these differences. Interactive feedforward led to improved performance while maintaining intrinsic motivation even when participants were aware of the interventions, and was superior to competing against a virtual competitor.
+        </abstract>
+        <paperLength>
+            6896
+        </paperLength>
+        <sections>
+            <section>
+                <secIndex>0</secIndex>
+                <secTitle>Introduction</secTitle>
+                <wordCount>1500</wordCount>
+            </section>   
+            <section>
+                <secIndex>1</secIndex>
+                <secTitle>Related Work</secTitle>
+                <wordCount>1119</wordCount>
+            </section>
+            <section>
+                <secIndex>2</secIndex>
+                <secTitle>Exergame Design</secTitle>
+                <wordCount>693</wordCount>
+            </section>
+            <section>
+                <secIndex>3</secIndex>
+                <secTitle>Experimental Design</secTitle>
+                <wordCount>1712</wordCount>
+            </section>
+            <section>
+                <secIndex>4</secIndex>
+                <secTitle>Results</secTitle>
+                <wordCount>823</wordCount>
+            </section>
+            <section>
+                <secIndex>5</secIndex>
+                <secTitle>Discussion</secTitle>
+                <wordCount>1049</wordCount>
+            </section>
+        </sections>
+        <figures>
+            <figure>
+                <url>"papervis/crops/2662155.2662246_crop_1.png"</url>
+                <caption>Figure 1.  A virtual window moved at slow speed and during an eye blink to unobtrusively manipulate users\u2019 posture.  With two perception threshold \nstudies, We estimated unnoticeable motion speed and displacement per blink.  The formative study showed that unobtrusive motions triggered body \nmovements in a sequence (neck, torso, and chair) without affecting users\u2019 performance. \n
+                </caption>
+            </figure>
+            <figure>
+                <url>"papervis/crops/2662155.2662246_crop_2.png"</url>
+                <caption>Figure  2.  We  tested  six  blocks  of  motion:  three  translations  {BTX \n(left, right), BTY (up, down), BTZ (forward, backward)} and three ro-\ntations  {BRX  (up,  down),  BRY  (left,  right),  BRZ  (clockwise,  counter-\nclockwise)}. \n
+                </caption>
+            </figure>
+            <figure>
+                <url>"papervis/crops/2662155.2662246_crop_3.png"</url>
+                <caption>Figure 3.  Based on ergonomics guidelines,  we positioned the virtual window within a comfortable viewing distance and angle.  The 0.73 by 0.73 m \nwindow was placed at 6 degrees below and 2 meters away from the eyes. \n
+                </caption>
+            </figure>
+            <figure>
+                <url>"papervis/crops/2662155.2662246_crop_4.png"</url>
+                <caption>Figure 4.  The plotted result of users\u2019 detection threshold on constant slow translations (up) and rotations (bottom):  The x-axis shows motion speeds, \nand the y-axis shows the probability of the participants\u2019 responses for observed motion direction. The psychometric function shows upper threshold (p \n= 75%) for positive direction and lower threshold (p = 25%) for negative direction. Speeds within the blue area are considered unobtrusive. \n
+                </caption>
+            </figure>
+            <figure>
+                <url>"papervis/crops/2662155.2662246_crop_5.png"</url>
+                <caption>Figure 5.  The plotted result of users\u2019 detection threshold on the translations (up) and rotations (down) during a blink:  Displacements within the blue \narea are considered unobtrusive. \n
+                </caption>
+            </figure>
+            <figure>
+                <url>"papervis/crops/2662155.2662246_crop_6.png"</url>
+                <caption>Figure 6. We measured the participants\u2019 IPD with a wearable ruler and \nadjusted the HMD (top). We logged the participants\u2019 motion with HMD \nand each tracker on their chest as well as the chair (bottom). \n
+                </caption>
+            </figure>
+            <figure>
+                <url>"papervis/crops/2662155.2662246_crop_7.png"</url>
+                <caption>Figure  7.  We  manipulated  participants\u2019  posture  from  upright  sitting \nto  leaning  left  (A),  forward  (B),  and  backward  (C).  For  each  posture \nmanipulation, we compared three conditions: not-moving as the baseline \nbehavior, swift motion, and unobtrusive motion. \n
+                </caption>
+            </figure>
+            
+        </figures>
+
+    </article>
+</items>
