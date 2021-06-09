@@ -1,0 +1,13 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503 Design Project 1/_PaperVis/papers/chi2020/3313831.3376821.pdf",
+    "paper_id": "3313831.3376821",
+    "venue": "chi2020",
+    "keywords": [
+        "Redirected Walking",
+        "Virtual Reality",
+        "Telewalk"
+    ],
+    "doi": "10.1145/3313831.3376821",
+    "paragraph_containing_keyword": "we found that even though motion sickness susceptible participants \nreported respective symptoms, Telewalk did result in stronger feel-\nings of presence and immersion and was seen as more natural then \nTeleportation. \nCCS CONCEPTS \n\u2022 Human-centered computing \u2192 Virtual reality. \nKEYWORDS \nRedirected Walking; Virtual Reality; Telewalk \nACM Reference Format: \nMichael Rietzler, Martin Deubzer, Thomas Dreja, and Enrico Rukzio. 2020. \nTelewalk: Towards Free and Endless Walking in Room-Scale Virtual Reality. \nIn CHI Conference on Human Factors in Computing Systems (CHI \u201920), \nApril 25\u201330, 2020, Honolulu, HI, USA. ACM, New York, NY, USA, 9 pages. \nhttps://doi.org/10.1145/3313831.3376821",
+    "paragraph_after_keyword": "1  INTRODUCTION \nNavigating inside virtual worlds is challenging to realize, since the \nscale of the virtual world does not necessarily match the one of the \nreal world. When consuming VR content in a room-scale application, \nthe available real world space does seldom exceed 3m x 3m. The \ncurrent solution to allow navigation within such a small space is"
+}

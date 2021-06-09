@@ -1,0 +1,116 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/VR_2017/Vremiere- In-Headset Virtual Reality Video Editing.pdf",
+    "paper_id": "Vremiere- In-Headset Virtual Reality Video Editing",
+    "venue": "VR_2017",
+    "keywords": [
+        "Virtual reality",
+        "Video editing"
+    ],
+    "paragraph_containing_keyword": "Author Keywords\nVirtual reality; video editing",
+    "paragraph_after_keyword": "INTRODUCTION\nVirtual Reality (VR) video is emerging as a new medium for\nshared, creative experiences. VR video speci\ufb01cally means\nspherical panorama (full or partial) video viewed within a\nhead-mounted display. Filmmakers use multi-camera rigs to\ncapture spherical videos and then edit them with standard\nvideo production software such as Adobe Premiere or Apple\nFinal Cut Pro. However, these tools only support editing VR\nvideo in its \ufb02attened equirectangular projection format (Figure\n1). One prominent director describes her \ufb01rst experience with\nediting spherical video:",
+    "doi": "10.1145/3025453.3025675",
+    "sections": [
+        {
+            "word_count": 618,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 234,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 1364,
+            "figure_citations": {},
+            "section_index": 2,
+            "title": "VR PROFESSIONAL INTERVIEWS"
+        },
+        {
+            "word_count": 2961,
+            "figure_citations": {
+                "2": [
+                    "Figure 2 presents the main timeline interface for our system, which is overlaid on a spherical video view.",
+                    "Figure 2D.",
+                    "Figure 2D.",
+                    "Figure 2D.",
+                    "Figure 2C \"Graphics\" track), and bookmarks can be placed on the video as well (Figure 2D.",
+                    "Figure 2B).",
+                    "Figure 2 D.",
+                    "Figure 2 D."
+                ],
+                "3": [
+                    "Figure 3).",
+                    "Figure 3, the user quickly maps her current view in the video with the view in the visualization; she can also spot the jumping lady behind her that she might have not noticed before."
+                ],
+                "4": [
+                    "Figure 4)."
+                ],
+                "5": [
+                    "Figure 5B).",
+                    "Figure 5C, the user has aligned the ski lift before the cut to the skier after the clip, rather than transitioning from the ski lift to an empty view.",
+                    "Figure 5B).",
+                    "Figure 5B, if the toggle is off, the user can change the rotation of each video individually; otherwise, rotating the blue (ski_1) video will also rotate the red video (ski_2) by the same amount."
+                ],
+                "6": [
+                    "Figure 6 left).",
+                    "Figure 6, the editor can easily position the logo image on the parachute (Figure 6 right), which is difficult on the desktop due to distortion (Figure 6 left)."
+                ],
+                "7": [
+                    "Figure 7, Figure 2 D."
+                ]
+            },
+            "section_index": 3,
+            "title": "THE VREMIERE SYSTEM"
+        },
+        {
+            "word_count": 1430,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "EXPERT REVIEW"
+        },
+        {
+            "word_count": 716,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 185,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 66,
+            "figure_citations": {
+                "1": [
+                    "Figure 1, 4 and 5 use images from YouTube users TOYO TIRES JAPAN and \u00c1baco Digital Zaragoza under a Creative Commons license."
+                ],
+                "6": [
+                    "Figure 6 and 7 use images with permission from Youtube users P J Orravan and Jacob Phillips."
+                ]
+            },
+            "section_index": 7,
+            "title": "ACKNOWLEDGMENTS"
+        },
+        {
+            "word_count": 877,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Vremiere: In-Headset Virtual Reality Video Editing",
+    "authors": "Cuong Nguyen, Stephen DiVerdi, Aaron Hertzmann, Feng Liu",
+    "abstract": "Creative professionals are creating Virtual Reality (VR) experiences today by capturing spherical videos, but video editing is still done primarily in traditional 2D desktop GUI applications such as Premiere. These interfaces provide limited capabilities for previewing content in a VR headset or for directly manipulating the spherical video in an intuitive way. As a result, editors must alternate between editing on the desktop and previewing in the headset, which is tedious and interrupts the creative process. We demonstrate an application that enables a user to directly edit spherical video while fully immersed in a VR headset. We first interviewed professional VR filmmakers to understand current practice and derived a suitable workflow for in-headset VR video editing. We then developed a prototype system implementing this new workflow. Our system is built upon a familiar timeline design, but is enhanced with custom widgets to enable intuitive editing of spherical video inside the headset. We conducted an expert review study and found that with our prototype, experts were able to edit videos entirely within the headset. Experts also found our interface and widgets useful, providing intuitive controls for their editing needs.",
+    "publication": {
+        "venue": "CHI '17",
+        "venue_full": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+        "year": "2017",
+        "date": "2017/5/2"
+    },
+    "version": 4
+}

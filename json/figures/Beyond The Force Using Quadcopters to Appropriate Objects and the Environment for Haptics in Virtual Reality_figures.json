@@ -1,0 +1,371 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1: Haptic interactions using a quadcopter. Left: user touching fabrics attached to the quad for texture rendering. Middle:\nuser picking up a physical hanger attached to the quad. Right: user picking up the turned off quad as a passive haptic device.\n",
+            "bbox": [
+                53.798,
+                358.068854,
+                559.3280138639999,
+                377.993854
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2: Affordances of quadcopters as haptic devices in VR,\nfocused on force feedback: (a) weight simulation (b) surface\nstiffness simulation (c) lateral force feedback.\n",
+            "bbox": [
+                53.798,
+                405.158854,
+                295.12685600000003,
+                436.04285400000003
+            ],
+            "page": "4"
+        },
+        "3": {
+            "caption": "Figure 3: We present three techniques for appropriating ob-\njects and the environment: (a) dynamic positioning of pas-\nsive haptics (b) texture mapping (c) animating passive props.\n",
+            "bbox": [
+                317.955,
+                578.224854,
+                559.794918,
+                609.107854
+            ],
+            "page": "4"
+        },
+        "4": {
+            "caption": "Figure 4: Based on the prediction algorithm, the closest ren-\nderable patch is shown to the user.\n",
+            "bbox": [
+                53.798,
+                132.132854,
+                295.637918,
+                152.05785400000002
+            ],
+            "page": "5"
+        },
+        "5": {
+            "caption": "Figure 5: Visuo-haptic illusions are used to compensate for\nlack of control accuracy. (a) Quad is accurately positioned\nand no illusion is needed. (b) To correct for the position off-\nset, as the virtual hand touches the virtual target, body warp-\ning is used to retarget the hand towards the quad.\n",
+            "bbox": [
+                317.955,
+                265.222854,
+                559.794918,
+                318.024854
+            ],
+            "page": "5"
+        },
+        "6": {
+            "caption": "Figure 6: The emergency scene: the box in the center rep-\nresents the current position of the quadcopter and warning\nsigns pointing towards the quad are placed around the user.\n",
+            "bbox": [
+                317.955,
+                156.689854,
+                559.794918,
+                187.573854
+            ],
+            "page": "6"
+        },
+        "7": {
+            "caption": "Figure 7: Upon the quad\u2019s arrival the patch is highlighted in\ngreen, indicating that the user can touch the virtual object.\n",
+            "bbox": [
+                53.798,
+                618.567854,
+                294.033004,
+                638.492854
+            ],
+            "page": "7"
+        },
+        "8": {
+            "caption": "Figure 8: Safe-to-touch quadcopter with the protective cage.\n",
+            "bbox": [
+                53.798,
+                156.846854,
+                294.03300399999995,
+                165.81285400000002
+            ],
+            "page": "7"
+        },
+        "9": {
+            "caption": "Figure 9: Virtual boutique scene.\n",
+            "bbox": [
+                372.382,
+                559.170854,
+                503.76976399999995,
+                568.136854
+            ],
+            "page": "8"
+        },
+        "10": {
+            "caption": "Figure 10: Experimental Setup.\n",
+            "bbox": [
+                375.812,
+                192.916854,
+                500.34077399999995,
+                201.882854
+            ],
+            "page": "8"
+        },
+        "12": {
+            "caption": "Figure 12: Animating passive props: user picking up a\nhanger and dropping it in the shopping basket.\n",
+            "bbox": [
+                317.955,
+                406.927854,
+                558.190004,
+                426.85285400000004
+            ],
+            "page": "9"
+        },
+        "11": {
+            "caption": "Figure 11: Texture rendering: user feeling the material of a\nscarf and a shirt.\n",
+            "bbox": [
+                53.798,
+                178.057854,
+                294.03300399999995,
+                197.982854
+            ],
+            "page": "9"
+        },
+        "13": {
+            "caption": "Figure 13: Dynamic positioning of passive haptics: quad\nlanding on a table in the room to render a shoebox, and user\npicking up the shoebox.\n",
+            "bbox": [
+                317.955,
+                68.79285399999999,
+                558.3782900000001,
+                99.67685399999999
+            ],
+            "page": "9"
+        },
+        "14": {
+            "caption": "Figure 14: Affordances of multiple quads for haptics in VR:\n(a) complex geometry and (b) continuous surface rendering.\n",
+            "bbox": [
+                317.67699999999996,
+                165.489854,
+                559.337652,
+                185.41485400000002
+            ],
+            "page": "11"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                144.4388888888889,
+                628.7471666666665,
+                1555.5819444444444,
+                1119.65275
+            ],
+            "bbox": [
+                53.798,
+                390.72501,
+                558.2094999999999,
+                563.8510200000001
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                144.34098972222222,
+                1711.3068558333332,
+                432.74641222222226,
+                1819.3814933333333
+            ],
+            "bbox": [
+                53.7627563,
+                138.8226624,
+                153.9887084,
+                174.12953190000002
+            ],
+            "page": "1"
+        },
+        "3": {
+            "crop_coord": [
+                144.43890055555556,
+                779.9369472222222,
+                821.7733936111111,
+                958.4055497222222
+            ],
+            "bbox": [
+                53.7980042,
+                448.7740021,
+                294.0384217,
+                509.422699
+            ],
+            "page": "4"
+        },
+        "4": {
+            "crop_coord": [
+                878.2083383333334,
+                252.3721569444445,
+                1555.542831388889,
+                477.6666769444443
+            ],
+            "bbox": [
+                317.9550018,
+                621.8399963,
+                558.1954193,
+                699.3460235
+            ],
+            "page": "4"
+        },
+        "5": {
+            "crop_coord": [
+                144.43890055555556,
+                1474.8687827777776,
+                821.7724186111111,
+                1747.2527736111113
+            ],
+            "bbox": [
+                53.7980042,
+                164.7890015,
+                294.0380707,
+                259.2472382
+            ],
+            "page": "5"
+        },
+        "6": {
+            "crop_coord": [
+                878.2083383333334,
+                900.8832380555555,
+                1555.5359225,
+                1286.2333425
+            ],
+            "bbox": [
+                317.9550018,
+                330.7559967,
+                558.1929321,
+                465.8820343
+            ],
+            "page": "5"
+        },
+        "7": {
+            "crop_coord": [
+                878.2083383333334,
+                1417.6784599999999,
+                1555.5305394444445,
+                1648.5972425
+            ],
+            "bbox": [
+                317.9550018,
+                200.3049927,
+                558.1909942,
+                279.83575440000004
+            ],
+            "page": "6"
+        },
+        "8": {
+            "crop_coord": [
+                144.43890055555556,
+                252.372495833333,
+                821.7440627777777,
+                396.0444472222222
+            ],
+            "bbox": [
+                53.7980042,
+                651.223999,
+                294.0278626,
+                699.3459015000001
+            ],
+            "page": "7"
+        },
+        "9": {
+            "crop_coord": [
+                144.43890055555556,
+                1507.4520194444444,
+                821.7917463888889,
+                1709.0416716666666
+            ],
+            "bbox": [
+                53.7980042,
+                178.5449982,
+                294.0450287,
+                247.517273
+            ],
+            "page": "7"
+        },
+        "10": {
+            "crop_coord": [
+                878.2083383333334,
+                252.37096999999972,
+                1555.5283355555555,
+                591.4749908333332
+            ],
+            "bbox": [
+                317.9550018,
+                580.8690033,
+                558.1902008,
+                699.3464508000001
+            ],
+            "page": "8"
+        },
+        "11": {
+            "crop_coord": [
+                878.2083383333334,
+                1378.6289299999999,
+                1555.5611841666666,
+                1608.8500044444443
+            ],
+            "bbox": [
+                317.9550018,
+                214.6139984,
+                558.2020262999999,
+                293.8935852
+            ],
+            "page": "8"
+        },
+        "12": {
+            "crop_coord": [
+                144.43890055555556,
+                1129.3513066666667,
+                821.7724186111111,
+                1619.6833208333333
+            ],
+            "bbox": [
+                53.7980042,
+                210.7140045,
+                294.0380707,
+                383.6335296
+            ],
+            "page": "9"
+        },
+        "13": {
+            "crop_coord": [
+                878.2083383333334,
+                494.13033388888897,
+                1555.541856388889,
+                983.9333344444444
+            ],
+            "bbox": [
+                317.9550018,
+                439.5839996,
+                558.1950683,
+                612.3130798
+            ],
+            "page": "9"
+        },
+        "14": {
+            "crop_coord": [
+                878.2083383333334,
+                1401.1010572222222,
+                1555.541856388889,
+                1892.7555422222222
+            ],
+            "bbox": [
+                317.9550018,
+                112.4080048,
+                558.1950683,
+                285.8036194
+            ],
+            "page": "9"
+        },
+        "15": {
+            "crop_coord": [
+                878.2083383333334,
+                1427.7275594444445,
+                1555.542831388889,
+                1654.591657777778
+            ],
+            "bbox": [
+                317.9550018,
+                198.1470032,
+                558.1954193,
+                276.2180786
+            ],
+            "page": "11"
+        }
+    }
+}

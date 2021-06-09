@@ -1,0 +1,281 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure  1.  VRSketchIn  is  an  (a)  immersive  sketching  application  combining  (b)  unconstrained  3D  mid-air  sketching  with  a  pen  and  (c)  constrained \nsurface-based sketching with pen on tablet. We created a design space and describe multiple interaction metaphors such as drawing surfaces (c) or World \nIn Miniature (d) to enable a combination of 2D and 3D mid-air sketching. \n",
+            "bbox": [
+                53.92899999999999,
+                346.7725241,
+                566.1593569,
+                372.6753491
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2. A design space for pen- and tablet-based VR sketching applica\u00ad\ntions. Interaction metaphors are categorized into cells of this space by se\u00ad\nlecting the appropriate input devices (D1) and sketching operations (D2) \nparameters (P). This matrix was created during a morphological analysis. \n",
+            "bbox": [
+                53.929,
+                598.4111616000001,
+                300.38840229999994,
+                633.2803491
+            ],
+            "page": "5"
+        },
+        "3": {
+            "caption": "Figure 3. A populated version of our design space for pen- and tablet-based sketching that shows (1) the classi\ufb01cation of interaction metaphors, (2) the \nclassi\ufb01cation of prior art, (3) the de\ufb01ned interaction metaphor groups, and (4) the interaction metaphors implemented in VRSketchIn. Due to space \nconstraints, we had to split the design space into two parts. This is only a visualization. \n",
+            "bbox": [
+                53.928999999999974,
+                418.0125241,
+                566.1593569,
+                443.9153491
+            ],
+            "page": "6"
+        },
+        "5": {
+            "caption": "Figure  5.  3D  Mid-Air  Sketching.  a)  Pen-based  mid-air  drawing  in  the \nimmersive environment. b) Pen-based mid-air object selection. \n",
+            "bbox": [
+                321.094,
+                438.9158866,
+                566.1586348,
+                455.8523491
+            ],
+            "page": "7"
+        },
+        "6": {
+            "caption": "Figure  6.  Gizmos.  a)  The  translation  gizmo  activated  for  the  selected \nstroke. b) The rotation gizmo for the same stroke. \n",
+            "bbox": [
+                321.094,
+                302.33788660000005,
+                566.1586347999998,
+                319.27434910000005
+            ],
+            "page": "7"
+        },
+        "4": {
+            "caption": "Figure 4. Our setup (c) consisted of an HMD, a tablet, and a pen (a). We \n3D  printed  a  pen  case  and  combined  the  graphical  pen  with  wireless \nbuttons (b). All devices were motion tracked using OptiTrack [42]. \n",
+            "bbox": [
+                53.929,
+                547.9855241,
+                298.9936348,
+                573.8883490999999
+            ],
+            "page": "7"
+        },
+        "7": {
+            "caption": "Figure 7. Drawing Surfaces. a) New drawing surfaces can be created by \nplacing them in space with the tablet position and orientation. The scale \nand the distance are set by sliding the pen on the tablet. A preview of the sli\u00ad\nced objects is provided on the tablet. b) Sketching on the tablet creates sto\u00ad\nkes in mid-air that lie on the de\ufb01ned surface. Gridlines can be activated. \n",
+            "bbox": [
+                53.929,
+                464.5427991,
+                299.27258830000005,
+                508.37834910000004
+            ],
+            "page": "8"
+        },
+        "8": {
+            "caption": "Figure 8. World In Miniature. a) WIM provides a miniaturized view of \nthe whole space in the vicinity of the user and attaches it to the tablet. \nb) It is possible to use all interaction metaphors inside WIM such as the \nrotation gizmo. \n",
+            "bbox": [
+                321.094,
+                597.9731616000001,
+                567.5534022999999,
+                632.8423491
+            ],
+            "page": "8"
+        },
+        "9": {
+            "caption": "Figure 9. a) Portals can be places in space and provide a virtual camera \nthat is visible on the tablet. b) Primitives can be extruded to create solid \nobjects. \n",
+            "bbox": [
+                321.094,
+                317.95152410000003,
+                566.1586348,
+                343.85434910000004
+            ],
+            "page": "8"
+        },
+        "10": {
+            "caption": "Figure  10.  Con\ufb01guration  Menu.  Besides  the  permanently  available \nphysical tablet with two hardware buttons and the \ufb02oating buttons, all \nother  controls  are  accessible  via  the  con\ufb01guration  menu  on  the  tablet. \nIcons \u00a9 icons8.com. Used under CC BY-ND 3.0. [26] \n",
+            "bbox": [
+                53.929,
+                516.5361616000001,
+                300.3884023,
+                551.4053491
+            ],
+            "page": "9"
+        },
+        "11": {
+            "caption": "Figure 11. Islands with beach houses created by our participants during the usability walkthrough (P2: (a), P1: (b), P5: (c)). \n",
+            "bbox": [
+                103.281,
+                621.2732490999999,
+                516.8096384999998,
+                629.2433490999999
+            ],
+            "page": "10"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                144.80278027777777,
+                585.2738783333336,
+                1572.1684266666666,
+                1156.8611061111112
+            ],
+            "bbox": [
+                53.9290009,
+                377.3300018,
+                564.1806336,
+                579.5014037999999
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2275989444447,
+                830.0036845555555,
+                432.9583400000001
+            ],
+            "bbox": [
+                53.9290009,
+                637.9349976,
+                297.00132644,
+                729.63806438
+            ],
+            "page": "5"
+        },
+        "3": {
+            "crop_coord": [
+                144.80278027777777,
+                168.227323888889,
+                1572.117785833333,
+                958.9749994444444
+            ],
+            "bbox": [
+                53.9290009,
+                448.5690002,
+                564.1624029,
+                729.6381633999999
+            ],
+            "page": "6"
+        },
+        "4": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22502138888885,
+                829.9653288888888,
+                597.9361130555554
+            ],
+            "bbox": [
+                53.9290009,
+                578.5429993,
+                296.9875184,
+                729.6389923
+            ],
+            "page": "7"
+        },
+        "5": {
+            "crop_coord": [
+                886.9277613888887,
+                659.8778280555555,
+                1572.0984055555557,
+                925.8166758333333
+            ],
+            "bbox": [
+                321.0939941,
+                460.5059967,
+                564.155426,
+                552.6439819
+            ],
+            "page": "7"
+        },
+        "6": {
+            "crop_coord": [
+                886.9277613888887,
+                1039.2583719444444,
+                1572.0984055555557,
+                1305.1972197222224
+            ],
+            "bbox": [
+                321.0939941,
+                323.9290009,
+                564.155426,
+                416.0669861
+            ],
+            "page": "7"
+        },
+        "7": {
+            "crop_coord": [
+                144.80278027777777,
+                513.9694722222223,
+                829.9734244444445,
+                779.90832
+            ],
+            "bbox": [
+                53.9290009,
+                513.0330048,
+                296.9904328,
+                605.17099
+            ],
+            "page": "8"
+        },
+        "8": {
+            "crop_coord": [
+                886.9277613888887,
+                168.23616888888887,
+                1572.0984055555557,
+                434.17501666666686
+            ],
+            "bbox": [
+                321.0939941,
+                637.496994,
+                564.155426,
+                729.6349792
+            ],
+            "page": "8"
+        },
+        "9": {
+            "crop_coord": [
+                886.9277613888887,
+                970.9805891666667,
+                1572.0984055555557,
+                1236.9194369444444
+            ],
+            "bbox": [
+                321.0939941,
+                348.5090027,
+                564.155426,
+                440.6469879
+            ],
+            "page": "8"
+        },
+        "10": {
+            "crop_coord": [
+                178.56386833333332,
+                294.01080666666684,
+                796.2165325000001,
+                660.3916508333334
+            ],
+            "bbox": [
+                66.0829926,
+                556.0590057,
+                284.8379517,
+                684.3561096
+            ],
+            "page": "9"
+        },
+        "11": {
+            "crop_coord": [
+                144.80278027777777,
+                168.23383750000028,
+                1572.0814091666666,
+                438.63889055555575
+            ],
+            "bbox": [
+                53.9290009,
+                635.8899994,
+                564.1493073,
+                729.6358184999999
+            ],
+            "page": "10"
+        }
+    }
+}

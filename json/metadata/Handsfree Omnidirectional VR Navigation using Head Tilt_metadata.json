@@ -1,0 +1,73 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/VR_2017/Handsfree Omnidirectional VR Navigation using Head Tilt.pdf",
+    "paper_id": "Handsfree Omnidirectional VR Navigation using Head Tilt",
+    "venue": "VR_2017",
+    "keywords": [
+        "Virtual reality",
+        "Locomotion",
+        "Mobile VR",
+        "Walking-in-place",
+        "Head-tilt",
+        "Simulator-sickness",
+        "Games",
+        "Inertial sensing"
+    ],
+    "paragraph_containing_keyword": "ABSTRACT\nNavigating mobile virtual reality (VR) is a challenge due to\nlimited input options and/or a requirement for handsfree inter-\naction. Walking-in-place (WIP) is considered to offer a higher\npresence than controller input but only allows unidirectional\nnavigation in the direction of the user\u2019s gaze\u2013which impedes\nnavigation ef\ufb01ciency. Leaning input enables omnidirectional\nnavigation but currently relies on bulky controllers, which\naren\u2019t feasible in mobile VR contexts. This note evaluates\nthe use of head-tilt \u2013implemented using inertial sensing\u2013 to\nallow for handsfree omnidirectional VR navigation on mobile\nVR platforms. A user study with 24 subjects compared three\ninput methods using an obstacle avoidance navigation task: (1)\nhead-tilt alone (TILT); (2) a hybrid method (WIP-TILT) that uses\nhead tilting for direction and WIP to control speed; and (3)\ntraditional controller input. TILT was signi\ufb01cantly faster than\nWIP-TILT and joystick input, while WIP-TILT and TILT offered\nthe highest presence. There was no difference in cybersickness\nbetween input methods.\nACM Classi\ufb01cation Keywords\nI.3.7 Graphics: 3D Graphics and Realism\u2013Virtual Reality;\nAuthor Keywords\nVirtual reality; locomotion; mobile VR; walking-in-place;\nhead-tilt; simulator-sickness; games; inertial sensing.\nINTRODUCTION\nVirtual reality (VR) has recently enjoyed signi\ufb01cant commer-\ncial success, but virtual navigation has remained a challenge\n[8, 23]. Low-cost VR smartphone adapters, like Google Card-\nboard [4] have the potential to bring VR to the masses, but\ntheir current input options are limited [32]. Positional tracking\ninput generally delivers the most immersive experiences with a\nlow possibility of inducing cybersickness [33, 28]. Positional\ntracking generally isn\u2019t available on mobile VR platforms, as\nit is computationally intensive and requires a depth camera\nto reliably track movement, which aren\u2019t available on smart-\nphones. Another constraint for Cardboard is the lack of a\nhead-strap; which forces users to hold the adapter with both\nhands and limits the rotation speed of the head to the torso to\nminimize cybersickness [4]. Though useful\u2013 this constraint\nprevents using a controller for navigation.\nPermission to make digital or hard copies of all or part of this work for personal or\nclassroom use is granted without fee provided that copies are not made or distributed\nfor pro\ufb01t or commercial advantage and that copies bear this notice and the full citation\non the \ufb01rst page. Copyrights for components of this work owned by others than the\nauthor(s) must be honored. Abstracting with credit is permitted. To copy otherwise, or\nrepublish, to post on servers or to redistribute to lists, requires prior speci\ufb01c permission\nand/or a fee. Request permissions from permissions@acm.org.\nCHI 2017, May 06 - 11, 2017, Denver, CO, USA\n\u00a9 2017 Copyright held by the owner/author(s). Publication rights licensed to ACM.\nISBN 978-1-4503-4655-9/17/05. . . $15.00\nDOI: http://dx.doi.org/10.1145/3025453.3025521",
+    "doi": "10.1145/3025453.3025521",
+    "paragraph_after_keyword": "Figure 1. Head tilt is used to indicate the direction of travel\nWalking-in-place (WIP) closely mimics walking, e.g., users\nprovide step-like motions while remaining stationary [29].\nWIP closely approximates real walking input in terms of per-\nformance [25] and presence [27]. Compared to a controller,\nWIP is handsfree; offers higher presence [33]; improves spa-\ntial orientation [19]; and is less likely to induce cybersickness\n[16], because of the generation of proprioceptive feedback.\nHowever, a controller allows for 360\u25e6 omnidirectional nav-\nigation, where WIP only navigates users in the direction of\ntheir gaze. This impedes navigation ef\ufb01ciency, for example,\nif a user wants to back up a little bit, it requires them to turn\naround, move forward, turn around again and then move to\nwhere they want to be. Because prior studies [25, 13, 27,\n37] have only evaluated navigation tasks that include forward\nmotion, they \ufb01nd a similar performance for WIP as controller\ninput. However, these results are misleading, as VR naviga-\ntion also contains lateral movements [15] and controller input\noutperforms WIP as it allows omnidirectional navigation.\nAs a result of bipedalism, humans lean their body in the di-\nrection they walk; to align with the gravitational vertical [14].\nLeaning interfaces exploit this characteristic and are widely\nused, for example, in popular hoverboards. Leaning interfaces\nhave been explored for virtual navigation [36, 22]. Like a con-\ntroller they offer omnidirectional navigation with a signi\ufb01cant\ndifference that leaning interfaces are handsfree. Controller in-\nput is faster but leaning interfaces offer a higher presence [36]\nbecause they generate vestibular feedback. Current leaning\ninterfaces are dif\ufb01cult to enable on mobile VR platforms, as\nthey rely on bulky sensors [36, 22, 12].\nThis note explores augmenting gaze-based navigation with\nhead-tilt input to enable handsfree omnidirectional VR nav-\nigation. Because head-tilt is similar to whole body leaning,\nwe anticipate that similar to prior results [36] it could offer a\nhigher presence than controller input. To improve WIP, we\nevaluate a hybrid method (WIP-TILT) that uses head tilt to in-\ndicate a direction of travel and WIP to control locomotion\nspeed. WIP-TILT is novel in that it offers both proprioceptive\nand vestibular feedback and thus approximates real walking\ninput much more closely than current WIP implementations;\nwhich could improve presence and reduce cybersickness.",
+    "sections": [
+        {
+            "word_count": 642,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 1075,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "BACKGROUND"
+        },
+        {
+            "word_count": 883,
+            "figure_citations": {
+                "4": [
+                    "Figure 4 shows the corridor and a visualization of colliding into an obstacle."
+                ],
+                "3": [
+                    "Figure 3)."
+                ]
+            },
+            "section_index": 2,
+            "title": "EVALUATION"
+        },
+        {
+            "word_count": 553,
+            "figure_citations": {},
+            "section_index": 3,
+            "title": "TILT"
+        },
+        {
+            "word_count": 611,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "DISCUSSION AND LIMITATIONS"
+        },
+        {
+            "word_count": 1137,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Handsfree Omnidirectional VR Navigation using Head Tilt",
+    "authors": "Sam Tregillus, Majed Al Zayer, Eelke Folmer",
+    "abstract": "Navigating mobile virtual reality (VR) is a challenge due to limited input options and/or a requirement for handsfree interaction. Walking-in-place (WIP) is considered to offer a higher presence than controller input but only allows unidirectional navigation in the direction of the user's gaze--which impedes navigation efficiency. Leaning input enables omnidirectional navigation but currently relies on bulky controllers, which aren't feasible in mobile VR contexts. This note evaluates the use of head-tilt - implemented using inertial sensing - to allow for handsfree omnidirectional VR navigation on mobile VR platforms. A user study with 24 subjects compared three input methods using an obstacle avoidance navigation task: (1) head-tilt alone (TILT) (2) a hybrid method (WIP-TILT) that uses head tilting for direction and WIP to control speed; and (3) traditional controller input. TILT was significantly faster than WIP-TILT and joystick input, while WIP-TILT and TILT offered the highest presence. There was no difference in cybersickness between input methods.",
+    "publication": {
+        "venue": "CHI '17",
+        "venue_full": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+        "year": "2017",
+        "date": "2017/5/2"
+    },
+    "version": 4
+}

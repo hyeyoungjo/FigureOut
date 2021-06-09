@@ -1,0 +1,236 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1. A person in Virtual Reality, using their feet for teleportation while simultaneously using their hands for interaction. \n",
+            "bbox": [
+                96.805,
+                399.91927,
+                523.2796999999997,
+                407.88926999999995
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2.  Illustration of the different direction input methods.  a) inter \nfeet direction b) foot direction c) Point and lean \n",
+            "bbox": [
+                53.928999999999974,
+                620.05126,
+                298.99055999999996,
+                637.0512699999999
+            ],
+            "page": "3"
+        },
+        "3": {
+            "caption": "Figure 3. Illustration of the different distance input methods. a) forefoot \nlift b) inter feet distance c) intra foot pressure \n",
+            "bbox": [
+                321.094,
+                619.64726,
+                566.15556,
+                636.6472699999999
+            ],
+            "page": "3"
+        },
+        "4": {
+            "caption": "Figure 4.  The inside of our prototype with two visible sensors (left), the \ntop sole with the four pins (middle) and an example of how the prototype \nis worn (right) \n",
+            "bbox": [
+                53.929,
+                584.20177,
+                298.99056,
+                610.1042699999999
+            ],
+            "page": "4"
+        },
+        "5": {
+            "caption": "Figure 5. Screenshot of our testing environment, showing a target and a \nteleport being performed. \n",
+            "bbox": [
+                53.929,
+                536.67302,
+                298.99055999999996,
+                553.6092699999999
+            ],
+            "page": "5"
+        },
+        "6": {
+            "caption": "Figure 6. Error in position, measured between the target center and the \nparticipants\u2019 active foot. \n",
+            "bbox": [
+                53.929,
+                526.93802,
+                298.9905599999999,
+                543.87427
+            ],
+            "page": "6"
+        },
+        "7": {
+            "caption": "Figure 7. Ef\ufb01ciency and convenience metric of all presented input modalities including point & teleport as baseline. \n",
+            "bbox": [
+                113.662,
+                557.28927,
+                506.4235999999998,
+                565.25927
+            ],
+            "page": "7"
+        },
+        "8": {
+            "caption": "Figure 8. The results of our custom questionnaire on a 5-point Likert scale (1:fully disagree, 5:fully agree, percentage of answers) \n",
+            "bbox": [
+                90.122,
+                565.84727,
+                529.9623899999999,
+                573.81727
+            ],
+            "page": "8"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                144.80278027777777,
+                642.1915349999999,
+                1572.0877669444444,
+                1045.2055527777777
+            ],
+            "bbox": [
+                53.9290009,
+                417.526001,
+                564.1515961,
+                559.0110474
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2283697222221,
+                830.0027974999999,
+                392.04168527777784
+            ],
+            "bbox": [
+                53.9290009,
+                652.6649933,
+                297.0010071,
+                729.6377869
+            ],
+            "page": "3"
+        },
+        "3": {
+            "crop_coord": [
+                886.9277613888887,
+                191.84893277777783,
+                1572.0946755555553,
+                393.16388444444453
+            ],
+            "bbox": [
+                321.0939941,
+                652.2610016,
+                564.1540832,
+                721.1343842
+            ],
+            "page": "3"
+        },
+        "4": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22294444444447,
+                829.9913536111111,
+                466.89443805555567
+            ],
+            "bbox": [
+                53.9290009,
+                625.7180023,
+                296.99688729999997,
+                729.63974
+            ],
+            "page": "4"
+        },
+        "5": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2235380555558,
+                830.010215,
+                623.8277775000003
+            ],
+            "bbox": [
+                53.9290009,
+                569.2220001,
+                297.0036774,
+                729.6395262999999
+            ],
+            "page": "5"
+        },
+        "6": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2256683333336,
+                830.0041802777778,
+                650.8666483333336
+            ],
+            "bbox": [
+                53.9290009,
+                559.4880066,
+                297.0015049,
+                729.6387593999999
+            ],
+            "page": "6"
+        },
+        "7": {
+            "crop_coord": [
+                144.80278027777777,
+                200.12964722222227,
+                537.4870402777779,
+                592.8139072222222
+            ],
+            "bbox": [
+                53.9290009,
+                580.3869934,
+                191.6953345,
+                718.153327
+            ],
+            "page": "7"
+        },
+        "8": {
+            "crop_coord": [
+                577.0860969444444,
+                200.12964722222227,
+                969.7703569444445,
+                592.8139072222222
+            ],
+            "bbox": [
+                209.5509949,
+                580.3869934,
+                347.31732850000003,
+                718.153327
+            ],
+            "page": "7"
+        },
+        "9": {
+            "crop_coord": [
+                1009.369456111111,
+                195.89982722222203,
+                1572.1038561111113,
+                592.8139072222222
+            ],
+            "bbox": [
+                365.1730042,
+                580.3869934,
+                564.1573882,
+                719.6760622
+            ],
+            "page": "7"
+        },
+        "10": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2249788888888,
+                1572.177793888889,
+                592.5999875
+            ],
+            "bbox": [
+                53.9290009,
+                580.4640045,
+                564.1840058,
+                729.6390076
+            ],
+            "page": "8"
+        }
+    }
+}

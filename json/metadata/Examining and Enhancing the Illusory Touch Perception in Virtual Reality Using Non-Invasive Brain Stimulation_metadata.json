@@ -1,0 +1,95 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2019xr/Examining and Enhancing the Illusory Touch Perception in Virtual Reality Using Non-Invasive Brain Stimulation.pdf",
+    "paper_id": "Examining and Enhancing the Illusory Touch Perception in Virtual Reality Using Non-Invasive Brain Stimulation",
+    "venue": "chi2019xr",
+    "keywords": [
+        "Electroencephalography",
+        "Embodiment",
+        "Illusory Touch",
+        "Transcranial Direct Current Stimulation",
+        "Virtual Reality"
+    ],
+    "paragraph_containing_keyword": "CCS CONCEPTS\n\u2022 Human-centered computing \u2192 Virtual reality; User\nstudies; Empirical studies in HCI ;\nKEYWORDS\nElectroencephalography, Embodiment, Illusory Touch, Tran-\nscranial Direct Current Stimulation, Virtual Reality",
+    "paragraph_after_keyword": "Permission to make digital or hard copies of all or part of this work for\npersonal or classroom use is granted without fee provided that copies\nare not made or distributed for profit or commercial advantage and that\ncopies bear this notice and the full citation on the first page. Copyrights\nfor components of this work owned by others than the author(s) must\nbe honored. Abstracting with credit is permitted. To copy otherwise, or\nrepublish, to post on servers or to redistribute to lists, requires prior specific\npermission and/or a fee. Request permissions from permissions@acm.org.\nCHI 2019, May 4\u20139, 2019, Glasgow, Scotland Uk\n\u00a9 2019 Copyright held by the owner/author(s). Publication rights licensed\nto ACM.\nACM ISBN 978-1-4503-5970-2/19/05. . . $15.00\nhttps://doi.org/10.1145/3290605.3300477",
+    "doi": "10.1145/3290605.3300477",
+    "sections": [
+        {
+            "word_count": 1915,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 603,
+            "figure_citations": {
+                "1": [
+                    "Figure 1)."
+                ]
+            },
+            "section_index": 1,
+            "title": "STIMULATION"
+        },
+        {
+            "word_count": 1570,
+            "figure_citations": {
+                "3": [
+                    "Figure 3).",
+                    "Figure 3), participants were instructed to place their hands on the physical desk (which coincided with the VR desk) on their little fingers to comfortably hit the balls towards the middle of the desk, into the hole."
+                ],
+                "1": [
+                    "Figure 1)1 ."
+                ],
+                "2": [
+                    "Figure 2) consisted of just resting the hands on the desk, paying attention to the collision of the balls with the hands."
+                ]
+            },
+            "section_index": 2,
+            "title": "METHODOLOGY"
+        },
+        {
+            "word_count": 750,
+            "figure_citations": {},
+            "section_index": 3,
+            "title": "EVALUATION"
+        },
+        {
+            "word_count": 872,
+            "figure_citations": {
+                "4": [
+                    "Figure 4), but this effect was not statistically significant.",
+                    "Figure 4), as the passive phase hand-ball collisions elicited distinct P300, contrary to the active phase."
+                ]
+            },
+            "section_index": 4,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 1096,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 499,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "CONCLUSION AND FUTURE WORK"
+        },
+        {
+            "word_count": 1959,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Examining and Enhancing the Illusory Touch Perception in Virtual Reality Using Non-Invasive Brain Stimulation",
+    "authors": "Filip \u0160kola, Fotis Liarokapis",
+    "abstract": "Virtual reality (VR) can be immersive to such a degree that users sometimes report feeling tactile sensations based on visualization of the touch, without any actual physical contact. This effect is not only interesting for studies of human perception, but can also be leveraged to improve the quality of VR by evoking tactile sensations without usage of specialized equipment. The aim of this paper is to study brain processing of the illusory touch and its enhancement for purposes of exploitation in VR scene design. To amplify the illusory touch, transcranial direct current stimulation (tDCS) was used. Participants attended two sessions with blinded stimulation and interacted with a virtual ball using tracked hands in VR. The effects were studied using electroencephalography (EEG), that allowed us to examine stimulation-induced changes in processing of the illusory touch in the brain, as well as to identify its neural correlates. Results confirm enhanced processing of the illusory touch after the stimulation, and some of these changes were correlated to subjective rating of its magnitude.",
+    "publication": {
+        "venue": "N/A",
+        "venue_full": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "year": "2019",
+        "date": "2019/5/2"
+    },
+    "version": 4
+}

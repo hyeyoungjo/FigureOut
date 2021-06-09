@@ -1,0 +1,206 @@
+{
+    "captions": {
+        "2": {
+            "caption": "Figure 2: Male and female avatars used for embodiment.\n",
+            "bbox": [
+                324.282,
+                532.963,
+                551.865978,
+                541.929
+            ],
+            "page": "4"
+        },
+        "1": {
+            "caption": "Figure 1: Left: Participant wearing all nine HTC Vive track-\ners and headset (highlighted by red cirles). Right: HTC Vive\ntrackers, headset, and accompanying devices.\n",
+            "bbox": [
+                53.798,
+                403.697,
+                295.637918,
+                434.581
+            ],
+            "page": "4"
+        },
+        "3": {
+            "caption": "Figure 3: VR and avatar setup: Participant\u2019s physical body\n(left) and tracked virtual body in female avatar (right). Par-\nticipant follows movements of the virtual Tai Chi Teacher.\n",
+            "bbox": [
+                53.52,
+                532.7590000000001,
+                295.637864,
+                563.643
+            ],
+            "page": "6"
+        },
+        "4": {
+            "caption": "Figure 4: Top: Participant\u2019s point of view when looking\ndown at virtual body in female (left) and male (right) avatar.\nBottom: VR setting with virtual mirrors to the front and left\nof participant. Participant is following movements of vir-\ntual Tai Chi teacher.\n",
+            "bbox": [
+                317.955,
+                516.7850000000002,
+                559.7949179999999,
+                569.587
+            ],
+            "page": "6"
+        },
+        "5": {
+            "caption": "Figure 5: Bar chart (means and standard errors) of \u2206IAT by\nembodiment (male or female). For those embodied in a male\navatar (red) the mean \u00b1 SE is -0.08 \u00b1 0.010 and for those em-\nbodied in a female avatar (green) 0.30 \u00b1 0.115.\n",
+            "bbox": [
+                53.79799999999997,
+                486.197168,
+                295.64560599999993,
+                529.403
+            ],
+            "page": "7"
+        },
+        "6": {
+            "caption": "Figure 6: For male-embodying participants (red), preIAT\nmean \u00b1 SE is 0.255 \u00b1 0.085 and postIAT mean \u00b1 SE is 0.179\n\u00b1 0.115. For female-embodying participants (green), preIAT\nmean \u00b1 SE is 0.174 \u00b1 0.138 and postIAT mean \u00b1 SE is 0.476 \u00b1\n0.117.\n",
+            "bbox": [
+                317.9549999999999,
+                478.66499999999996,
+                558.491142,
+                531.467
+            ],
+            "page": "7"
+        },
+        "7": {
+            "caption": "Figure 7: Box plot of body ownership questions for top:\nMyBody and TwoBodies and bottom: MyMovements and\nMyFeatures. The thick black horizontal lines are the medi-\nans, the boxes are the interquartile ranges, and the whiskers\nextend to \u00b11.5 x IQR, or the range. Individual points are out-\nliers.\n",
+            "bbox": [
+                53.798,
+                311.393,
+                295.641824,
+                375.154
+            ],
+            "page": "8"
+        },
+        "8": {
+            "caption": "Figure 8: Bar graph of participants\u2019 subjective ratings on\nphysical attraction of male and female virtual avatars\n",
+            "bbox": [
+                53.798,
+                119.47899999999998,
+                294.033004,
+                139.404
+            ],
+            "page": "8"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                197.894465,
+                634.9451786111111,
+                768.1752861111112,
+                968.2194519444445
+            ],
+            "bbox": [
+                73.0420074,
+                445.2409973,
+                274.743103,
+                561.6197357
+            ],
+            "page": "4"
+        },
+        "2": {
+            "crop_coord": [
+                931.6639030555557,
+                347.856191111111,
+                1502.095574166667,
+                670.0305430555555
+            ],
+            "bbox": [
+                337.1990051,
+                552.5890045,
+                538.9544067,
+                664.9717712
+            ],
+            "page": "4"
+        },
+        "3": {
+            "crop_coord": [
+                246.93057583333334,
+                252.36473916666677,
+                719.2835405555556,
+                609.7111086111112
+            ],
+            "bbox": [
+                90.6950073,
+                574.3040009,
+                257.1420746,
+                699.3486939
+            ],
+            "page": "6"
+        },
+        "4": {
+            "crop_coord": [
+                931.6639030555557,
+                252.36724000000027,
+                1502.0216961111112,
+                593.2027944444445
+            ],
+            "bbox": [
+                337.1990051,
+                580.246994,
+                538.9278106,
+                699.3477935999999
+            ],
+            "page": "6"
+        },
+        "5": {
+            "crop_coord": [
+                144.43890055555556,
+                252.36664666666678,
+                854.9979233333332,
+                704.8249902777776
+            ],
+            "bbox": [
+                53.7980042,
+                540.0630035,
+                305.9992524,
+                699.3480072
+            ],
+            "page": "7"
+        },
+        "6": {
+            "crop_coord": [
+                878.2083383333334,
+                252.36690111111125,
+                1658.8436041666666,
+                699.0916697222223
+            ],
+            "bbox": [
+                317.9550018,
+                542.1269989,
+                595.3836974999999,
+                699.3479156
+            ],
+            "page": "7"
+        },
+        "7": {
+            "crop_coord": [
+                162.86668555555556,
+                252.3763952777776,
+                803.347261111111,
+                1133.2944572222223
+            ],
+            "bbox": [
+                60.4320068,
+                385.8139954,
+                287.405014,
+                699.3444977
+            ],
+            "page": "8"
+        },
+        "8": {
+            "crop_coord": [
+                144.43890055555556,
+                1361.2917241666664,
+                854.9832155555555,
+                1788.1555683333333
+            ],
+            "bbox": [
+                53.7980042,
+                150.0639954,
+                305.9939576,
+                300.1349793
+            ],
+            "page": "8"
+        }
+    }
+}

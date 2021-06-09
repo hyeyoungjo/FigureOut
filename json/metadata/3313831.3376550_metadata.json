@@ -1,0 +1,114 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2020/3313831.3376550.pdf",
+    "paper_id": "3313831.3376550",
+    "venue": "chi2020",
+    "keywords": [
+        "Mixed Reality",
+        "Augmented Reality",
+        "Virtual Reality",
+        "Remote collaboration",
+        "3D panorama",
+        "Scene reconstruction",
+        "Eye gaze",
+        "Hand gesture"
+    ],
+    "paragraph_containing_keyword": "Author Keywords \nMixed Reality; Augmented Reality; Virtual Reality; remote \ncollaboration; 3D panorama; scene reconstruction; eye gaze; \nhand gesture.",
+    "paragraph_after_keyword": "CCS Concepts \n\u2022Human-centered computing \u2192 Mixed / augmented real-\nity; Collaborative interaction; Computer supported cooper-\native work;",
+    "doi": "10.1145/3313831.3376550",
+    "sections": [
+        {
+            "word_count": 669,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 1483,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 1668,
+            "figure_citations": {
+                "2": [
+                    "Figure 2a).",
+                    "Figure 2a.",
+                    "Figure 2b with the red frames."
+                ],
+                "1": [
+                    "Figure 1 shows an overview of our system."
+                ],
+                "4": [
+                    "Figure 4)."
+                ],
+                "3": [
+                    "Figure 3) that could be shared from the remote VR mode to the local AR mode: \u2022 Eye Gaze A virtual raycast line of the remote user\u2019s eye gaze overlaid onto the local user\u2019s AR view from a third-person perspective."
+                ]
+            },
+            "section_index": 2,
+            "title": "SYSTEM OVERVIEW"
+        },
+        {
+            "word_count": 1347,
+            "figure_citations": {
+                "5": [
+                    "Figure 5b).",
+                    "Figure 5a.",
+                    "Figure 5c.",
+                    "Figure 5a."
+                ],
+                "6": [
+                    "Figure 6a).",
+                    "Figure 6b)."
+                ]
+            },
+            "section_index": 3,
+            "title": "USER STUDY"
+        },
+        {
+            "word_count": 1797,
+            "figure_citations": {
+                "7": [
+                    "Figure 7 shows the average CP rating."
+                ],
+                "9": [
+                    "Figure 9)."
+                ],
+                "8": [
+                    "Figure 8 shows the average rating results of each condition for TLX."
+                ]
+            },
+            "section_index": 4,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 1918,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 254,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "CONCLUSIONS AND FUTURE WORK"
+        },
+        {
+            "word_count": 2057,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "A User Study on Mixed Reality Remote Collaboration with Eye Gaze and Hand Gesture Sharing",
+    "authors": "Huidong Bai, Prasanth Sasikumar, Jing Yang, Mark Billinghurst",
+    "abstract": "Supporting natural communication cues is critical for people to work together remotely and face-to-face. In this paper we present a Mixed Reality (MR) remote collaboration system that enables a local worker to share a live 3D panorama of his/her surroundings with a remote expert. The remote expert can also share task instructions back to the local worker using visual cues in addition to verbal communication. We conducted a user study to investigate how sharing augmented gaze and gesture cues from the remote expert to the local worker could affect the overall collaboration performance and user experience. We found that by combing gaze and gesture cues, our remote collaboration system could provide a significantly stronger sense of co-presence for both the local and remote users than using the gaze cue alone. The combined cues were also rated significantly higher than the gaze in terms of ease of conveying spatial actions.",
+    "publication": {
+        "venue": "CHI '20",
+        "venue_full": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "year": "2020",
+        "date": "2020/4/21"
+    },
+    "version": 4
+}

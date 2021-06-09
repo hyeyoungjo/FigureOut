@@ -1,0 +1,256 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1. We propose a solely software based approach of simulating weight in VR by deliberately using perceivable tracking offsets. These tracking\noffsets nudge users to lift their arm higher and result in a visual and haptic perception of weight.\n",
+            "bbox": [
+                53.929,
+                432.75027,
+                564.160430000001,
+                449.68627
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2. a) When an object is grabbed it is pulled down by the weight\nforce (F(g)). The imaginary force (F(o)) is working against the weight\nforce and increases with the offset between visual and tracked position.\nb) When an object is grabbed, the visual position \ufb01rst remains on the\ntracked position. While lifting, the visual position is shifted towards the\nobject one\u2019s. c) The faster an object is moved, the more the visual posi-\ntion is shifted towards the tracked one.\n",
+            "bbox": [
+                53.929,
+                203.27426999999992,
+                298.39281000000017,
+                265.04326999999995
+            ],
+            "page": "4"
+        },
+        "3": {
+            "caption": "Figure 3. Plot of the participant ratings of different presented offsets as\nwell as the trend line. The green area includes ratings where at least 50%\nof the participants rated the offsets as a good metaphor, the yellow area\nincludes offsets which were accepted by all participants. The red area\nincludes values which were not accepted by all participants.\n",
+            "bbox": [
+                53.642,
+                457.82527,
+                297.7949800000002,
+                501.66026999999997
+            ],
+            "page": "6"
+        },
+        "4": {
+            "caption": "Figure 4. A screenshot of the bowling scene.\n",
+            "bbox": [
+                368.305,
+                578.29927,
+                516.95347,
+                586.26927
+            ],
+            "page": "6"
+        },
+        "5": {
+            "caption": "Figure 5. A screenshot of the detection threshold task scene.\n",
+            "bbox": [
+                73.946,
+                578.29927,
+                276.9817500000001,
+                586.26927
+            ],
+            "page": "7"
+        },
+        "6": {
+            "caption": "Figure 6. Boxplots of the Presence, immersion and enjoyment scores\nsplit by condition.\n",
+            "bbox": [
+                321.094,
+                493.99227,
+                564.1630600000001,
+                510.92827
+            ],
+            "page": "7"
+        },
+        "7": {
+            "caption": "Figure 7. Boxplots of the results of our own questions regarding weight\nperception and estimation.\n",
+            "bbox": [
+                53.929,
+                486.42327,
+                296.99806000000024,
+                503.35927
+            ],
+            "page": "8"
+        },
+        "8": {
+            "caption": "Figure 8. Illustration of the participants\u2019 rankings of the two conditions.\n",
+            "bbox": [
+                53.929,
+                379.78727,
+                298.3928100000002,
+                387.75726999999995
+            ],
+            "page": "8"
+        },
+        "9": {
+            "caption": "Figure 9. The probability and variances of correct estimations as well as\na trend line when comparing two weights using different offsets.\n",
+            "bbox": [
+                321.094,
+                536.5232699999999,
+                564.1630600000002,
+                553.4602699999999
+            ],
+            "page": "8"
+        },
+        "10": {
+            "caption": "Figure 10. Participants\u2019 weight associations of different presented off-\nsets.\n",
+            "bbox": [
+                53.929,
+                485.48327,
+                298.3210800000001,
+                502.42026999999996
+            ],
+            "page": "9"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                144.80278027777777,
+                557.6008775000004,
+                1572.105272222222,
+                942.9416572222223
+            ],
+            "bbox": [
+                53.9290009,
+                454.3410034,
+                564.1578979999999,
+                589.4636840999999
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                144.80278027777777,
+                1049.4493358333334,
+                830.0201333333333,
+                1455.8416494444443
+            ],
+            "bbox": [
+                53.9290009,
+                269.6970062,
+                297.007248,
+                412.39823909999996
+            ],
+            "page": "4"
+        },
+        "3": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22976861111107,
+                830.0100030555556,
+                798.5694377777778
+            ],
+            "bbox": [
+                53.9290009,
+                506.3150024,
+                297.00360109999997,
+                729.6372833
+            ],
+            "page": "6"
+        },
+        "4": {
+            "crop_coord": [
+                886.9277613888887,
+                168.2111188888888,
+                1572.127778611111,
+                558.0111099999998
+            ],
+            "bbox": [
+                321.0939941,
+                592.9160004,
+                564.1660003,
+                729.6439972000001
+            ],
+            "page": "6"
+        },
+        "5": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2111188888888,
+                830.0027974999999,
+                558.0111099999998
+            ],
+            "bbox": [
+                53.9290009,
+                592.9160004,
+                297.0010071,
+                729.6439972000001
+            ],
+            "page": "7"
+        },
+        "6": {
+            "crop_coord": [
+                886.9277613888887,
+                168.2283697222221,
+                1572.1315933333333,
+                772.8250205555556
+            ],
+            "bbox": [
+                321.0939941,
+                515.5829926,
+                564.1673736,
+                729.6377869
+            ],
+            "page": "7"
+        },
+        "7": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22964138888887,
+                829.9992794444444,
+                793.8499788888889
+            ],
+            "bbox": [
+                53.9290009,
+                508.0140076,
+                296.9997406,
+                729.6373291
+            ],
+            "page": "8"
+        },
+        "8": {
+            "crop_coord": [
+                144.80278027777777,
+                902.635243611111,
+                829.9986013888888,
+                1114.9666594444445
+            ],
+            "bbox": [
+                53.9290009,
+                392.4120026,
+                296.99949649999996,
+                465.2513123
+            ],
+            "page": "8"
+        },
+        "9": {
+            "crop_coord": [
+                886.9277613888887,
+                168.22502138888885,
+                1572.1499886111108,
+                654.6805402777775
+            ],
+            "bbox": [
+                321.0939941,
+                558.1150055,
+                564.1739958999999,
+                729.6389923
+            ],
+            "page": "8"
+        },
+        "10": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22536055555574,
+                830.0157675,
+                796.4583419444446
+            ],
+            "bbox": [
+                53.9290009,
+                507.0749969,
+                297.0056763,
+                729.6388701999999
+            ],
+            "page": "9"
+        }
+    }
+}

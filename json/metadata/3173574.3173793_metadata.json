@@ -1,0 +1,148 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/CHI 18/3173574.3173793.pdf",
+    "paper_id": "3173574.3173793",
+    "venue": "CHI 18",
+    "keywords": [
+        "Augmented Reality",
+        "IoT",
+        "Smart Environment",
+        "Spatial Interactions",
+        "Context Awareness",
+        "Localization",
+        "UWB",
+        "SLAM"
+    ],
+    "doi": "10.1145/3173574.3173793",
+    "paragraph_containing_keyword": "Author Keywords\nAugmented Reality; IoT; Smart Environment; Spatial\nInteractions; Context Awareness; Localization; UWB; SLAM",
+    "paragraph_after_keyword": "INTRODUCTION\nThe ecology of connected smart devices is being rapidly in-\nterwoven with people\u2019s daily lives and work environments.\nPeople envision that their surrounding physical world will\nlargely be enhanced with ubiquitous computing [31]. How-\never, accessing and interacting with the Internet of Things\n(IoT) remains challenging due to the increasing diversity and\ncomplexity of the connected devices [6]. Traditionally, the\ndigital interfaces of the interactive devices have been realized\nwith a self-equipped touch screen display which has a limited\nadaptability. But now, contemporary IoT devices allow users",
+    "sections": [
+        {
+            "word_count": 695,
+            "figure_citations": {
+                "1": [
+                    "Figure 1), an AR system which provides fast estimation of the 3D locations of smart things and exploits the spatial relationships for location aware interactions."
+                ]
+            },
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 696,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 1484,
+            "figure_citations": {},
+            "section_index": 2,
+            "title": "SCENARIOT"
+        },
+        {
+            "word_count": 915,
+            "figure_citations": {
+                "3": [
+                    "Figure 3, IoT controllers are deployed to smart things as well as to the AR device.",
+                    "Figure 3, the overall size of the board is 100mm \u00d7 100mm \u00d7 20mm with the units installed in position."
+                ]
+            },
+            "section_index": 3,
+            "title": "IMPLEMENTATION"
+        },
+        {
+            "word_count": 1425,
+            "figure_citations": {
+                "4": [
+                    "Figure 4, we conducted 9 surveyings to collect the surveying data with r \u2208 {2, 3, 5}m and n \u2208 {1, 2, 4}."
+                ],
+                "6": [
+                    "Figure 6 (left), the mean error for {1."
+                ],
+                "5": [
+                    "Figure 5 (right), we observed a mean error of 0."
+                ],
+                "7": [
+                    "Figure 7, with the condition of r = 5m, n = 2 and n = 4 presented a larger error (> 0."
+                ]
+            },
+            "section_index": 4,
+            "title": "TECHNICAL EVALUATION"
+        },
+        {
+            "word_count": 1730,
+            "figure_citations": {
+                "9": [
+                    "Figure 9, the overall average error decreased to 0.",
+                    "Figure 9, the average of the localization error over all 8 devices yielded 0.",
+                    "Figure 9, we suspect that the accuracy degradation was not just caused by the localization accuracy."
+                ],
+                "10": [
+                    "Figure 10, we observed an average of 0."
+                ],
+                "1": [
+                    "Figure 1 and Figure 12, we not only visualize the digital interfaces when the corresponding physical object is located inside the view, but also the ones outside."
+                ]
+            },
+            "section_index": 5,
+            "title": "TASK EVALUATION"
+        },
+        {
+            "word_count": 440,
+            "figure_citations": {
+                "14": [
+                    "Figure 14 (a).",
+                    "Figure 14 (b)).",
+                    "Figure 14 (c, d))."
+                ]
+            },
+            "section_index": 6,
+            "title": "EXAMPLE USE CASES"
+        },
+        {
+            "word_count": 248,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "DISCUSSION AND FUTURE WORK"
+        },
+        {
+            "word_count": 354,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "LIMITATION"
+        },
+        {
+            "word_count": 123,
+            "figure_citations": {},
+            "section_index": 9,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 65,
+            "figure_citations": {},
+            "section_index": 10,
+            "title": "ACKNOWLEDGEMENT"
+        },
+        {
+            "word_count": 276,
+            "figure_citations": {},
+            "section_index": 11,
+            "title": "REFERENCES"
+        },
+        {
+            "word_count": 1196,
+            "figure_citations": {},
+            "section_index": 12,
+            "title": "ELECTRICAL ENGINEERING AND COMPUTER"
+        }
+    ],
+    "title": "Scenariot: Spatially Mapping Smart Things Within Augmented Reality Scenes",
+    "authors": "Ke Huo, Yuanzhi Cao, Sang Ho Yoon, Zhuangying Xu, Guiming Chen, Karthik Ramani",
+    "abstract": "The emerging simultaneous localizing and mapping (SLAM) based tracking technique allows the mobile AR device spatial awareness of the physical world. Still, smart things are not fully supported with the spatial awareness in AR. Therefore, we present Scenariot, a method that enables instant discovery and localization of the surrounding smart things while also spatially registering them with a SLAM based mobile AR system. By exploiting the spatial relationships between mobile AR systems and smart things, Scenariot fosters in-situ interactions with connected devices. We embed Ultra-Wide Band (UWB) RF units into the AR device and the controllers of the smart things, which allows for measuring the distances between them. With a one-time initial calibration, users localize multiple IoT devices and map them within the AR scenes. Through a series of experiments and evaluations, we validate the localization accuracy as well as the performance of the enabled spatial aware interactions. Further, we demonstrate various use cases through Scenariot.",
+    "publication": {
+        "venue": "CHI '18",
+        "venue_full": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems",
+        "year": "2018",
+        "date": "2018/4/21"
+    },
+    "version": 3
+}

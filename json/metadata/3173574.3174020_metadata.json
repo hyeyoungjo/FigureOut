@@ -1,0 +1,181 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/CHI 18/3173574.3174020.pdf",
+    "paper_id": "3173574.3174020",
+    "venue": "CHI 18",
+    "keywords": [
+        "Games",
+        "Mixed reality",
+        "EMS"
+    ],
+    "paragraph_containing_keyword": "ABSTRACT \nWe  present  a  mobile  system  that  enhances  mixed  reality \nexperiences  and  games  with  force  feedback  by  means  of \nelectrical  muscle  stimulation  (EMS).  The  benefit  of  our \napproach  is  that  it  adds  physical  forces  while  keeping  the \nusers\u2019 hands free to interact unencumbered\u2014not only with \nvirtual objects, but also with physical objects, such as props \nand  appliances.  We  demonstrate  how  this  supports  three \nclasses  of  applications  along  the  mixed-reality  continuum: \n(1)  entirely  virtual  objects,  such  as  furniture  with  EMS \nfriction  when  pushed  or  an  EMS-based  catapult  game.  (2) \nVirtual  objects  augmented  via  passive  props  with  EMS-\nconstraints, such as a light control panel made tangible by \nmeans of a physical cup or a balance-the-marble game with \nan  actuated  tray.  (3)  Augmented  appliances  with  virtual \nbehaviors,  such  as  a  physical  thermostat  dial  with  EMS-\ndetents  or  an  escape-room  that  repurposes  lamps  as  levers \nwith detents. We present a user-study in which participants \nrated the EMS-feedback as significantly more realistic than \na no-EMS baseline. \nAuthor Keywords: games; mixed reality; EMS; \nACM  Classification  Keywords:  H5.2  [Information  inter-\nfaces  and  presentation]:  User  Interfaces.  -  Graphical  user \ninterfaces. \nINTRODUCTION \nAugmented Reality and Mixed Reality (AR/MR) interfaces \nallow  displaying  virtual  information  to  the  human  senses \nwhile  users  explore  the  real  world [16,44].  Researchers \nexplored  MR  to  overlay  data  [63],  assist  in  maintenance \ntasks [49,20] and virtually recreate physical games [31]. \nAs  the  next  step  towards  realism  and  immersion,  many \nresearchers argue that MR systems should also support the \nhaptic sense in order to convey the physicality of the virtual \nworld  [64],  to  better  \u201cblend\u201d  both  realities  [44,  22]  and  to \nincrease the user\u2019s sense of agency [42].",
+    "paragraph_after_keyword": "Permission  to  make  digital  or  hard  copies  of  all  or  part  of  this  work  for \npersonal or classroom use is granted without fee provided that copies are \nnot made or distributed for profit or commercial advantage and that copies \nbear  this  notice  and  the  full  citation  on  the  first  page.  Copyrights  for \ncomponents  of  this  work  owned  by  others  than  the  author  must  be  hon-\nored.  Abstracting  with  credit  is  permitted.  To  copy  otherwise,  or  repub-\nlish,  to  post  on  servers  or  to  redistribute  to  lists,  requires  prior  specific \npermission and/or a fee. Request permissions from Permissions@acm.org.  \n \nCHI 2018, April 21\u201326, 2018, Montreal, QC, Canada \n\u00a9 2018 Copyright is held by the owner/author(s). Publication rights \nlicensed to ACM. \nACM 978-1-4503-5620-6/18/04\u2026$15.00  \nhttps://doi.org/10.1145/3173574.3174020",
+    "doi": "10.1145/3173574.3174020",
+    "sections": [
+        {
+            "word_count": 595,
+            "figure_citations": {
+                "1": [
+                    "Figure 1: (a) In this Mixed Reality game that uses a physical tray as prop, our mobile system renders shifts in the tray\u2019s center of gravity as the marble moves.",
+                    "Figure 1 illustrates this at the example of our Mixed Reality balance marble game using a physical tray as a game prop, which our approach augments via EMS-based force feedback."
+                ],
+                "3": [
+                    "Figure 3 shows the user\u2019s view through the HoloLens."
+                ]
+            },
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 1298,
+            "figure_citations": {
+                "2": [
+                    "Figure 2 shows a user wearing our EMS for Mixed Reality system.",
+                    "Figure 2: Using a regular cup as an impromptu tangible brightness dial."
+                ],
+                "3": [
+                    "Figure 3: The previous scene through the HoloLens."
+                ],
+                "4": [
+                    "Figure 4: (a) This user physically drags the couch and feels the simulated friction against the floor.",
+                    "Figure 4 shows the user exploring different placements in the room by pushing a couch with her two hands.",
+                    "Figure 4a).",
+                    "Figure 4b)."
+                ],
+                "1": [
+                    "Figure 1a shows the system she is wearing, i."
+                ],
+                "5": [
+                    "Figure 5, the user now explores a lamp from the catalog.",
+                    "Figure 5b).",
+                    "Figure 5: Turning on the virtual lamp."
+                ],
+                "6": [
+                    "Figure 6: The user configures the intensity of the desired light bulb using a cup as a stand-in for a dial (passive prop).",
+                    "Figure 6, the user picks up a cup to serve as a tangible brightness dial.",
+                    "Figure 6b shows how our system also adds detents to the dial."
+                ],
+                "7": [
+                    "Figure 7a).",
+                    "Figure 7: The user manipulates two cups to control the light temperature and intensity simultaneously.",
+                    "Figure 7b).",
+                    "Figure 7c, for example, the user chooses a \u201ccolder\u201d light, causing the system to switch to a less intense bulb by actuating the user\u2019s wrist as to reach that option (Figure 7d)."
+                ],
+                "10": [
+                    "Figure 10 shows a simple MR game featuring a virtual catapult that appears in the user\u2019s physical surroundings."
+                ],
+                "8": [
+                    "Figure 8: Here, our system enhances a fully functional thermostat with detents."
+                ]
+            },
+            "section_index": 1,
+            "title": "WALKTHROUGH OF A MIXED REALITY EXPERIENCE"
+        },
+        {
+            "word_count": 793,
+            "figure_citations": {
+                "9": [
+                    "Figure 9: Walkthrough examples mapped to the realityvirtuality continuum by Milgram et al."
+                ],
+                "10": [
+                    "Figure 10: While the user pulls the lever of this virtual catapult, our system provides force feedback simulating the catapult\u2019s spring."
+                ],
+                "1": [
+                    "Figure 1 depicted a classic MR marble maze, which was in fact inspired by that of Ohan and Feiner [48] and complemented with EMS-based force feedback for added realism."
+                ],
+                "11": [
+                    "Figure 11: (a) At the start of the game the marble falls from the sky."
+                ],
+                "12": [
+                    "Figure 12 illustrates the user solving this room\u2019s puzzle.",
+                    "Figure 12, the user finds that when moved the lamps have detents, rendered using our system, hence they can be only in one of three positions."
+                ]
+            },
+            "section_index": 2,
+            "title": "SUMMARY OF WALKTHROUGH"
+        },
+        {
+            "word_count": 1037,
+            "figure_citations": {
+                "12": [
+                    "Figure 12: (a) These gooseneck lamps are repurposed as levers, with force feedback, allowing the user to input the secret combination to (b) unlock the door."
+                ]
+            },
+            "section_index": 3,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 1174,
+            "figure_citations": {
+                "13": [
+                    "Figure 13: The hardware components and electrode placement (one arm only).",
+                    "Figure 13 details how 10 electrodes are placed on the user\u2019s right arm and shoulder; the user\u2019s left arm is equipped the same way."
+                ],
+                "14": [
+                    "Figure 14: Stimulation parameters per haptic effect at the example of one study participant: amplitude (in mA), pulse-width (in \u00b5s) and duration (in ms)."
+                ],
+                "3": [
+                    "Figure 3b."
+                ]
+            },
+            "section_index": 4,
+            "title": "IMPLEMENTATION"
+        },
+        {
+            "word_count": 497,
+            "figure_citations": {
+                "13": [
+                    "Figure 13, which allowed for untethered use."
+                ],
+                "15": [
+                    "Figure 15 shows participant\u2019s average ratings in both conditions regarding perceived realism."
+                ]
+            },
+            "section_index": 5,
+            "title": "USER STUDY"
+        },
+        {
+            "word_count": 1014,
+            "figure_citations": {
+                "15": [
+                    "Figure 15: Participants rated their experience as more realistic in the EMS conditions."
+                ],
+                "16": [
+                    "Figure 16, participants rated the enjoyment significantly higher when in the EMS condition for the furniture and the catapult tasks.",
+                    "Figure 16: Participants rated their experience as more enjoyable in most of the EMS conditions."
+                ],
+                "18": [
+                    "Figure 18) polarized participants in that only 7 of them expressed a preference for experiencing it with EMS.",
+                    "Figure 18: Participant balancing the marble (image from the study, with consent of the participant)."
+                ],
+                "17": [
+                    "Figure 17 summarizes participants\u2019 preferences for each of the interface conditions.",
+                    "Figure 17: Most participants preferred the EMS to the no-EMS interface condition across tasks."
+                ]
+            },
+            "section_index": 6,
+            "title": "EMS"
+        },
+        {
+            "word_count": 419,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "CONCLUSIONS AND OUTLOOK"
+        },
+        {
+            "word_count": 1976,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Adding Force Feedback to Mixed Reality Experiences and Games using Electrical Muscle Stimulation",
+    "authors": "Pedro Lopes, Sijing You, Alexandra Ion, Patrick Baudisch",
+    "abstract": "We present a mobile system that enhances mixed reality experiences and games with force feedback by means of electrical muscle stimulation (EMS). The benefit of our approach is that it adds physical forces while keeping the users' hands free to interact unencumbered-not only with virtual objects, but also with physical objects, such as props and appliances. We demonstrate how this supports three classes of applications along the mixed-reality continuum: (1) entirely virtual objects, such as furniture with EMS friction when pushed or an EMS-based catapult game. (2) Virtual objects augmented via passive props with EMS-constraints, such as a light control panel made tangible by means of a physical cup or a balance-the-marble game with an actuated tray. (3) Augmented appliances with virtual behaviors, such as a physical thermostat dial with EMS-detents or an escape-room that repurposes lamps as levers with detents. We present a user-study in which participants rated the EMS-feedback as significantly more realistic than a no-EMS baseline.",
+    "publication": {
+        "venue": "CHI '18",
+        "venue_full": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems",
+        "year": "2018",
+        "date": "2018/4/21"
+    },
+    "version": 2
+}

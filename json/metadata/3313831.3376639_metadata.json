@@ -1,0 +1,113 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2020/3313831.3376639.pdf",
+    "paper_id": "3313831.3376639",
+    "venue": "chi2020",
+    "keywords": [
+        "Throwing",
+        "Virtual Reality",
+        "User Study"
+    ],
+    "paragraph_containing_keyword": "Author Keywords \nThrowing; Virtual Reality; User Study",
+    "paragraph_after_keyword": "CCS Concepts \n\u2022Human-centered computing \u2192 Virtual reality; User stud-\nies; \u2022Software and its engineering \u2192 Interactive games;",
+    "doi": "10.1145/3313831.3376639",
+    "sections": [
+        {
+            "word_count": 411,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 563,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 435,
+            "figure_citations": {},
+            "section_index": 2,
+            "title": "PHYSICAL BACKGROUND"
+        },
+        {
+            "word_count": 380,
+            "figure_citations": {},
+            "section_index": 3,
+            "title": "IMPLEMENTATION OF THROWING IN VR"
+        },
+        {
+            "word_count": 711,
+            "figure_citations": {
+                "1": [
+                    "Figure 1)."
+                ],
+                "2": [
+                    "Figure 2 illustrates the accuracy of each hit point for the three participants over the course of the session."
+                ]
+            },
+            "section_index": 4,
+            "title": "LEARNING CURVE"
+        },
+        {
+            "word_count": 729,
+            "figure_citations": {
+                "1": [
+                    "Figure 1 shows the three stations in the real world and a throw in VR.",
+                    "Figure 1)."
+                ]
+            },
+            "section_index": 5,
+            "title": "USER STUDY"
+        },
+        {
+            "word_count": 1228,
+            "figure_citations": {
+                "3": [
+                    "Figure 3)."
+                ],
+                "4": [
+                    "Figure 4, the precision is not only more than 2-3 times higher in the real world than in VR, it is also more stable between participants, namely they have more similar precision levels in real world, than in VR."
+                ],
+                "5": [
+                    "Figure 5) highlight, that while the scattering of hit points is generally higher in all VR throwing styles, the hit points are also much more scattered along the vertical/longitudal axis, than the horizontal."
+                ],
+                "6": [
+                    "Figure 6 shows the \u201cdarts-like\u201d throw (left) and the underhand throw (right) for a representative participant."
+                ],
+                "7": [
+                    "Figure 7 we can observe Page 5 CHI 2020 Paper CHI 2020, April 25\u201330, 2020, Honolulu, HI, USA Figure 7."
+                ]
+            },
+            "section_index": 6,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 341,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 81,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 1080,
+            "figure_citations": {},
+            "section_index": 9,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Performance and Experience of Throwing in Virtual Reality",
+    "authors": "Tim Zindulka, Myroslav Bachynskyi, J\u00f6rg M\u00fcller",
+    "abstract": "Throwing is a fundamental movement in many sports and games. Given this, accurate throwing in VR applications today is surprisingly difficult. In this paper we explore the nature of the difficulties of throwing in VR in more detail. We present the results of a user study comparing throwing in VR and in the physical world. In a short pre-study with 3 participants we determine an optimal number of throwing repetitions for the main study by exploring the learning curve and subjective fatigue of throwing in VR. In the main study, with 12 participants, we find that throwing precision and accuracy in VR are lower particularly in the distance and height dimensions. It also requires more effort and exhibits different kinematic patterns.",
+    "publication": {
+        "venue": "CHI '20",
+        "venue_full": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "year": "2020",
+        "date": "2020/4/21"
+    },
+    "version": 4
+}

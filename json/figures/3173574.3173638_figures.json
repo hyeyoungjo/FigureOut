@@ -1,0 +1,131 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1: Depth con\ufb02ict illustration. An interface (the video\nplayer) overlays a video object (the actress) but is actually\nbehind her in depth. Left: The resulting graphics are uncom-\nfortable to view in VR (e.g., the areas behind the text 00:01 in\nthe insets are different between the left and right views). View-\ners may also experience dif\ufb01culty changing focus between the\ninterface and the video. Right: illustration of the con\ufb02icting\ndepth cues perceived by the same viewer in the same view.\n\u00a9 Kevin Kunze\n",
+            "bbox": [
+                320.337,
+                426.483992,
+                565.92316792,
+                524.117992
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2: Overview of Dynamic Depth. (A) We pre-process the input video to \ufb01nd feature points and left/right disparities (e.g.,\ngreen lines on the actress) (B) Features points are mapped to the VR view and shown as the green dots (only for illustrative\npurposes). Dynamic Depth estimates the perceived depth of the video based on these points. It detects when depth con\ufb02ict occurs\nby comparing the depths between the UI and the video. (C) Dynamic Depth moves the UI closer to the viewer to reduce depth\ncon\ufb02icts. Notice in the insets that the areas around the interface\u2019s corner are more geometrically consistent compared to the same\nscene in Figure 1. \u00a9 Kevin Kunze\n",
+            "bbox": [
+                53.929,
+                533.4749919999999,
+                565.4271484359998,
+                598.232992
+            ],
+            "page": "3"
+        },
+        "3": {
+            "caption": "Figure 3: Halo Blur blurs the video content around the UI.\nInsets: compared to the same scene in Figure 1, the current\nscene is still not geometrically consistent. However, the blur\neffects mask high-frequency spatial information in the video\nand make the details from the UI clearer. \u00a9 Kevin Kunze\n",
+            "bbox": [
+                53.929,
+                512.789992,
+                298.7480056600001,
+                566.588992
+            ],
+            "page": "4"
+        },
+        "4": {
+            "caption": "Figure 4: Illustration of the Subtitles task (Left) and the Search\ntask (Right). Please refer to the video demo for a better assess-\nment. \u00a9 Kevin Kunze\n",
+            "bbox": [
+                321.094,
+                564.7349919999999,
+                565.83190684,
+                596.615992
+            ],
+            "page": "4"
+        },
+        "5": {
+            "caption": "Figure 5: (Left) Summary of participants\u2019 ratings to the subjective questionnaire in both tasks. (Middle and Right) Task time and\ntask error summary of the Search task.\n",
+            "bbox": [
+                53.929,
+                438.330992,
+                564.1837261839999,
+                459.252992
+            ],
+            "page": "6"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                886.9277613888887,
+                454.3305799999999,
+                1576.9277699999998,
+                721.8305713888888
+            ],
+            "bbox": [
+                321.0939941,
+                533.9409943,
+                565.8939972,
+                626.6409912
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22663270416666,
+                1606.3052809694443,
+                515.955556111111
+            ],
+            "bbox": [
+                53.9290009,
+                608.0559998,
+                576.469901149,
+                729.6384122265
+            ],
+            "page": "3"
+        },
+        "3": {
+            "crop_coord": [
+                148.64998722222222,
+                168.23053138888892,
+                826.1499958333333,
+                603.8555483333332
+            ],
+            "bbox": [
+                55.3139954,
+                576.4120026,
+                295.6139985,
+                729.6370087
+            ],
+            "page": "4"
+        },
+        "4": {
+            "crop_coord": [
+                886.9277613888887,
+                168.22647944444452,
+                1583.7025958333334,
+                520.4472350000001
+            ],
+            "bbox": [
+                321.0939941,
+                606.4389954,
+                568.3329345,
+                729.6384674
+            ],
+            "page": "4"
+        },
+        "5": {
+            "crop_coord": [
+                144.80278027777777,
+                509.17124521333335,
+                1619.0076576811111,
+                902.0111
+            ],
+            "bbox": [
+                53.9290009,
+                469.076004,
+                581.0427567652,
+                606.8983517232
+            ],
+            "page": "6"
+        }
+    }
+}

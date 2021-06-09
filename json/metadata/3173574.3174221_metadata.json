@@ -1,0 +1,259 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/CHI 18/3173574.3174221.pdf",
+    "paper_id": "3173574.3174221",
+    "venue": "CHI 18",
+    "keywords": [
+        "Virtual reality",
+        "Text entry",
+        "Pointing",
+        "Mid-air",
+        "User experience",
+        "Task performance"
+    ],
+    "paragraph_containing_keyword": "ABSTRACT\nIn recent years, Virtual Reality (VR) and 3D User Interfaces\n(3DUI) have seen a drastic increase in popularity, especially\nin terms of consumer-ready hardware and software. While\nthe technology for input as well as output devices is market\nready, only a few solutions for text input exist, and empirical\nknowledge about performance and user preferences is lacking.\nIn this paper, we study text entry in VR by selecting characters\non a virtual keyboard. We discuss the design space for assess-\ning selection-based text entry in VR. Then, we implement six\nmethods that span different parts of the design space and eval-\nuate their performance and user preferences. Our results show\nthat pointing using tracked hand-held controllers outperforms\nall other methods. Other methods such as head pointing can be\nviable alternatives depending on available resources. We sum-\nmarize our \ufb01ndings by formulating guidelines for choosing\noptimal virtual keyboard text entry methods in VR.\nACM Classi\ufb01cation Keywords\nH.5.m. Information Interfaces and Presentation (e.g. HCI):\nMiscellaneous\nAuthor Keywords\nVirtual reality; text entry; pointing; mid-air; user experience;\ntask performance.\nINTRODUCTION\nAs text-based communication is rarely studied in VR research\nregarding text entry performance [14, 35, 36, 43], there is a",
+    "paragraph_after_keyword": "Permission to make digital or hard copies of all or part of this work for personal or\nclassroom use is granted without fee provided that copies are not made or distributed\nfor pro\ufb01t or commercial advantage and that copies bear this notice and the full citation\non the \ufb01rst page. Copyrights for components of this work owned by others than ACM\nmust be honored. Abstracting with credit is permitted. To copy otherwise, or republish,\nto post on servers or to redistribute to lists, requires prior speci\ufb01c permission and/or a\nfee. Request permissions from permissions@acm.org.\nCHI 2018, April 21\u201326, 2018, Montr\u00b4eal, QC, Canada.\nCopyright is held by the owner/author(s). Publication rights licensed to ACM.\nACM ISBN 978-1-4503-5620-6/18/04 ...$15.00.\nhttps://doi.org/10.1145/3173574.3174221",
+    "doi": "10.1145/3173574.3174221",
+    "sections": [
+        {
+            "word_count": 13,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "NG"
+        },
+        {
+            "word_count": 2,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "HAND"
+        },
+        {
+            "word_count": 2,
+            "figure_citations": {},
+            "section_index": 2,
+            "title": "T"
+        },
+        {
+            "word_count": 215,
+            "figure_citations": {},
+            "section_index": 3,
+            "title": "NUOUSCURSOR"
+        },
+        {
+            "word_count": 508,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 2892,
+            "figure_citations": {
+                "1": [
+                    "Figure 1): \u2022 Head Pointing (HP) \u2014 the participant selects a character by pointing to it with her head."
+                ]
+            },
+            "section_index": 5,
+            "title": "X"
+        },
+        {
+            "word_count": 1092,
+            "figure_citations": {
+                "1": [
+                    "Figure 1).",
+                    "Figure 1).",
+                    "Figure 1).",
+                    "Figure 1)."
+                ]
+            },
+            "section_index": 6,
+            "title": "EVALUATED TEXT INPUT TECHNIQUES"
+        },
+        {
+            "word_count": 35,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "EMPIRICAL STUDY"
+        },
+        {
+            "word_count": 13,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "HP"
+        },
+        {
+            "word_count": 2,
+            "figure_citations": {},
+            "section_index": 9,
+            "title": "CP"
+        },
+        {
+            "word_count": 2,
+            "figure_citations": {},
+            "section_index": 10,
+            "title": "CT"
+        },
+        {
+            "word_count": 2,
+            "figure_citations": {},
+            "section_index": 11,
+            "title": "FH"
+        },
+        {
+            "word_count": 2,
+            "figure_citations": {},
+            "section_index": 12,
+            "title": "CC"
+        },
+        {
+            "word_count": 6,
+            "figure_citations": {},
+            "section_index": 13,
+            "title": "DC"
+        },
+        {
+            "word_count": 2,
+            "figure_citations": {},
+            "section_index": 14,
+            "title": "WHO"
+        },
+        {
+            "word_count": 3,
+            "figure_citations": {},
+            "section_index": 15,
+            "title": "WANTS TO"
+        },
+        {
+            "word_count": 2,
+            "figure_citations": {},
+            "section_index": 16,
+            "title": "VER"
+        },
+        {
+            "word_count": 2,
+            "figure_citations": {},
+            "section_index": 17,
+            "title": "TS TO LIVE"
+        },
+        {
+            "word_count": 746,
+            "figure_citations": {
+                "3": [
+                    "Figure 3)."
+                ]
+            },
+            "section_index": 18,
+            "title": "FO"
+        },
+        {
+            "word_count": 508,
+            "figure_citations": {},
+            "section_index": 19,
+            "title": "S"
+        },
+        {
+            "word_count": 174,
+            "figure_citations": {
+                "4": [
+                    "Figure 4)."
+                ]
+            },
+            "section_index": 20,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 486,
+            "figure_citations": {
+                "5": [
+                    "Figure 5)."
+                ]
+            },
+            "section_index": 21,
+            "title": "WPM"
+        },
+        {
+            "word_count": 961,
+            "figure_citations": {},
+            "section_index": 22,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 2,
+            "figure_citations": {},
+            "section_index": 23,
+            "title": "START"
+        },
+        {
+            "word_count": 11,
+            "figure_citations": {},
+            "section_index": 24,
+            "title": "YES"
+        },
+        {
+            "word_count": 2,
+            "figure_citations": {},
+            "section_index": 25,
+            "title": "HEAD POINTING"
+        },
+        {
+            "word_count": 10,
+            "figure_citations": {},
+            "section_index": 26,
+            "title": "NO"
+        },
+        {
+            "word_count": 138,
+            "figure_citations": {},
+            "section_index": 27,
+            "title": "L"
+        },
+        {
+            "word_count": 14,
+            "figure_citations": {},
+            "section_index": 28,
+            "title": "H"
+        },
+        {
+            "word_count": 97,
+            "figure_citations": {},
+            "section_index": 29,
+            "title": "CURSOR CONTROL"
+        },
+        {
+            "word_count": 2,
+            "figure_citations": {},
+            "section_index": 30,
+            "title": "POINTING"
+        },
+        {
+            "word_count": 290,
+            "figure_citations": {
+                "7": [
+                    "Figure 7)."
+                ]
+            },
+            "section_index": 31,
+            "title": "FREEHAND"
+        },
+        {
+            "word_count": 287,
+            "figure_citations": {},
+            "section_index": 32,
+            "title": "CONCLUSION AND OUTLOOK"
+        },
+        {
+            "word_count": 1719,
+            "figure_citations": {},
+            "section_index": 33,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Selection-based Text Entry in Virtual Reality",
+    "authors": "Marco Speicher, Anna Maria Feit, Pascal Ziegler, Antonio Kr\u00fcger",
+    "abstract": "In recent years, Virtual Reality (VR) and 3D User Interfaces (3DUI) have seen a drastic increase in popularity, especially in terms of consumer-ready hardware and software. While the technology for input as well as output devices is market ready, only a few solutions for text input exist, and empirical knowledge about performance and user preferences is lacking. In this paper, we study text entry in VR by selecting characters on a virtual keyboard. We discuss the design space for assessing selection-based text entry in VR. Then, we implement six methods that span different parts of the design space and evaluate their performance and user preferences. Our results show that pointing using tracked hand-held controllers outperforms all other methods. Other methods such as head pointing can be viable alternatives depending on available resources. We summarize our findings by formulating guidelines for choosing optimal virtual keyboard text entry methods in VR.",
+    "publication": {
+        "venue": "CHI '18",
+        "venue_full": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems",
+        "year": "2018",
+        "date": "2018/4/21"
+    },
+    "version": 2
+}

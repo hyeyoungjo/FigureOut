@@ -1,0 +1,108 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/VR_2017/ShareVR- Enabling Co-Located Experiences for Virtual Reality between HMD and Non-HMD Users.pdf",
+    "paper_id": "ShareVR- Enabling Co-Located Experiences for Virtual Reality between HMD and Non-HMD Users",
+    "venue": "VR_2017",
+    "keywords": [
+        "Co-located virtual reality",
+        "ShareVR",
+        "Asymmetric virtual reality",
+        "Multi-user virtual reality",
+        "Consumer virtual reality"
+    ],
+    "doi": "10.1145/3025453.3025683",
+    "paragraph_containing_keyword": "Author Keywords\nCo-located virtual reality; shareVR; asymmetric virtual\nreality; multi-user virtual reality; consumer virtual reality",
+    "paragraph_after_keyword": "INTRODUCTION\nVirtual Reality (VR) head-mounted displays (HMD) are cur-\nrently getting released as consumer devices (e.g. Oculus Rift,\nHTC Vive, and PlayStation VR) and are becoming part of the\nhome entertainment environment. The technical progress al-\nlows for creating highly immersive virtual environments (IVEs)\nwhere users can even physically walk around and interact using\ntheir hands (roomscale VR) [13]. Having this physical explo-\nration leads to a higher spatial understanding and therefore fur-\nther increases immersion and enjoyment for the HMD user [4].\nDespite VR aiming to become an essential part of the future\nliving room entertainment, most current VR systems focus\nmainly on the HMD user. However, Alladi Venkatesh describes\nthe living room as a highly social environment where people\nexperience content together and interact through technology\n[61]. Since the level of engagement may vary between\nmembers of the household (e.g. some want to watch, some\nwant to have some form of interaction and some want to be\nfully part of the experience), a VR system has to cover a wide\nbandwidth of engagement [63]. Solely observing participants",
+    "sections": [
+        {
+            "word_count": 829,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 339,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 1111,
+            "figure_citations": {},
+            "section_index": 2,
+            "title": "ENVISIONED SCENARIO"
+        },
+        {
+            "word_count": 786,
+            "figure_citations": {
+                "2": [
+                    "Figure 2)."
+                ]
+            },
+            "section_index": 3,
+            "title": "ONLINE SURVEY"
+        },
+        {
+            "word_count": 980,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "SHAREVR CONCEPT AND IMPLEMENTATION"
+        },
+        {
+            "word_count": 1745,
+            "figure_citations": {
+                "4": [
+                    "Figure 4)."
+                ]
+            },
+            "section_index": 5,
+            "title": "IMPLEMENTED EXPERIENCES"
+        },
+        {
+            "word_count": 1434,
+            "figure_citations": {
+                "7": [
+                    "Figure 7 summarizes the collected data of the GEQ and SUS Experiences with Virtual Reality CHI 2017, May 6\u201311, 2017, Denver, CO, USA Figure 7."
+                ],
+                "8": [
+                    "Figure 8 shows an overview of the final comparison (enjoyment, presence and social interaction)."
+                ]
+            },
+            "section_index": 6,
+            "title": "USER STUDY"
+        },
+        {
+            "word_count": 1338,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "DESIGN SPACE AND GUIDELINES"
+        },
+        {
+            "word_count": 269,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 22,
+            "figure_citations": {},
+            "section_index": 9,
+            "title": "ACKNOWLEDGEMENTS"
+        },
+        {
+            "word_count": 2065,
+            "figure_citations": {},
+            "section_index": 10,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "ShareVR: Enabling Co-Located Experiences for Virtual Reality between HMD and Non-HMD Users",
+    "authors": "Jan Gugenheimer, Evgeny Stemasov, Julian Frommel, Enrico Rukzio",
+    "abstract": "Virtual reality (VR) head-mounted displays (HMD) allow for a highly immersive experience and are currently becoming part of the living room entertainment. Current VR systems focus mainly on increasing the immersion and enjoyment for the user wearing the HMD (HMD user), resulting in all the bystanders (Non-HMD users) being excluded from the experience. We propose ShareVR, a proof-of-concept prototype using floor projection and mobile displays in combination with positional tracking to visualize the virtual world for the Non-HMD user, enabling them to interact with the HMD user and become part of the VR experience. We designed and implemented ShareVR based on the insights of an initial online survey (n=48) with early adopters of VR HMDs. We ran a user study (n=16) comparing ShareVRto a baseline condition showing how the interaction using ShareVR led to an increase of enjoyment, presence and social interaction. In a last step we implemented several experiences for ShareVR, exploring its design space and giving insights for designers of co-located asymmetric VR experiences.",
+    "publication": {
+        "venue": "CHI '17",
+        "venue_full": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems",
+        "year": "2017",
+        "date": "2017/5/2"
+    },
+    "version": 4
+}

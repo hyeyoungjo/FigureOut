@@ -1,0 +1,381 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1. Scenariot is a method for discovering and localizing IoT devices with a SLAM-based AR device. We register the discovered devices spatially\nin the AR scene to enable new spatial aware interactions.\n",
+            "bbox": [
+                53.929,
+                369.17227,
+                564.4375800000007,
+                386.10927
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2. Scenariot localization principle.\n",
+            "bbox": [
+                372.709,
+                582.53127,
+                512.55031,
+                590.50127
+            ],
+            "page": "3"
+        },
+        "3": {
+            "caption": "Figure 3. Overview of the Scenariot hardware. Deploy IoT controller\nboards (right) to IoT devices and AR device (left).\n",
+            "bbox": [
+                53.928999999999974,
+                587.7302699999999,
+                297.17015999999995,
+                604.6662699999999
+            ],
+            "page": "5"
+        },
+        "4": {
+            "caption": "Figure 4. Technical evaluation setup.\n",
+            "bbox": [
+                113.107,
+                634.6152699999999,
+                237.82156,
+                642.5852699999999
+            ],
+            "page": "6"
+        },
+        "5": {
+            "caption": "Figure 5. Effect of sampling space on the localization accuracy:\n(left)assume a cubic volume, (right) varying h and set l = w = 1.6(m).\n",
+            "bbox": [
+                320.831,
+                599.8074799999999,
+                565.4860800000001,
+                616.80027
+            ],
+            "page": "6"
+        },
+        "6": {
+            "caption": "Figure 6. Effect of sampling Number (m) on the localization accuracy.\n",
+            "bbox": [
+                57.368,
+                606.83727,
+                293.5589500000002,
+                614.93479
+            ],
+            "page": "7"
+        },
+        "7": {
+            "caption": "Figure 7. Effect of sampling distances (r) and number of devices (n) on\nthe localization accuracy.\n",
+            "bbox": [
+                321.09399999999994,
+                599.8632699999999,
+                564.16129,
+                616.92779
+            ],
+            "page": "7"
+        },
+        "8": {
+            "caption": "Figure 8. Task evaluation setup with 8 IoT devices in an of\ufb01ce.\n",
+            "bbox": [
+                337.047,
+                309.05127,
+                548.2121500000002,
+                317.02126999999996
+            ],
+            "page": "7"
+        },
+        "9": {
+            "caption": "Figure 9. Localization accuracy study with users. Runtime: runtime lo-\ncalization result. Height Correction: results with height correction. Dis-\ntance: the distances of IoT devices to the center of the surveying space.\n",
+            "bbox": [
+                53.929,
+                380.97027,
+                298.3210800000002,
+                406.87327
+            ],
+            "page": "8"
+        },
+        "10": {
+            "caption": "Figure 10. Distant pointing accuracy and completion time.\n",
+            "bbox": [
+                343.614,
+                582.53127,
+                541.64459,
+                590.50127
+            ],
+            "page": "8"
+        },
+        "11": {
+            "caption": "Figure 11. Proximity based control accuracy and completion time.\n",
+            "bbox": [
+                63.206,
+                582.53127,
+                287.7209000000002,
+                590.50127
+            ],
+            "page": "9"
+        },
+        "12": {
+            "caption": "Figure 12. Discoverable World. The digital representations of the discov-\nered IoT devices are visualized within the AR scene with spatial PiPs.\n",
+            "bbox": [
+                321.094,
+                578.5962699999999,
+                565.4860800000001,
+                595.5322699999999
+            ],
+            "page": "9"
+        },
+        "13": {
+            "caption": "Figure 13. Proximity based Control. While users move closer to the\nmachine (a, b, c), the level of engagement is adjusted accordingly.\n",
+            "bbox": [
+                321.094,
+                119.41927,
+                564.1630600000002,
+                136.35527
+            ],
+            "page": "9"
+        },
+        "14": {
+            "caption": "Figure 14. Monitoring the IoT assets (a, b) and navigating the user to-\nwards the assets by visualizing the direction on the screen(c, d).\n",
+            "bbox": [
+                53.642,
+                607.5412699999999,
+                298.3210800000001,
+                624.47727
+            ],
+            "page": "10"
+        },
+        "15": {
+            "caption": "Figure 15. User creates a miniature world of the physical environment\nenhanced by the digital interfaces of IoT devices.\n",
+            "bbox": [
+                53.929,
+                212.32926999999998,
+                296.9980600000002,
+                229.26627
+            ],
+            "page": "10"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                144.81668249999998,
+                593.575645,
+                1572.1138825000003,
+                1064.1972349999999
+            ],
+            "bbox": [
+                53.9340057,
+                410.6889954,
+                564.1609977,
+                576.5127678
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                886.9277613888887,
+                168.21391638888886,
+                1572.127778611111,
+                515.8139038888888
+            ],
+            "bbox": [
+                321.0939941,
+                608.1069946,
+                564.1660003,
+                729.6429901
+            ],
+            "page": "3"
+        },
+        "3": {
+            "crop_coord": [
+                144.80278027777777,
+                168.24998638888886,
+                829.8027802777777,
+                482.00000333333315
+            ],
+            "bbox": [
+                53.9290009,
+                620.2799988,
+                296.9290009,
+                729.6300049
+            ],
+            "page": "5"
+        },
+        "4": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2321419444442,
+                829.96677,
+                371.13612694444436
+            ],
+            "bbox": [
+                53.9290009,
+                660.1909943,
+                296.9880372,
+                729.6364289
+            ],
+            "page": "6"
+        },
+        "5": {
+            "crop_coord": [
+                886.9277613888887,
+                168.2144249999999,
+                1572.127778611111,
+                448.29444027777754
+            ],
+            "bbox": [
+                321.0939941,
+                632.4140015,
+                564.1660003,
+                729.6428070000001
+            ],
+            "page": "6"
+        },
+        "6": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2144249999999,
+                830.0027974999999,
+                448.29444027777754
+            ],
+            "bbox": [
+                53.9290009,
+                632.4140015,
+                297.0010071,
+                729.6428070000001
+            ],
+            "page": "7"
+        },
+        "7": {
+            "crop_coord": [
+                886.9277613888887,
+                168.2144249999999,
+                1572.127778611111,
+                448.29444027777754
+            ],
+            "bbox": [
+                321.0939941,
+                632.4140015,
+                564.1660003,
+                729.6428070000001
+            ],
+            "page": "7"
+        },
+        "8": {
+            "crop_coord": [
+                886.9277613888887,
+                590.2853586111108,
+                1572.1229613888886,
+                1275.4805586111113
+            ],
+            "bbox": [
+                321.0939941,
+                334.6269989,
+                564.1642661,
+                577.6972709
+            ],
+            "page": "7"
+        },
+        "9": {
+            "crop_coord": [
+                144.80278027777777,
+                683.8250138888887,
+                830.0027974999999,
+                1031.4250013888889
+            ],
+            "bbox": [
+                53.9290009,
+                422.4869995,
+                297.0010071,
+                544.022995
+            ],
+            "page": "8"
+        },
+        "10": {
+            "crop_coord": [
+                886.9277613888887,
+                168.21391638888886,
+                1572.127778611111,
+                515.8139038888888
+            ],
+            "bbox": [
+                321.0939941,
+                608.1069946,
+                564.1660003,
+                729.6429901
+            ],
+            "page": "8"
+        },
+        "11": {
+            "crop_coord": [
+                144.80278027777777,
+                168.21391638888886,
+                830.0027974999999,
+                515.8139038888888
+            ],
+            "bbox": [
+                53.9290009,
+                608.1069946,
+                297.0010071,
+                729.6429901
+            ],
+            "page": "9"
+        },
+        "12": {
+            "crop_coord": [
+                886.9277613888887,
+                168.21222083333328,
+                1572.127778611111,
+                507.3722330555554
+            ],
+            "bbox": [
+                321.0939941,
+                611.1459961,
+                564.1660003,
+                729.6436005
+            ],
+            "page": "9"
+        },
+        "13": {
+            "crop_coord": [
+                886.9277613888887,
+                1517.093116111111,
+                1572.0737794444442,
+                1782.8639052777776
+            ],
+            "bbox": [
+                321.0939941,
+                151.9689941,
+                564.1465605999999,
+                244.04647820000002
+            ],
+            "page": "9"
+        },
+        "14": {
+            "crop_coord": [
+                144.80278027777777,
+                168.23142166666662,
+                829.9487983333333,
+                426.9694350000001
+            ],
+            "bbox": [
+                53.9290009,
+                640.0910034,
+                296.9815674,
+                729.6366882
+            ],
+            "page": "10"
+        },
+        "15": {
+            "crop_coord": [
+                144.80278027777777,
+                1280.7265856666668,
+                829.9584802777777,
+                1524.7805616666667
+            ],
+            "bbox": [
+                53.9290009,
+                244.8789978,
+                296.98505289999997,
+                329.13842916
+            ],
+            "page": "10"
+        }
+    }
+}

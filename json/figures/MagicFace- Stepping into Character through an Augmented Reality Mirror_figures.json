@@ -1,0 +1,166 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1. Four landing pages: (i) screen saver that is automatically replaced with virtual make-up once a user appears in front of \nthe camera (first from the left); (ii) screen saver with buttons that a user clicks on to see the virtual make-up (second from the left); \n(iii) screen saver is automatically replaced with the virtual mirror with the buttons for switching between the two looks (third from \nthe left); (iv) screen saver with the choice of two names that the user taps on to see the virtual looks (fourth from the left) \n",
+            "bbox": [
+                54.96,
+                85.258,
+                559.056288,
+                125.77192000000001
+            ],
+            "page": "3"
+        },
+        "3": {
+            "caption": "Figure 3. Different groups of visitors trying on virtual make-up in the opera dressing room: opera singer (first from the left); \npupil (second from the left); make-up artist (third from the left), opera singer (fourth from the left). \n",
+            "bbox": [
+                73.32,
+                86.30192,
+                553.9642080000002,
+                105.74192000000001
+            ],
+            "page": "5"
+        },
+        "2": {
+            "caption": "Figure 2: Info page that dropped down if an info button in the \nupper right corner of the virtual mirror was tapped \n",
+            "bbox": [
+                55.5806,
+                80.88336,
+                295.7473040000002,
+                100.08192000000001
+            ],
+            "page": "4"
+        },
+        "5": {
+            "caption": "Figure 5: A museum visitor doing an Egyptian walk while \ninteracting with the MagicFace \n",
+            "bbox": [
+                63.7105,
+                266.88336000000004,
+                287.71294,
+                286.08192
+            ],
+            "page": "9"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                145.0,
+                1671.6387516666666,
+                820.9999847222222,
+                2040.9720866666667
+            ],
+            "bbox": [
+                54.0,
+                59.0500488,
+                293.7599945,
+                188.4100494
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                145.0,
+                1841.6387430555556,
+                1555.0,
+                1975.6387413888888
+            ],
+            "bbox": [
+                54.0,
+                82.5700531,
+                558.0,
+                127.21005249999999
+            ],
+            "page": "3"
+        },
+        "3": {
+            "crop_coord": [
+                145.0,
+                1380.1111091666664,
+                1555.0,
+                1850.6666733333334
+            ],
+            "bbox": [
+                54.0,
+                127.5599976,
+                558.0,
+                293.3600007
+            ],
+            "page": "3"
+        },
+        "4": {
+            "crop_coord": [
+                145.0,
+                1001.9986130555554,
+                822.7777608333333,
+                1903.7261030555555
+            ],
+            "bbox": [
+                54.0,
+                108.4586029,
+                294.3999939,
+                429.4804993
+            ],
+            "page": "4"
+        },
+        "5": {
+            "crop_coord": [
+                875.0002627777777,
+                911.9960869444446,
+                1552.9169208333335,
+                1367.2738733333333
+            ],
+            "bbox": [
+                316.8000946,
+                301.5814056,
+                557.2500915,
+                461.88140869999995
+            ],
+            "page": "4"
+        },
+        "6": {
+            "crop_coord": [
+                78.58832472222221,
+                1374.3421852777778,
+                1652.5183275,
+                2488.3616469444446
+            ],
+            "bbox": [
+                30.0917969,
+                -102.0101929,
+                593.1065979,
+                295.4368133
+            ],
+            "page": "5"
+        },
+        "7": {
+            "crop_coord": [
+                170.0,
+                1889.2777847222223,
+                1565.333336666667,
+                1974.6111044444444
+            ],
+            "bbox": [
+                63.0,
+                82.9400024,
+                561.7200012000001,
+                110.0599975
+            ],
+            "page": "5"
+        },
+        "8": {
+            "crop_coord": [
+                145.0,
+                1011.0155402777777,
+                817.2222052777778,
+                1389.8933324999998
+            ],
+            "bbox": [
+                54.0,
+                293.4384003,
+                292.3999939,
+                426.2344055
+            ],
+            "page": "9"
+        }
+    }
+}

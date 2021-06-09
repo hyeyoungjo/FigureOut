@@ -1,0 +1,93 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/CHI 18/3173574.3174057.pdf",
+    "paper_id": "3173574.3174057",
+    "venue": "CHI 18",
+    "keywords": [
+        "Virtual Reality",
+        "User Experience"
+    ],
+    "paragraph_containing_keyword": "ABSTRACT \nResearch  on  virtual  reality  (VR)  has  studied  users\u2019 \nexperience of immersion, presence, simulator sickness, and \nlearning  effects.  However,  the  momentary  experience  of \nexiting  VR  and  transitioning  back  to  the  real-world  is  not \nwell  understood.  Do  users  become  self-conscious  of  their \nactions upon exit? Are users nervous of their surroundings? \nUsing  explicitation  interviews,  we  explore  the  moment  of \nexit  from  VR  across  four  applications.  Analysis  of  the \ninterviews  reveals  five  components  of  experience:  space, \ncontrol, sociality, time, and sensory adaptation. Participants \ndescribed  spatial  disorientation,  for  example,  regardless  of \nthe complexity of the VR scene. Participants also described \na window across which they exit VR, for example mentally \nfirst and then physically. We present six designs for easing \nor  heightening  the  exit  experience,  as  described  by  the \nparticipants. Based on these findings, we further discuss the \n\u2018moment of exit\u2019 as an opportunity for designing engaging \nand enhanced VR experiences.  \nAuthor Keywords \nVirtual Reality; User Experience \nACM Classification Keywords \nH.5.m. Information interfaces and presentation (e.g., HCI): \nMiscellaneous.  \nINTRODUCTION \nVirtual  Reality  (VR)  is  being  employed  to  provide  a  wide \nrange  of  experiences.  Recent  advances  in  commercial  VR \nheadsets  have  led  to  new  industry  attention  on  VR  games. \nIn  research,  VR  has  a  long  tradition  as  a  tool  for  studying \ncomplex phenomena (different perspectives and fears) [26] \nand,  increasingly,  as  a  technology  for  exploring  novel \nexperiences [7,9] and collaborations [18].  \nWhile  the  user  is  in  VR,  the  user  experience  is  well \nunderstood.  Research  has  explored  both  the  technical \nfactors  of  immersion  (e.g.,  [11,39])  and  the  experiential \nfactors  of  presence  (e.g.,  [36]).  After  exit,  the  mid-term \naftereffects  of  VR  have  also  been  explored  [1,38],  such  as",
+    "paragraph_after_keyword": "Permission to make digital or hard copies of all or part of this work for \npersonal or classroom use is granted without fee provided that copies are \nnot made or distributed for profit or commercial advantage and that copies \nbear this notice and the full citation on the first page. Copyrights for \ncomponents of this work owned by others than the author(s) must be \nhonored. Abstracting with credit is permitted. To copy otherwise, or \nrepublish, to post on servers or to redistribute to lists, requires prior \nspecific permission and/or a fee. Request permissions \nfrom Permissions@acm.org. \n \nCHI 2018, April 21\u201326, 2018, Montreal, QC, Canada \n\u00a9 2018 Copyright is held by the owner/author(s). Publication rights \nlicensed to ACM. \nACM 978-1-4503-5620-6/18/04\u2026$15.00  \nhttps://doi.org/10.1145/3173574.3174057",
+    "doi": "10.1145/3173574.3174057",
+    "sections": [
+        {
+            "word_count": 667,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 985,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 4083,
+            "figure_citations": {
+                "1": [
+                    "Figure 1, top left).",
+                    "Figure 1, bottom right).",
+                    "Figure 1, bottom left)."
+                ],
+                "2": [
+                    "Figure 2)."
+                ]
+            },
+            "section_index": 2,
+            "title": "EXPLORING THE MOMENT OF EXIT"
+        },
+        {
+            "word_count": 2,
+            "figure_citations": {},
+            "section_index": 3,
+            "title": "EXPERIENCE OF EXITING VR"
+        },
+        {
+            "word_count": 2,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "LESSENING"
+        },
+        {
+            "word_count": 1144,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "THE"
+        },
+        {
+            "word_count": 1122,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 185,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 20,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "ACKNOWLEDGEMENTS"
+        },
+        {
+            "word_count": 1430,
+            "figure_citations": {},
+            "section_index": 9,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "The Dream is Collapsing: The Experience of Exiting VR",
+    "authors": "Jarrod Knibbe, Jonas Schjerlund, Mathias Petraeus, Kasper Hornb\u00e6k",
+    "abstract": "Research on virtual reality (VR) has studied users' experience of immersion, presence, simulator sickness, and learning effects. However, the momentary experience of exiting VR and transitioning back to the real-world is not well understood. Do users become self-conscious of their actions upon exit? Are users nervous of their surroundings? Using explicitation interviews, we explore the moment of exit from VR across four applications. Analysis of the interviews reveals five components of experience: space, control, sociality, time, and sensory adaptation. Participants described spatial disorientation, for example, regardless of the complexity of the VR scene. Participants also described a window across which they exit VR, for example mentally first and then physically. We present six designs for easing or heightening the exit experience, as described by the participants. Based on these findings, we further discuss the ?moment of exit' as an opportunity for designing engaging and enhanced VR experiences.",
+    "publication": {
+        "venue": "CHI '18",
+        "venue_full": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems",
+        "year": "2018",
+        "date": "2018/4/21"
+    },
+    "version": 3
+}

@@ -1,0 +1,381 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1: Inspired by Rettig [32], 360-degree paper proto-\ntyping involves participants in different roles: User tests an\nAR/VR paper mockup of an animated butterfly scene; Facili-\ntator streams the butterfly cut-out arranged on a 360\u25e6 paper\ntemplate, while \u201cComputer\u201d moves the butterfly along the\n360\u25e6 grid; Observer records User\u2019s behavior and feedback.\n",
+            "bbox": [
+                317.62299999999993,
+                428.00495599999994,
+                559.7949179999999,
+                491.791854
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2: Initial Daydream, Pok\u00e9mon GO paper prototypes\n",
+            "bbox": [
+                319.633,
+                629.039854,
+                556.51472,
+                638.005854
+            ],
+            "page": "3"
+        },
+        "3": {
+            "caption": "Figure 3: 360 paper prototype versions viewed in Cardboard\ntook three hours with two hours focused on paper proto-\ntyping in groups. At the end of each round, groups were\nasked to demonstrate the three required interactions with\ntheir prototypes, which we recorded from the perspective\nof the user. We concluded with a focus group discussion to\nhave participants reflect on the experience as well as exit\nquestionnaires to gather feedback in terms of two pros and\ntwo cons comparing plain and 360 paper prototyping.\n",
+            "bbox": [
+                317.955,
+                444.889,
+                559.89808608,
+                551.778854
+            ],
+            "page": "3"
+        },
+        "4": {
+            "caption": "Figure 4: 360 grid (red), range of motion (green), FOV (blue)\n",
+            "bbox": [
+                54.189,
+                529.157854,
+                293.643962,
+                538.123854
+            ],
+            "page": "5"
+        },
+        "5": {
+            "caption": "Figure 5: Camera tool creates static captures and live streams\n",
+            "bbox": [
+                53.798,
+                417.431854,
+                294.033004,
+                426.397854
+            ],
+            "page": "5"
+        },
+        "6": {
+            "caption": "Figure 6: 360proto Studio\u2019s View pane (top left) shows a simulated or live preview of the 360 paper prototype; Collect pane\n(bottom left) shows the live feed from the connected Camera tool and contains previous captures (here, three captures of\nmountains, trees, and butterflies, a dog and a car drawn using the 360 paper template); Capture pane (bottom right) shows a\nselected capture and provides color filters for chroma keying; Layers pane (top right) shows 2D, 360, and AR/VR specific layers\n(here, only 360 layers are used to compose a basic butterfly scene from the running example).\n",
+            "bbox": [
+                53.52000000000004,
+                402.526854,
+                558.200472,
+                455.32885400000004
+            ],
+            "page": "6"
+        },
+        "7": {
+            "caption": "Figure 7: Butterfly scene composed from three 360 layers\n",
+            "bbox": [
+                58.632,
+                98.000854,
+                289.20165599999996,
+                106.966854
+            ],
+            "page": "6"
+        },
+        "8": {
+            "caption": "Figure 8: AR marker to move virtual butterfly in AR view\n",
+            "bbox": [
+                321.789,
+                595.198854,
+                554.358074,
+                604.164854
+            ],
+            "page": "7"
+        },
+        "9": {
+            "caption": "Figure 9: AR mode with the user looking at a virtual butter-\nfly from inside (left) and outside (right) the 360 video sphere\nthat is anchored at the starting physical location\n",
+            "bbox": [
+                317.955,
+                393.211854,
+                559.7949179999999,
+                424.09585400000003
+            ],
+            "page": "7"
+        },
+        "10": {
+            "caption": "Figure 10: Architecture of our suite of 360proto tools\n",
+            "bbox": [
+                67.276,
+                500.870854,
+                280.55920799999996,
+                509.836854
+            ],
+            "page": "8"
+        },
+        "11": {
+            "caption": "Figure 11: Star Trek: two connected rooms made from paper\n",
+            "bbox": [
+                317.955,
+                212.257854,
+                558.1900039999999,
+                221.22385400000002
+            ],
+            "page": "8"
+        },
+        "12": {
+            "caption": "Figure 12: Androids on paper appear in the environment\n",
+            "bbox": [
+                59.381,
+                481.553854,
+                288.453334,
+                490.519854
+            ],
+            "page": "9"
+        },
+        "13": {
+            "caption": "Figure 13: Distribution of 29 responses for Q1\u2013Q3\n",
+            "bbox": [
+                338.09,
+                336.001854,
+                538.0586979999999,
+                344.967854
+            ],
+            "page": "10"
+        },
+        "14": {
+            "caption": "Figure 14: Racquetball game (left), WOz version (right)\n",
+            "bbox": [
+                63.631,
+                375.371854,
+                284.20356599999997,
+                384.337854
+            ],
+            "page": "11"
+        },
+        "15": {
+            "caption": "Figure 15: WOz version of Amazon Shopping\u2019s AR view\n",
+            "bbox": [
+                62.012,
+                243.734854,
+                285.8212920000001,
+                252.70085400000002
+            ],
+            "page": "11"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                878.2083383333334,
+                536.5178933333331,
+                1555.5458408333332,
+                803.5444386111111
+            ],
+            "bbox": [
+                317.9550018,
+                504.5240021,
+                558.1965027,
+                597.0535584
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                878.2083383333334,
+                252.36799611111098,
+                1555.5606649999997,
+                409.2694516666669
+            ],
+            "bbox": [
+                317.9550018,
+                646.4629974,
+                558.2018393999999,
+                699.3475214
+            ],
+            "page": "3"
+        },
+        "3": {
+            "crop_coord": [
+                878.2083383333334,
+                453.8142933333333,
+                1555.53984,
+                648.7889100000001
+            ],
+            "bbox": [
+                317.9550018,
+                560.2359924,
+                558.1943424,
+                626.8268544
+            ],
+            "page": "3"
+        },
+        "4": {
+            "crop_coord": [
+                211.17499444444442,
+                252.3626625,
+                755.0457338888888,
+                674.8472341666667
+            ],
+            "bbox": [
+                77.822998,
+                550.8549957,
+                270.0164642,
+                699.3494415
+            ],
+            "page": "5"
+        },
+        "5": {
+            "crop_coord": [
+                144.43890055555556,
+                741.7095283333335,
+                821.8022116666666,
+                985.1972283333333
+            ],
+            "bbox": [
+                53.7980042,
+                439.1289978,
+                294.04879619999997,
+                523.1845698
+            ],
+            "page": "5"
+        },
+        "6": {
+            "crop_coord": [
+                183.01112694444444,
+                252.36798805555554,
+                1510.075230277778,
+                916.7055680555554
+            ],
+            "bbox": [
+                67.6840057,
+                463.7859955,
+                541.8270829,
+                699.3475243
+            ],
+            "page": "6"
+        },
+        "7": {
+            "crop_coord": [
+                144.43890055555556,
+                1642.6312330555554,
+                821.7761716666668,
+                1863.0416786111111
+            ],
+            "bbox": [
+                53.7980042,
+                123.1049957,
+                294.0394218,
+                198.85275610000002
+            ],
+            "page": "6"
+        },
+        "8": {
+            "crop_coord": [
+                878.2083383333334,
+                252.36708055555567,
+                1548.8580405555554,
+                515.1416694444443
+            ],
+            "bbox": [
+                317.9550018,
+                608.348999,
+                555.7888945999999,
+                699.347851
+            ],
+            "page": "7"
+        },
+        "9": {
+            "crop_coord": [
+                941.4833152777777,
+                764.9374582666666,
+                1485.3311936777777,
+                1015.3333366666667
+            ],
+            "bbox": [
+                340.7339935,
+                428.2799988,
+                532.919229724,
+                514.822515024
+            ],
+            "page": "7"
+        },
+        "10": {
+            "crop_coord": [
+                174.34998416666667,
+                382.1682797222221,
+                784.9474491666667,
+                777.1666547222222
+            ],
+            "bbox": [
+                64.5659943,
+                514.0200043,
+                280.7810817,
+                652.6194193
+            ],
+            "page": "8"
+        },
+        "11": {
+            "crop_coord": [
+                878.2083383333334,
+                1345.9407594444444,
+                1555.53984,
+                1545.6583150000001
+            ],
+            "bbox": [
+                317.9550018,
+                237.3630066,
+                558.1943424,
+                305.6613266
+            ],
+            "page": "8"
+        },
+        "12": {
+            "crop_coord": [
+                144.43890055555556,
+                583.3062686111112,
+                821.7843461111111,
+                797.6138983333333
+            ],
+            "bbox": [
+                53.7980042,
+                506.6589966,
+                294.0423646,
+                580.2097433
+            ],
+            "page": "9"
+        },
+        "13": {
+            "crop_coord": [
+                878.2082258536943,
+                609.9512047511108,
+                1612.564508669528,
+                1235.1348346427778
+            ],
+            "bbox": [
+                317.95496130733,
+                349.1514595286,
+                578.7232231210301,
+                570.6175662896001
+            ],
+            "page": "10"
+        },
+        "14": {
+            "crop_coord": [
+                157.6639047222222,
+                918.5183205555555,
+                801.6279199999999,
+                1125.7750108333335
+            ],
+            "bbox": [
+                58.5590057,
+                388.5209961,
+                286.7860512,
+                459.5334046
+            ],
+            "page": "11"
+        },
+        "15": {
+            "crop_coord": [
+                157.6639047222222,
+                1199.82218,
+                801.6500227777778,
+                1491.4333258333334
+            ],
+            "bbox": [
+                58.5590057,
+                256.8840027,
+                286.7940082,
+                358.2640152
+            ],
+            "page": "11"
+        }
+    }
+}

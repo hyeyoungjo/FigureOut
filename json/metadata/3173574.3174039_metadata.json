@@ -1,0 +1,160 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/CHI 18/3173574.3174039.pdf",
+    "paper_id": "3173574.3174039",
+    "venue": "CHI 18",
+    "keywords": [
+        "Augmented reality",
+        "Microsurgery",
+        "Surgical simulator",
+        "Surgical training",
+        "Cataract",
+        "Instrument tracking",
+        "Dexterous input"
+    ],
+    "paragraph_containing_keyword": "ABSTRACT\nWe propose CatAR, a novel stereoscopic augmented reality\n(AR) cataract surgery training system. It provides dexterous\ninstrument  tracking  ability  using  a  specially  designed\ninfrared  optical  system  with  2  cameras  and  1  reflective\nmarker. The tracking accuracy on the instrument tip is 20 \u00b5m,\nmuch higher than previous simulators. Moreover, our system\nallows  trainees  to  use  and  to  see  real  surgical  instruments\nwhile practicing. Five training modules with 31 parameters\nwere designed and 28 participants were enrolled to conduct\nefficacy  and  validity  tests.  The  results  revealed  significant\ndifferences  between  novice  and  experienced  surgeons.\nImprovements in surgical skills after practicing with CatAR\nwere also significant.\nAuthor Keywords\nAugmented  reality;  Microsurgery;  Surgical  simulator;\nSurgical  training;  Cataract;  Instrument  tracking;  Dexterous\ninput.\nPermission  to  make  digital  or  hard  copies  of  all  or  part  of  this  work  for\npersonal or classroom use is granted without fee provided that copies are\nnot made or distributed for profit or commercial advantage and that copies\nbear  this  notice  and  the  full  citation  on  the  first  page.  Copyrights for\ncomponents  of  this  work  owned  by  others  than  the  author(s)  must  be\nhonored.  Abstracting  with  credit  is  permitted.  To  copy  otherwise,  or\nrepublish, to post on servers or to redistribute to lists, requires prior specific\npermission and/or a fee. Request permissions from Permissions@acm.org.\nCHI 2018, April 21\u201326, 2018, Montreal, QC, Canada\n\u00a9 2018  Copyright  is  held  by  the  owner/author(s).  Publication  rights\nlicensed to ACM.\nACM 978-1-4503-5620-6/18/04\u2026$15.00\nhttps://doi.org/10.1145/3173574.3174039",
+    "doi": "10.1145/3173574.3174039",
+    "paragraph_after_keyword": "ACM Classification Keywords\nH.5.2.  Information  interfaces  and  presentation  (e.g.,  HCI):\nMultimedia  Information  Systems  - Artificial,  augmented,\nand virtual realities\nBACKGROUND AND RELATED WORK\nCataract  is  a  clouding  of  the  lens  in  the  eye  that  occludes\nvision.  According  to  a  recent  assessment  by  the  World\nHealth Organization [26], cataract is responsible for 51% of\nblindness, representing 20 million people worldwide, which\nmakes it the current leading cause of blindness. Although the\nopaque lens material can be removed through microsurgery\nprocedures, it is very difficult for surgeons to master those\nskills because of following reasons:\n1. Absence of force feedback\nThe lens is suspended behind the iris by a ring of fibrous\nstrands  called  the  zonule  of  Zinn.  The  diameter  of  the\nzonule is 1 to 2 micrometers, and it can be dehisced if the\nlens is pushed excessively during surgery. The lens capsule\nis  only  2  to  28  micrometers  thick  and  can  be  easily torn\napart  without  any  resistance.  Due  to  these  anatomical\nproperties  of  the  lens,  cataract  surgery  mainly  relies  on\nvisual feedback rather than the force feedback utilized in\nthe other surgeries [7].\n2. Difficult to reproduce subtle movements\nThe surgical field in cataract surgery is approximately 10\nmm  in  both  diameter  and  depth.  Every  movement  is\nextremely  delicate  and  the  result  can  be  significantly",
+    "sections": [
+        {
+            "word_count": 924,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "BACKGROUND AND RELATED WORK"
+        },
+        {
+            "word_count": 1655,
+            "figure_citations": {
+                "1": [
+                    "Figure 1b, 2) which helps meet user requirements for using real surgical instruments instead of fake props."
+                ],
+                "5": [
+                    "Figure 5b).",
+                    "Figure 5a, 5b).",
+                    "Figure 5c).",
+                    "Figure 5d)."
+                ],
+                "3": [
+                    "Figure 3a), which helped users judge the depth of the tip with greater ease.",
+                    "Figure 3c) and dot markers on 3 different planes were designed for CatAR calibration (Figure 3b) to solve the extrinsic and intrinsic camera parameters."
+                ],
+                "4": [
+                    "Figure 4), which provided a realistic visual environment for microsurgery training."
+                ]
+            },
+            "section_index": 1,
+            "title": "IMPLEMENTATION"
+        },
+        {
+            "word_count": 369,
+            "figure_citations": {
+                "6": [
+                    "Figure 6)."
+                ],
+                "7": [
+                    "Figure 7a)."
+                ]
+            },
+            "section_index": 2,
+            "title": "SYSTEM EVALUATION"
+        },
+        {
+            "word_count": 294,
+            "figure_citations": {
+                "7": [
+                    "Figure 7b).",
+                    "Figure 7c)."
+                ]
+            },
+            "section_index": 3,
+            "title": "RMSE"
+        },
+        {
+            "word_count": 445,
+            "figure_citations": {
+                "7": [
+                    "Figure 7d).",
+                    "Figure 7f)."
+                ],
+                "1": [
+                    "Figure 1c, 7e)."
+                ]
+            },
+            "section_index": 4,
+            "title": "TRAINING MODULE DESIGN"
+        },
+        {
+            "word_count": 1096,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "USER STUDY"
+        },
+        {
+            "word_count": 1419,
+            "figure_citations": {
+                "9": [
+                    "Figure 9)."
+                ]
+            },
+            "section_index": 6,
+            "title": "RESULT"
+        },
+        {
+            "word_count": 633,
+            "figure_citations": {
+                "8": [
+                    "Figure 8) in our study."
+                ],
+                "9": [
+                    "Figure 9)."
+                ],
+                "11": [
+                    "Figure 11a), the difference was not statistically significant.",
+                    "Figure 11b)."
+                ],
+                "10": [
+                    "Figure 10)."
+                ]
+            },
+            "section_index": 7,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 134,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "CONCLUSION AND FUTURE WORK"
+        },
+        {
+            "word_count": 187,
+            "figure_citations": {
+                "11": [
+                    "Figure 11c)."
+                ]
+            },
+            "section_index": 9,
+            "title": "ACKNOWLEDGMENTS"
+        },
+        {
+            "word_count": 599,
+            "figure_citations": {},
+            "section_index": 10,
+            "title": "REFERENCES"
+        },
+        {
+            "word_count": 694,
+            "figure_citations": {},
+            "section_index": 11,
+            "title": "OF SURGICAL INSTRUMENTS IN THE EYE"
+        }
+    ],
+    "title": "CatAR: A Novel Stereoscopic Augmented Reality Cataract Surgery Training System with Dexterous Instruments Tracking Technology",
+    "authors": "Yu-Hsuan Huang, Hao-Yu Chang, Wan-ling Yang, Yu-Kai Chiu, Tzu-Chieh Yu, Pei-Hsuan Tsai, Ming Ouhyoung",
+    "abstract": "We propose CatAR, a novel stereoscopic augmented reality (AR) cataract surgery training system. It provides dexterous instrument tracking ability using a specially designed infrared optical system with 2 cameras and 1 reflective marker. The tracking accuracy on the instrument tip is 20 \u00b5m, much higher than previous simulators. Moreover, our system allows trainees to use and to see real surgical instruments while practicing. Five training modules with 31 parameters were designed and 28 participants were enrolled to conduct efficacy and validity tests. The results revealed significant differences between novice and experienced surgeons. Improvements in surgical skills after practicing with CatAR were also significant.",
+    "publication": {
+        "venue": "CHI '18",
+        "venue_full": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems",
+        "year": "2018",
+        "date": "2018/4/21"
+    },
+    "version": 3
+}

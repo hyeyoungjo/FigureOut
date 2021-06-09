@@ -1,0 +1,206 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1: A spherical FTVR display (right) is simulated in VR\n(left) to evaluate the importance of stereo cues.\n",
+            "bbox": [
+                317.67699999999996,
+                373.148854,
+                558.190004,
+                393.073854
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2: An example, with exaggerated stereo disparity, of\nwhat the left and right eyes would see in the Stereo (top), Non-\nStereo (middle), and Monocular (bottom) viewing conditions.\nNote that non-stereo rendering creates a perspective mis-\nmatch between the background 3D world and the display.\n",
+            "bbox": [
+                317.60499999999996,
+                406.181854,
+                559.794918,
+                458.98285400000003
+            ],
+            "page": "4"
+        },
+        "3": {
+            "caption": "Figure 3: Pattern alignment task: the pattern starts distorted\n(left) and then the participant moves their head left, right,\nup, or down to align their viewpoint so that the pattern ap-\npears to have straight lines and circular rings (right).\n",
+            "bbox": [
+                317.67699999999996,
+                560.6878540000001,
+                559.7949179999999,
+                602.530854
+            ],
+            "page": "5"
+        },
+        "4": {
+            "caption": "Figure 4: Mean Time and Error vs. Viewing Condition for the\nPattern Alignment task. Error bars represent the standard\nerror of the mean, highlighted bars indicate significant best\nresults, and dashed lines indicate a significant difference.\n",
+            "bbox": [
+                317.9549999999999,
+                373.000854,
+                558.1974019999999,
+                414.843854
+            ],
+            "page": "5"
+        },
+        "5": {
+            "caption": "Figure 5: The geometric mean (red) of measurements (blue/orange) is shown relative to the ground truth (green). Calibrations\nwere perturbed by 5 cm (black circles) at the start of each trial. Plots are scaled to 6.3 cm pupillary distance.\n",
+            "bbox": [
+                53.449000000000005,
+                538.570854,
+                558.1803300000001,
+                558.495854
+            ],
+            "page": "6"
+        },
+        "6": {
+            "caption": "Figure 6: Subjective preference task: the participant was\nforced to move left and right to induce a minimum amount\nof head motion before selecting their preference between a\npair of viewing conditions.\n",
+            "bbox": [
+                53.798,
+                284.049854,
+                294.03300400000006,
+                325.892854
+            ],
+            "page": "6"
+        },
+        "7": {
+            "caption": "Figure 7: Point cloud visualizations on our simulated display\nin the Distance (left), Selection (middle), and Manipulation\n(right) tasks in Experiment 3.\n",
+            "bbox": [
+                317.67699999999996,
+                565.6408540000001,
+                558.441052,
+                596.524854
+            ],
+            "page": "7"
+        },
+        "8": {
+            "caption": "Figure 8: Mean Time, Error and Head Speed vs. Viewing Con-\ndition grouped by Task. Error bars represent the standard\nerror of the mean, highlighted bars indicate significant best\nresults, and dashed lines indicate a significant difference.\n",
+            "bbox": [
+                53.798,
+                434.853854,
+                294.997918,
+                476.69685400000003
+            ],
+            "page": "8"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                878.2083383333334,
+                633.98752,
+                1555.5523255555554,
+                1077.7611116666667
+            ],
+            "bbox": [
+                317.9550018,
+                405.8059998,
+                558.1988372,
+                561.9644928
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                961.6277566666665,
+                252.36707055555559,
+                1472.1397738888888,
+                894.6805658333334
+            ],
+            "bbox": [
+                347.9859924,
+                471.7149963,
+                528.1703186,
+                699.3478546
+            ],
+            "page": "4"
+        },
+        "3": {
+            "crop_coord": [
+                878.2083383333334,
+                252.36775122222218,
+                1555.5544983333334,
+                495.93890722222204
+            ],
+            "bbox": [
+                317.9550018,
+                615.2619934,
+                558.1996194000001,
+                699.34760956
+            ],
+            "page": "5"
+        },
+        "4": {
+            "crop_coord": [
+                878.2083383333334,
+                681.8870172125002,
+                1555.554977141493,
+                1017.2916752777778
+            ],
+            "bbox": [
+                317.9550018,
+                427.5749969,
+                558.1997917709375,
+                544.7206738035
+            ],
+            "page": "5"
+        },
+        "5": {
+            "crop_coord": [
+                284.55001833333336,
+                252.36346777777766,
+                1415.47003,
+                618.2555644444444
+            ],
+            "bbox": [
+                104.2380066,
+                571.2279968,
+                507.7692108,
+                699.3491516
+            ],
+            "page": "6"
+        },
+        "6": {
+            "crop_coord": [
+                177.80834611111112,
+                743.8590255000001,
+                788.4186661111111,
+                1264.3777975
+            ],
+            "bbox": [
+                65.8110046,
+                338.6239929,
+                282.0307198,
+                522.41075082
+            ],
+            "page": "6"
+        },
+        "7": {
+            "crop_coord": [
+                878.2083383333334,
+                252.367421388889,
+                1555.5544983333334,
+                512.6222313888891
+            ],
+            "bbox": [
+                317.9550018,
+                609.2559967,
+                558.1996194000001,
+                699.3477283
+            ],
+            "page": "7"
+        },
+        "8": {
+            "crop_coord": [
+                144.43890055555556,
+                252.36665248821402,
+                821.7855480989583,
+                845.477795
+            ],
+            "bbox": [
+                53.7980042,
+                489.4279938,
+                294.04279731562497,
+                699.3480051042429
+            ],
+            "page": "8"
+        }
+    }
+}

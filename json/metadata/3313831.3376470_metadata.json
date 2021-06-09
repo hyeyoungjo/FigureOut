@@ -1,0 +1,118 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2020/3313831.3376470.pdf",
+    "paper_id": "3313831.3376470",
+    "venue": "chi2020",
+    "keywords": [
+        "Virtual Reality",
+        "Haptics",
+        "Force Feedback",
+        "String-Driven",
+        "Touch",
+        "Grasp"
+    ],
+    "paragraph_containing_keyword": "ABSTRACT  \nToday's virtual reality (VR) systems allow users to explore \n \n \nimmersive  new  worlds  and  experiences  through  sight.  Un-\n \nfortunately,  most  VR  systems  lack  haptic  feedback,  and \n \n \neven  high-end  consumer  systems  use  only  basic  vibration \n \n \nmotors. This clearly precludes realistic physical interactions \n \n \nwith virtual objects. Larger obstacles, such as walls, railings, \n \nand  furniture  are  not  simulated  at  all.  In  response,  we  de-\n \nveloped Wireality, a self-contained worn system that allows \n \n \nfor  individual  joints  on  the  hands  to  be  accurately  arrested \n \n \n \n \n \nin 3D space through the use of retractable wires that can be \n \nprogrammatically locked. This allows for convincing tangi-\nble interactions with complex geometries, such as wrapping \n \n \nfingers around a  railing. Our approach  is lightweight, low-\ncost,  and  low-power,  criteria  important  for  future,  worn \n \nconsumer  uses.  In  our  studies,  we  further  show  that  our \n \n \nsystem is fast-acting, spatially-accurate, high-strength, com-\n  \nfortable, and immersive. \n \n \nAuthor Keywords \n \n \n \nVirtual Reality; Haptics; Force Feedback; String-Driven; \n \n \n \nTouch; Grasp. \n \nCSS Concepts \n \n \nHuman-centered computing \u2192 Human computer interac-\n \n \n \ntion (HCI) \u2192 Interaction devices \u2192 Haptic devices. \n \nINTRODUCTION  \nVirtual reality (VR) systems, such as the Oculus Quest [15] \n \n \n \nand HTC Vive [28], use controllers for tracking the hands, \n \ncapturing  buttoned  input,  and  delivering  basic  vibrotactile \n \n \nhaptic  feedback.  The  latter  is  insufficient  to  produce  im-\n \n \nmersive  physical  interactions  with  virtual  objects.  More \n \n \ncritically, large obstacles like walls, railings, and furniture \u2013 \n \nkey elements in most VR worlds \u2013 are not simulated at all. \n \n \n \nThe  current  state-of-the-art  in  consumer  VR  systems  is  a \n \n \nvibration  alert  when  a  hand  intersects  a  virtual  object  or \n  \n \n \nobstacle \u2013 falling far short of any reality.",
+    "paragraph_after_keyword": "",
+    "doi": "10.1145/3313831.3376470",
+    "sections": [
+        {
+            "word_count": 572,
+            "figure_citations": {
+                "1": [
+                    "Figure 1).",
+                    "Figure 1)."
+                ]
+            },
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 560,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 1002,
+            "figure_citations": {
+                "2": [
+                    "Figure 2)."
+                ],
+                "3": [
+                    "Figure 3)."
+                ],
+                "4": [
+                    "Figure 4)."
+                ]
+            },
+            "section_index": 2,
+            "title": "WIREALITY IMPLEMENTATION"
+        },
+        {
+            "word_count": 1302,
+            "figure_citations": {
+                "1": [
+                    "Figure 1)."
+                ],
+                "2": [
+                    "Figure 2), we included a 10-turn potentiometer that allowed us to precisely track a point\u2019s distance from the module, but not the azimuth or altitude."
+                ],
+                "6": [
+                    "Figure 6)."
+                ]
+            },
+            "section_index": 3,
+            "title": "EVALUATION"
+        },
+        {
+            "word_count": 427,
+            "figure_citations": {
+                "7": [
+                    "Figure 7 shows our main results."
+                ]
+            },
+            "section_index": 4,
+            "title": "QUALITATIVE STUDY"
+        },
+        {
+            "word_count": 968,
+            "figure_citations": {
+                "8": [
+                    "Figure 8, A-D)."
+                ],
+                "9": [
+                    "Figure 9, A-D)."
+                ],
+                "10": [
+                    "Figure 10 shows four example scenarios: an ATM screen, a button, a lever, and a piano."
+                ],
+                "11": [
+                    "Figure 11, A-D)."
+                ]
+            },
+            "section_index": 5,
+            "title": "EXAMPLE USES"
+        },
+        {
+            "word_count": 127,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 1975,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Wireality: Enabling Complex Tangible Geometries in Virtual Reality with Worn Multi-String Haptics",
+    "authors": "Cathy Fang, Yang Zhang, Matthew Dworman, Chris Harrison",
+    "abstract": "Today's virtual reality (VR) systems allow users to explore immersive new worlds and experiences through sight. Unfortunately, most VR systems lack haptic feedback, and even high-end consumer systems use only basic vibration motors. This clearly precludes realistic physical interactions with virtual objects. Larger obstacles, such as walls, railings, and furniture are not simulated at all. In response, we developed Wireality, a self-contained worn system that allows for individual joints on the hands to be accurately arrested in 3D space through the use of retractable wires that can be programmatically locked. This allows for convincing tangible interactions with complex geometries, such as wrapping fingers around a railing. Our approach is lightweight, low-cost, and low-power, criteria important for future, worn consumer uses. In our studies, we further show that our system is fast-acting, spatially-accurate, high-strength, comfortable, and immersive.",
+    "publication": {
+        "venue": "CHI '20",
+        "venue_full": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "year": "2020",
+        "date": "2020/4/21"
+    },
+    "version": 4
+}

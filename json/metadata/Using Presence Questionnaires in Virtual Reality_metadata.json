@@ -1,0 +1,113 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2019xr/Using Presence Questionnaires in Virtual Reality.pdf",
+    "paper_id": "Using Presence Questionnaires in Virtual Reality",
+    "venue": "chi2019xr",
+    "keywords": [
+        "Virtual reality",
+        "Presence",
+        "Questionnaire",
+        "Evaluation"
+    ],
+    "paragraph_containing_keyword": "Using Presence Questionnaires in Virtual Reality\nValentin Schwind\nNiels Henze\nUniversity of Stuttgart\nUniversity of Regensburg\nStuttgart, Germany\nRegensburg, Germany\nvalentin.schwind@acm.org\nniels.henze@ur.de\nABSTRACT\nVirtual Reality (VR) is gaining increasing importance in sci-\nence, education, and entertainment. A fundamental charac-\nteristic of VR is creating presence, the experience of \u2019being\u2019\nor \u2019acting\u2019, when physically situated in another place. Mea-\nsuring presence is vital for VR research and development.\nIt is typically repeatedly assessed through questionnaires\ncompleted after leaving a VR scene. Requiring participants to\nleave and re-enter the VR costs time and can cause disorien-\ntation. In this paper, we investigate the effect of completing\npresence questionnaires directly in VR. Thirty-six partici-\npants experienced two immersion levels and filled three stan-\ndardized presence questionnaires in the real world or VR. We\nfound no effect on the questionnaires\u2019 mean scores; however,\nwe found that the variance of those measures significantly\ndepends on the realism of the virtual scene and if the subjects\nhad left the VR. The results indicate that, besides reducing\na study\u2019s duration and reducing disorientation, completing\nquestionnaires in VR does not change the measured presence\nbut can increase the consistency of the variance.\nCCS CONCEPTS\n\u2022 Human-centered computing \u2192 HCI design and eval-\nuation methods; Virtual reality; User studies;\nKEYWORDS\nVirtual reality; presence; questionnaire; evaluation.\nACM Reference Format:\nValentin Schwind, Pascal Knierim, Nico Haas, and Niels Henze. 2019.\nUsing Presence Questionnaires in Virtual Reality. In CHI Conference\non Human Factors in Computing Systems Proceedings (CHI 2019),\nMay 4\u20139, 2019, Glasgow, Scotland UK. ACM, New York, NY, USA,\n12 pages. https://doi.org/10.1145/3290605.3300590",
+    "doi": "10.1145/3290605.3300590",
+    "paragraph_after_keyword": "Nico Haas\nUniversity of Stuttgart\nStuttgart, Germany\nnicohaasni@gmx.de\n1 INTRODUCTION\nThe key characteristic of virtual reality (VR) is the ability to\ncreate a sense of presence [11, 26, 43], the feeling of being\nor acting in a place, even when one is physically situated in\nanother location [1, 24]. To create immersive VR experiences\nand to study the interaction in VR, it is, therefore, crucial to\nreliably measure presence. Previous work developed increas-\ningly sophisticated approaches to assess presence. While\nmultiple physiological measures have been proposed [18],\nvalidated questionnaires are still the most common method\nfor measuring this construct [10]. Using different items and\nsubscales such questionnaires provide scores, which reflect\nthe level of felt presence in the virtual world (cf. Table 1).\nThe use of validated presence questionnaires is omnipre-\nsent in research and industry. These standardized question-\nnaires are filled in using pen and paper. Typical studies re-\npeatedly assess presence, especially when multiple VR ex-\nperiences are compared. As current VR experiences are pre-\nsented through head-mounted displays (HMDs), users must\nremove the headset and leave the VR before completing the\nquestionnaire. In doing so, the person has to re-orientate in\nthe real-world which causes a so-called \u201cbreak-in-presence\n(BIP)\u201d [11]. Slater and Steed describe it as a moment when\n\u201ca report can be given that a break has occurred without this\nin itself disturbing the sense of presence, which of course\nhas already been disturbed\u201d [36]. This means that surveying\nsubjects about their feeling of presence potentially causes\nthe BIP and compromises the phenomenon that the ques-\ntionnaire is supposed to be measuring [26, 34, 36].\nLeaving VR can cause BIPs which distort the phenomenon\nthat presence questionnaires measure [26, 34, 36]. Further-\nmore, leaving and re-entering the VR takes time not only\nbecause it requires removing and putting on the HMDs but\nalso reorientation in the real-world and when entering the\nVR experience again.\nInstead of requiring participants to leave the VR to fill in\nquestionnaires, we propose to survey participants directly\nwithin the VR using existing questionnaires. Surveying par-\nticipants during the VR experience have a number of poten-\ntial advantages:",
+    "sections": [
+        {
+            "word_count": 601,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 1329,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 1024,
+            "figure_citations": {
+                "2": [
+                    "Figure 2)."
+                ],
+                "1": [
+                    "Figure 1).",
+                    "Figure 1).",
+                    "Figure 1)."
+                ]
+            },
+            "section_index": 2,
+            "title": "METHOD"
+        },
+        {
+            "word_count": 1841,
+            "figure_citations": {
+                "4": [
+                    "Figure 4 shows the Gaussian distribution curve fits of those differences."
+                ]
+            },
+            "section_index": 3,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 29,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "REAL"
+        },
+        {
+            "word_count": 6,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "HAPTC"
+        },
+        {
+            "word_count": 163,
+            "figure_citations": {
+                "6": [
+                    "Figure 6, F (2, 203) = 150."
+                ]
+            },
+            "section_index": 6,
+            "title": "IFQUAL"
+        },
+        {
+            "word_count": 1278,
+            "figure_citations": {
+                "6": [
+                    "Figure 6)."
+                ]
+            },
+            "section_index": 7,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 238,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 35,
+            "figure_citations": {},
+            "section_index": 9,
+            "title": "ACKNOWLEDGMENTS"
+        },
+        {
+            "word_count": 1446,
+            "figure_citations": {},
+            "section_index": 10,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Using Presence Questionnaires in Virtual Reality",
+    "authors": "Valentin Schwind, Pascal Knierim, Nico Haas, Niels Henze",
+    "abstract": "Virtual Reality (VR) is gaining increasing importance in science, education, and entertainment. A fundamental characteristic of VR is creating presence, the experience of 'being' or 'acting', when physically situated in another place. Measuring presence is vital for VR research and development. It is typically repeatedly assessed through questionnaires completed after leaving a VR scene. Requiring participants to leave and re-enter the VR costs time and can cause disorientation. In this paper, we investigate the effect of completing presence questionnaires directly in VR. Thirty-six participants experienced two immersion levels and filled three standardized presence questionnaires in the real world or VR. We found no effect on the questionnaires' mean scores; however, we found that the variance of those measures significantly depends on the realism of the virtual scene and if the subjects had left the VR. The results indicate that, besides reducing a study's duration and reducing disorientation, completing questionnaires in VR does not change the measured presence but can increase the consistency of the variance.",
+    "publication": {
+        "venue": "N/A",
+        "venue_full": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "year": "2019",
+        "date": "2019/5/2"
+    },
+    "version": 4
+}

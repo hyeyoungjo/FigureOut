@@ -1,0 +1,102 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2020/3313831.3376652.pdf",
+    "paper_id": "3313831.3376652",
+    "venue": "chi2020",
+    "keywords": [
+        "Interactive Spaces",
+        "Spatial Awareness",
+        "Interaction Design",
+        "Virtual Reality",
+        "Design tools"
+    ],
+    "paragraph_containing_keyword": "ABSTRACT \nWe  propose  using  virtual  reality  (VR)  as  a  design  tool  for \nsketching and simulating spatially-aware interactive spaces. \nUsing VR, designers can quickly experience their envisioned \nspaces and interactions by simulating technologies such as \nmotion tracking, multiple networked devices, or unusual form \nfactors such as spherical touchscreens or bezel-less display \ntiles. Design ideas can be rapidly iterated without restrictions \nby the number, size, or shape and availability of devices or \nsensors in the lab. To understand the potentials and challenges \nof designing in VR, we conducted a user study with 12 in-\nteraction designers.  As their tool, they used a custom-built \nvirtual design environment with \ufb01nger tracking and physics \nsimulations for natural interactions with virtual devices and ob-\njects. Our study identi\ufb01ed the designers\u2019 experience of space \nin relation to their own bodies and playful design explorations \nas key opportunities. Key challenges were the complexities of \nbuilding a usable yet versatile VR-based \"World Editor\". \nAuthor Keywords \nInteractive Spaces; Spatial Awareness; Interaction Design; \nVirtual Reality; Design tools. \nCCS Concepts \n\u2022Human-centered computing \u2192 Systems and tools for in-\nteraction design; Ubiquitous and mobile computing design \nand evaluation methods;",
+    "paragraph_after_keyword": "Permission to make digital or hard copies of all or part of this work for personal or \nclassroom use is granted without fee provided that copies are not made or distributed \nfor pro\ufb01t or commercial advantage and that copies bear this notice and the full citation \non the \ufb01rst page. Copyrights for components of this work owned by others than ACM \nmust be honored. Abstracting with credit is permitted. To copy otherwise, or republish, \nto post on servers or to redistribute to lists, requires prior speci\ufb01c permission and/or a \nfee. Request permissions from permissions@acm.org. \nCHI \u201920, April 25\u201330, 2020, Honolulu, HI, USA. \n\u00a9 2020 Association of Computing Machinery. \nACM ISBN 978-1-4503-6708-0/20/04 ...$15.00. \nhttp://dx.doi.org/10.1145/3313831.3376652",
+    "doi": "10.1145/3313831.3376652",
+    "sections": [
+        {
+            "word_count": 1106,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 1499,
+            "figure_citations": {},
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 1761,
+            "figure_citations": {
+                "2": [
+                    "Figure 2)."
+                ]
+            },
+            "section_index": 2,
+            "title": "DESIGN AND IMPLEMENTATION"
+        },
+        {
+            "word_count": 1446,
+            "figure_citations": {
+                "4": [
+                    "Figure 4)."
+                ],
+                "5": [
+                    "Figure 5, A and B).",
+                    "Figure 5, A), we allow users to con\ufb01gure the VE with displays of different shapes, as well as real-world and abstract objects.",
+                    "Figure 5 B), only objects with collision status turned on remain graspable and can be rescaled or moved around in virtual space."
+                ]
+            },
+            "section_index": 3,
+            "title": "USER STUDY"
+        },
+        {
+            "word_count": 2687,
+            "figure_citations": {
+                "6": [
+                    "Figure 6)."
+                ],
+                "7": [
+                    "Figure 7).",
+                    "Figure 7)."
+                ]
+            },
+            "section_index": 4,
+            "title": "OBSERVED OPPORTUNITIES AND CHALLENGES"
+        },
+        {
+            "word_count": 461,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "LIMITATIONS AND FUTURE WORK"
+        },
+        {
+            "word_count": 116,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 40,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "ACKNOWLEDGEMENTS"
+        },
+        {
+            "word_count": 3693,
+            "figure_citations": {},
+            "section_index": 8,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "\"In VR, everything is possible!\": Sketching and Simulating Spatially-Aware Interactive Spaces in Virtual Reality",
+    "authors": "Hans-Christian Jetter, Roman R\u00e4dle, Tiare Feuchtner, Christoph Anthes, Judith Friedl, Clemens Nylandsted Klokmose",
+    "abstract": "We propose using virtual reality (VR) as a design tool for sketching and simulating spatially-aware interactive spaces. Using VR, designers can quickly experience their envisioned spaces and interactions by simulating technologies such as motion tracking, multiple networked devices, or unusual form factors such as spherical touchscreens or bezel-less display tiles. Design ideas can be rapidly iterated without restrictions by the number, size, or shape and availability of devices or sensors in the lab. To understand the potentials and challenges of designing in VR, we conducted a user study with 12 interaction designers. As their tool, they used a custom-built virtual design environment with finger tracking and physics simulations for natural interactions with virtual devices and objects. Our study identified the designers' experience of space in relation to their own bodies and playful design explorations as key opportunities. Key challenges were the complexities of building a usable yet versatile VR-based \"World Editor\".",
+    "publication": {
+        "venue": "CHI '20",
+        "venue_full": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "year": "2020",
+        "date": "2020/4/21"
+    },
+    "version": 4
+}

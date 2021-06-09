@@ -1,0 +1,181 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1.  (a) The train platform and the avatars approaching in the Trolley study,  (b) A participant in the Trolley study wearing the Oculus DK2 \nand relying on Kinect for input, (c) Interacting with the bomber avatar in the Mad Bomber study, (d) A participant wearing Oculus DK2 and using a \nmouse/keyboard for input. \n",
+            "bbox": [
+                53.929,
+                574.1177700000001,
+                566.1529299999997,
+                600.02027
+            ],
+            "page": "2"
+        },
+        "2": {
+            "caption": "Figure 2. Lever pulls (%) by scenario and condition in the Trolley study. \n",
+            "bbox": [
+                53.929,
+                522.01127,
+                300.38530999999995,
+                529.98127
+            ],
+            "page": "6"
+        },
+        "3": {
+            "caption": "Figure 3. Tactics employed (%) by condition in the Mad Bomber study. \n",
+            "bbox": [
+                321.935,
+                533.6332699999999,
+                565.3148899999999,
+                541.60327
+            ],
+            "page": "6"
+        },
+        "4": {
+            "caption": "Figure 4.  Tactics employed in all scenarios and both conditions in the \nMad Bomber study. \n",
+            "bbox": [
+                321.094,
+                550.48502,
+                566.1555599999999,
+                567.4212699999999
+            ],
+            "page": "7"
+        },
+        "5": {
+            "caption": "Figure 5. Median self-reported workload for all scenarios and both con-\nditions in the Mad Bomber study. \n",
+            "bbox": [
+                53.929,
+                505.58702000000005,
+                298.32108,
+                522.52327
+            ],
+            "page": "8"
+        },
+        "6": {
+            "caption": "Figure 6.  Lever pulls (%) by scenario for both genders and both condi-\ntions in the Trolley study. \n",
+            "bbox": [
+                321.094,
+                512.58702,
+                565.4860799999999,
+                529.52327
+            ],
+            "page": "8"
+        },
+        "7": {
+            "caption": "Figure 7. Tactics employed (%) for both genders and both conditions in \nthe Mad Bomber study. \n",
+            "bbox": [
+                53.929,
+                497.96702,
+                298.99056,
+                514.90327
+            ],
+            "page": "9"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                144.80277777777778,
+                168.2309722222223,
+                1573.4483333333333,
+                525.3472222222224
+            ],
+            "bbox": [
+                53.929,
+                604.675,
+                564.6414,
+                729.63685
+            ],
+            "page": "2"
+        },
+        "2": {
+            "crop_coord": [
+                144.80277777777778,
+                -53.52350000000021,
+                848.9694444444443,
+                719.9000000000001
+            ],
+            "bbox": [
+                53.929,
+                534.636,
+                303.82899999999995,
+                809.46846
+            ],
+            "page": "6"
+        },
+        "3": {
+            "crop_coord": [
+                886.9277777777778,
+                -514.8122222222224,
+                1910.4522222222222,
+                682.0833333333333
+            ],
+            "bbox": [
+                321.094,
+                548.25,
+                685.9628,
+                975.5324
+            ],
+            "page": "6"
+        },
+        "4": {
+            "crop_coord": [
+                886.9277777777778,
+                -548.0799999999999,
+                1924.7011111111112,
+                615.8999999999999
+            ],
+            "bbox": [
+                321.094,
+                572.076,
+                691.0924,
+                987.5088000000001
+            ],
+            "page": "7"
+        },
+        "5": {
+            "crop_coord": [
+                -34.18344444444444,
+                472.2699999999998,
+                1434.2698888888888,
+                1876.2611111111112
+            ],
+            "bbox": [
+                -10.506039999999999,
+                118.346,
+                514.53716,
+                620.1828
+            ],
+            "page": "8"
+        },
+        "6": {
+            "crop_coord": [
+                722.9866111111111,
+                713.0797222222226,
+                1825.2292777777777,
+                1645.7392222222225
+            ],
+            "bbox": [
+                262.07518,
+                201.33387999999997,
+                655.2825399999999,
+                533.4912999999999
+            ],
+            "page": "8"
+        },
+        "7": {
+            "crop_coord": [
+                144.80277777777775,
+                -497.3317777777779,
+                1194.066222222222,
+                761.7833333333334
+            ],
+            "bbox": [
+                53.92899999999999,
+                519.558,
+                428.0638399999999,
+                969.2394400000001
+            ],
+            "page": "9"
+        }
+    }
+}

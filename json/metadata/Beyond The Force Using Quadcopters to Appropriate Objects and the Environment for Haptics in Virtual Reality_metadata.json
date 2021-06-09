@@ -1,0 +1,100 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2019xr/Beyond The Force Using Quadcopters to Appropriate Objects and the Environment for Haptics in Virtual Reality.pdf",
+    "paper_id": "Beyond The Force Using Quadcopters to Appropriate Objects and the Environment for Haptics in Virtual Reality",
+    "venue": "chi2019xr",
+    "keywords": [
+        "Quadcopter",
+        "Drone",
+        "UAV",
+        "Encountered-Type",
+        "Human-Drone Interaction",
+        "Robotic Graphics",
+        "Haptics",
+        "Virtual Reality"
+    ],
+    "doi": "10.1145/3290605.3300589",
+    "paragraph_containing_keyword": "KEYWORDS\nQuadcopter, Drone, UAV, Encountered-Type, Human-Drone\nInteraction, Robotic Graphics, Haptics, Virtual Reality.\nACM Reference Format:\nParastoo Abtahi, Benoit Landry, Jackie (Junrui) Yang, Marco Pavone,\nSean Follmer, James A. Landay. 2019. Beyond The Force:, Using\nQuadcopters to Appropriate Objects and, the Environment for Hap-\ntics in Virtual Reality. In CHI Conference on Human Factors in Com-\nputing Systems Proceedings (CHI 2019), May 4\u20139, 2019, Glasgow,\nScotland Uk. ACM, New York, NY, USA, 13 pages. https://doi.org/\n10.1145/3290605.3300589",
+    "sections": [
+        {
+            "word_count": 730,
+            "figure_citations": {},
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 3992,
+            "figure_citations": {
+                "2": [
+                    "Figure 2a) and 1.",
+                    "Figure 2b).",
+                    "Figure 2c)."
+                ],
+                "3": [
+                    "Figure 3a).",
+                    "Figure 3b).",
+                    "Figure 3c).",
+                    "Figure 3b."
+                ],
+                "5": [
+                    "Figure 5b."
+                ]
+            },
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 529,
+            "figure_citations": {},
+            "section_index": 2,
+            "title": "TECHNICAL EVALUATION"
+        },
+        {
+            "word_count": 2598,
+            "figure_citations": {
+                "10": [
+                    "Figure 10, consisted of a safe-to-touch quadcopter, Vicon motion capture cameras, two HTC Vive lighthouses, and the HTC Vive Head-Mounted Display (HMD)."
+                ],
+                "11": [
+                    "Figure 11)."
+                ],
+                "13": [
+                    "Figure 13, and placed it in their shopping basket."
+                ],
+                "14": [
+                    "Figure 14a.",
+                    "Figure 14b."
+                ]
+            },
+            "section_index": 3,
+            "title": "USER EVALUATION"
+        },
+        {
+            "word_count": 89,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "CONCLUSION"
+        },
+        {
+            "word_count": 39,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "ACKNOWLEDGMENTS"
+        },
+        {
+            "word_count": 1689,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Beyond The Force: Using Quadcopters to Appropriate Objects and the Environment for Haptics in Virtual Reality",
+    "authors": "Parastoo Abtahi, Benoit Landry, Jackie (Junrui) Yang, Marco Pavone, Sean Follmer, James A. Landay",
+    "abstract": "Quadcopters have been used as hovering encountered-type haptic devices in virtual reality. We suggest that quadcopters can facilitate rich haptic interactions beyond force feedback by appropriating physical objects and the environment. We present HoverHaptics, an autonomous safe-to-touch quadcopter and its integration with a virtual shopping experience. HoverHaptics highlights three affordances of quadcopters that enable these rich haptic interactions: (1) dynamic positioning of passive haptics, (2) texture mapping, and (3) animating passive props. We identify inherent challenges of hovering encountered-type haptic devices, such as their limited speed, inadequate control accuracy, and safety concerns. We then detail our approach for tackling these challenges, including the use of display techniques, visuo-haptic illusions, and collision avoidance. We conclude by describing a preliminary study (n = 9) to better understand the subjective user experience when interacting with a quadcopter in virtual reality using these techniques.",
+    "publication": {
+        "venue": "N/A",
+        "venue_full": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "year": "2019",
+        "date": "2019/5/2"
+    },
+    "version": 4
+}

@@ -1,0 +1,341 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1. Placement of actuators in HapticHead. Note the three \nconcentric ellipses around the user\u2019s head and no actuators \nclose to the ear openings. The red ellipse contains 8 equidistant \nactuators, the green and blue ellipses each contain 6 actuators.\n",
+            "bbox": [
+                317.4,
+                398.493,
+                561.9504696000001,
+                438.51599999999996
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2. First HapticHead prototype (left) and Unity scene \nview with visible targets from the outside (right). The user\u2019s \ncamera is in the center. \nWe built a simple VR environment in Unity 5.3 that spawns \n20  small  (r  =  1 m)  equidistant  spheres  on  the  surface  of  a \nlarger (r = 5 m) invisible sphere with the viewer at its center \n(see Figure 2). The spheres were distributed with pack.3.20 \ncoordinates [27]. As the user rotates the head the location of \nthe spheres stays fixed with respect to the environment. The \ntarget spheres do not coincide with the actuator positions. \n",
+            "bbox": [
+                316.796277,
+                492.8682399999998,
+                560.5746524000002,
+                604.956
+            ],
+            "page": "3"
+        },
+        "3": {
+            "caption": "Figure 3. Attention funnels with a tiny red crosshair in the \nview\u2019s center. Visual feedback from the user\u2019s perspective. \n",
+            "bbox": [
+                324.3578037,
+                313.419,
+                551.12585,
+                332.796
+            ],
+            "page": "3"
+        },
+        "5": {
+            "caption": "Figure 5. Boxplots of completion times for all conditions  \nwith merged data from all participants. \n",
+            "bbox": [
+                330.06,
+                367.179,
+                549.21940446,
+                386.556
+            ],
+            "page": "4"
+        },
+        "7": {
+            "caption": "Figure 7. Selection time by angular distance between the start \nbox and the target center. Visual (R2 = 0.89) and vibration (R2 \n= 0.59) conditions show a linear relationship. \n",
+            "bbox": [
+                316.8,
+                137.4961,
+                560.2276071000002,
+                167.196
+            ],
+            "page": "5"
+        },
+        "8": {
+            "caption": "Figure  8.  Selection  time  by yaw (horizontal  heading)  distance \nbetween the start box and the target center. Visual (R2 = 0.86) \nand  vibrotactile  (R2 =  0.72)  conditions  show  a  linear  relation-\nship. The auditory condition is slow with targets in front of and \nbehind the user. \n",
+            "bbox": [
+                53.997,
+                516.4560000000001,
+                297.5121,
+                566.856
+            ],
+            "page": "6"
+        },
+        "11": {
+            "caption": "Figure 11. Average learning effect - success rate. Merged data, \nall participants. Curves: Gaussian weighted moving average \n(width=3, blue=visual, green=vibrotactile, red=auditory). \nFigure 11 shows the success rates over time. In the auditory \ncondition, participants had a steep learning curve, which flat-\ntens after trial 40 but still shows a high variance compared to \nthe other conditions. Despite the fact that participants learned \nto be a lot faster after trial 65 in the auditory condition, the \nsuccess rate did not drop but even increased a bit. In the vi-\nbrotactile condition, participants needed less than 15 trials to \naccommodate  themselves  with  this  new  form  of  feedback. \nAfter the first few trials, the success rate curve for vibrotac-\ntile feedback flattens and stays close to 97% without much \nvariance or measurable fatigue effects. \n",
+            "bbox": [
+                316.26,
+                404.22821999999996,
+                560.5393799999998,
+                563.796
+            ],
+            "page": "6"
+        },
+        "9": {
+            "caption": "Figure 9. Average learning effect \u2013 time. Merged data, all par-\nticipants. Curves: Gaussian weighted moving average \n(width=3, blue=visual, green=vibrotactile, red=auditory). \nand below the plane and roughly has a parabola shape. The \nvisual and vibrotactile conditions do not exhibit this effect. \n",
+            "bbox": [
+                53.99831999999998,
+                224.50950000000003,
+                297.782916,
+                279.5161
+            ],
+            "page": "6"
+        },
+        "10": {
+            "caption": "Figure 10. Qualitative results of Experiment 1. Diverging stacked bar chart: scales in percent, and absolute values on bars.  \n",
+            "bbox": [
+                71.76,
+                72.3361,
+                545.7198,
+                81.3361
+            ],
+            "page": "6"
+        },
+        "14": {
+            "caption": "Figure 14. Intensity cal-\nculation visualization. \n",
+            "bbox": [
+                464.52,
+                264.099,
+                556.0503612599999,
+                283.476
+            ],
+            "page": "7"
+        },
+        "12": {
+            "caption": "Figure 12. Second, refined HapticHead prototype, side and \nfront view. Notice actuators located on the outside, the flexible \nchinstrap, and five instead of three actuators on each, the fore-\nhead and chinstrap. Positions of the 10 forehead and chin ac-\ntuators forming a \u201cring\u201d around the face are marked in red. \n",
+            "bbox": [
+                53.828261399999974,
+                67.95600000000002,
+                295.71440286,
+                118.356
+            ],
+            "page": "7"
+        },
+        "13": {
+            "caption": "Figure 13. Side and front view of modeled actuator positions. \nDoes not fit perfectly due to arbitrary size and asymmetries of \nthe Styrofoam head. The refined guidance algorithm uses trian-\ngles between actuators, including a virtual point zero (in green) \nbetween the eyes. \n",
+            "bbox": [
+                320.46093510000003,
+                66.17578,
+                566.0013202800001,
+                116.7961
+            ],
+            "page": "7"
+        },
+        "15": {
+            "caption": "Figure 15. Qualitative results of Experiments 2 and 3. Diverging stacked bar chart: scales in percent, and absolute values on bars. \n",
+            "bbox": [
+                56.94,
+                618.0360000000001,
+                555.68408235,
+                627.0360000000001
+            ],
+            "page": "9"
+        },
+        "16": {
+            "caption": "Figure 16. 10 items for Experiment 3. From left to right (height): Three boo\n(1.7 m, 6 cm diameter), a screwdriver (0.8 m), a remote control (1.4 m) and \n",
+            "bbox": [
+                324.12,
+                67.95609999999999,
+                613.85145,
+                87.3361
+            ],
+            "page": "9"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                870.3333197222222,
+                526.3333297222224,
+                1238.3333333333333,
+                975.6666733333334
+            ],
+            "bbox": [
+                315.1199951,
+                442.5599976,
+                444.0,
+                600.7200012999999
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                1225.0000086111113,
+                518.9999983333332,
+                1578.9999983333337,
+                970.3333452777779
+            ],
+            "bbox": [
+                442.8000031,
+                444.4799957,
+                566.6399994000001,
+                603.3600006
+            ],
+            "page": "1"
+        },
+        "3": {
+            "crop_coord": [
+                875.0000086111113,
+                181.00001888888872,
+                1162.0000119444444,
+                435.0000086111112
+            ],
+            "bbox": [
+                316.8000031,
+                637.1999969,
+                416.52000430000004,
+                725.0399932
+            ],
+            "page": "3"
+        },
+        "4": {
+            "crop_coord": [
+                875.0000086111113,
+                424.99996611111135,
+                1162.0000119444444,
+                515.833316388889
+            ],
+            "bbox": [
+                316.8000031,
+                608.1000061,
+                416.52000430000004,
+                637.2000122
+            ],
+            "page": "3"
+        },
+        "5": {
+            "crop_coord": [
+                1208.999981388889,
+                180.1666766666666,
+                1552.499974722222,
+                508.00000499999993
+            ],
+            "bbox": [
+                437.0399933,
+                610.9199982,
+                557.0999909,
+                725.3399964
+            ],
+            "page": "3"
+        },
+        "6": {
+            "crop_coord": [
+                989.6666716666667,
+                1052.333331666667,
+                1440.3333366666666,
+                1276.3333130555557
+            ],
+            "bbox": [
+                358.0800018,
+                334.3200073,
+                516.7200012,
+                411.3600006
+            ],
+            "page": "3"
+        },
+        "7": {
+            "crop_coord": [
+                939.6666716666667,
+                1500.3333283333334,
+                1509.666688611111,
+                1985.6666480555557
+            ],
+            "bbox": [
+                340.0800018,
+                78.9600067,
+                541.6800079,
+                250.0800018
+            ],
+            "page": "4"
+        },
+        "8": {
+            "crop_coord": [
+                203.66665305555554,
+                1499.666646388889,
+                774.3333094444444,
+                1986.33333
+            ],
+            "bbox": [
+                75.1199951,
+                78.7200012,
+                276.9599914,
+                250.3200073
+            ],
+            "page": "4"
+        },
+        "9": {
+            "crop_coord": [
+                210.99998472222225,
+                164.33335194444444,
+                781.0000016666668,
+                649.6666716666667
+            ],
+            "bbox": [
+                77.7599945,
+                559.9199982,
+                279.36000060000003,
+                731.0399933
+            ],
+            "page": "5"
+        },
+        "10": {
+            "crop_coord": [
+                937.6666683333333,
+                164.9999913888888,
+                1506.3333213888889,
+                649.6666716666667
+            ],
+            "bbox": [
+                339.3600006,
+                559.9199982,
+                540.4799957,
+                730.8000031
+            ],
+            "page": "5"
+        },
+        "11": {
+            "crop_coord": [
+                941.6666752777779,
+                1472.3333233333333,
+                1500.333353888889,
+                1868.9999813888887
+            ],
+            "bbox": [
+                340.8000031,
+                120.9600067,
+                538.3200074,
+                260.1600036
+            ],
+            "page": "7"
+        },
+        "12": {
+            "crop_coord": [
+                188.33335027777778,
+                1436.3333469444444,
+                801.0000355555555,
+                1870.3333452777777
+            ],
+            "bbox": [
+                69.6000061,
+                120.4799957,
+                286.5600128,
+                273.1199951
+            ],
+            "page": "7"
+        },
+        "13": {
+            "crop_coord": [
+                144.33331805555554,
+                1745.6666819444445,
+                1555.0,
+                1950.333353611111
+            ],
+            "bbox": [
+                53.7599945,
+                91.6799927,
+                558.0,
+                161.7599945
+            ],
+            "page": "9"
+        }
+    }
+}

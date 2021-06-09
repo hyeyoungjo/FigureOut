@@ -1,0 +1,201 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1: Interfaces for Voice Condition. On the left, the bar is balanced between speakers and the volume icon is \ngreyed out as the user is not speaking. In the middle, the green speaker indicates the user\u2019s volume is in the correct \nrange, and on the right the larger red speaker indicates the user is speaking too loud. \n",
+            "bbox": [
+                85.91808,
+                511.8624,
+                528.0556799999997,
+                541.63008
+            ],
+            "page": "4"
+        },
+        "2": {
+            "caption": "Figure 2: Images of the five interfaces for Proximity Condition: A.) Baseline, B.) Proximity correct zone, C.) Too far away zone, D.) A bit \ntoo close for acquaintances zone, E.) Intrusion into personal space. \n",
+            "bbox": [
+                49.44,
+                70.54272,
+                576.1017599999999,
+                90.43008
+            ],
+            "page": "4"
+        },
+        "3": {
+            "caption": "Figure 3: Split plot graphs depicting percent correct proximity (left), percent correct volume (middle) and time spent talking (right) \nacross four conditions, over five sessions. The purple line represents the combination condition, the green line represents the \nproximity condition, the yellow line represents the volume condition and the blue represents the baseline condition. \n",
+            "bbox": [
+                52.56,
+                554.62272,
+                559.2854399999997,
+                584.5900800000001
+            ],
+            "page": "8"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                -44.076232777777776,
+                223.80083722222233,
+                874.1368105555556,
+                696.9302622222224
+            ],
+            "bbox": [
+                -14.0674438,
+                542.9051056,
+                312.8892518,
+                709.6316985999999
+            ],
+            "page": "4"
+        },
+        "2": {
+            "crop_coord": [
+                386.5486230555556,
+                224.5266469444446,
+                1289.6030766666665,
+                696.5774875000002
+            ],
+            "bbox": [
+                140.9575043,
+                543.0321045,
+                462.4571076,
+                709.3704071
+            ],
+            "page": "4"
+        },
+        "3": {
+            "crop_coord": [
+                928.9633516666665,
+                219.1424983333334,
+                1739.5108455555555,
+                680.0808291666667
+            ],
+            "bbox": [
+                336.2268066,
+                548.9709015,
+                624.4239044,
+                711.3087006
+            ],
+            "page": "4"
+        },
+        "4": {
+            "crop_coord": [
+                -128.61573111111113,
+                1590.5398558333334,
+                485.1653969444444,
+                1939.7304024999999
+            ],
+            "bbox": [
+                -44.5016632,
+                95.4970551,
+                172.8595429,
+                217.6056519
+            ],
+            "page": "4"
+        },
+        "5": {
+            "crop_coord": [
+                180.2589925,
+                1592.379006388889,
+                791.266496388889,
+                1940.3154077777776
+            ],
+            "bbox": [
+                66.6932373,
+                95.2864532,
+                283.0559387,
+                216.94355769999999
+            ],
+            "page": "4"
+        },
+        "6": {
+            "crop_coord": [
+                480.7977972222222,
+                1591.963967222222,
+                1084.752816111111,
+                1938.7367588888887
+            ],
+            "bbox": [
+                174.887207,
+                95.8547668,
+                388.7110138,
+                217.0929718
+            ],
+            "page": "4"
+        },
+        "7": {
+            "crop_coord": [
+                803.102205,
+                1592.2236633333334,
+                1400.5619388888888,
+                1940.4422675
+            ],
+            "bbox": [
+                290.9167938,
+                95.2407837,
+                502.402298,
+                216.9994812
+            ],
+            "page": "4"
+        },
+        "8": {
+            "crop_coord": [
+                1104.6608480555556,
+                1596.7470041666668,
+                1694.9703133333333,
+                1942.1064502777776
+            ],
+            "bbox": [
+                399.4779053,
+                94.6416779,
+                608.3893128,
+                215.3710785
+            ],
+            "page": "4"
+        },
+        "9": {
+            "crop_coord": [
+                136.7122311111111,
+                248.6091697222221,
+                555.9794447222223,
+                561.1091527777777
+            ],
+            "bbox": [
+                51.0164032,
+                591.800705,
+                198.35260010000002,
+                700.7006989
+            ],
+            "page": "8"
+        },
+        "10": {
+            "crop_coord": [
+                522.7772266666667,
+                239.99778722222212,
+                961.3136205555556,
+                560.5533513888888
+            ],
+            "bbox": [
+                189.9998016,
+                592.0007935,
+                344.2729034,
+                703.8007966
+            ],
+            "page": "8"
+        },
+        "11": {
+            "crop_coord": [
+                914.4786072222223,
+                239.02529388888885,
+                1526.3008458333331,
+                561.0952927777777
+            ],
+            "bbox": [
+                331.0122986,
+                591.8056946,
+                547.6683045,
+                704.1508942
+            ],
+            "page": "8"
+        }
+    }
+}

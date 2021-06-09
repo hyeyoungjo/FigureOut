@@ -312,14 +312,19 @@ section.main div.results ul li.active{
     color: #fff;
 }
 
+<<<<<<< Updated upstream
 section.main div.list {
    margin-top: 40px;
+=======
+section.main div.card {
+    margin-top: 40px;
+>>>>>>> Stashed changes
     width: 100%;
     height: auto;
     position: relative;
 }
 
-section.main div.list figure {
+section.main div.card figure {
     width: 95%;
     height: 250px;
     overflow: hidden;
@@ -327,7 +332,7 @@ section.main div.list figure {
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
 }
 
-section.main div.list figure p.img {
+section.main div.card figure p.img {
     width: 30%;
     height: 100%;
     float: left;
@@ -337,7 +342,7 @@ section.main div.list figure p.img {
     border-right: 1px solid #757575;
 }
 
-section.main div.list figure figcaption {
+section.main div.card figure figcaption {
     width: 70%;
     height: 100%;
     float: right;
@@ -345,21 +350,21 @@ section.main div.list figure figcaption {
     position: relative;
 }
 
-section.main div.list figure figcaption div.bar {
+section.main div.card figure figcaption div.bar {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-section.main div.list figure figcaption div.bar span {
+section.main div.card figure figcaption div.bar span {
     font-size: 12px;
     margin-right: 5px;
     position: relative;
     text-transform: capitalize;
     padding-bottom: 5px;
 }
-section.main div.list figure figcaption div.bar span:after{
+section.main div.card figure figcaption div.bar span:after{
     content:" ";
     width: 100%;
     height: 4px;
@@ -370,133 +375,133 @@ section.main div.list figure figcaption div.bar span:after{
     bottom: 0;
 }
 
-section.main div.list figure figcaption div.bar span#background {
+section.main div.card figure figcaption div.bar span#background {
     color: black;
 }
-section.main div.list figure figcaption div.bar span#background:after {
+section.main div.card figure figcaption div.bar span#background:after {
     background:black;
 }
 
-section.main div.list figure figcaption div.bar span#method {
+section.main div.card figure figcaption div.bar span#method {
     color:coral
 }
-section.main div.list figure figcaption div.bar span#method:after {
+section.main div.card figure figcaption div.bar span#method:after {
    background: coral;
 }
 
-section.main div.list figure figcaption div.bar span#result {
+section.main div.card figure figcaption div.bar span#result {
     color: cornflowerblue;
 }
-section.main div.list figure figcaption div.bar span#result:after {
+section.main div.card figure figcaption div.bar span#result:after {
     background: cornflowerblue;
 }
 
-section.main div.list figure figcaption div.bar span#discussion {
+section.main div.card figure figcaption div.bar span#discussion {
     color: #8ddd5c;
 }
-section.main div.list figure figcaption div.bar span#discussion:after {
+section.main div.card figure figcaption div.bar span#discussion:after {
     background: #8ddd5c;
 }
 
-section.main div.list figure figcaption div.bar span#conclusion {
+section.main div.card figure figcaption div.bar span#conclusion {
     color: #a6a6a6;
 }
-section.main div.list figure figcaption div.bar span#conclusion:after {
+section.main div.card figure figcaption div.bar span#conclusion:after {
     background: #a6a6a6;
 }
 
-section.main div.list figure figcaption div.info {
+section.main div.card figure figcaption div.info {
     width: 100%;
     padding: 15px 0px 5px 0;
 }
 
-section.main div.list figure figcaption div.info>span {
+section.main div.card figure figcaption div.info>span {
     height: 100%;
     color: #a6a6a6;
     margin-right: 20px;
     font-size: 12px;
     text-align: right;
 }
-section.main div.list figure figcaption div.info>span span{
+section.main div.card figure figcaption div.info>span span{
     height: 9px;
     width: 9px;
     margin-right: 5px;
 }
 
-section.main div.list figure figcaption div.info span.conf {
+section.main div.card figure figcaption div.info span.conf {
     text-transform: uppercase;
     color: black;
     font-weight: bold;
 }
-section.main div.list figure figcaption div.info span.cite {
+section.main div.card figure figcaption div.info span.cite {
     color: #4865FF;
 }
-section.main div.list figure figcaption div.info span.cite span {
+section.main div.card figure figcaption div.info span.cite span {
     background: url("../img/cite.png") center no-repeat;
     background-size: contain;
 }
 
-section.main div.list figure figcaption div.info span.down {}
-section.main div.list figure figcaption div.info span.down span {
+section.main div.card figure figcaption div.info span.down {}
+section.main div.card figure figcaption div.info span.down span {
     background: url("../img/download.png") center no-repeat;
     background-size: contain;
 }
 
-section.main div.list figure figcaption div.info span.graph {
+section.main div.card figure figcaption div.info span.graph {
     color: #585858;
 }
-section.main div.list figure figcaption div.info span.graph span {
+section.main div.card figure figcaption div.info span.graph span {
     background: url("../img/graph.png") center no-repeat;
     background-size: contain;
 }
 
-section.main div.list figure figcaption div.info span.figure {
+section.main div.card figure figcaption div.info span.figure {
     color: #585858;
 }
-section.main div.list figure figcaption div.info span.figure span {
+section.main div.card figure figcaption div.info span.figure span {
     background: url("../img/figure.png") center no-repeat;
     background-size: contain;
 }
 
-section.main div.list figure figcaption div.caption {
+section.main div.card figure figcaption div.caption {
     width: 100%;
     overflow: hidden;
 }
 
-section.main div.list figure figcaption div.caption h3 {
+section.main div.card figure figcaption div.caption h3 {
     text-transform:none;
 }
 
-section.main div.list figure figcaption div.caption ul {
+section.main div.card figure figcaption div.caption ul {
     margin-top: 5px;
     text-transform: capitalize;
 }
 
-section.main div.list figure figcaption div.caption ul li {
+section.main div.card figure figcaption div.caption ul li {
     font-size: 12px;
 }
 
-section.main div.list figure figcaption div.caption span.abstract,
-section.main div.list figure figcaption div.caption p.fig_des {
+section.main div.card figure figcaption div.caption span.abstract,
+section.main div.card figure figcaption div.caption p.fig_des {
     margin-top: 15px;
 }
 
-section.main div.list figure figcaption div.caption p.fig_des {
+section.main div.card figure figcaption div.caption p.fig_des {
     display: none;
     justify-content: flex-start;
     align-items: center;
 }
 
-section.main div.list figure figcaption div.caption p span:nth-of-type(1) {
+section.main div.card figure figcaption div.caption p span:nth-of-type(1) {
     color: #4865FF;
     margin-right: 10px;
 }
 
-section.main div.list figure figcaption div.caption p span:nth-of-type(2) {
+section.main div.card figure figcaption div.caption p span:nth-of-type(2) {
 
 }
 
-section.main div.list figure figcaption div.figures {
+section.main div.card figure figcaption div.figures {
     width: 100%;
     height: 60px;
     overflow: hidden;
@@ -506,7 +511,7 @@ section.main div.list figure figcaption div.figures {
     padding-left: 40px;
 }
 
-section.main div.list figure figcaption div.figures img {
+section.main div.card figure figcaption div.figures img {
     height: 100%;
     margin-right: 7px;
     border: 1px solid #757575;
@@ -514,18 +519,18 @@ section.main div.list figure figcaption div.figures img {
     cursor: pointer;
     transition: 0.2s;
 }
-section.main div.list figure figcaption div.figures img:hover{
+section.main div.card figure figcaption div.figures img:hover{
     opacity: 1;
 }
 
-section.main div.list aside {
+section.main div.card aside {
     width:auto;
     position: absolute;
     top: 0;
     right: 0;
 }
 
-section.main div.list aside span {
+section.main div.card aside span {
     display: block;
     width: 30px;
     height: 30px;
@@ -534,22 +539,22 @@ section.main div.list aside span {
     transition: 0.2s;
 }
 
-section.main div.list aside span.thumb {
+section.main div.card aside span.thumb {
     background: url("../img/thumb.png") center no-repeat;
     background-size: contain;
 }
 
-section.main div.list aside span.cart {
+section.main div.card aside span.cart {
     background: url("../img/cart.png") center no-repeat;
     background-size: contain;
 }
 
-section.main div.list aside span.thumb.active {
+section.main div.card aside span.thumb.active {
     background: url("../img/thumb_active.png") center no-repeat;
     background-size: contain;
 }
 
-section.main div.list aside span.cart.active {
+section.main div.card aside span.cart.active {
     background: url("../img/cart_active.png") center no-repeat;
     background-size: contain;
 }

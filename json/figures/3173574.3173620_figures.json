@@ -1,0 +1,146 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1. Mini-Me Concept: (a) MR view through the HoloLens of a remote VR user\u2019s Mini-Me avatar standing on a table and a \nlife-size avatar standing on the right, both avatars gaze toward the same place and point at the same target with gaze and pointing \nof the Mini-Me avatar redirected, (b) A male (VR user) and a female (AR user) avatars in VR, (c) Design features of the Mini-Me \navatar, (d) The local AR user moving a tea box, (e) + (f) The remote VR user is pointing at a box and the Mini-Me in the AR user\u2019s \nFOV has its gaze and pointing gesture redirected to the same box (g) A remote VR user is pointing. \n",
+            "bbox": [
+                59.4,
+                327.746,
+                554.962,
+                378.166
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2: The AR user views the Mini-Me from two different perspectives showing Mini-Me consistently gazing and pointing at the \nsame location: a) in front of the whiteboard, b) side view of the whiteboard, c) As the AR user gazes at the remote VR user\u2019s life-\nsize avatar, the Mini-Me moves toward this avatar and d) fuses with it and disappears, e) AR user can gaze at the Mini-Me and \nperform an air-tap to pin it in place or f) Tap again to unpin it from that location. \n",
+            "bbox": [
+                54.0,
+                601.4286400000001,
+                560.941,
+                641.716
+            ],
+            "page": "5"
+        },
+        "3": {
+            "caption": "Figure  3:  a)  Scaled  down  VR  user\u2019s  perspective  seeing  the  AR  user  as  a  giant,  b)  VR  user  shrunk  down  interacting  inside  the \nminiature dome, c) VR user is a giant looking down at the AR reconstructed space, d) The real experimental space for the AR user, \nand e) its virtual reconstruction for the VR user \n",
+            "bbox": [
+                54.24,
+                614.62864,
+                561.517,
+                644.476
+            ],
+            "page": "6"
+        },
+        "4": {
+            "caption": "Figure 4. Baseline condition illustrating how the remote VR user\u2019s avatar look through a HoloLens. (a-d) Tea Party task (a) VR \nuser asks the AR user to pick up a tea box (b) the AR user follows the pointing ray from the avatar\u2019s hand to a correct tea box with \na virtual replica overlaid on the physical box (c) VR user points at the shelf to place the box (d) AR user adjusts the orientation of \nthe box as the VR user instructs (e-h) Urban Planner task (e) VR view showing VR and AR users sitting side by side (f) AR user \nlooks at the VR user\u2019s avatar (g) VR user is pointing at the building at the top while AR user is pointing at the one at the bottom (h) \nAR user looks at a physical model that the VR user is pointing. The gaze cursors of both users can be seen here. \n",
+            "bbox": [
+                54.0,
+                444.55863999999997,
+                561.421,
+                505.606
+            ],
+            "page": "7"
+        },
+        "5": {
+            "caption": "Figure 5. Task completion time. \n",
+            "bbox": [
+                377.95000000000005,
+                507.8860000000007,
+                499.153,
+                516.8860000000008
+            ],
+            "page": "8"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                161.66666666666666,
+                555.3889041666669,
+                1538.2777658333332,
+                1134.0000066666669
+            ],
+            "bbox": [
+                60.0,
+                385.5599976,
+                551.9799957,
+                590.2599945
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                144.58335027777778,
+                164.9999913888888,
+                1556.388888888889,
+                427.22222222222223
+            ],
+            "bbox": [
+                53.8500061,
+                640.0,
+                558.5,
+                730.8000031
+            ],
+            "page": "5"
+        },
+        "3": {
+            "crop_coord": [
+                145.69444444444446,
+                165.13888888888883,
+                1558.249995,
+                390.0000169444444
+            ],
+            "bbox": [
+                54.25,
+                653.3999939,
+                559.1699982,
+                730.75
+            ],
+            "page": "6"
+        },
+        "4": {
+            "crop_coord": [
+                145.0,
+                164.99999166666692,
+                1562.0833419444446,
+                794.305538611111
+            ],
+            "bbox": [
+                54.0,
+                507.8500061,
+                560.5500031,
+                730.800003
+            ],
+            "page": "7"
+        },
+        "5": {
+            "crop_coord": [
+                989.1666497222224,
+                405.2500066666667,
+                1440.4166666666667,
+                746.9166563888891
+            ],
+            "bbox": [
+                357.8999939,
+                524.9100037,
+                516.75,
+                644.3099976
+            ],
+            "page": "8"
+        },
+        "6": {
+            "crop_coord": [
+                153.33333333333334,
+                179.70555555555555,
+                1561.681403145933,
+                939.7222222222222
+            ],
+            "bbox": [
+                57.0,
+                455.5,
+                560.4053051325359,
+                725.506
+            ],
+            "page": "9"
+        }
+    }
+}

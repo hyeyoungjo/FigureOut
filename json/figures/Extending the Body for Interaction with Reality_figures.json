@@ -1,0 +1,371 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1: We present an ownership-preserving direct manipulation technique in augmented reality, which allows interaction with\nremote devices in a ubicomp environment with the help of a long virtual arm. While the user\u2019s real hand is close to the body the\nvirtual arm is of normal length (A) and by simply reaching out the user can make it extend to access remote devices in the room.\nFor instance we allow adjusting the height of a table (B), opening and closing a curtain (C) and adjusting the angle of a tilting\nsurface (D).\n",
+            "bbox": [
+                53.929,
+                453.18999199999996,
+                564.1840449999999,
+                506.988992
+            ],
+            "page": "1"
+        },
+        "4": {
+            "caption": "Figure 4: The arm-stretch function was implemented based\non the Go-Go Interaction Technique. The graph shows the\nfunction adjusted to a participant\u2019s arm length, with the expo-\nnent p = 4 and a maximum virtual arm length of Rv = 5.\n",
+            "bbox": [
+                321.094,
+                179.687992,
+                564.1712740000002,
+                222.527992
+            ],
+            "page": "4"
+        },
+        "2": {
+            "caption": "Figure 2: Optical tracking of the user and the actuated objects\nin the room is achieved with retro-re\ufb02ective markers. This\npicture shows the view of one of the OptiTrack cameras.\n",
+            "bbox": [
+                53.929,
+                78.804992,
+                297.006274,
+                110.685992
+            ],
+            "page": "4"
+        },
+        "3": {
+            "caption": "Figure 3: (A) Hand in green sleeve, (B) binary mask after chroma keying, (C) Memory Inpainting.\n",
+            "bbox": [
+                113.183,
+                593.4559919999999,
+                504.9150369999999,
+                603.6481409999999
+            ],
+            "page": "5"
+        },
+        "5": {
+            "caption": "Figure 5: To provide a better sense of interaction with a 3D\nenvironment, we implemented depth cues such as shadows\n(A) and occlusion (B) of the virtual hand.\n",
+            "bbox": [
+                321.094,
+                78.804992,
+                564.171274,
+                110.685992
+            ],
+            "page": "5"
+        },
+        "7": {
+            "caption": "Figure 7: To establish a baseline participants were asked to\nrepeatedly tap 3 virtual cubes with their virtual hand, while\ntheir virtual arm was of equal length to their real arm.\n",
+            "bbox": [
+                321.094,
+                78.804992,
+                564.171274,
+                110.685992
+            ],
+            "page": "6"
+        },
+        "6": {
+            "caption": "Figure 6: In the user study we compared 3 different types of\nhand representations in 4 conditions: (C1) arm, (C2) hand,\n(C3) abstract-hand, and (C4) arm w/o inpainting (the real\narm was simultaneously visible).\n",
+            "bbox": [
+                53.929,
+                475.130992,
+                297.0062740000001,
+                517.970992
+            ],
+            "page": "6"
+        },
+        "8": {
+            "caption": "Figure 8: Left: When interacting in the baseline and with the extended arm in C1 participants felt like the virtual hand was part\nof their body. Center: In the baseline and the arm condition participants felt like the virtual hand was their own hand. Right:\nWhen interacting with the long arm, some participants felt that their real arm was becoming longer.\n",
+            "bbox": [
+                53.928999999999974,
+                558.8479920000001,
+                564.169579,
+                590.958141
+            ],
+            "page": "8"
+        },
+        "9": {
+            "caption": "Figure 9: Left: Across all conditions and in the baseline participants maintained strong expectations of the virtual hand following\nthe movement of their real hand. Center: Participants indicated that they felt strongly in control of the devices in the environment\nacross all conditions. Right: When interacting with the devices the participants adapted the movement of their real hand based\non that of the virtual hand. E.g., they stopped when they saw the virtual hand stop at the table\u2019s edge, and adjusted their hand\nmovement to the speed of the table movement.\n",
+            "bbox": [
+                53.929,
+                354.04699199999993,
+                564.1840449999996,
+                407.914733
+            ],
+            "page": "8"
+        },
+        "10": {
+            "caption": "Figure 10: Left: Seeing both the real arm and the virtual arm elicited the feeling of owning more than one right hand. Center:\nDuring interaction participants concentrated more on the virtual hand than on their real hand, even if it was simultaneously visible\n(as in C4, arm w/o inpainting). Right: After all trials were concluded, we asked each participant to stretch both arms out in front\nof him and rate the following two statements: P1) I feel like my right arm is longer than my left. P2) I feel like my right arm can\nreach further than my left.\n",
+            "bbox": [
+                53.929,
+                537.1601410000002,
+                564.1840449999997,
+                590.798733
+            ],
+            "page": "9"
+        },
+        "11": {
+            "caption": "Figure 11: As a step beyond command languages, direct manipulation interfaces allow users to directly manipulate a representa-\ntion of data. In the \ufb01rst generation, with Graphical User Interfaces (GUIs), the screen provided the border between the physical\nand digital worlds. Tangible User Interfaces (TUIs) and Radical Atoms provide a physical representation of the digital world,\nthereby moving this border into the physical world. Body extension goes beyond these paradigms by moving the border between\nthe physical and the digital into the user\u2019s own body.\n",
+            "bbox": [
+                53.929,
+                551.2199920000002,
+                564.184045,
+                605.017992
+            ],
+            "page": "10"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                144.80278027777777,
+                394.32235946388914,
+                1572.6855078027775,
+                769.4111208333333
+            ],
+            "bbox": [
+                53.9290009,
+                516.8119965,
+                564.3667828089999,
+                648.2439505929999
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                144.80278027777777,
+                1300.3298366944446,
+                830.0043685777779,
+                1870.2527702777777
+            ],
+            "bbox": [
+                53.9290009,
+                120.5090027,
+                297.001572688,
+                322.08125879
+            ],
+            "page": "4"
+        },
+        "3": {
+            "crop_coord": [
+                920.6906106674445,
+                1044.7166987540554,
+                1579.7196689674445,
+                1559.5809011368333
+            ],
+            "bbox": [
+                333.24861984028,
+                232.35087559074,
+                566.89908082828,
+                414.10198844854
+            ],
+            "page": "4"
+        },
+        "4": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2276053722223,
+                1572.0366484444442,
+                501.5499877777777
+            ],
+            "bbox": [
+                53.9290009,
+                613.2420044,
+                564.1331934399999,
+                729.638062066
+            ],
+            "page": "5"
+        },
+        "5": {
+            "crop_coord": [
+                886.9277613888887,
+                1535.8070974333334,
+                1572.1222962555555,
+                1870.2527702777777
+            ],
+            "bbox": [
+                321.0939941,
+                120.5090027,
+                564.164026652,
+                237.309444924
+            ],
+            "page": "5"
+        },
+        "6": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22802907777753,
+                829.9579441777777,
+                738.9083352777777
+            ],
+            "bbox": [
+                53.9290009,
+                527.7929993,
+                296.98485990399996,
+                729.6379095320001
+            ],
+            "page": "6"
+        },
+        "7": {
+            "crop_coord": [
+                886.9277613888887,
+                1514.567265775,
+                1572.0927928944445,
+                1870.2527702777777
+            ],
+            "bbox": [
+                321.0939941,
+                120.5090027,
+                564.153405442,
+                244.955784321
+            ],
+            "page": "6"
+        },
+        "8": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22741037777786,
+                608.3587324777778,
+                536.7999944444445
+            ],
+            "bbox": [
+                53.9290009,
+                600.552002,
+                217.209143692,
+                729.638132264
+            ],
+            "page": "8"
+        },
+        "9": {
+            "crop_coord": [
+                605.2750141666667,
+                168.22741037777786,
+                1068.8309663666666,
+                536.7999944444445
+            ],
+            "bbox": [
+                219.6990051,
+                600.552002,
+                382.979147892,
+                729.638132264
+            ],
+            "page": "8"
+        },
+        "10": {
+            "crop_coord": [
+                1065.7472058333333,
+                168.22741037777786,
+                1529.3031580333334,
+                536.7999944444445
+            ],
+            "bbox": [
+                385.4689941,
+                600.552002,
+                548.749136892,
+                729.638132264
+            ],
+            "page": "8"
+        },
+        "11": {
+            "crop_coord": [
+                166.21387055555556,
+                676.238528988889,
+                629.7698227555555,
+                1044.8111130555556
+            ],
+            "bbox": [
+                61.6369934,
+                417.6679993,
+                224.917136192,
+                546.754129564
+            ],
+            "page": "8"
+        },
+        "12": {
+            "crop_coord": [
+                626.6861047222222,
+                698.1006965888888,
+                1090.242241188889,
+                1044.8111130555556
+            ],
+            "bbox": [
+                227.4069977,
+                417.6679993,
+                390.687206828,
+                538.883749228
+            ],
+            "page": "8"
+        },
+        "13": {
+            "crop_coord": [
+                1087.158338888889,
+                698.1006965888888,
+                1550.7144753555556,
+                1044.8111130555556
+            ],
+            "bbox": [
+                393.177002,
+                417.6679993,
+                556.457211128,
+                538.883749228
+            ],
+            "page": "8"
+        },
+        "14": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22741037777786,
+                608.3587324777778,
+                536.7999944444445
+            ],
+            "bbox": [
+                53.9290009,
+                600.552002,
+                217.209143692,
+                729.638132264
+            ],
+            "page": "9"
+        },
+        "15": {
+            "crop_coord": [
+                605.2750141666667,
+                189.2278443777778,
+                1068.8204766333333,
+                536.7999944444445
+            ],
+            "bbox": [
+                219.6990051,
+                600.552002,
+                382.97537158800003,
+                722.077976024
+            ],
+            "page": "9"
+        },
+        "16": {
+            "crop_coord": [
+                1065.7472058333333,
+                168.22741037777786,
+                1529.3031580333334,
+                536.7999944444445
+            ],
+            "bbox": [
+                385.4689941,
+                600.552002,
+                548.749136892,
+                729.638132264
+            ],
+            "page": "9"
+        },
+        "17": {
+            "crop_coord": [
+                215.67222583333333,
+                168.22818166666673,
+                1501.1927947222223,
+                497.108323888889
+            ],
+            "bbox": [
+                79.4420013,
+                614.8410034,
+                538.6294061,
+                729.6378546
+            ],
+            "page": "10"
+        }
+    }
+}

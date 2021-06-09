@@ -1,0 +1,206 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1. Retargeting a \u2019henna decoration\u2019 video tutorial to a teapot decoration scenario in the user\u2019s workspace. (left) The user extracts relevant\nmotion from the video, (middle) scales it and aligns the result to a 3D scan of a teapot in the current workspace. With our editing tools, the user can\nquickly alter the original tutorial to meet their requirements. In this example, the original video tutorial shows a decoration consisting of dots, which\nrequires a special henna pen. The user chooses to connect the dots into lines which can be drawn with a ceramic pen on the teapot. The user also scales\ndown the entire ornament to better \ufb01t the desired aesthetics. (right) Using augmented reality, the user validates the result directly on the real teapot.\n",
+            "bbox": [
+                53.929,
+                405.28227000000004,
+                564.1604300000012,
+                449.11827
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2. System overview. (left) We extract object and user motions by tracking known model features in the 2D video. Here, tracked features are\nused to record the path of the brush and to align a face model in each frame. (middle) After validating and possibly editing the extracted motion, we\nretarget the motion data to real world 3D objects. This requires registering the same 3D model as used in the extraction stage, in this case, a face model,\nto the live camera image. By tracking the model in 3D, we are able to relate video data to the real world. In this example, we present the recorded path\nof the brush directly on the user\u2019s face. (right) Since we retarget the extracted motion data in 3D, we can choose an arbitrary point of view. To provide\neffective visual instructions, we generate dynamic glyphs (here: timed arrows) and we indicate the position of the brush over time using a red circle.\n",
+            "bbox": [
+                53.929,
+                511.89627,
+                565.1566800000007,
+                564.69827
+            ],
+            "page": "3"
+        },
+        "3": {
+            "caption": "Figure 3. Extracting motion with surface contact. (a) We extract the 2D trajectory by tracking the tip of the tool in unwrapped texture space. (b) We\nconvert the 2D trajectory to 3D by back-projecting the video data to a corresponding 3D model, in this case, a face.\n",
+            "bbox": [
+                53.929,
+                552.93927,
+                564.1604300000013,
+                569.87527
+            ],
+            "page": "4"
+        },
+        "4": {
+            "caption": "Figure 4. Segmentation and Layering. (a) We interactively segment the input data by selecting starting and ending frames. (b) This results in a set of\nactions (red), which we can use to derive image layers.\n",
+            "bbox": [
+                53.929,
+                629.3022699999999,
+                564.160430000001,
+                646.2392699999999
+            ],
+            "page": "5"
+        },
+        "5": {
+            "caption": "Figure 5. Experiment setup for a retargeted make-up tutorial. (a) Input video tutorial. (b) We showed the resulting AR tutorial using an AR mirror,\nwhich consisted of a camera and an USB display. (c) Participants could use the AR mirror and the video which we placed next to the mirror.\n",
+            "bbox": [
+                53.642,
+                604.47227,
+                565.156680000001,
+                621.40827
+            ],
+            "page": "7"
+        },
+        "6": {
+            "caption": "Figure 6. Path generation and \ufb01rst revision of AR visualization. (a) We generate path illustrations from motion capture data. (b) The extracted path\ndata is analyzed and simpli\ufb01ed. In particular, we remove zig-zag overdraw along the trajectory by clustering and detect turning points (marked in\ngreen). (c) We generate arrows in-between turning points, the start point and end point. (d) At runtime, we use the arrows to provide a preview of the\nmotions. To minimize occlusion, the arrow is replaced by the border of the tool\u2019s trajectory. The red dot shows the extracted tool position over time. (e)\nThe combination of visualization techniques provide an overview \ufb01rst, before the user can follow the exact motion.\n",
+            "bbox": [
+                53.666000000000004,
+                547.1292699999999,
+                564.694420000001,
+                590.9652699999999
+            ],
+            "page": "8"
+        },
+        "7": {
+            "caption": "Figure 7. Retargeted Kanji tutorial and \ufb01nal revision of AR visualization. (a) The AR visualization is presented using an Optical See-Through HMD\n(Microsoft Hololens) and a handheld clicker that the user is holding in one hand. (b) The video tutorial is shown on a tablet mounted right above the\ndrawing area. This reduced the in\ufb02uence of head motion. (c) Our \ufb01nal glyph design encodes the direction of the stroke on its border using arrow heads.\nThe system presents one glyph at a time next to a full preview of the \ufb01nal drawing. This picture shows the six instructions presented to the user in AR.\n",
+            "bbox": [
+                53.666000000000004,
+                578.88527,
+                565.555180000001,
+                613.75527
+            ],
+            "page": "9"
+        },
+        "8": {
+            "caption": "Figure 8. Kanji study results. Stars indicate signi\ufb01cant differences.\n",
+            "bbox": [
+                62.183,
+                550.47227,
+                288.7463200000001,
+                558.44227
+            ],
+            "page": "10"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                144.80278027777777,
+                516.5157827777779,
+                1572.052798888889,
+                940.3527916666667
+            ],
+            "bbox": [
+                53.9290009,
+                455.272995,
+                564.1390076,
+                604.2543182
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22544527777794,
+                1572.1340097222223,
+                623.4666527777779
+            ],
+            "bbox": [
+                53.9290009,
+                569.352005,
+                564.1682435,
+                729.6388397
+            ],
+            "page": "3"
+        },
+        "3": {
+            "crop_coord": [
+                144.80278027777777,
+                168.23934749999987,
+                1572.052798888889,
+                609.0833366666665
+            ],
+            "bbox": [
+                53.9290009,
+                574.5299988,
+                564.1390076,
+                729.6338349
+            ],
+            "page": "4"
+        },
+        "4": {
+            "crop_coord": [
+                144.80278027777777,
+                168.23218444444447,
+                1572.052798888889,
+                396.96111888888913
+            ],
+            "bbox": [
+                53.9290009,
+                650.8939972,
+                564.1390076,
+                729.6364136
+            ],
+            "page": "5"
+        },
+        "5": {
+            "crop_coord": [
+                144.80278027777777,
+                168.23434638888892,
+                1572.052798888889,
+                465.9361013888888
+            ],
+            "bbox": [
+                53.9290009,
+                626.0630035,
+                564.1390076,
+                729.6356353
+            ],
+            "page": "7"
+        },
+        "6": {
+            "crop_coord": [
+                144.80278027777777,
+                168.23566027777758,
+                1572.052798888889,
+                550.5000136111111
+            ],
+            "bbox": [
+                53.9290009,
+                595.6199951,
+                564.1390076,
+                729.6351623
+            ],
+            "page": "8"
+        },
+        "7": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2367197222223,
+                1572.052798888889,
+                487.19723166666665
+            ],
+            "bbox": [
+                53.9290009,
+                618.4089966,
+                564.1390076,
+                729.6347809
+            ],
+            "page": "9"
+        },
+        "8": {
+            "crop_coord": [
+                262.96387555555555,
+                301.57344416666643,
+                711.8378022222223,
+                635.3055658333333
+            ],
+            "bbox": [
+                96.4669952,
+                565.0899963,
+                254.46160880000002,
+                681.6335601000001
+            ],
+            "page": "10"
+        }
+    }
+}

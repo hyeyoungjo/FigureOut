@@ -1,0 +1,105 @@
+{
+    "fullpath": "/Users/takyeonlee/Documents/work/_\u1109\u116e\u110b\u1165\u11b8_2021/ID503_Design_Project_1/_PaperVis/papers/chi2019xr/Measuring and Understanding Photo Sharing Experiences in Social Virtual Reality.pdf",
+    "paper_id": "Measuring and Understanding Photo Sharing Experiences in Social Virtual Reality",
+    "venue": "chi2019xr",
+    "keywords": [
+        "Social",
+        "Virtual reality",
+        "Photo sharing",
+        "Questionnaire",
+        "Immersion",
+        "Presence"
+    ],
+    "doi": "10.1145/3290605.3300897",
+    "paragraph_containing_keyword": "CCS CONCEPTS\n\u2022 Human-centered computing \u2192 Virtual reality.\nKEYWORDS\nSocial, virtual reality, photo sharing, questionnaire, immer-\nsion, presence\nACM Reference Format:\nJie Li, Yiping Kong, Thomas R\u00f6ggla, Francesca De Simone, Swamy\nAnanthanarayan, Huib de Ridder, Abdallah El Ali, and Pablo Cesar.\n2019. Measuring and Understanding Photo Sharing Experiences\nin Social Virtual Reality. In CHI Conference on Human Factors in\nComputing Systems Proceedings (CHI 2019), May 4\u20139, 2019, Glasgow,\nScotland UK. ACM, New York, NY, USA, 14 pages. https://doi.org/\n10.1145/3290605.3300897\n1 INTRODUCTION\nEver since the introduction of film cameras in the late 19th\ncentury, photographs have been inherently social artifacts,\nwhich are captured and shared in social contexts [11]. Fami-\nlies and friends typically gathered in the living room, pass-\ning around printed photos or browsing albums [36] or they\nshared photos with each other via post [38]. Collocated (co-\npresent) or remote photo sharing is a way of strengthening",
+    "sections": [
+        {
+            "word_count": 863,
+            "figure_citations": {
+                "1": [
+                    "Figure 1), use a 2D real-time user video as a virtual view of that user, or in the near future, use a highly detailed photo-realistic point cloud video [44]."
+                ],
+                "2": [
+                    "Figure 2) 1 https://www."
+                ]
+            },
+            "section_index": 0,
+            "title": "INTRODUCTION"
+        },
+        {
+            "word_count": 2994,
+            "figure_citations": {
+                "2": [
+                    "Figure 2) was to identify typical experiences of photo sharing activities, and to develop a questionnaire for measuring socialVR photo sharing experiences later used in Part 2."
+                ],
+                "3": [
+                    "Figure 3 illustrates the five phases with an example of a timeline, where actions were coded with blue dots and interpreted with a phrase.",
+                    "Figure 3) identified in the context mapping sessions were introduced."
+                ]
+            },
+            "section_index": 1,
+            "title": "RELATED WORK"
+        },
+        {
+            "word_count": 1455,
+            "figure_citations": {
+                "2": [
+                    "Figure 2), we present a within-subject controlled user study compare photo sharing experiences in three conditions: face-to-face (F2F), Facebook Spaces (FBS), Skype (SKP)."
+                ],
+                "5": [
+                    "Figure 5)."
+                ]
+            },
+            "section_index": 2,
+            "title": "STUDY"
+        },
+        {
+            "word_count": 2201,
+            "figure_citations": {
+                "6": [
+                    "Figure 6a.",
+                    "Figure 6b.",
+                    "Figure 6c.",
+                    "Figure 6d), which shows FBS was perceived to be more exciting and cheerful than F2F and SKP.",
+                    "Figure 6d."
+                ]
+            },
+            "section_index": 3,
+            "title": "RESULTS"
+        },
+        {
+            "word_count": 1188,
+            "figure_citations": {},
+            "section_index": 4,
+            "title": "DISCUSSION"
+        },
+        {
+            "word_count": 161,
+            "figure_citations": {},
+            "section_index": 5,
+            "title": "FUTURE WORK AND CONCLUSION"
+        },
+        {
+            "word_count": 36,
+            "figure_citations": {},
+            "section_index": 6,
+            "title": "ACKNOWLEDGMENTS"
+        },
+        {
+            "word_count": 2086,
+            "figure_citations": {},
+            "section_index": 7,
+            "title": "REFERENCES"
+        }
+    ],
+    "title": "Measuring and Understanding Photo Sharing Experiences in Social Virtual Reality",
+    "authors": "Jie Li, Yiping Kong, Thomas R\u00f6ggla, Francesca De Simone, Swamy Ananthanarayan, Huib de Ridder, Abdallah El Ali, Pablo Cesar",
+    "abstract": "Millions of photos are shared online daily, but the richness of interaction compared with face-to-face (F2F) sharing is still missing. While this may change with social Virtual Reality (socialVR), we still lack tools to measure such immersive and interactive experiences. In this paper, we investigate photo sharing experiences in immersive environments, focusing on socialVR. Running context mapping (N=10), an expert creative session (N=6), and an online experience clustering questionnaire (N=20), we develop and statistically evaluate a questionnaire to measure photo sharing experiences. We then ran a controlled, within-subject study (N=26 pairs) to compare photo sharing under F2F, Skype, and Facebook Spaces. Using interviews, audio analysis, and our questionnaire, we found that socialVR can closely approximate F2F sharing. We contribute empirical findings on the immersiveness differences between digital communication media, and propose a socialVR questionnaire that can in the future generalize beyond photo sharing.",
+    "publication": {
+        "venue": "N/A",
+        "venue_full": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+        "year": "2019",
+        "date": "2019/5/2"
+    },
+    "version": 4
+}

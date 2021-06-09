@@ -1,0 +1,256 @@
+{
+    "captions": {
+        "1": {
+            "caption": "Figure 1. The VaiR Prototype worn in combination with a HTC Vive\nhead mounted display. Fixed to frame mounted onto the Vive\u2019s straps\nare two bows. These bows are moved by two separate motors, allowing\nboth bows to each rotate 135\u25e6. Fixes on each bow are \ufb01ve nozzles (each\n36\u25e6 apart), were the air streams come out. Several nozzles can be used at\nthe same time. Due to the modular design, nozzles can be moved along\nthe bows and changed as needed. That way, angle and dispersion of the\nair streams can be customized. VaiR is so designed that a container of\npressurized air, valves, power source and an arduino controller can be\nworn as a backpack.\n",
+            "bbox": [
+                320.8070000000001,
+                262.08827,
+                564.16726,
+                350.75527
+            ],
+            "page": "1"
+        },
+        "2": {
+            "caption": "Figure 2. Overview of the focus group results.\n",
+            "bbox": [
+                365.197,
+                574.8442699999999,
+                520.0620700000001,
+                582.81427
+            ],
+            "page": "3"
+        },
+        "3": {
+            "caption": "Figure 3. Examples of different nozzles to vary spray angle and intensity.\n",
+            "bbox": [
+                53.929,
+                660.1342699999999,
+                298.3928100000002,
+                668.1042699999999
+            ],
+            "page": "4"
+        },
+        "4": {
+            "caption": "Figure 4. The VaiR setup: Two bows with nozzles having a angular\ndistance of 36\u25e6 and two servo motors to control the angle of each bow\nseperately (left). Each bow can be rotated 135\u25e6, overall 270\u25e6 around the\nuser\u2019s head and neck can be displayed (right).\n",
+            "bbox": [
+                321.094,
+                576.6762699999999,
+                564.44605,
+                611.54527
+            ],
+            "page": "4"
+        },
+        "5": {
+            "caption": "Figure 5. The Backpack consists of a compressed air bottle and 14 valves\n(ten for the nozzles, and four to vary the intensity) as well as the control\nunit.\n",
+            "bbox": [
+                320.831,
+                329.08127,
+                564.1630700000002,
+                354.98427
+            ],
+            "page": "4"
+        },
+        "6": {
+            "caption": "Figure 6. The \ufb01rst and second scene used for the evaluation. a) The cliff scene looking towards the sea and b) view when turned around. c) The fair\nscene regarded from outside and d) the \ufb01rst person view. e) The golf cart scene from \ufb01rst person view.\n",
+            "bbox": [
+                53.929,
+                623.0132699999999,
+                564.3357700000012,
+                639.94927
+            ],
+            "page": "6"
+        },
+        "7": {
+            "caption": "Figure 7. The third and fourth scene used for the evaluation. a) The cart scene in \ufb01rst person view. b) The horror scene: bats \ufb02ying over the head, c) a\nrotating saw runs through the viewer\u2019s neck and d) a Zombie appears.\n",
+            "bbox": [
+                53.929,
+                505.47727000000003,
+                564.160430000001,
+                522.41327
+            ],
+            "page": "6"
+        },
+        "8": {
+            "caption": "Figure 8. The results of the enjoyment scores per scene.\n",
+            "bbox": [
+                348.643,
+                520.5572699999999,
+                536.61545,
+                528.5272699999999
+            ],
+            "page": "7"
+        },
+        "9": {
+            "caption": "Figure 9. The results of the presence scores per scene.\n",
+            "bbox": [
+                351.815,
+                296.48727,
+                533.44333,
+                304.45727
+            ],
+            "page": "7"
+        },
+        "10": {
+            "caption": "Figure 10. The results of the E2I presence and enjoyment scores.\n",
+            "bbox": [
+                66.185,
+                520.5572699999999,
+                284.74264999999997,
+                529.8027519999999
+            ],
+            "page": "8"
+        }
+    },
+    "crops": {
+        "1": {
+            "crop_coord": [
+                886.9277613888887,
+                499.48731305555543,
+                1572.119767777778,
+                1217.7499897222222
+            ],
+            "bbox": [
+                321.0939941,
+                355.4100037,
+                564.1631164,
+                610.3845673000001
+            ],
+            "page": "1"
+        },
+        "2": {
+            "crop_coord": [
+                886.9277613888887,
+                168.22697111111125,
+                1572.1244725,
+                567.6083375000003
+            ],
+            "bbox": [
+                321.0939941,
+                589.4609985,
+                564.1648101,
+                729.6382904
+            ],
+            "page": "3"
+        },
+        "3": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2229869444445,
+                830.0250075,
+                336.2249925000001
+            ],
+            "bbox": [
+                53.9290009,
+                672.7590027,
+                297.0090027,
+                729.6397247
+            ],
+            "page": "4"
+        },
+        "4": {
+            "crop_coord": [
+                886.9277613888887,
+                168.22748638888913,
+                1572.154594722222,
+                493.33334194444444
+            ],
+            "bbox": [
+                321.0939941,
+                616.1999969,
+                564.1756541,
+                729.6381048999999
+            ],
+            "page": "4"
+        },
+        "5": {
+            "crop_coord": [
+                988.2083130555557,
+                629.4404900000001,
+                1470.8405197222223,
+                1206.0027566666668
+            ],
+            "bbox": [
+                357.5549927,
+                359.6390076,
+                527.7025871000001,
+                563.6014236
+            ],
+            "page": "4"
+        },
+        "6": {
+            "crop_coord": [
+                144.80278027777777,
+                168.2273224999999,
+                1572.038780277778,
+                414.4333225000002
+            ],
+            "bbox": [
+                53.9290009,
+                644.6040039,
+                564.1339609,
+                729.6381639
+            ],
+            "page": "6"
+        },
+        "7": {
+            "crop_coord": [
+                144.80278027777777,
+                494.7162411111109,
+                1572.038780277778,
+                740.9222411111109
+            ],
+            "bbox": [
+                53.9290009,
+                527.0679932,
+                564.1339609,
+                612.1021532000001
+            ],
+            "page": "6"
+        },
+        "8": {
+            "crop_coord": [
+                886.9277613888887,
+                168.22745583333327,
+                1437.105872222222,
+                718.4055666666667
+            ],
+            "bbox": [
+                321.0939941,
+                535.173996,
+                515.5581139999999,
+                729.6381159
+            ],
+            "page": "7"
+        },
+        "9": {
+            "crop_coord": [
+                886.9277613888887,
+                790.6441005555556,
+                1437.105872222222,
+                1340.8222113888887
+            ],
+            "bbox": [
+                321.0939941,
+                311.1040039,
+                515.5581139999999,
+                505.5681238
+            ],
+            "page": "7"
+        },
+        "10": {
+            "crop_coord": [
+                144.80278027777777,
+                168.22745583333327,
+                694.9808911111112,
+                718.4055666666667
+            ],
+            "bbox": [
+                53.9290009,
+                535.173996,
+                248.39312080000002,
+                729.6381159
+            ],
+            "page": "8"
+        }
+    }
+}
