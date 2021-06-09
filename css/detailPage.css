@@ -136,14 +136,14 @@ div#icon span.cite {
 }
 div#icon span.cite::before {
   content: "";
-  background: url("../img/cite.png") no-repeat 0 0;
+  background: url("../img/I_Citation.png") no-repeat 0 0;
   background-size: 25px;
   width: 25px;
   height: 25px;
   position: relative; /*or absolute*/
   z-index: 100000; /*a number that's more than the modal box*/
   left: -10px;
-  top: 10px;
+  top: 5px;
   display: inline-block;
 }
 
@@ -153,14 +153,14 @@ div#icon span.down {
 
 div#icon span.down::before {
   content: "";
-  background: url("../img/download.png") no-repeat 0 0;
+  background: url("../img/I_Download.png") no-repeat 0 0;
   background-size: 25px;
   width: 25px;
   height: 25px;
   position: relative; /*or absolute*/
   z-index: 100000; /*a number that's more than the modal box*/
   left: -10px;
-  top: 10px;
+  top: 5px;
   display: inline-block;
 }
 
@@ -169,14 +169,14 @@ div#icon span.graph {
 }
 div#icon span.graph::before {
   content: "";
-  background: url("../img/graph.png") no-repeat 0 0;
+  background: url("../img/I_Graph.png") no-repeat 0 0;
   background-size: 25px;
   width: 25px;
   height: 25px;
   position: relative; /*or absolute*/
   z-index: 100000; /*a number that's more than the modal box*/
   left: -10px;
-  top: 10px;
+  top: 5px;
   display: inline-block;
 }
 /* background: url("../img/cite.png") center no-repeat; */
