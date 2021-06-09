@@ -21,7 +21,6 @@ $.ajax({
             var year = $(this).find("year").html();
             $figureG += "<figure><p><img src='" + imgSrc + "'></p><figcaption><h4>" + title + "</h4></figcaption><small>" + year + "</small></figure>"
         });
-
         $(list).find("threeD").find("item").each(function () {
             var imgSrc = $(this).find("thumb").html();
             var title = $(this).find("title").html();

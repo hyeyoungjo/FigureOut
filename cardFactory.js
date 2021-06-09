@@ -1,4 +1,4 @@
-window.onload = function() {
+// window.onload = function() {
     
     var db = firebase.database().ref('/');
 
@@ -59,7 +59,7 @@ window.onload = function() {
             document.getElementById("mainContainer").appendChild(card);
         });
     });
-}
+// }
 
 function venueUniformization(str) {
     if ( str.includes('17') ) { 
