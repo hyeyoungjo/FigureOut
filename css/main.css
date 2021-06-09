@@ -472,11 +472,11 @@ section.main div.card figure figcaption div.caption ul li {
 
 section.main div.card figure figcaption div.caption span.abstract,
 section.main div.card figure figcaption div.caption p.fig_des {
-    margin-top: 15px;
+    margin-top: 10px;
 }
 section.main div.card figure figcaption div.caption span.abstract{
-    height: 100px;
-    overflow-y: scroll;
+height: 68px;
+overflow: hidden;
 }
 
 section.main div.card figure figcaption div.caption p.fig_des {
