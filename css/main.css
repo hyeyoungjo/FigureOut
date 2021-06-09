@@ -168,6 +168,7 @@ section.cover article.all_figs p{
     color: #F95700;
     transition: 0.2s;
     opacity: 0.6;
+    cursor: pointer;
 }
 section.cover article.all_figs p:hover{
     opacity: 0.8;
@@ -181,6 +182,7 @@ section.cover article.all_figs p.next{
 }
 section.cover article.all_figs div.container{
     height: 50%;
+    width: 10000px;
     position: absolute;
     padding-top: 12px;
     padding-bottom: 6px;
@@ -203,9 +205,12 @@ section.cover article.all_figs div.container img{
     margin-left: 12px;
     cursor: pointer;
     transition: 0.2s;
+    opacity: 0.8;
 }
 section.cover article.all_figs div.container img:hover{
     border:2px solid #f95700;
+    transform: scale(1.05);
+    opacity: 1;
 }
 
 section.main {
@@ -470,11 +475,11 @@ section.main div.card figure figcaption div.caption ul li {
 
 section.main div.card figure figcaption div.caption span.abstract,
 section.main div.card figure figcaption div.caption p.fig_des {
-    margin-top: 15px;
+    margin-top: 10px;
 }
 section.main div.card figure figcaption div.caption span.abstract{
-    height: 100px;
-    overflow-y: scroll;
+height: 68px;
+overflow: hidden;
 }
 
 section.main div.card figure figcaption div.caption p.fig_des {
