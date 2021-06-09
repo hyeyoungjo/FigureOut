@@ -205,9 +205,12 @@ section.cover article.all_figs div.container img{
     margin-left: 12px;
     cursor: pointer;
     transition: 0.2s;
+    opacity: 0.8;
 }
 section.cover article.all_figs div.container img:hover{
     border:2px solid #f95700;
+    transform: scale(1.05);
+    opacity: 1;
 }
 
 section.main {
