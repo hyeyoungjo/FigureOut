@@ -20,6 +20,7 @@
   float: left;
   overflow: visible;
   text-transform: none;
+  text-indent: 10px;
 }
 
 .paper_info div#title aside {
@@ -62,16 +63,50 @@
   padding: 0px;
   display: block;
   overflow: auto;
-  background: red;
+  /* background: red; */
   border-top: 2px solid lightgrey;
   border-bottom: 2px solid lightgrey;
   padding-top: 15px;
   padding-bottom: 15px;
 }
-.paper_info div#more_info ul li.info_li {
+.paper_info div#more_info ul li.info_list {
   width: 100%;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  text-indent: 10px;
+  font-weight: bold;
+}
+
+#publication,
+#authors,
+#doi {
+  display: inline;
+  font-weight: normal;
+  /* background: green; */
+}
+
+#authors li {
+  margin-right: 2px;
+  margin: 0px;
+  padding: 0px;
+}
+
+#authors li::before {
+  content: "";
+  background: url("../img/I_Profile_bnw.png") no-repeat 0 0;
+  background-size: 18px;
+  width: 18px;
+  height: 18px;
+  position: relative; /*or absolute*/
+  z-index: 100000; /*a number that's more than the modal box*/
+  left: -2px;
+  top: 4px;
+  display: inline-block;
+}
+
+#doi a {
+  color: inherit;
+  text-decoration: none;
 }
 
 .paper_detail {
