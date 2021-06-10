@@ -7,16 +7,22 @@ var metadataJson = new Array();
 fs.readdir(metaData, (err, filelist) => { 
     filelist.forEach(file => {
         if(file.includes('.json')) {
-            // console.log(file);   
             var obj = new Object();
             obj.filename = file.split('_')[0];
 
             var data = fs.readFileSync('./json/metadata/' + file, 'utf8');
             var jsonData=JSON.parse(data);
-            // const sections = jsonData.sections;
-            // sections.forEach(section => {
-            //     console.log(section.word_count);
-            // });
+            
+            var sectionlist = new Array();
+            for (var s in jsonData.sections) {
+                //  console.log(s.word_count);
+                var sec = jsonData.sections[s];
+                var newsection = new Object();
+                newsection.section = sec;                    
+                sectionlist.push(newsection);
+            }
+            delete jsonData.sections;
+            jsonData.sections = new Array(sectionlist);
 
             var keywordlist = new Array();
             jsonData.keywords.forEach(k => {
