@@ -12,7 +12,6 @@
   width: 100%;
   display: block;
   overflow: auto;
-  /* background: blue; */
 }
 .paper_info div#title h1 {
   padding-top: 15px;
@@ -57,23 +56,17 @@
 
 #subsection {
   width: 100%;
-  /* width: 1000px; */
-  /* height: fit-content; */
-  /* background: blue; */
   border-top: 3px solid #d6d6d6;
   border-bottom: 2px solid #d6d6d6;
   padding-top: 15px;
   padding-bottom: 15px;
   margin: 0px;
-  /* display: inline; */
   position: relative;
-  /* background: blue; */
 }
 
 .paper_info #subsection div#more_info {
   list-style: none;
   overflow: auto;
-  /* background: green; */
   width: 80%;
 }
 .paper_info #subsection div#more_info ul li.info_list {
@@ -129,72 +122,33 @@
 .paper_info #subsection div#icon span.cite,
 span.down,
 span.graph {
-  padding-left: 35px;
   font-size: 18px;
+  width: 100px;
+  height: 20px;
 }
 
-div#icon span.cite {
-  color: #4865ff;
-}
-div#icon span.cite::before {
-  content: "";
-  background: url("../img/I_Citation.png") no-repeat 0 0;
-  background-size: 25px;
-  width: 25px;
-  height: 25px;
-  position: relative; /*or absolute*/
-  z-index: 100000; /*a number that's more than the modal box*/
-  left: -10px;
-  top: 5px;
-  display: inline-block;
-}
-
-div#icon span.down {
-  color: #8f8f8f;
-}
-
-div#icon span.down::before {
-  content: "";
-  background: url("../img/I_Download.png") no-repeat 0 0;
-  background-size: 25px;
-  width: 25px;
-  height: 25px;
-  position: relative; /*or absolute*/
-  z-index: 100000; /*a number that's more than the modal box*/
-  left: -10px;
-  top: 5px;
-  display: inline-block;
-}
-
-div#icon span.graph {
-  color: #585858;
-}
-div#icon span.graph::before {
-  content: "";
-  background: url("../img/I_Graph.png") no-repeat 0 0;
-  background-size: 25px;
-  width: 25px;
-  height: 25px;
-  position: relative; /*or absolute*/
-  z-index: 100000; /*a number that's more than the modal box*/
-  left: -10px;
-  top: 5px;
-  display: inline-block;
+.paper_info #subsection div#icon span img {
+  max-width: 100%;
+  max-height: 100%;
+  transform: translateY(3px);
+  margin-right: 8px;
 }
 
 /* LOWER PART */
 
 .paper_detail {
   width: 100%;
-  min-height: 700px;
+  min-height: 800px;
   padding: 30px;
   float: left;
+  position: relative;
 }
 
 .paper_detail div#left {
   float: left;
   width: 40%;
-  height: 700px;
+  height: 100%;
+  position: relative;
   display: block;
   padding-right: 50px;
   padding-top: 10px;
@@ -269,7 +223,7 @@ div#icon span.graph::before {
 .paper_detail div#right {
   float: left;
   width: 50%;
-  height: 700px;
+  height: 800px;
   overflow: auto;
   -ms-overflow-style: none; /* hide scrollbar  for IE and Edge */
   scrollbar-width: none; /* hide scrollbar  for Firefox */
@@ -280,6 +234,13 @@ div#icon span.graph::before {
 }
 
 div#right .subtitle {
+  font-size: 22px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bolder;
+}
+
+div#right .subsubtitle {
   font-size: 20px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -293,9 +254,154 @@ div#right .body {
 
 .paper_detail div#progress_bar {
   float: left;
-  background: blue;
   width: 10%;
-  height: 700px;
+  height: 800px;
+  display: inline-block;
+  position: absolute;
+}
+.paper_detail div#progress_bar div.column {
+  width: 50%;
+  height: 100%;
+  float: left;
+  position: relative;
+  display: flex;
+  align-items: stretch;
+}
+
+.rotate_90 {
+  -webkit-transform: rotate(90deg);
+  -webkit-transform-origin: left top;
+  -moz-transform: rotate(90deg);
+  -moz-transform-origin: left top;
+  -ms-transform: rotate(90deg);
+  -ms-transform-origin: left top;
+  -o-transform: rotate(90deg);
+  -o-transform-origin: left top;
+  transform: rotate(90deg);
+  transform-origin: left top;
+
+  position: relative;
+  top: 0;
+  left: 100%;
+  white-space: nowrap;
+
+  width: 100%;
+}
+
+.bar_container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-end;
+}
+.bar_container div {
+  border-radius: 10px;
+  margin: 3px 0px;
+  position: relative;
+  padding-top: 1px;
+}
+
+.val-a {
+  color: black;
+}
+.val-a::before {
+  background-color: black;
+  content: "";
+  width: 6px;
+  height: 100%;
+  position: absolute;
+  right: 22px;
+  top: 0px;
+  border-radius: 3px;
+}
+
+.val-b {
+  color: coral;
+}
+.val-b::before {
+  background-color: coral;
+  content: "";
+  width: 6px;
+  height: 100%;
+  position: absolute;
+  right: 22px;
+  top: 0px;
+  border-radius: 3px;
+}
+
+.val-c {
+  color: cornflowerblue;
+}
+.val-c::before {
+  background-color: cornflowerblue;
+  content: "";
+  width: 6px;
+  height: 100%;
+  position: absolute;
+  right: 22px;
+  top: 0px;
+  border-radius: 3px;
+}
+
+.val-d {
+  color: #8ddd5c;
+}
+.val-d::before {
+  background-color: #8ddd5c;
+  content: "";
+  width: 6px;
+  height: 100%;
+  position: absolute;
+  right: 22px;
+  top: 0px;
+  border-radius: 3px;
+}
+
+.val-e {
+  color: #a6a6a6;
+}
+.val-e::before {
+  background-color: #a6a6a6;
+  content: "";
+  width: 6px;
+  height: 100%;
+  position: absolute;
+  right: 22px;
+  top: 0px;
+  border-radius: 3px;
+}
+
+#progress_bar div.slider {
+  width: 20%;
+  height: 99%;
+  display: table;
+  position: relative;
+  top: 0.5%;
+}
+
+#progress_bar div.slider::before {
+  content: "";
+  background-color: #f95700;
+  width: 2px;
+  height: 100%;
+  position: absolute;
+  right: 50%;
+  transform: translate(50%, 0);
+  border-radius: 1px;
+}
+
+#progress_bar div.slider div#arrow {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  right: 0px;
+  transform: translate(0, -50%);
+}
+
+#progress_bar div.slider div#arrow img {
+  max-height: 100%;
+  max-width: 100%;
 }
 
 /* Clear floats after the columns */
