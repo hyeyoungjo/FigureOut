@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="css/common.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/detailPage.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet">
@@ -16,8 +17,7 @@
     <script src="https://www.gstatic.com/firebasejs/8.6.5/firebase-database.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.6.5/firebase-analytics.js"></script>
     <script src="firebase.js"></script>
-
-    <!-- <script src="script/load.js"></script> -->
+    
     <script src="script/main.js"></script>
 </head>
 <body>
@@ -48,8 +48,9 @@
                 <span class="cart"></span>
             </aside>
         </div>
-        <div id="more_info">
-            <ul>
+        <div id="subsection">
+            <div id="more_info">
+                <ul>
                 <li class="info_list">
                     Publication : 
                     <div id="publication">CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems</div>
@@ -69,11 +70,74 @@
                     DOI : 
                     <div id="doi"><a href="https://doi.org/10.1145/3313831.3376144">https://doi.org/10.1145/3313831.3376144</a></div>
                 </li>
-            </ul>
+                </ul>
+            </div>
+            <div id="icon">
+                <span class="cite">
+                    <img src="../img/I_Citation.png" alt="">
+                    21</span>
+                <span class="down">
+                    <img src="../img/I_Download.png" alt="">
+                    200</span>
+                <span class="graph">
+                    <img src="../img/I_Graph.png" alt="">
+                    graph</span>
+            </div>
         </div>
     </div>
     <div class="paper_detail">
-        test test
+        <div id="left">
+            <div id="figure_selected">
+                <img src="../img/1_1.png" alt="main figure">
+                <div id="figure_caption">Figure 3. A user wearing the HMD and biosensors.</div>
+            </div>
+            <div id="figure_list">
+                
+                <ul>
+                    <li><img src="../img/1_3.jpeg" alt=""></li>
+                    <li><img src="../img/1_2.png" alt=""></li>
+                    <li id="list_selected"><img src="../img/1_1.png" alt=""></li>
+                    <li><img src="../img/1_4.png" alt=""></li>
+                    <li><img src="../img/1_3.jpeg" alt=""></li>
+                    
+                </ul>
+            </div>
+        </div>
+        <div id="right">
+            <div class="subtitle">STUDY</div>
+            <div class="body">In our study, we focus on BIP caused by discontinuation of the VR experience to ﬁll out questionnaires. Therefore, in alignment with Schwind et al. [74], we created an immersive VE in which participants were required to engage with a playful tasks repeatedly at different levels of realism and respond to questionnaires inside and outside VR. We recorded physiological signals during the whole session, since they are more sensitive to assess BIPs than subjective self-reports [89].</div>
+            <div class="body">The study design employs mixed methods and contains two independent variables: questionnaire modality and ﬁdelity. The questionnaire modality describes the presentation of a questionnaire, either as INVRQ or OUTVRQ. Since physiological responses are highly speciﬁc and can vary drastically between participants we chose a within-subjects design with repeated measures for the questionnaire modality. This also allows the participants to compare bot assessment methods. The order of the questionnaire conditions was randomized. Fidelity is operationalized as degree of immersion [10, 46, 74] with the levels low (LoFi) and high (HiFi).  Based on prior research which showed evidence that visual ﬁdelity fosters immersion and therefore affects the sense of presence [9, 87, 104], we hypothesize that a switch from LoFi to physical reality would cause a smaller BIP compared to switching from HiFi.  To avoid transfer effects, ﬁdelity was administered between-subjects.</div>
+            <div class="subsubtitle">The Virtual Environment</div>
+            <div class="body">In the VE, the player is located on a plateau in open space surrounded by three crystals which are attacked by drone enemies. The task of the game is to shoot the drones with a pistol using the VR controller. To eliminate a drone, the player is required to hit it twice. This is to decelerate the body movement of the player and thus reduce artefacts in the biosignals. We aimed to provide a sustained medium-intensity engagement with the game; players should feel connected to the task while not being overly aroused or stressed. Therefore, we balanced the game so that the player would lose the round within the last seconds if they did not eliminate any drones.  Since we attached biosensors to the non-dominant hand, we deliberately designed the game to be playable with one hand only. To operationalize different levels of presence, we altered the visual and aural ﬁdelity of the VE. For the HiFi variant (stylized), we used high resolution textures, sound, physics simulation and particle effects (Fig. 1a). The LoFi environment (abstract) only consisted of primitive mesh objects which approximated the HiFi objects without particle effects nor sounds (Fig. 1b). We payed attention to design both ﬁdelity variants with comparable difﬁculty and only altered the visuals and sounds with the same hidden models for collision-detection. To avoid learning effects as confounds in the biosignals and performance, the drones spawned randomly at two ﬁxed locations. Besides the altered ﬁdelity and the randomized spawn-points, there were no differences in the VE between the trials. The environment was implemented in Unity3D and run on a high-end PC with a HTC Vive Pro HMD at a constant frame rate of 90 FPS.</div>
+            <div class="subsubtitle">inVRQ Design </div>
+            <div class="body">We employed the INVRQ tool, which was previously designed and evaluated by Alexandrovsky and Putze et al. [3].  The design follows general guidelines from traditional UIs [24, 79] and VR interface design [22, 34, 33, 64] and received high usability scores [3].  The questionnaire is anchored in world space and users interact with a controller using a common laser pointer metaphor (cf. Fig. 1c,1d).  We kept INVRQS constant and in the same position in both variants of the VE.</div>
+            <div class="subsubtitle">Recording of Physiological Signals</div>
+            <div class="body">We used a Mind Media NeXus 10 MKII biofeedback device1 with the BioTrace+ V2018A software for recording of the physiological signals with a sampling rate of 128 Hz. The NeXus 10 was connected using a 5 m USB cable allowing the participants to move around freely in the tracking space. We used a chest strap respiration sensor, a blood volume pressure (BVP) sensor and a skin conductance (SC) sensor to measure electrodermal activity (EDA) on the non-dominant hand of the participant. These biosignals are in alignment with physiological measures of presence [53, 58, 59] and BIP [54, 85, 86].</div>
+            <div class="body">Figure 3 illustrates the recording setup: We attached the SC sensors using adjustable velcro straps to the middle phalanx of ring and little finger which have the highest SC responsiveness [77, 97]. To synchronize the recordings of the signals with the game, we used audio signals and manual triggers. Before placement of the electrodes, the participants cleaned their non-dominant hand with a wet wipe. To get a clear signal quality and reduce artifacts due to movement, we briefed the participants not to use their non-dominant hand with the sensors and to let it hang down during the whole study. A conductor helped the participants with fitting the HMD.</div>
+            <div class="subsubtitle">Subjective Measures</div>
+            <div class="body">To assess player experience after each game round, we applied the Player Experience of Need of Satisfaction (PENS) [66] questionnaire either using an inVRQ or outVRQ. It consists of 21 items on a 7-point Likert scale with the subscales of autonomy, competence, relatedness, presence, and intuitive control. With 21 items PENS is similar in length to other questionnaires (e.g. PANAS, IPQ, NASA-TLX) used in previous user studies with inVRQs [45, 63, 76]. To assess potential differences in perceived sense of presence due to different questionnaire modalities and to validate the “breakable experience”, we operated the igroup presence questionnaire (IPQ) [70] after the third game rounds in each condition (2 × for each participant). The IPQ consists of 14 items on a 5-point Likert scale with the subscales General Presence (GP), Spatial Presence (SP), Involvement (INV) and Realism (REAL). We did not assess the IPQ between trials because it is not sensitive for measuring a BIP [3, 74] and the game rounds did not differ. We also collected self reports about game experience and usability with both questionnaire modalities. Finally, the users ranked the BIP events by the degree of distraction.</div>
+            <div class="subsubtitle">Procedure and Tasks</div>
+            <div class="body">Our study ﬂow is depicted in Figure 2 and consisted of the following states:  1.  Study  preparation:  Brieﬁng  and  complete consent form. Random assignment to a condition (HiFi or  LoFi)  and  order  of  the  questionnaire  modality.  Attach physiological  sensors  and synchronize  biosignals  with the game. Put on the HMD. 2. First questionnaire condition, steps A.-H. (INVRQ or OUTVRQ). 3. Break (optional). 4. Second questionnaire condition, steps A.–H. (OUTVRQ or INVRQ). 5. Conclusive questionnaire on a PC with demographics, ranking questionnaire modalities and debrieﬁng.</div>
+            <div class="body">Each questionnaire condition contained the following steps: A. Put on the HMD and play a tutorial round (60s). B. Initial blackout BIP. C. Game round #1 (90s). D. PENS #1 using INVRQ or OUTVRQ depending on the condition. E. Game round #2 (90s). F. PENS #2 using same questionnaire modality as PENS #1. G. Game round #3 (90s). H. Take off the HMD and fill out an IPQ on the PC. The whole procedure required around 45min with an average in-VR time of 17.35min (SD=1.45). The study took place in a lab room without irregular light, climate or noise conditions.</div>
+        </div>
+        <div id="progress_bar">
+            
+            <div class="column">
+                <div class="bar_container">
+                    <div class="bar val-a" style="flex-basis: 10%"><span class="rotate_90">Background</span></div>
+                    <div class="bar val-b" style="flex-basis: 15%"><span class="rotate_90">Study</span></div>
+                    <div class="bar val-c" style="flex-basis: 30%"><span class="rotate_90">Result</span></div>
+                    <div class="bar val-d" style="flex-basis: 35%"><span class="rotate_90">Discussion</span></div>
+                    <div class="bar val-e" style="flex-basis: 10%"><span class="rotate_90">Conclusion</span></div>
+
+                </div>
+            </div>
+            
+            <div class="slider">
+                <div id="arrow" style="top: 11%"><img src="../img/sliderArrow.png" alt=""></div>
+            </div>
+
+        </div>
     </div>
 </div>
 <script src="cardFactory.js"></script>
