@@ -227,6 +227,7 @@ section.main div {
 section.main div.tags *,
 section.main div.results * {
   font-size: inherit;
+
 }
 section.main div.tags {
 }
@@ -286,6 +287,8 @@ section.main div.results {
   font-weight: bold;
 }
 section.main div.results span {
+  display: flex;
+  align-items: center;
 }
 section.main div.results ul {
   display: flex;
@@ -349,16 +352,21 @@ section.main div.card figure figcaption {
 section.main div.card figure figcaption div.bar {
   width: 100%;
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: space-between;
+  overflow: hidden;
+
 }
 
 section.main div.card figure figcaption div.bar span {
+  height: 24px;
   font-size: 12px;
   margin-right: 5px;
   position: relative;
-  text-transform: capitalize;
+  text-transform: lowercase;
   padding-bottom: 5px;
+  display: flex;
+  align-items: flex-start;
 }
 section.main div.card figure figcaption div.bar span:after {
   content: " ";
@@ -488,7 +496,9 @@ section.main div.card figure figcaption div.caption span.abstract {
 }
 
 section.main div.card figure figcaption div.caption p.fig_des {
-  display: none;
+  height: 0;
+  overflow: hidden;
+  display: flex;
   justify-content: flex-start;
   align-items: center;
 }
