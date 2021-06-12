@@ -24,7 +24,7 @@ $(function () {
                 var $secBar = "";
                 var $figItem = "";
                 $articleIdx = $(this).index();
-                $figCap=$(this).find("caption").html();
+                $figCap = $(this).find("caption").html();
 
                 // Thumbnail
                 var $thumbUrl = "crops/" + $(this).find("url").eq(0).html();
@@ -43,7 +43,7 @@ $(function () {
                 var $title = "<h3>" + $(this).find("data>title").html() + "</h3>";
                 var $authors = "<ul class='authors'>" + $(this).find("authors").html() + "</ul>";
                 var $abstract = "<span class='abstract'>" + $(this).find("abstract").html() + "</span>";
-                var $figDes = "<p class='fig_des'><span>◄</span><span>"+$figCap+"</span></p>";
+                var $figDes = "<p class='fig_des'><span>◄</span><span>" + $figCap + "</span></p>";
                 $caption = "<div class='caption'>" + $title + $authors + $abstract + $figDes + "</div>"
 
                 // sections 
@@ -104,11 +104,55 @@ $(function () {
 
             $(".figures img").on("mouseenter", function () {
                 imgSrc = $(this).attr('src');
-                imgUrl = imgSrc.replace("crops/","");
-                figCap = $(one).find("url:contains("+imgUrl+")").siblings("caption").html();
+                imgUrl = imgSrc.replace("crops/", "");
+                figCap = $(one).find("url:contains(" + imgUrl + ")").siblings("caption").html();
                 $(this).parents("figure").find("p.img").css("background-image", "url('" + imgSrc + "')");
                 $(this).parents("figure").find("p.fig_des span:nth-of-type(2)").html(figCap);
             })
+
+
+            //transition---------------
+            var $scrollTop = 0;
+            $("div.card").on("click", function () {
+                $scrollTop = $(window).scrollTop();
+
+                $("section.cover, section.main").delay(200).animate({
+                    left: "-100%"
+                }, 300);
+
+                $("nav").animate({
+                    top: "-100%"
+                }, 300).delay(600).animate({
+                    top: 0
+                }, 300);
+
+                $("section#detail").delay(600).animate({
+                    left: "50%"
+                }, 300);
+            });
+
+            $("section#detail div.back").on("click", function () {
+                $("section#detail").delay(200).animate({
+                    left: "150%"
+                }, 300);
+
+                $("nav").animate({
+                    top: "-100%"
+                }, 300).delay(600).animate({
+                    top: 0
+                }, 300);
+               
+                $("section.cover, section.main").delay(600).animate({
+                    left: 0
+                }, 300);
+                setTimeout(function(){
+                    $("html, body").animate({
+                        scrollTop: $scrollTop
+                    },300);
+                },1000)
+                
+            });
+
 
         },
 

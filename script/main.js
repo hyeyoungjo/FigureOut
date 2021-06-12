@@ -1,8 +1,5 @@
 $(function () {
     //-----jquery start------
-    
-
-    
     $("aside span").on("click", function () {
         $(this).toggleClass("active");
     })
@@ -32,6 +29,13 @@ $(function () {
             })
         }
     })
+// $("section#mainContainer").hide();
+// $("section.cover").hide();
 
+$("div.bar_container").width($("div.column").outerHeight()).height($("div.column").outerWidth());
+
+$("section.main").css({
+    top: $("section.cover").outerHeight()
+})
     //-----jquery end--------
 });

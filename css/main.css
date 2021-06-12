@@ -1,6 +1,12 @@
 @charset 'utf-8';
+body{
+  width: 100vw;
+  overflow-x: hidden;
+}
 
 div.container {
+  width: 100%;
+  height: 100vh;
 }
 
 nav {
@@ -12,6 +18,10 @@ nav {
   justify-content: space-between;
   flex-direction: row;
   padding: 5px 10px;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 999;
 }
 
 nav div {
@@ -111,6 +121,11 @@ nav div.icons p:nth-of-type(3) {
   background-image: url("../img/I_Profile2.png");
 }
 section.cover {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 70;
 }
 section.cover > ul {
   width: 100%;
@@ -217,8 +232,12 @@ section.cover article.all_figs div.container img:hover {
 }
 
 section.main {
-  width: 70%;
-  margin: 80px auto;
+  width: 100%;
+  padding: 0 12%;
+  margin: 80px 0;
+  background: white;
+  position: absolute;
+  z-index: 50;
 }
 section.main div {
   font-size: 18px;
@@ -319,13 +338,17 @@ section.main div.results ul li.active {
 section.main div.card {
   margin-top: 40px;
   width: 100%;
-  height: auto;
+  height: 300px;
   position: relative;
+  transition: 0.2s;
+}
+section.main div.card.scale{
+transform: scale(1.1);
 }
 
 section.main div.card figure {
   width: 95%;
-  height: 300px;
+  height: 100%;
   overflow: hidden;
   border-radius: 10px;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
@@ -381,38 +404,38 @@ section.main div.card figure figcaption div.bar span:after {
   bottom: 0;
 }
 
-section.main div.card figure figcaption div.bar span#background {
+span#background {
   color: black;
 }
-section.main div.card figure figcaption div.bar span#background:after {
+span#background:after {
   background: black;
 }
 
-section.main div.card figure figcaption div.bar span#method {
+span#method {
   color: coral;
 }
-section.main div.card figure figcaption div.bar span#method:after {
+span#method:after {
   background: coral;
 }
 
-section.main div.card figure figcaption div.bar span#result {
+span#result {
   color: cornflowerblue;
 }
-section.main div.card figure figcaption div.bar span#result:after {
+span#result:after {
   background: cornflowerblue;
 }
 
-section.main div.card figure figcaption div.bar span#discussion {
+span#discussion {
   color: #8ddd5c;
 }
-section.main div.card figure figcaption div.bar span#discussion:after {
+span#discussion:after {
   background: #8ddd5c;
 }
 
-section.main div.card figure figcaption div.bar span#conclusion {
+span#conclusion {
   color: #a6a6a6;
 }
-section.main div.card figure figcaption div.bar span#conclusion:after {
+span#conclusion:after {
   background: #a6a6a6;
 }
 
