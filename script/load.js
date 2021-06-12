@@ -8,16 +8,14 @@ $(function () {
         complete: function () {},
         success: function (one) {
             var $articleIdx = 0;
-            var $figList="";
+            var $figList = "";
             var $info;
             var $caption;
-
-            var $paperLength = 0;
-            var $secLength = 0;
 
             var $bar;
 
             var $fig;
+            var $figCap;
 
             var $mainThumb;
             var $aside = "<aside><span class='thumb'></span><span class='cart'></span></aside>";
@@ -25,10 +23,12 @@ $(function () {
             $(one).find("article").each(function () {
                 var $secBar = "";
                 var $figItem = "";
-                var $thumbUrl="crops/"+$(this).find("url");
                 $articleIdx = $(this).index();
+                $figCap=$(this).find("caption").html();
+
                 // Thumbnail
-                $mainThumb = "<p class='img' css='background-image:url('"+$thumbUrl+"')'></p>";
+                var $thumbUrl = "crops/" + $(this).find("url").eq(0).html();
+                $mainThumb = "<p class='img' style='background-image:url(" + $thumbUrl + ")'></p>";
 
                 // info
                 var $venue = "<span class='conf'>" + $(this).find("venue").html() + "</span>";
@@ -43,7 +43,7 @@ $(function () {
                 var $title = "<h3>" + $(this).find("data>title").html() + "</h3>";
                 var $authors = "<ul class='authors'>" + $(this).find("authors").html() + "</ul>";
                 var $abstract = "<span class='abstract'>" + $(this).find("abstract").html() + "</span>";
-                var $figDes = "<p class='fig_des'><span>◄</span><span></span></p>";
+                var $figDes = "<p class='fig_des'><span>◄</span><span>"+$figCap+"</span></p>";
                 $caption = "<div class='caption'>" + $title + $authors + $abstract + $figDes + "</div>"
 
                 // sections 
@@ -53,10 +53,13 @@ $(function () {
                 // });
 
                 $(this).find("sections").find("section").each(function (i) {
-
-                    // $secLength = Math.ceil(Number($(this).find("word_count").html()) / $paperLength * 100) + "%";
+                    var $paperLength = 0;
+                    $(this).parents("sections").find("word_count").each(function () {
+                        $paperLength += Number($(this).html());
+                    });
+                    var $secLength = Math.ceil(Number($(this).find("word_count").html()) / $paperLength * 100) + "%";
                     var $secTitle = $(this).find("title").html();
-                    $secBar += "<span id='" + $secTitle.replace(" ", "_") + "'>" + $secTitle + "</span>"
+                    $secBar += "<span id='" + $secTitle.replace(" ", "_") + "' style='width:" + $secLength + "'>" + $secTitle + "</span>"
                 });
                 $bar = "<div class='bar'>" + $secBar + "</div>";
 
@@ -74,17 +77,17 @@ $(function () {
             $("section#mainContainer").append($figList);
 
             //figures jquery
-            var imgSrc = "";
-            var imgIdx = 0;
+
             $("p.img").on("mouseenter", function () {
                 $(this).siblings("figcaption").find("div.figures").animate({
                     bottom: "12px"
                 });
                 $(this).siblings("figcaption").find("span.abstract").slideUp(150);
                 $(this).siblings("figcaption").find("p.fig_des").delay(150).animate({
-                    height: "30px"
+                    height: "62px"
                 }, 150);
             });
+
             $("figure").on("mouseleave", function () {
                 $(this).find("div.figures").animate({
                     bottom: "-100px"
@@ -94,6 +97,19 @@ $(function () {
                     height: 0
                 });
             });
+
+            var imgSrc = "";
+            var imgUrl = "";
+            var figCap = "";
+
+            $(".figures img").on("mouseenter", function () {
+                imgSrc = $(this).attr('src');
+                imgUrl = imgSrc.replace("crops/","");
+                figCap = $(one).find("url:contains("+imgUrl+")").siblings("caption").html();
+                $(this).parents("figure").find("p.img").css("background-image", "url('" + imgSrc + "')");
+                $(this).parents("figure").find("p.fig_des span:nth-of-type(2)").html(figCap);
+            })
+
         },
 
         error: function () {

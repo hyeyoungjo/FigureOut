@@ -335,7 +335,8 @@ section.main div.card figure p.img {
   width: 32%;
   height: 100%;
   float: left;
-  background: url("../img/1_1.png") center no-repeat;
+  background-repeat: no-repeat;
+  background-position: left top;
   background-size: cover;
   cursor: pointer;
   border-right: 1px solid #757575;
@@ -492,7 +493,7 @@ section.main div.card figure figcaption div.caption p.fig_des {
   margin-top: 10px;
 }
 section.main div.card figure figcaption div.caption span.abstract {
-  height: 68px;
+  height: 110px;
   overflow: hidden;
 }
 
@@ -501,7 +502,7 @@ section.main div.card figure figcaption div.caption p.fig_des {
   overflow: hidden;
   display: flex;
   justify-content: flex-start;
-  align-items: center;
+  align-items: flex-start;
 }
 
 section.main div.card figure figcaption div.caption p span:nth-of-type(1) {

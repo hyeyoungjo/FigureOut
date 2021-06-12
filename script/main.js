@@ -1,13 +1,6 @@
 $(function () {
     //-----jquery start------
-   
-
-    $(".figures img").on("mouseenter", function () {
-        imgSrc = $(this).attr('src');
-        imgIdx = $(this).index() + 1;
-        $(this).parents("figure").find("p.img").css("background-image", "url('" + imgSrc + "')")
-        $(this).parents("figure").find("p.fig_des span:nth-of-type(2)").html("Figure " + imgIdx + ". Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp")
-    })
+    
 
     
     $("aside span").on("click", function () {
