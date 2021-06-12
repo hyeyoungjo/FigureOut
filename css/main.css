@@ -199,12 +199,17 @@ section.cover article.all_figs p.next {
 }
 section.cover article.all_figs div.container {
   height: 50%;
-  width: 10000px;
+  width: 5000px;
   position: absolute;
   padding-top: 12px;
   padding-bottom: 6px;
   top: 0;
-  left: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
 section.cover article.all_figs div.container.list_top {
 }
@@ -213,7 +218,6 @@ section.cover article.all_figs div.container.list_bottom {
   padding-bottom: 12px;
   position: absolute;
   top: 50%;
-  left: 0;
 }
 
 section.cover article.all_figs div.container img {
