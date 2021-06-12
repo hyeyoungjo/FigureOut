@@ -17,15 +17,19 @@ $(function () {
 
             var $bar;
 
-            var $fig = "";
+            var $fig;
 
-            var $mainThumb = "<p class='img'></p>";
+            var $mainThumb;
             var $aside = "<aside><span class='thumb'></span><span class='cart'></span></aside>";
 
             $(one).find("article").each(function () {
                 var $secBar = "";
                 var $figItem = "";
+                var $thumbUrl="crops/"+$(this).find("url");
                 $articleIdx = $(this).index();
+                // Thumbnail
+                $mainThumb = "<p class='img' css='background-image:url('"+$thumbUrl+"')'></p>";
+
                 // info
                 var $venue = "<span class='conf'>" + $(this).find("venue").html() + "</span>";
                 var $cite = "<span class='cite'><span></span>" + Math.round(Math.random() * 100 + 1) + "</span>";
@@ -67,15 +71,8 @@ $(function () {
                 // figure lists 
                 $figList += "<div class='card'><figure>" + $mainThumb + "<figcaption>" + $bar + $info + $caption + $fig + "</figcaption></figure>" + $aside + "</div>";
             });
-
             $("section#mainContainer").append($figList);
-            $("div.card").each(function () {
-                var thisIdx=$(this).index();
-                var mainImg = $(one).find("article").eq(thisIdx).find("url").html();
-               $(this).find("p.img").css({
-                   backgroundImage: "url('../crops/"+mainImg+"')"
-               })
-            });
+
             //figures jquery
             var imgSrc = "";
             var imgIdx = 0;
