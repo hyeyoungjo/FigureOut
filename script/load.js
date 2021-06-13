@@ -1,5 +1,4 @@
 
-var fs = require('fs');    
 
 $(function () {
     //-----jquery start
@@ -28,8 +27,7 @@ $(function () {
             var $pageN = 1;
             var $cardPerPage = 10;
             
-            var data = fs.readFileSync('data/figureType.json', 'utf8');
-            var figureTypeJsonData = JSON.parse(data);
+
 
             $(one).find("article").each(function (index) {
                 if( index < ($pageN-1) * $cardPerPage) {   
@@ -152,7 +150,7 @@ $(function () {
 
                 // var figUrl = "";
                 console.log(imgUrl);
-                var figType = JSON.parse(figureTypeJsonData)[imgUrl] + "";
+                var figType = JSON.parse(data)[imgUrl] + "";
                 updateUserData(figType);
             });
 
