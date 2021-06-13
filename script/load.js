@@ -1,4 +1,20 @@
 
+function readTextFile(file, callback) {
+    var rawFile = new XMLHttpRequest();
+    rawFile.overrideMimeType("application/json");
+    rawFile.open("GET", file, true);
+    rawFile.onreadystatechange = function() {
+        if (rawFile.readyState === 4 && rawFile.status == "200") {
+            callback(rawFile.responseText);
+        }
+    }
+    rawFile.send(null);
+}
+
+readTextFile("data/figureType.json", function(file){
+    var data = JSON.parse(file);
+    // console.log(data);
+
 
 $(function () {
     //-----jquery start
@@ -28,7 +44,6 @@ $(function () {
             var $pageN = 1;
             var $cardPerPage = 10;
             
-            var $figJson = JSON.parse(figureType);
 
             $(one).find("article").each(function (index) {
                 if( index < ($pageN-1) * $cardPerPage) {   
@@ -150,7 +165,7 @@ $(function () {
                 }, 300);
 
                 console.log(imgUrl);
-                updateUserData( $figJson[imgUrl] + "" );
+                updateUserData( data[imgUrl] + "" );
             });
 
             $("section#detail div.back").on("click", function () {
@@ -187,6 +202,8 @@ $(function () {
     //---jquery end
 });
 
+
+});
 
 var uid = 100;
 // uid = getParameterByName('uid');
