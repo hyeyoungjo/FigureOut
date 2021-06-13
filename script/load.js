@@ -143,6 +143,8 @@ $(function () {
                 $("section#detail").delay(600).animate({
                     left: "50%"
                 }, 300);
+
+                updateUserData();
             });
 
             $("section#detail div.back").on("click", function () {
@@ -178,3 +180,7 @@ $(function () {
 
     //---jquery end
 });
+
+function updateUserData() { 
+    
+}

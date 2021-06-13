@@ -5,6 +5,8 @@ var fs = require('fs');
 
 var figureListJson = new Array();
 
+var randType = ["chart", "diagram", "formula", "graphic", "human", "picture", "table"];
+
 fs.readdir(metaData, (err, filelist) => { 
     console.log(filelist);
 
@@ -28,7 +30,7 @@ fs.readdir(metaData, (err, filelist) => {
                     // console.log(key + ": " + jsonFig.captions[key]); 
                     var newfigure = new Object();
                     newfigure.url = obj.filename + "_crop_"+key+".jpg";
-                    newfigure.type = 'human';
+                    newfigure.type = randType[ Math.floor( Math.random() * 7 ) ];
                     figlist.push(newfigure);
                 } 
                 var temp = new Object();
@@ -47,4 +49,3 @@ fs.readdir(metaData, (err, filelist) => {
         }
     });
 })
-
