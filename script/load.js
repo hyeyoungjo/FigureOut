@@ -1,20 +1,4 @@
 
-function readTextFile(file, callback) {
-    var rawFile = new XMLHttpRequest();
-    rawFile.overrideMimeType("application/json");
-    rawFile.open("GET", file, true);
-    rawFile.onreadystatechange = function() {
-        if (rawFile.readyState === 4 && rawFile.status == "200") {
-            callback(rawFile.responseText);
-        }
-    }
-    rawFile.send(null);
-}
-
-readTextFile("../data/figureType.json", function(file){
-    var data = JSON.parse(file);
-    // console.log(data);
-
 
 $(function () {
     //-----jquery start
@@ -135,6 +119,7 @@ $(function () {
             var imgSrc = "";
             var imgUrl = "";
             var figCap = "";
+            var key ="";
 
             $(".figures img").on("mouseenter", function () {
                 imgSrc = $(this).attr('src');
@@ -165,7 +150,10 @@ $(function () {
                 }, 300);
 
                 console.log(imgUrl);
-                updateUserData( data[imgUrl] + "" );
+                key = imgUrl.replace(".", "`");
+                firebase.database().ref().once(key).then(function(snapshot){
+                    updateUserData( snapshot.val()+"" );
+                });
             });
 
             $("section#detail div.back").on("click", function () {
