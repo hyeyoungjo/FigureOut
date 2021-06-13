@@ -202,13 +202,15 @@ function userData (){
 }
 
 function updateUserData(key) { 
-    
     var type = "";
     firebase.database().ref('/' + key + '/').once('value').then(function(snapshot){
         type = snapshot.val();
+        userData[0][type]++;
+        updateData();
     });
-    userData[0][type]++;
+}
 
+function updateData() {
     firebase.database().ref('/users/' + uid + '/history/' ).set({
         chart : userData[0].chart ,
         diagram : userData[0].diagram  ,
