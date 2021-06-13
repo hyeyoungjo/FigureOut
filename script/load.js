@@ -189,6 +189,8 @@ $(function () {
 
 var uid = 100;
 // uid = getParameterByName('uid');
+var userData = new Array(0);
+// const userDb = firebase.database().ref('/users/' + uid);
 
 function userData (){
     var chart = 0;
@@ -198,9 +200,8 @@ function userData (){
     var human = 0;
     var picture = 0;
     var table = 0;
+    getfirebase();
 }
-var userData = new Array(0);
-// const userDb = firebase.database().ref('/users/' + uid);
 
 function updateUserData(type) { 
     userData[0][type]++;
@@ -216,26 +217,28 @@ function updateUserData(type) {
     });
 }
 
-firebase.database().ref('/users/' + uid + '/history/chart').on('value', function(x){
-    userData[0].chart = x.val();
-});
-firebase.database().ref('/users/' + uid + '/history/diagram').on('value', function(x){
-    userData[0].diagram = x.val();
-});
-firebase.database().ref('/users/' + uid + '/history/formula').on('value', function(x){
-    userData[0].formula = x.val();
-});
-firebase.database().ref('/users/' + uid + '/history/graphic').on('value', function(x){
-    userData[0].graphic = x.val();
-});
-firebase.database().ref('/users/' + uid + '/history/human').on('value', function(x){
-    userData[0].human = x.val();
-});
-firebase.database().ref('/users/' + uid + '/history/picture').on('value', function(x){
-    userData[0].picture = x.val();
-});
-firebase.database().ref('/users/' + uid + '/history/table').on('value', function(x){
-    userData[0].table = x.val();
-});
+function getfirebase() {
+    firebase.database().ref('/users/' + uid + '/history/chart').on('value', function(x){
+        userData[0].chart = x.val();
+    });
+    firebase.database().ref('/users/' + uid + '/history/diagram').on('value', function(x){
+        userData[0].diagram = x.val();
+    });
+    firebase.database().ref('/users/' + uid + '/history/formula').on('value', function(x){
+        userData[0].formula = x.val();
+    });
+    firebase.database().ref('/users/' + uid + '/history/graphic').on('value', function(x){
+        userData[0].graphic = x.val();
+    });
+    firebase.database().ref('/users/' + uid + '/history/human').on('value', function(x){
+        userData[0].human = x.val();
+    });
+    firebase.database().ref('/users/' + uid + '/history/picture').on('value', function(x){
+        userData[0].picture = x.val();
+    });
+    firebase.database().ref('/users/' + uid + '/history/table').on('value', function(x){
+        userData[0].table = x.val();
+    }); 
+}
 
 //새로 load 할때 -> 목록에서 현재까지의 preference 반영
