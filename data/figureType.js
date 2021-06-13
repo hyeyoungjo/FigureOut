@@ -773,8 +773,8 @@ var figureTypeJsonData = '{
     "What Can We Learn from Augmented Reality (AR) Benefits and Drawbacks of AR for Inquiry-based Learning of Physics_crop_3.jpg": "diagram",
     "What Can We Learn from Augmented Reality (AR) Benefits and Drawbacks of AR for Inquiry-based Learning of Physics_crop_4.jpg": "diagram",
     "What Can We Learn from Augmented Reality (AR) Benefits and Drawbacks of AR for Inquiry-based Learning of Physics_crop_6.jpg": "picture",
-    "What's Happening at that Hip Evaluating an On-body Projection based Augmented Reality System for Physiotherapy Classroom_crop_1.jpg": "formula",
-    "What's Happening at that Hip Evaluating an On-body Projection based Augmented Reality System for Physiotherapy Classroom_crop_2.jpg": "diagram",
-    "What's Happening at that Hip Evaluating an On-body Projection based Augmented Reality System for Physiotherapy Classroom_crop_3.jpg": "formula",
-    "What's Happening at that Hip Evaluating an On-body Projection based Augmented Reality System for Physiotherapy Classroom_crop_4.jpg": "human"
+    "What\'s Happening at that Hip Evaluating an On-body Projection based Augmented Reality System for Physiotherapy Classroom_crop_1.jpg": "formula",
+    "What\'s Happening at that Hip Evaluating an On-body Projection based Augmented Reality System for Physiotherapy Classroom_crop_2.jpg": "diagram",
+    "What\'s Happening at that Hip Evaluating an On-body Projection based Augmented Reality System for Physiotherapy Classroom_crop_3.jpg": "formula",
+    "What\'s Happening at that Hip Evaluating an On-body Projection based Augmented Reality System for Physiotherapy Classroom_crop_4.jpg": "human"
 }';
