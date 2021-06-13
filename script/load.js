@@ -7,6 +7,7 @@ $(function () {
         beforeSend: function () {},
         complete: function () {},
         success: function (one) {
+            var $storagePath = "https://storage.cloud.google.com/staging.designproject1-f2b81.appspot.com/";
             var $articleIdx = 0;
             var $figList = "";
             var $info;
@@ -20,14 +21,20 @@ $(function () {
             var $mainThumb;
             var $aside = "<aside><span class='thumb'></span><span class='cart'></span></aside>";
 
+            var $pageN = 1;
+            var $cardN = 0;
+
             $(one).find("article").each(function () {
+                if($cardN < $pageN * 20) {
+                    cardN++
+                } else break;
                 var $secBar = "";
                 var $figItem = "";
                 $articleIdx = $(this).index();
                 $figCap = $(this).find("caption").html();
 
                 // Thumbnail
-                var $thumbUrl = "crops/" + $(this).find("url").eq(0).html();
+                var $thumbUrl = $storagePath + "" + $(this).find("url").eq(0).html();
                 $mainThumb = "<p class='img' style='background-image:url(" + $thumbUrl + ")'></p>";
 
                 // info
@@ -63,10 +70,10 @@ $(function () {
                 });
                 $bar = "<div class='bar'>" + $secBar + "</div>";
 
-                // figures
+                // figures 
                 $(this).find("figure").each(function (i) {
                     $figId = $(this).find("id").html();
-                    $figUrl = "'crops/" + $(this).find("url").html() + "'";
+                    $figUrl = $storagePath + $(this).find("url").html() + "'";
                     $figItem += "<img src=" + $figUrl + ">";
                 });
                 $fig = "<div class='figures'>" + $figItem + "</div>";
