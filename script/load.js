@@ -187,25 +187,23 @@ $(function () {
 
 var uid = 100;
 // uid = getParameterByName('uid');
-var userData = new Array(0);
-// const userDb = firebase.database().ref('/users/' + uid);
 
-function userData (){
-    var chart = 0;
-    var diagram = 0;
-    var formula = 0;
-    var graphic = 0;
-    var human = 0;
-    var picture = 0;
-    var table = 0;
-    getfirebase();
-}
+// const userDb = firebase.database().ref('/users/' + uid);
+var chart = 0;
+var diagram = 0;
+var formula = 0;
+var graphic = 0;
+var human = 0;
+var picture = 0;
+var table = 0;
+
+getfirebase();
 
 function updateUserData(key) { 
     var type = "";
     firebase.database().ref('/' + key + '/').once('value').then(function(snapshot){
         type = snapshot.val();
-        userData[0].chart++;
+        chart = chart + 1 ;
         //if - - -- -
         updateData();
     });
@@ -213,37 +211,51 @@ function updateUserData(key) {
 
 function updateData() {
     firebase.database().ref('/users/' + uid + '/history/' ).set({
-        chart : userData[0].chart ,
-        diagram : userData[0].diagram  ,
-        formula : userData[0].formula ,
-        graphic : userData[0].graphic ,
-        human : userData[0].human ,
-        picture : userData[0].picture ,
-        table : userData[0].table
+        // chart : userData[0].chart ,
+        // diagram : userData[0].diagram  ,
+        // formula : userData[0].formula ,
+        // graphic : userData[0].graphic ,
+        // human : userData[0].human ,
+        // picture : userData[0].picture ,
+        // table : userData[0].table
+        chart : chart ,
+        diagram : diagram  ,
+        formula : formula ,
+        graphic : graphic ,
+        human : human ,
+        picture : picture ,
+        table : table
     });
 }
 
 function getfirebase() {
     firebase.database().ref('/users/' + uid + '/history/chart').on('value', function(x){
-        userData[0].chart = x.val();
+        // userData[0].chart = x.val();
+        chart = x.val();
     });
     firebase.database().ref('/users/' + uid + '/history/diagram').on('value', function(x){
-        userData[0].diagram = x.val();
+        // userData[0].diagram = x.val();
+        diagram = x.val();
     });
     firebase.database().ref('/users/' + uid + '/history/formula').on('value', function(x){
-        userData[0].formula = x.val();
+        // userData[0].formula = x.val();
+        formula = x.val();
     });
     firebase.database().ref('/users/' + uid + '/history/graphic').on('value', function(x){
-        userData[0].graphic = x.val();
+        // userData[0].graphic = x.val();
+        graphic = x.val();
     });
     firebase.database().ref('/users/' + uid + '/history/human').on('value', function(x){
-        userData[0].human = x.val();
+        // userData[0].human = x.val();
+        human = x.val();
     });
     firebase.database().ref('/users/' + uid + '/history/picture').on('value', function(x){
-        userData[0].picture = x.val();
+        // userData[0].picture = x.val();
+        picture = x.val();
     });
     firebase.database().ref('/users/' + uid + '/history/table').on('value', function(x){
-        userData[0].table = x.val();
+        // userData[0].table = x.val();
+        table = x.val();
     }); 
 }
 
