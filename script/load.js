@@ -147,7 +147,7 @@ $(function () {
                 }, 300);
 
                 console.log(imgUrl);
-                updateUserData( imgUrl.replace(".", "`") );
+                updateUserData( imgUrl );
             });
 
             $("section#detail div.back").on("click", function () {
@@ -201,7 +201,7 @@ getfirebase();
 
 function updateUserData(key) { 
     var type = "";
-    firebase.database().ref('/' + key + '/').once('value').then(function(snapshot){
+    firebase.database().ref('/' + key.replace(/./gi, "`") + '/').once('value').then(function(snapshot){
         type = snapshot.val();
         chart = chart + 1 ;
         //if - - -- -
