@@ -1,4 +1,5 @@
-{
+
+var figureTypeJsonData = {
     "2662155.2662246_crop_1.jpg": "graphic",
     "2662155.2662246_crop_2.jpg": "table",
     "2662155.2662246_crop_3.jpg": "human",
@@ -776,4 +777,4 @@
     "What's Happening at that Hip Evaluating an On-body Projection based Augmented Reality System for Physiotherapy Classroom_crop_2.jpg": "diagram",
     "What's Happening at that Hip Evaluating an On-body Projection based Augmented Reality System for Physiotherapy Classroom_crop_3.jpg": "formula",
     "What's Happening at that Hip Evaluating an On-body Projection based Augmented Reality System for Physiotherapy Classroom_crop_4.jpg": "human"
-}
+};
