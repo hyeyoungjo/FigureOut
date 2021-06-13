@@ -24,11 +24,12 @@ $(function () {
             var $pageN = 1;
             var $cardN = 0;
 
-            $(one).find("article").each(function () {
-                if($cardN < $pageN * 20) {
-                    cardN++;
+            $(one).find("article").each(function (index) {
+                if(index < $pageN * 20) {
+                    return;
                 } else {
-                    break;
+                    return false;
+                    console.log(index);
                 }
                 var $secBar = "";
                 var $figItem = "";
