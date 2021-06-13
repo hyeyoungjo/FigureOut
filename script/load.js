@@ -1,4 +1,5 @@
 
+var fs = require('fs');    
 
 $(function () {
     //-----jquery start
