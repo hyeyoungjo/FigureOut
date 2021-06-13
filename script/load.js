@@ -26,63 +26,63 @@ $(function () {
 
             $(one).find("article").each(function (index) {
                 if(index < $pageN * 20) {
+                    var $secBar = "";
+                    var $figItem = "";
+                    $articleIdx = $(this).index();
+                    $figCap = $(this).find("caption").html();
+
+                    // Thumbnail
+                    var $thumbUrl = $storagePath + "" + $(this).find("url").eq(0).html();
+                    $mainThumb = "<p class='img' style='background-image:url(" + $thumbUrl + ")'></p>";
+
+                    // info
+                    var $venue = "<span class='conf'>" + $(this).find("venue").html() + "</span>";
+                    var $cite = "<span class='cite'><span></span>" + Math.round(Math.random() * 100 + 1) + "</span>";
+                    var $down = "<span class='down'><span></span>" + Math.round(Math.random() * 100 + 1) + "</span>";
+                    $info = "<div class='info'>" + $venue + $cite + $down + "</div>"
+
+                    // doi
+                    var $doi = $(this).find("doi").html();
+
+                    // div.caption
+                    var $title = "<h3>" + $(this).find("data>title").html() + "</h3>";
+                    var $authors = "<ul class='authors'>" + $(this).find("authors").html() + "</ul>";
+                    var $abstract = "<span class='abstract'>" + $(this).find("abstract").html() + "</span>";
+                    var $figDes = "<p class='fig_des'><span>◄</span><span>" + $figCap + "</span></p>";
+                    $caption = "<div class='caption'>" + $title + $authors + $abstract + $figDes + "</div>"
+
+                    // sections 
+                    // $(this).find("sections").find("section").each(function (i) {
+                    //     var $length = Number($(this).find("word_count").html());
+                    //     $paperLength += $length;
+                    // });
+
+                    $(this).find("sections").find("section").each(function (i) {
+                        var $paperLength = 0;
+                        $(this).parents("sections").find("word_count").each(function () {
+                            $paperLength += Number($(this).html());
+                        });
+                        var $secLength = Math.ceil(Number($(this).find("word_count").html()) / $paperLength * 100) + "%";
+                        var $secTitle = $(this).find("title").html();
+                        $secBar += "<span id='" + $secTitle.replace(" ", "_") + "' style='width:" + $secLength + "'>" + $secTitle + "</span>"
+                    });
+                    $bar = "<div class='bar'>" + $secBar + "</div>";
+
+                    // figures 
+                    $(this).find("figure").each(function (i) {
+                        $figId = $(this).find("id").html();
+                        $figUrl = $storagePath + $(this).find("url").html() + "'";
+                        $figItem += "<img src=" + $figUrl + ">";
+                    });
+                    $fig = "<div class='figures'>" + $figItem + "</div>";
+
+                    // figure lists 
+                    $figList += "<div class='card'><figure>" + $mainThumb + "<figcaption>" + $bar + $info + $caption + $fig + "</figcaption></figure>" + $aside + "</div>";
                     return;
                 } else {
                     return false;
                     console.log(index);
                 }
-                var $secBar = "";
-                var $figItem = "";
-                $articleIdx = $(this).index();
-                $figCap = $(this).find("caption").html();
-
-                // Thumbnail
-                var $thumbUrl = $storagePath + "" + $(this).find("url").eq(0).html();
-                $mainThumb = "<p class='img' style='background-image:url(" + $thumbUrl + ")'></p>";
-
-                // info
-                var $venue = "<span class='conf'>" + $(this).find("venue").html() + "</span>";
-                var $cite = "<span class='cite'><span></span>" + Math.round(Math.random() * 100 + 1) + "</span>";
-                var $down = "<span class='down'><span></span>" + Math.round(Math.random() * 100 + 1) + "</span>";
-                $info = "<div class='info'>" + $venue + $cite + $down + "</div>"
-
-                // doi
-                var $doi = $(this).find("doi").html();
-
-                // div.caption
-                var $title = "<h3>" + $(this).find("data>title").html() + "</h3>";
-                var $authors = "<ul class='authors'>" + $(this).find("authors").html() + "</ul>";
-                var $abstract = "<span class='abstract'>" + $(this).find("abstract").html() + "</span>";
-                var $figDes = "<p class='fig_des'><span>◄</span><span>" + $figCap + "</span></p>";
-                $caption = "<div class='caption'>" + $title + $authors + $abstract + $figDes + "</div>"
-
-                // sections 
-                // $(this).find("sections").find("section").each(function (i) {
-                //     var $length = Number($(this).find("word_count").html());
-                //     $paperLength += $length;
-                // });
-
-                $(this).find("sections").find("section").each(function (i) {
-                    var $paperLength = 0;
-                    $(this).parents("sections").find("word_count").each(function () {
-                        $paperLength += Number($(this).html());
-                    });
-                    var $secLength = Math.ceil(Number($(this).find("word_count").html()) / $paperLength * 100) + "%";
-                    var $secTitle = $(this).find("title").html();
-                    $secBar += "<span id='" + $secTitle.replace(" ", "_") + "' style='width:" + $secLength + "'>" + $secTitle + "</span>"
-                });
-                $bar = "<div class='bar'>" + $secBar + "</div>";
-
-                // figures 
-                $(this).find("figure").each(function (i) {
-                    $figId = $(this).find("id").html();
-                    $figUrl = $storagePath + $(this).find("url").html() + "'";
-                    $figItem += "<img src=" + $figUrl + ">";
-                });
-                $fig = "<div class='figures'>" + $figItem + "</div>";
-
-                // figure lists 
-                $figList += "<div class='card'><figure>" + $mainThumb + "<figcaption>" + $bar + $info + $caption + $fig + "</figcaption></figure>" + $aside + "</div>";
             });
             $("section#mainContainer").append($figList);
 
