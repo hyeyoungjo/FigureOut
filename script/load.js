@@ -119,7 +119,6 @@ $(function () {
             var imgSrc = "";
             var imgUrl = "";
             var figCap = "";
-            var key ="";
 
             $(".figures img").on("mouseenter", function () {
                 imgSrc = $(this).attr('src');
@@ -150,10 +149,7 @@ $(function () {
                 }, 300);
 
                 console.log(imgUrl);
-                key = imgUrl.replace(".", "`");
-                firebase.database().ref().once(key).then(function(snapshot){
-                    updateUserData( snapshot.val()+"" );
-                });
+                updateUserData( imgUrl.replace(".", "`") );
             });
 
             $("section#detail div.back").on("click", function () {
@@ -209,7 +205,12 @@ function userData (){
     getfirebase();
 }
 
-function updateUserData(type) { 
+function updateUserData(key) { 
+    
+    var type = "";
+    firebase.database().ref('/').once(key).then(function(snapshot){
+        type = snapshot.val();
+    });
     userData[0][type]++;
 
     firebase.database().ref('/users/' + uid + '/history/' ).set({
