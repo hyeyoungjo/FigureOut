@@ -22,10 +22,13 @@ $(function () {
             var $aside = "<aside><span class='thumb'></span><span class='cart'></span></aside>";
 
             var $pageN = 1;
-            var $cardN = 0;
+            var $cardPerPage = 10;
 
             $(one).find("article").each(function (index) {
-                if(index < $pageN * 10) {
+                if( index < ($pageN-1) * $cardPerPage) {   
+                    return;
+                }
+                else if(index < $pageN * $cardPerPage) { 
                     var $secBar = "";
                     var $figItem = "";
                     $articleIdx = $(this).index();
