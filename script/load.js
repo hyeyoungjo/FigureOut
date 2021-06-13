@@ -11,7 +11,7 @@ function readTextFile(file, callback) {
     rawFile.send(null);
 }
 
-readTextFile("data/figureType.json", function(file){
+readTextFile("../data/figureType.json", function(file){
     var data = JSON.parse(file);
     // console.log(data);
 
