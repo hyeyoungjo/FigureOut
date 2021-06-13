@@ -149,7 +149,7 @@ $(function () {
                 }, 300);
 
                 console.log(imgUrl);
-                updateUserData( imgUrl.replace(".", "`") );
+                // updateUserData( imgUrl.replace(".", "`") );
             });
 
             $("section#detail div.back").on("click", function () {
