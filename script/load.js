@@ -1,5 +1,3 @@
-
-
 $(function () {
     //-----jquery start
     $.ajax({
@@ -149,7 +147,7 @@ $(function () {
                 }, 300);
 
                 console.log(imgUrl);
-                // updateUserData( imgUrl.replace(".", "`") );
+                updateUserData( imgUrl.replace(".", "`") );
             });
 
             $("section#detail div.back").on("click", function () {
@@ -186,8 +184,6 @@ $(function () {
     //---jquery end
 });
 
-
-});
 
 var uid = 100;
 // uid = getParameterByName('uid');
