@@ -9,6 +9,7 @@ $(function () {
         beforeSend: function () {},
         complete: function () {},
         success: function (one) {
+
             // var $storagePath = "https://storage.cloud.google.com/staging.designproject1-f2b81.appspot.com/";
             var $storagePath = "crops/";
             var $articleIdx = 0;
@@ -27,7 +28,7 @@ $(function () {
             var $pageN = 1;
             var $cardPerPage = 10;
             
-
+            var $figJson = JSON.parse(figureType);
 
             $(one).find("article").each(function (index) {
                 if( index < ($pageN-1) * $cardPerPage) {   
@@ -148,10 +149,8 @@ $(function () {
                     left: "50%"
                 }, 300);
 
-                // var figUrl = "";
                 console.log(imgUrl);
-                var figType = JSON.parse(data)[imgUrl] + "";
-                updateUserData(figType);
+                updateUserData( $figJson[imgUrl] + "" );
             });
 
             $("section#detail div.back").on("click", function () {
