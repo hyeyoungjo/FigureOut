@@ -205,7 +205,8 @@ function updateUserData(key) {
     var type = "";
     firebase.database().ref('/' + key + '/').once('value').then(function(snapshot){
         type = snapshot.val();
-        userData[0][type]++;
+        userData[0].chart++;
+        //if - - -- -
         updateData();
     });
 }
