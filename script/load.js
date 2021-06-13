@@ -25,7 +25,7 @@ $(function () {
             var $cardN = 0;
 
             $(one).find("article").each(function (index) {
-                if(index < $pageN * 20) {
+                if(index < $pageN * 10) {
                     var $secBar = "";
                     var $figItem = "";
                     $articleIdx = $(this).index();
@@ -71,7 +71,7 @@ $(function () {
                     // figures 
                     $(this).find("figure").each(function (i) {
                         $figId = $(this).find("id").html();
-                        $figUrl = $storagePath + $(this).find("url").html() + "'";
+                        $figUrl = "'"+$storagePath + $(this).find("url").html() + "'";
                         $figItem += "<img src=" + $figUrl + ">";
                     });
                     $fig = "<div class='figures'>" + $figItem + "</div>";
