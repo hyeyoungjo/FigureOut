@@ -8,7 +8,7 @@ $(function () {
         complete: function () {},
         success: function (one) {
             // var $storagePath = "https://storage.cloud.google.com/staging.designproject1-f2b81.appspot.com/";
-            var $storagePath = "../crops/";
+            var $storagePath = "./crops/";
             var $articleIdx = 0;
             var $figList = "";
             var $info;
