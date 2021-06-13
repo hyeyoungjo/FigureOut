@@ -26,8 +26,10 @@ $(function () {
 
             $(one).find("article").each(function () {
                 if($cardN < $pageN * 20) {
-                    cardN++
-                } else break;
+                    cardN++;
+                } else {
+                    break;
+                }
                 var $secBar = "";
                 var $figItem = "";
                 $articleIdx = $(this).index();
