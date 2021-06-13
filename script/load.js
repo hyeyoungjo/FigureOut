@@ -146,8 +146,9 @@ $(function () {
                     left: "50%"
                 }, 300);
 
-                var figName = "";
-                var figType = JSON.parse(figureTypeJsonData)[figName] + "";
+                // var figUrl = "";
+                console.log(imgUrl);
+                var figType = JSON.parse(figureTypeJsonData)[imgUrl] + "";
                 updateUserData(figType);
             });
 
