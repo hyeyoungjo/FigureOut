@@ -181,6 +181,20 @@ $(function () {
     //---jquery end
 });
 
+
+var uid = 100;
+var userdataX = 0 ;
+// uid = getParameterByName('uid');
+// const userDb = firebase.database().ref('/users/' + uid);
+
 function updateUserData() { 
-    
+    firebase.database().ref('/users/' + uid + '/history').set({
+        x : userdataX + 1 
+    });
 }
+
+firebase.database().ref('/users/' + uid + '/history/x/').on('value', function(x){
+    userdataX = x.val();
+});
+
+//새로 load 할때 -> 목록에서 현재까지의 preference 반영
