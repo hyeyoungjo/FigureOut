@@ -25,6 +25,7 @@ $(function () {
 
             var $pageN = 1;
             var $cardPerPage = 10;
+            var $totalItem = 0;
             
 
             //list articles
