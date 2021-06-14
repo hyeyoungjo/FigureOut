@@ -55,13 +55,7 @@ $(function () {
                     var $authors = "<ul class='authors'>" + $(this).find("authors").html() + "</ul>";
                     var $abstract = "<span class='abstract'>" + $(this).find("abstract").html() + "</span>";
                     var $figDes = "<p class='fig_des'><span>◄</span><span>" + $figCap + "</span></p>";
-                    $caption = "<div class='caption'>" + $title + $authors + $abstract + $figDes + "</div>"
-
-                    // sections 
-                    // $(this).find("sections").find("section").each(function (i) {
-                    //     var $length = Number($(this).find("word_count").html());
-                    //     $paperLength += $length;
-                    // });
+                    $caption = "<div class='caption'>" + $title + $authors + $abstract + $figDes + "</div>";
 
                     $(this).find("sections").find("section").each(function (i) {
                         var $paperLength = 0;
