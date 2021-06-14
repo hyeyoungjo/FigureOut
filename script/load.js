@@ -124,7 +124,7 @@ $(function () {
                 figCap = $(one).find("url:contains(" + imgUrl + ")").siblings("caption").html();
                 $(this).parents("figure").find("p.img").css("background-image", "url('" + imgSrc + "')");
                 $(this).parents("figure").find("p.fig_des span:nth-of-type(2)").html(figCap);
-            })
+            });
 
 
             //transition---------------
@@ -146,7 +146,7 @@ $(function () {
                     left: "50%"
                 }, 300);
 
-                console.log(imgUrl);
+                console.log(imgUrl);  // imgurl 아닌듯 
                 updateUserData( imgUrl );
             });
 
