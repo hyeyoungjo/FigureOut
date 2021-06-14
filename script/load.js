@@ -24,13 +24,8 @@ $(function () {
             var $aside = "<aside><span class='thumb'></span><span class='cart'></span></aside>";
 
             var $pageN = 1;
-<<<<<<< Updated upstream
             var $cardPerPage = 10;
             
-=======
-            var $cardPerPage = 20;
-            var $totalItem = 0;
->>>>>>> Stashed changes
 
             //list articles
             $(one).find("article").each(function () {
@@ -155,14 +150,8 @@ $(function () {
                     left: "50%"
                 }, 300);
 
-<<<<<<< Updated upstream
                 console.log(imgUrl);
                 updateUserData( imgUrl );
-=======
-                $("div.back").delay(1300).animate({
-                    top: 0
-                },300)
->>>>>>> Stashed changes
             });
 
             $("section#detail div.back").on("click", function () {
