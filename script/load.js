@@ -24,14 +24,22 @@ $(function () {
             var $aside = "<aside><span class='thumb'></span><span class='cart'></span></aside>";
 
             var $pageN = 1;
+<<<<<<< Updated upstream
             var $cardPerPage = 10;
             
+=======
+            var $cardPerPage = 20;
+            var $totalItem = 0;
+>>>>>>> Stashed changes
 
+            //list articles
+            $(one).find("article").each(function () {
+                $totalItem++;
+            });
             $(one).find("article").each(function (index) {
-                if( index < ($pageN-1) * $cardPerPage) {   
+                if (index < ($pageN - 1) * $cardPerPage) {
                     return;
-                }
-                else if(index < $pageN * $cardPerPage) { 
+                } else if (index < $pageN * $cardPerPage) {
                     var $secBar = "";
                     var $figItem = "";
                     $articleIdx = $(this).index();
@@ -46,9 +54,6 @@ $(function () {
                     var $cite = "<span class='cite'><span></span>" + Math.round(Math.random() * 100 + 1) + "</span>";
                     var $down = "<span class='down'><span></span>" + Math.round(Math.random() * 100 + 1) + "</span>";
                     $info = "<div class='info'>" + $venue + $cite + $down + "</div>"
-
-                    // doi
-                    var $doi = $(this).find("doi").html();
 
                     // div.caption
                     var $title = "<h3>" + $(this).find("data>title").html() + "</h3>";
@@ -77,7 +82,7 @@ $(function () {
                     // figures 
                     $(this).find("figure").each(function (i) {
                         $figId = $(this).find("id").html();
-                        $figUrl = "'"+$storagePath + $(this).find("url").html() + "'";
+                        $figUrl = "'" + $storagePath + $(this).find("url").html() + "'";
                         $figItem += "<img src=" + $figUrl + ">";
                     });
                     $fig = "<div class='figures'>" + $figItem + "</div>";
@@ -90,7 +95,10 @@ $(function () {
                     console.log(index);
                 }
             });
+
             $("section#mainContainer").append($figList);
+            $("section#mainContainer div.tags i").html($totalItem);
+
 
             //figures jquery
 
@@ -126,50 +134,61 @@ $(function () {
                 $(this).parents("figure").find("p.fig_des span:nth-of-type(2)").html(figCap);
             })
 
-
             //transition---------------
             var $scrollTop = 0;
             $("div.card").on("click", function () {
                 $scrollTop = $(window).scrollTop();
+                $(this).addClass("active");
+                $("div.card").not($(this)).removeClass("active");
+
+                $("nav").animate({
+                    top: "-100%"
+                }, 300).delay(400).animate({
+                    top: 0
+                }, 300);
 
                 $("section.cover, section.main").delay(200).animate({
                     left: "-100%"
                 }, 300);
 
-                $("nav").animate({
-                    top: "-100%"
-                }, 300).delay(600).animate({
-                    top: 0
-                }, 300);
-
-                $("section#detail").delay(600).animate({
+                $("section#detail").delay(1000).animate({
                     left: "50%"
                 }, 300);
 
+<<<<<<< Updated upstream
                 console.log(imgUrl);
                 updateUserData( imgUrl );
+=======
+                $("div.back").delay(1300).animate({
+                    top: 0
+                },300)
+>>>>>>> Stashed changes
             });
 
             $("section#detail div.back").on("click", function () {
+                $("div.back").animate({
+                    top: "-50vh"
+                },300)
+
                 $("section#detail").delay(200).animate({
                     left: "150%"
                 }, 300);
 
-                $("nav").animate({
+                $("nav").delay(200).animate({
                     top: "-100%"
-                }, 300).delay(600).animate({
+                }, 300).delay(400).animate({
                     top: 0
                 }, 300);
-               
+
                 $("section.cover, section.main").delay(600).animate({
                     left: 0
                 }, 300);
-                setTimeout(function(){
+
+                setTimeout(function () {
                     $("html, body").animate({
                         scrollTop: $scrollTop
-                    },300);
-                },1000)
-                
+                    }, 300);
+                }, 1000);
             });
 
 

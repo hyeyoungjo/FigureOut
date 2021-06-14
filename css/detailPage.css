@@ -11,7 +11,7 @@ section#detail {
 section#detail div.back{
   position: absolute;
   left: 0;
-  top: 0;
+  top: -50vh;
   width: 100px;
   text-transform: uppercase;
   height: 40px;

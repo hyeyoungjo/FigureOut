@@ -36,6 +36,6 @@ $("div.bar_container").width($("div.column").outerHeight()).height($("div.column
 
 $("section.main").css({
     top: $("section.cover").outerHeight()
-})
+});
     //-----jquery end--------
 });
