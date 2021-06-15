@@ -475,6 +475,7 @@ section.main div.card figure p.img {
   background-size: cover;
   cursor: pointer;
   border-right: 1px solid #757575;
+  color: transparent;
 }
 
 section.main div.card figure figcaption {
