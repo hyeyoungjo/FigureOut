@@ -19,15 +19,11 @@ $(function () {
         $("div.list_top").find("img:last-of-type").prependTo($("div.list_top"))
         $("div.list_bottom").find("img:last-of-type").prependTo($("div.list_bottom"))
     })
-// $("section#mainContainer").hide();
-// $("section.cover").hide();
 
 $("div.bar_container").width($("div.column").outerHeight()).height($("div.column").outerWidth());
 
 $("section.main").css({
     top: $("section.cover").outerHeight()
 });
-
-$("article.selected_fig").hide();
     //-----jquery end--------
 });

@@ -6,7 +6,7 @@ section.cover article.selected_fig {
     background: rgba(0, 0, 0, 0.5);
     position: absolute;
     left: 0;
-    top: 0;
+    top: -100%;
     padding: 40px;
     display: flex;
     flex-direction: row;
