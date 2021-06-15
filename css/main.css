@@ -1,6 +1,6 @@
 @charset 'utf-8';
 html{
-  width: 100vw;
+  width: 100%;
   overflow-x: hidden;
 }
 body{
@@ -163,18 +163,19 @@ section.cover ul li.aut {
 
 section.cover ul li.fil {
 }
-
-section.cover article.all_figs {
+section.cover article{
   padding: 0;
   width: 100%;
   height: 450px;
+  overflow: hidden;
+}
+section.cover article.all_figs {
   border-top: 1px solid #e9e9e9;
   border-bottom: 1px solid #e9e9e9;
-  overflow: hidden;
   background-color: #eeeeee;
   position: relative;
 }
-section.cover article.all_figs p {
+section.cover article.all_figs>p {
   width: 50px;
   height: 100%;
   background: #fff;
@@ -202,25 +203,16 @@ section.cover article.all_figs p.next {
 }
 section.cover article.all_figs div.container {
   height: 50%;
-  width: 5000px;
-  position: absolute;
+  width: 100%;
   padding-top: 12px;
   padding-bottom: 6px;
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%);
   display: flex;
-  justify-content: center;
-  align-items: center;
-
 }
 section.cover article.all_figs div.container.list_top {
 }
 section.cover article.all_figs div.container.list_bottom {
   padding-top: 6px;
   padding-bottom: 12px;
-  position: absolute;
-  top: 50%;
 }
 
 section.cover article.all_figs div.container img {
@@ -456,51 +448,51 @@ section.main div.card figure figcaption div.info {
   padding: 15px 0px 5px 0;
 }
 
-section.main div.card figure figcaption div.info > span {
+div.info > span {
   height: 100%;
   color: #a6a6a6;
   margin-right: 20px;
   font-size: 12px;
   text-align: right;
 }
-section.main div.card figure figcaption div.info > span span {
+ div.info > span span {
   height: 9px;
   width: 9px;
   margin-right: 5px;
 }
 
-section.main div.card figure figcaption div.info span.conf {
+ div.info span.conf {
   text-transform: uppercase;
   color: black;
   font-weight: bold;
 }
-section.main div.card figure figcaption div.info span.cite {
+ div.info span.cite {
   color: #4865ff;
 }
-section.main div.card figure figcaption div.info span.cite span {
+ div.info span.cite span {
   background: url("../img/cite.png") center no-repeat;
   background-size: contain;
 }
 
-section.main div.card figure figcaption div.info span.down {
+ div.info span.down {
 }
-section.main div.card figure figcaption div.info span.down span {
+ div.info span.down span {
   background: url("../img/download.png") center no-repeat;
   background-size: contain;
 }
 
-section.main div.card figure figcaption div.info span.graph {
+ div.info span.graph {
   color: #585858;
 }
-section.main div.card figure figcaption div.info span.graph span {
+ div.info span.graph span {
   background: url("../img/graph.png") center no-repeat;
   background-size: contain;
 }
 
-section.main div.card figure figcaption div.info span.figure {
+ div.info span.figure {
   color: #585858;
 }
-section.main div.card figure figcaption div.info span.figure span {
+ div.info span.figure span {
   background: url("../img/figure.png") center no-repeat;
   background-size: contain;
 }

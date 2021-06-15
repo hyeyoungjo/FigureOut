@@ -27,7 +27,6 @@ $(function () {
             var $cardPerPage = 10;
             var $totalItem = 0;
 
-
             //list articles
             $(one).find("article").each(function () {
                 $totalItem++;
@@ -123,6 +122,25 @@ $(function () {
                 $(this).parents("figure").find("p.img").css("background-image", "url('" + imgSrc + "')");
                 $(this).parents("figure").find("p.fig_des span:nth-of-type(2)").html(figCap);
             });
+            //load figures----------------------
+            var $coverEven="";
+            var $coverOdd="";
+            var $coverUrl="";
+            function callFigures(keyword){
+                $(one).find("article:contains("+keyword+")").find("url").each(function (i) {
+                    $coverUrl= $(this).html();
+                    if (i%2==0){
+                        $coverEven+= "<img src='crops/"+$coverUrl+"'>"
+                    }else{
+                        $coverOdd+= "<img src='crops/"+$coverUrl+"'>"
+                    }
+                });
+                $("div.container.list_top").html($coverEven);
+                $("div.container.list_bottom").html($coverOdd);
+            }
+            callFigures("");
+            //search---------
+            
 
             //transition---------------
             var $scrollTop = 0;
@@ -148,7 +166,6 @@ $(function () {
                 $("div.back").delay(1200).animate({
                     top: 0
                 }, 300);
-
 
                 imgUrl = $(this).find(".figures img").attr('src').replace("crops/", "");
                 console.log(imgUrl); // imgurl 아닌듯 
@@ -181,10 +198,7 @@ $(function () {
                     }, 300);
                 }, 1000);
             });
-
-
         },
-
         error: function () {
             alert('Fail');
         }
