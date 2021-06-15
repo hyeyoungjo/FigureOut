@@ -59,7 +59,7 @@ function cardMaker() {
                     });
 
                     var $thumbUrl = $storagePath + "" + $(this).find("url").eq($thumbN).html();
-                    $mainThumb = "<p class='img' style='background-image:url(" + $thumbUrl + ")'>" + $(this).find("url").eq($thumbN).html() + "</p>";
+                    $mainThumb = "<p class='img' style='background-image: url("+ '\"' + $thumbUrl +'\"' + ");'>" + $(this).find("url").eq($thumbN).html() + "</p>";
                     console.log("fig type:" + getFigureType(($(this).find("url").eq($thumbN).html()+"").replace(/\./gi, "~"))+ " ");
 
                     // info
