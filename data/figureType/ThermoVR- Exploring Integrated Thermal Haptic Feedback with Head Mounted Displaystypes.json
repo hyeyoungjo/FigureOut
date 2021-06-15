@@ -1,0 +1,232 @@
+{
+    "1": {
+        "type": "graphic",
+        "caption_text": "Figure 1. ThermoVR applications (insets depict example stimulations) (a) \u201cWhere is my camp?\u201d: This game provides immersive or directional cues\nin the game as players try to locate their camp before it gets too cold. (a-1) Receiving immersive cold feedback in the winter night (a-2,3) Receiving\ndirectional cues as hot stimulations (a-4) Users immersively feel the warmth of the camp\ufb01re; (b) \u201cWhat is the weather?\u201d Application provides thermally\nimmersive weather feedback to let users explore the weather of different locations (b-1) Users can select the location to explore weather (b-2,3,4)\nImmersively explore the weather (c) User wearing the ThermoVR\n",
+        "image_labels": [
+            [
+                "Atmosphere",
+                0.9481807947158813
+            ],
+            [
+                "Sky",
+                0.9266131520271301
+            ],
+            [
+                "Light",
+                0.9125676155090332
+            ],
+            [
+                "World",
+                0.8896048069000244
+            ],
+            [
+                "Font",
+                0.8480116128921509
+            ],
+            [
+                "Screenshot",
+                0.8147181272506714
+            ],
+            [
+                "Technology",
+                0.7876504063606262
+            ],
+            [
+                "Science",
+                0.7282290458679199
+            ],
+            [
+                "Space",
+                0.7277076244354248
+            ],
+            [
+                "Electric blue",
+                0.7228512763977051
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2. (a) The Prototype System of ThermoVR that integrates \ufb01ve\nthermal modules (b) Contact locations of the thermal modules on the\nface (c) Close up of thermal module. T1, T2 and T3 are temperature\nsensors where T1 contacts the skin during use\n",
+        "image_labels": [
+            [
+                "Automotive lighting",
+                0.9256765246391296
+            ],
+            [
+                "Product",
+                0.9079998135566711
+            ],
+            [
+                "Automotive tire",
+                0.906359076499939
+            ],
+            [
+                "Automotive design",
+                0.8581594824790955
+            ],
+            [
+                "Camera lens",
+                0.8569912910461426
+            ],
+            [
+                "Motor vehicle",
+                0.8565610647201538
+            ],
+            [
+                "Camera accessory",
+                0.837637722492218
+            ],
+            [
+                "Font",
+                0.8272525668144226
+            ],
+            [
+                "Reflex camera",
+                0.7984141707420349
+            ],
+            [
+                "Gadget",
+                0.7905843257904053
+            ]
+        ]
+    },
+    "3": {
+        "type": "table",
+        "caption_text": "Figure 3. Stimulation patterns for directional cues. The modules in black\ndenote the thermally (hot or cold) stimulated modules\n",
+        "image_labels": [
+            [
+                "White",
+                0.9218601584434509
+            ],
+            [
+                "Product",
+                0.9080696702003479
+            ],
+            [
+                "Font",
+                0.8312896490097046
+            ],
+            [
+                "Material property",
+                0.8020093441009521
+            ],
+            [
+                "Technology",
+                0.7374901175498962
+            ],
+            [
+                "Rectangle",
+                0.7325067520141602
+            ],
+            [
+                "Circle",
+                0.6844267249107361
+            ],
+            [
+                "Pattern",
+                0.6559821367263794
+            ],
+            [
+                "Brand",
+                0.6280540227890015
+            ],
+            [
+                "Symmetry",
+                0.6188735365867615
+            ]
+        ]
+    },
+    "4": {
+        "type": "picture",
+        "caption_text": "Figure 4. The study setup (a)The evaluation setup for identifying ther-\nmal cues (b) Interface displayed on the HMD for selecting perceived cues\nduring the evaluation\n",
+        "image_labels": [
+            [
+                "Circuit component",
+                0.8737280964851379
+            ],
+            [
+                "Gadget",
+                0.8234227895736694
+            ],
+            [
+                "Electrical wiring",
+                0.8096225261688232
+            ],
+            [
+                "Font",
+                0.8012464046478271
+            ],
+            [
+                "Electronic engineering",
+                0.7942331433296204
+            ],
+            [
+                "Engineering",
+                0.7916372418403625
+            ],
+            [
+                "Audio equipment",
+                0.7668119668960571
+            ],
+            [
+                "Electronic device",
+                0.7519472241401672
+            ],
+            [
+                "Cable",
+                0.7427766919136047
+            ],
+            [
+                "Science",
+                0.7409705519676208
+            ]
+        ]
+    },
+    "5": {
+        "type": "table",
+        "caption_text": "Figure 5. Results: (L-Left, U-Up, D-Down, R-Right) (a) Perception accuracy and Average Task Completion Times for thermal cues: Hot and Cold cues;\nHeat map visualization of the accuracy of perception for individual cues for (b) hot and (c) cold stimulation; Confusion matrix for the (d) hot and (e)\nfor cold stimulations (f) Qualitative study results\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8556869626045227
+            ],
+            [
+                "Slope",
+                0.8332914710044861
+            ],
+            [
+                "Font",
+                0.8186109662055969
+            ],
+            [
+                "Parallel",
+                0.7756916284561157
+            ],
+            [
+                "Pattern",
+                0.7168709635734558
+            ],
+            [
+                "Electric blue",
+                0.7120311856269836
+            ],
+            [
+                "Number",
+                0.6835111975669861
+            ],
+            [
+                "Screenshot",
+                0.6765166521072388
+            ],
+            [
+                "Circle",
+                0.671834409236908
+            ],
+            [
+                "Diagram",
+                0.614952027797699
+            ]
+        ]
+    }
+}

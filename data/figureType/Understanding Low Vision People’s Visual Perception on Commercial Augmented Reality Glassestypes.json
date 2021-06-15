@@ -1,0 +1,238 @@
+{
+    "1": {
+        "type": "table",
+        "caption_text": "Figure 1. Standard eye charts in the study: (a) an ETDRS R \nlogMAR chart to measure visual acuity; (b) a Pelli-Robson \nchart to measure contrast sensitivity. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8254526853561401
+            ],
+            [
+                "Number",
+                0.5507153868675232
+            ]
+        ]
+    },
+    "4": {
+        "type": "picture",
+        "caption_text": "Figure 4. The 20-foot walking path labeled with Post-It notes.          \n",
+        "image_labels": [
+            [
+                "Eyelash",
+                0.9072871208190918
+            ],
+            [
+                "Art",
+                0.7971472144126892
+            ],
+            [
+                "Font",
+                0.7534378170967102
+            ],
+            [
+                "Circle",
+                0.6936442255973816
+            ],
+            [
+                "Fashion accessory",
+                0.6605291366577148
+            ],
+            [
+                "Logo",
+                0.6581529974937439
+            ],
+            [
+                "Event",
+                0.64404296875
+            ],
+            [
+                "Wood",
+                0.6355404853820801
+            ],
+            [
+                "Macro photography",
+                0.6252684593200684
+            ],
+            [
+                "Brand",
+                0.611111581325531
+            ]
+        ]
+    },
+    "5": {
+        "type": "table",
+        "caption_text": "Figure 5. A triangle with different colors on black and white \nbackgrounds.  \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8399652242660522
+            ],
+            [
+                "Parallel",
+                0.7590987682342529
+            ],
+            [
+                "Pattern",
+                0.7300149202346802
+            ],
+            [
+                "Screenshot",
+                0.7025055885314941
+            ],
+            [
+                "Rectangle",
+                0.6991000175476074
+            ],
+            [
+                "Number",
+                0.697918713092804
+            ],
+            [
+                "Document",
+                0.5523797273635864
+            ],
+            [
+                "Electric blue",
+                0.5317211151123047
+            ]
+        ]
+    },
+    "7": {
+        "type": "chart",
+        "caption_text": "Figure 7. Text with different colors on black and white \nbackgrounds. We use \u201cTurn Left\u201d as an example. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8858908414840698
+            ],
+            [
+                "Fixture",
+                0.8430862426757812
+            ],
+            [
+                "Glass",
+                0.7652257084846497
+            ],
+            [
+                "Font",
+                0.7601820230484009
+            ],
+            [
+                "Tints and shades",
+                0.737025260925293
+            ],
+            [
+                "Cabinetry",
+                0.7325708270072937
+            ],
+            [
+                "Pattern",
+                0.7235371470451355
+            ],
+            [
+                "Transparent material",
+                0.7208281755447388
+            ],
+            [
+                "Ceiling",
+                0.6849749088287354
+            ],
+            [
+                "Metal",
+                0.6670870780944824
+            ]
+        ]
+    },
+    "8": {
+        "type": "picture",
+        "caption_text": "Figure 8. Text on black and white backgrounds with (a) \ndifferent fonts: Verdana and Times New Roman, and (b) \ndifferent thickness levels: Regular and Bold. \n",
+        "image_labels": [
+            [
+                "Shoe",
+                0.9512925148010254
+            ],
+            [
+                "Standing",
+                0.8642165660858154
+            ],
+            [
+                "Chair",
+                0.8534680008888245
+            ],
+            [
+                "Flooring",
+                0.8285062313079834
+            ],
+            [
+                "Floor",
+                0.8155955076217651
+            ],
+            [
+                "Military person",
+                0.7459614276885986
+            ],
+            [
+                "Event",
+                0.7297580242156982
+            ],
+            [
+                "Military uniform",
+                0.7212100625038147
+            ],
+            [
+                "Non-commissioned officer",
+                0.6649067997932434
+            ],
+            [
+                "Room",
+                0.6411803960800171
+            ]
+        ]
+    },
+    "6": {
+        "type": "picture",
+        "caption_text": "Figure 6. A triangle on black and white backgrounds with \ndifferent thickness levels: Thin, Medium, and Thick \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8118782639503479
+            ],
+            [
+                "Font",
+                0.8025975823402405
+            ],
+            [
+                "Musical instrument accessory",
+                0.756750762462616
+            ],
+            [
+                "Automotive exterior",
+                0.7402603030204773
+            ],
+            [
+                "Metal",
+                0.6924315094947815
+            ],
+            [
+                "Event",
+                0.6857515573501587
+            ],
+            [
+                "Advertising",
+                0.6409323215484619
+            ],
+            [
+                "Brand",
+                0.6360706686973572
+            ],
+            [
+                "Musical instrument",
+                0.6276882290840149
+            ],
+            [
+                "Wood",
+                0.6223313808441162
+            ]
+        ]
+    }
+}

@@ -1,0 +1,514 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1. A participant is using the Ambiotherm system with a Sam-\nsung\u2122 Gear VR HMD. The control module is attached behind the neck.\n",
+        "image_labels": [
+            [
+                "Head",
+                0.9731464982032776
+            ],
+            [
+                "Peripheral",
+                0.9277927875518799
+            ],
+            [
+                "Hearing",
+                0.9134840965270996
+            ],
+            [
+                "Ear",
+                0.8758146166801453
+            ],
+            [
+                "Output device",
+                0.8595980405807495
+            ],
+            [
+                "Audio equipment",
+                0.8313871622085571
+            ],
+            [
+                "Communication Device",
+                0.8179795145988464
+            ],
+            [
+                "Eyewear",
+                0.8097874522209167
+            ],
+            [
+                "Input device",
+                0.8032870888710022
+            ],
+            [
+                "Gadget",
+                0.8000985980033875
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2. Different locations selected for delivering thermal stimuli: (A)\nBehind The Ear, (B) On The Throat, and (C) Behind The Neck.\n",
+        "image_labels": [
+            [
+                "Forehead",
+                0.9846563935279846
+            ],
+            [
+                "Nose",
+                0.9835830330848694
+            ],
+            [
+                "Head",
+                0.9739764332771301
+            ],
+            [
+                "Chin",
+                0.967409610748291
+            ],
+            [
+                "Hairstyle",
+                0.9509009122848511
+            ],
+            [
+                "Eyebrow",
+                0.9504672884941101
+            ],
+            [
+                "Eye",
+                0.9397960305213928
+            ],
+            [
+                "Facial expression",
+                0.9324941039085388
+            ],
+            [
+                "Mouth",
+                0.9323433041572571
+            ],
+            [
+                "Organ",
+                0.9035540223121643
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3. Normalized average rating scores: (A) heating sensation at\nthree locations and (B) cooling sensation at three locations. (Error bars\nrepresent 95% CI, n = 15).\n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Rectangle",
+                0.8930029273033142
+            ],
+            [
+                "Slope",
+                0.8620815277099609
+            ],
+            [
+                "Plot",
+                0.8368288278579712
+            ],
+            [
+                "Font",
+                0.8070880174636841
+            ],
+            [
+                "Parallel",
+                0.7883659601211548
+            ],
+            [
+                "Number",
+                0.6600412130355835
+            ],
+            [
+                "Diagram",
+                0.6234797239303589
+            ],
+            [
+                "Pattern",
+                0.5653009414672852
+            ],
+            [
+                "Circle",
+                0.5341342091560364
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4. Normalized average sensation and comfort scores: (A) four\nheating stimuli and (B) four cooling stimuli. (Error bars represent 95%\nCI, n = 15).\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8457157611846924
+            ],
+            [
+                "Rectangle",
+                0.8182684779167175
+            ],
+            [
+                "Font",
+                0.8089561462402344
+            ],
+            [
+                "Plot",
+                0.7905364632606506
+            ],
+            [
+                "Parallel",
+                0.7847506999969482
+            ],
+            [
+                "Diagram",
+                0.6097372770309448
+            ],
+            [
+                "Number",
+                0.5420523881912231
+            ],
+            [
+                "Pattern",
+                0.5308133959770203
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure 5. Operational procedure of Ambiotherm: (1) VR environment\n(Android Application) sends commands to (2) control module that ac-\ntives (3a) thermal module and (3b) wind module.\n",
+        "image_labels": [
+            [
+                "Output device",
+                0.9292795658111572
+            ],
+            [
+                "Peripheral",
+                0.8724527955055237
+            ],
+            [
+                "Font",
+                0.8189963102340698
+            ],
+            [
+                "Audio equipment",
+                0.7826362252235413
+            ],
+            [
+                "Machine",
+                0.7488911747932434
+            ],
+            [
+                "Electronic device",
+                0.7451327443122864
+            ],
+            [
+                "Auto part",
+                0.7426677346229553
+            ],
+            [
+                "Gadget",
+                0.7411868572235107
+            ],
+            [
+                "Circle",
+                0.6544284820556641
+            ],
+            [
+                "Automotive wheel system",
+                0.6308500170707703
+            ]
+        ]
+    },
+    "6": {
+        "type": "human",
+        "caption_text": "Figure 6. Ambiotherm: (A) Main components, (B) Control Module, (C)\nWind Simulation Module, and (D) Ambient Temperature Module.\n",
+        "image_labels": [
+            [
+                "Arm",
+                0.9451683759689331
+            ],
+            [
+                "Output device",
+                0.9323115944862366
+            ],
+            [
+                "Peripheral",
+                0.925820529460907
+            ],
+            [
+                "White",
+                0.9218769669532776
+            ],
+            [
+                "Product",
+                0.9088176488876343
+            ],
+            [
+                "Audio equipment",
+                0.8493799567222595
+            ],
+            [
+                "Communication Device",
+                0.844078779220581
+            ],
+            [
+                "Font",
+                0.8295143246650696
+            ],
+            [
+                "Input device",
+                0.8268843293190002
+            ],
+            [
+                "Eyewear",
+                0.8175880312919617
+            ]
+        ]
+    },
+    "7": {
+        "type": "graphic",
+        "caption_text": "Figure 7. User\u2019s \ufb01rst-person view following the virtual guide in (A) the\nhot desert and (B) the snowy mountain virtual environments.\n",
+        "image_labels": [
+            [
+                "Sky",
+                0.9666242599487305
+            ],
+            [
+                "Ecoregion",
+                0.9207995533943176
+            ],
+            [
+                "Slope",
+                0.8747852444648743
+            ],
+            [
+                "Mountain",
+                0.8416733741760254
+            ],
+            [
+                "Biome",
+                0.8226510882377625
+            ],
+            [
+                "Travel",
+                0.8137402534484863
+            ],
+            [
+                "Terrain",
+                0.8076676726341248
+            ],
+            [
+                "Adaptation",
+                0.7920657992362976
+            ],
+            [
+                "Landscape",
+                0.7871798276901245
+            ],
+            [
+                "Font",
+                0.7871221899986267
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8. Normalized average Sensory and Realism Factors scores for\nfour stimuli con\ufb01gurations (Error bars represent 95% CI, n = 20).\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8885402679443359
+            ],
+            [
+                "Slope",
+                0.8557126522064209
+            ],
+            [
+                "Font",
+                0.8252502083778381
+            ],
+            [
+                "Parallel",
+                0.7856530547142029
+            ],
+            [
+                "Plot",
+                0.7721871137619019
+            ],
+            [
+                "Number",
+                0.6454128623008728
+            ],
+            [
+                "Diagram",
+                0.5545215010643005
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9. Normalized average engagement scores for four stimuli con\ufb01g-\nurations (Error bars represent 95% CI, n = 20).\n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Rectangle",
+                0.9015271067619324
+            ],
+            [
+                "Font",
+                0.8168120384216309
+            ],
+            [
+                "Parallel",
+                0.7885646224021912
+            ],
+            [
+                "Slope",
+                0.7695659399032593
+            ],
+            [
+                "Plot",
+                0.7358137369155884
+            ],
+            [
+                "Magenta",
+                0.7294468283653259
+            ],
+            [
+                "Pattern",
+                0.7009478807449341
+            ],
+            [
+                "Number",
+                0.6484804749488831
+            ],
+            [
+                "Electric blue",
+                0.6250731945037842
+            ]
+        ]
+    },
+    "10": {
+        "type": "chart",
+        "caption_text": "Figure 10. Normalized average thermal, wind, and overall Involvement\nscores for four stimuli con\ufb01gurations (Error bars represent 95% CI, n =\n20).\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8807050585746765
+            ],
+            [
+                "Slope",
+                0.8470335006713867
+            ],
+            [
+                "Font",
+                0.8061386942863464
+            ],
+            [
+                "Plot",
+                0.7983663082122803
+            ],
+            [
+                "Parallel",
+                0.7858253121376038
+            ],
+            [
+                "Number",
+                0.597441554069519
+            ],
+            [
+                "Pattern",
+                0.579894483089447
+            ],
+            [
+                "Diagram",
+                0.5756086707115173
+            ]
+        ]
+    },
+    "11": {
+        "type": "chart",
+        "caption_text": "Figure 11. Normalized average consistency scores of VR Environment\ncompared to Real-World and consistency scores for sensory information\nfor four stimuli con\ufb01gurations (Error bars represent 95% CI, n = 20).\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8927968740463257
+            ],
+            [
+                "Slope",
+                0.8352895975112915
+            ],
+            [
+                "Font",
+                0.8244084119796753
+            ],
+            [
+                "Parallel",
+                0.7826946377754211
+            ],
+            [
+                "Number",
+                0.638181209564209
+            ],
+            [
+                "Plot",
+                0.5971786379814148
+            ],
+            [
+                "Pattern",
+                0.5523861050605774
+            ]
+        ]
+    },
+    "12": {
+        "type": "chart",
+        "caption_text": "Figure 12. Normalized average scores assessing the quickness to adjust\nto the VR Environment with four stimuli con\ufb01gurations (Error bars rep-\nresent 95% CI, n = 20).\n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Rectangle",
+                0.8967388272285461
+            ],
+            [
+                "Font",
+                0.8117867708206177
+            ],
+            [
+                "Slope",
+                0.7969942092895508
+            ],
+            [
+                "Parallel",
+                0.7867354154586792
+            ],
+            [
+                "Plot",
+                0.6920862197875977
+            ],
+            [
+                "Pattern",
+                0.6305429935455322
+            ],
+            [
+                "Magenta",
+                0.6291418075561523
+            ],
+            [
+                "Number",
+                0.6260294318199158
+            ],
+            [
+                "Electric blue",
+                0.6178956031799316
+            ]
+        ]
+    }
+}

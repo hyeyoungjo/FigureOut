@@ -1,0 +1,324 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1: The same shot, viewed in a headset versus on the\nscreen. VR views look very different than on the desktop\nscreen, and provide a much stronger sense of immersion.\n\u00a9 TOYO TIRES JAPAN\n",
+        "image_labels": [
+            [
+                "Tire",
+                0.9769400358200073
+            ],
+            [
+                "Wheel",
+                0.9738655686378479
+            ],
+            [
+                "Vehicle",
+                0.9679322838783264
+            ],
+            [
+                "Land vehicle",
+                0.9662197232246399
+            ],
+            [
+                "Car",
+                0.9476787447929382
+            ],
+            [
+                "Hood",
+                0.9182262420654297
+            ],
+            [
+                "Automotive tire",
+                0.9153838157653809
+            ],
+            [
+                "Automotive design",
+                0.8780336380004883
+            ],
+            [
+                "Alloy wheel",
+                0.8557309508323669
+            ],
+            [
+                "Window",
+                0.8534613251686096
+            ]
+        ]
+    },
+    "2": {
+        "type": "graphic",
+        "caption_text": "Figure 2: The Vremiere interface contains a video view in the background (A) and \ufb02oating UI components such as the timeline\n(B), editing tracks (C) and editing widgets (D). By using familiar mouse and keyboard interaction, an editor can edit and view the\nspherical video directly inside the VR headset.\n",
+        "image_labels": [
+            [
+                "Cloud",
+                0.9595475196838379
+            ],
+            [
+                "Water",
+                0.9480443596839905
+            ],
+            [
+                "Sky",
+                0.940261960029602
+            ],
+            [
+                "Vehicle",
+                0.9041869044303894
+            ],
+            [
+                "Watercraft",
+                0.8541141152381897
+            ],
+            [
+                "Travel",
+                0.8214561343193054
+            ],
+            [
+                "Tire",
+                0.7819310426712036
+            ],
+            [
+                "Landscape",
+                0.7607010006904602
+            ],
+            [
+                "Art",
+                0.745860755443573
+            ],
+            [
+                "Recreation",
+                0.7315131425857544
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3: Left: the Little Planet is shown in a small window\nabove the timeline to aid in-headset video navigation. Right:\nclose-up view of the visualization; it can be used both as a\nminimap and a compass of the 360\u00b0 image. As noted by the\nyellow arrow, the user can quickly spot an interesting event\noutside her \ufb01eld of view (indicated by the yellow fan at the\ncenter) that would be otherwise dif\ufb01cult to \ufb01nd.\n",
+        "image_labels": [
+            [
+                "Output device",
+                0.9280519485473633
+            ],
+            [
+                "Computer monitor",
+                0.910413384437561
+            ],
+            [
+                "Television",
+                0.902277410030365
+            ],
+            [
+                "Computer keyboard",
+                0.8780463933944702
+            ],
+            [
+                "Television set",
+                0.8442924618721008
+            ],
+            [
+                "Gadget",
+                0.831882119178772
+            ],
+            [
+                "Communication Device",
+                0.8256690502166748
+            ],
+            [
+                "Helmet",
+                0.8174837231636047
+            ],
+            [
+                "Font",
+                0.8100409507751465
+            ],
+            [
+                "Audio equipment",
+                0.806155264377594
+            ]
+        ]
+    },
+    "4": {
+        "type": "graphic",
+        "caption_text": "Figure 4: Our system dynamically contracts a pair of vignettes\nin front of the user\u2019s eyes based on the perceived motion in\nthe video, to help reduce discomfort during video playback\nor scrubbing. Note, on the left, the default diameter of the\nvignette is 120\u00b0, which corresponds to no vignetting. \u00a9 \u00c1baco\nDigital Zaragoza\n",
+        "image_labels": [
+            [
+                "Eye",
+                0.9337637424468994
+            ],
+            [
+                "Light",
+                0.9119791984558105
+            ],
+            [
+                "World",
+                0.9037097692489624
+            ],
+            [
+                "Green",
+                0.9022623896598816
+            ],
+            [
+                "Human body",
+                0.8836490511894226
+            ],
+            [
+                "Slope",
+                0.8259150981903076
+            ],
+            [
+                "Urban design",
+                0.8254841566085815
+            ],
+            [
+                "Terrestrial plant",
+                0.8061467409133911
+            ],
+            [
+                "Circle",
+                0.754336416721344
+            ],
+            [
+                "Landscape",
+                0.7277883291244507
+            ]
+        ]
+    },
+    "5": {
+        "type": "graphic",
+        "caption_text": "Figure 5: A: an example of a jarring cut in VR video. The cut transitions from the ski lift to an empty view of the mountain in the\nski_2 video. B: Our Rotation Alignment tool is shown above the timeline. In the close-up view, the user can visualize how the cut\ntransitions from one clip to another given a speci\ufb01c viewpoint in the video (visualized by yellow bars); she can also directly drag\non the clips to align events before and after a cut, thereby helping the viewer to follow key elements in the video. Here, the Ripple\nRotation mode is shown currently as an Unlink toggle. C: after rotation, the skier in clip ski_2 is aligned to the previous shot,\nresulting in a much better cut. \u00a9 \u00c1baco Digital Zaragoza\n",
+        "image_labels": [
+            [
+                "Font",
+                0.8122724890708923
+            ],
+            [
+                "Art",
+                0.7515463829040527
+            ],
+            [
+                "Recreation",
+                0.7415026426315308
+            ],
+            [
+                "Technology",
+                0.7322820425033569
+            ],
+            [
+                "Bow",
+                0.7261087894439697
+            ],
+            [
+                "Helmet",
+                0.6827823519706726
+            ],
+            [
+                "Circle",
+                0.6620176434516907
+            ],
+            [
+                "Personal protective equipment",
+                0.6365562677383423
+            ],
+            [
+                "Graphic design",
+                0.5941025018692017
+            ],
+            [
+                "Animation",
+                0.5893833637237549
+            ]
+        ]
+    },
+    "6": {
+        "type": "graphic",
+        "caption_text": "Figure 6: Left: On desktop, adding 2D text or images to a\nspherical video is often unintuitive. Right: in the headset, our\nsystem provides a natural view of the image (Sample Logo)\nand enables users to directly place it anywhere in the scene.\n\u00a9 P J Orravan\n",
+        "image_labels": [
+            [
+                "Ecoregion",
+                0.9269868731498718
+            ],
+            [
+                "World",
+                0.9110273718833923
+            ],
+            [
+                "Slope",
+                0.8856282234191895
+            ],
+            [
+                "Organism",
+                0.8527261018753052
+            ],
+            [
+                "Rectangle",
+                0.8498033881187439
+            ],
+            [
+                "Line",
+                0.8166702389717102
+            ],
+            [
+                "Font",
+                0.7987985610961914
+            ],
+            [
+                "Adaptation",
+                0.7918589115142822
+            ],
+            [
+                "Urban design",
+                0.7583328485488892
+            ],
+            [
+                "Landscape",
+                0.7345978021621704
+            ]
+        ]
+    },
+    "7": {
+        "type": "graphic",
+        "caption_text": "Figure 7: The user can directly click on the video to add\nmarkers. These markers are visualized on the timeline and\ncan be reviewed quickly using keyboard shortcuts. \u00a9 Jacob\nPhillips\n",
+        "image_labels": [
+            [
+                "Sky",
+                0.9396913647651672
+            ],
+            [
+                "Nature",
+                0.8995451927185059
+            ],
+            [
+                "Travel",
+                0.8262654542922974
+            ],
+            [
+                "Slope",
+                0.8207588791847229
+            ],
+            [
+                "Parachuting",
+                0.7737554311752319
+            ],
+            [
+                "Landscape",
+                0.7689036130905151
+            ],
+            [
+                "Horizon",
+                0.7453956604003906
+            ],
+            [
+                "Windsports",
+                0.7194029092788696
+            ],
+            [
+                "Leisure",
+                0.7145594954490662
+            ],
+            [
+                "Wind",
+                0.7078489065170288
+            ]
+        ]
+    }
+}

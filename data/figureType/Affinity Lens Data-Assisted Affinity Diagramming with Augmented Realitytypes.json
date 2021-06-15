@@ -1,0 +1,212 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1: Affinity Lens used to split a larger affinity cluster based on income level. (a) The user applies a heatmap lens to an\nexisting cluster which shows two sub-groups. (b) The designer regroups the notes. (c) A histogram lens compares sleeping\nschedules for the two sub-clusters found in (a).\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8036210536956787
+            ],
+            [
+                "Font",
+                0.7812354564666748
+            ],
+            [
+                "Rectangle",
+                0.7564941644668579
+            ],
+            [
+                "Parallel",
+                0.7439225316047668
+            ],
+            [
+                "Diagram",
+                0.7095280289649963
+            ],
+            [
+                "Screenshot",
+                0.7029411196708679
+            ],
+            [
+                "Logo",
+                0.6759890913963318
+            ],
+            [
+                "Circle",
+                0.6607664823532104
+            ],
+            [
+                "Brand",
+                0.6307709217071533
+            ],
+            [
+                "Fashion accessory",
+                0.6249977350234985
+            ]
+        ]
+    },
+    "2": {
+        "type": "table",
+        "caption_text": "Figure 2: Affinity Lens User Interface. (a) main camera view,\n(b) contextual lens selector, (c) lens configuration options, (d)\nlens modes\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8888989686965942
+            ],
+            [
+                "Font",
+                0.7830905914306641
+            ],
+            [
+                "Parallel",
+                0.7650870680809021
+            ],
+            [
+                "Number",
+                0.7117988467216492
+            ],
+            [
+                "Diagram",
+                0.6932708621025085
+            ],
+            [
+                "Screenshot",
+                0.6607731580734253
+            ],
+            [
+                "Circle",
+                0.5880650281906128
+            ],
+            [
+                "Square",
+                0.5844169855117798
+            ],
+            [
+                "Machine",
+                0.5777390599250793
+            ],
+            [
+                "Symmetry",
+                0.5467614531517029
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3: Affinity Lens workflow. Data is acquired (a) and automatically tagged for a Marker (b) for printing. Various forms of\nDAAD (c, d, e) can be documented (f) along with associated insights (g).\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9075941443443298
+            ],
+            [
+                "Font",
+                0.8472638726234436
+            ],
+            [
+                "Yellow",
+                0.8450031280517578
+            ],
+            [
+                "Material property",
+                0.8002160787582397
+            ],
+            [
+                "Rectangle",
+                0.7722173929214478
+            ],
+            [
+                "Electronic device",
+                0.7479251623153687
+            ],
+            [
+                "Parallel",
+                0.7426385283470154
+            ],
+            [
+                "Technology",
+                0.7346298098564148
+            ],
+            [
+                "Screenshot",
+                0.6722579002380371
+            ],
+            [
+                "Sharing",
+                0.6442521214485168
+            ]
+        ]
+    },
+    "4": {
+        "type": "table",
+        "caption_text": "Figure 4: A sampling of Affinity Lens AR Lenses\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8920462727546692
+            ],
+            [
+                "Font",
+                0.8503664135932922
+            ],
+            [
+                "Line",
+                0.825518786907196
+            ],
+            [
+                "Parallel",
+                0.7901023030281067
+            ],
+            [
+                "Signage",
+                0.7250267267227173
+            ],
+            [
+                "Pattern",
+                0.7231501340866089
+            ],
+            [
+                "Symmetry",
+                0.6964601278305054
+            ],
+            [
+                "Design",
+                0.6840736269950867
+            ],
+            [
+                "Circle",
+                0.6752275228500366
+            ],
+            [
+                "Electric blue",
+                0.6579645276069641
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5: System Architecture. (1) Scene analyzer extracts notes from camera feed, (2) lens controller determines set of lenses\napplicable to notes in view, (3) dynamic view configurator updates the interface with available lenses, (4) lens queries for data\nfrom the (5) Data access and analytics module, and renders the augmented visualization.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8458447456359863
+            ],
+            [
+                "Font",
+                0.8048276901245117
+            ],
+            [
+                "Parallel",
+                0.7331090569496155
+            ],
+            [
+                "Diagram",
+                0.7268681526184082
+            ],
+            [
+                "Brand",
+                0.5959672927856445
+            ]
+        ]
+    }
+}

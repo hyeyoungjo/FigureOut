@@ -1,0 +1,324 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1. Child playing with the WoW based system \n",
+        "image_labels": [
+            [
+                "Hand",
+                0.9613330960273743
+            ],
+            [
+                "Tablet computer",
+                0.9349305033683777
+            ],
+            [
+                "Output device",
+                0.8924756050109863
+            ],
+            [
+                "Communication Device",
+                0.85649174451828
+            ],
+            [
+                "Thumb",
+                0.8561967015266418
+            ],
+            [
+                "Finger",
+                0.8526614308357239
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Gadget",
+                0.8487159013748169
+            ],
+            [
+                "Mobile phone",
+                0.8396630883216858
+            ],
+            [
+                "Portable communications device",
+                0.8216913938522339
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2. Children playing with the WaS based system \n",
+        "image_labels": [
+            [
+                "Shoulder",
+                0.9376125931739807
+            ],
+            [
+                "Fixture",
+                0.8595230579376221
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Elbow",
+                0.7769281268119812
+            ],
+            [
+                "T-shirt",
+                0.7713556885719299
+            ],
+            [
+                "Event",
+                0.7322984337806702
+            ],
+            [
+                "Door",
+                0.7056090235710144
+            ],
+            [
+                "Fun",
+                0.6801018118858337
+            ],
+            [
+                "Conversation",
+                0.6761685013771057
+            ],
+            [
+                "Happy",
+                0.6365625262260437
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3. Example of a transcription storyboard \n",
+        "image_labels": [
+            [
+                "Handwriting",
+                0.9476909041404724
+            ],
+            [
+                "Product",
+                0.9079428315162659
+            ],
+            [
+                "Font",
+                0.8377975821495056
+            ],
+            [
+                "Rectangle",
+                0.8377352952957153
+            ],
+            [
+                "Line",
+                0.8225142955780029
+            ],
+            [
+                "Material property",
+                0.80234694480896
+            ],
+            [
+                "Parallel",
+                0.7872523665428162
+            ],
+            [
+                "Paper",
+                0.7049484252929688
+            ],
+            [
+                "Illustration",
+                0.6976895928382874
+            ],
+            [
+                "Drawing",
+                0.6880625486373901
+            ]
+        ]
+    },
+    "4": {
+        "type": "formula",
+        "caption_text": "Figure  4. Children focusing on the screen while playing with \nthe WoW based system \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8484341502189636
+            ],
+            [
+                "Parallel",
+                0.7766958475112915
+            ],
+            [
+                "Tints and shades",
+                0.7296397089958191
+            ],
+            [
+                "Font",
+                0.7280836701393127
+            ],
+            [
+                "Circle",
+                0.7016395330429077
+            ],
+            [
+                "Pattern",
+                0.7012807726860046
+            ],
+            [
+                "Magenta",
+                0.6615846753120422
+            ],
+            [
+                "Electric blue",
+                0.6608228087425232
+            ],
+            [
+                "Symmetry",
+                0.6534051299095154
+            ],
+            [
+                "Brand",
+                0.5919255018234253
+            ]
+        ]
+    },
+    "5": {
+        "type": "human",
+        "caption_text": "Figure 5. Distribution of ways of using space \n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Pink",
+                0.8380111455917358
+            ],
+            [
+                "Happy",
+                0.828515887260437
+            ],
+            [
+                "Leisure",
+                0.7852943539619446
+            ],
+            [
+                "Magenta",
+                0.7722265124320984
+            ],
+            [
+                "Recreation",
+                0.749884843826294
+            ],
+            [
+                "Toddler",
+                0.7434079051017761
+            ],
+            [
+                "Flooring",
+                0.7433047890663147
+            ],
+            [
+                "Event",
+                0.6967909932136536
+            ],
+            [
+                "Fun",
+                0.6938406825065613
+            ]
+        ]
+    },
+    "6": {
+        "type": "picture",
+        "caption_text": "Figure 6. Distribution of ways of participating \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8663555979728699
+            ],
+            [
+                "Tints and shades",
+                0.7728874683380127
+            ],
+            [
+                "Font",
+                0.7601476311683655
+            ],
+            [
+                "Parallel",
+                0.7507655024528503
+            ],
+            [
+                "Electric blue",
+                0.7457242012023926
+            ],
+            [
+                "Wood",
+                0.7249240279197693
+            ],
+            [
+                "Magenta",
+                0.7238101363182068
+            ],
+            [
+                "Plastic",
+                0.655319333076477
+            ],
+            [
+                "Paint",
+                0.6285917162895203
+            ],
+            [
+                "Symmetry",
+                0.6242441534996033
+            ]
+        ]
+    },
+    "7": {
+        "type": "chart",
+        "caption_text": "Figure 7. Child playing with the virtual character in WaSc \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8836278915405273
+            ],
+            [
+                "Font",
+                0.7734872102737427
+            ],
+            [
+                "Tints and shades",
+                0.7675265669822693
+            ],
+            [
+                "Shelving",
+                0.7560319304466248
+            ],
+            [
+                "Parallel",
+                0.7449729442596436
+            ],
+            [
+                "Electric blue",
+                0.744414210319519
+            ],
+            [
+                "Pattern",
+                0.7388983368873596
+            ],
+            [
+                "Symmetry",
+                0.716586709022522
+            ],
+            [
+                "Flooring",
+                0.6840736269950867
+            ],
+            [
+                "Brand",
+                0.6355844736099243
+            ]
+        ]
+    }
+}

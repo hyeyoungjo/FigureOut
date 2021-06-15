@@ -1,0 +1,186 @@
+{
+    "1": {
+        "type": "chart",
+        "caption_text": "Figure 1: WatchThru is a lightweight and easy-to-build display\nextension for existing smartwatches.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9096835255622864
+            ],
+            [
+                "Product",
+                0.9072871208190918
+            ],
+            [
+                "Sleeve",
+                0.8724124431610107
+            ],
+            [
+                "Eyewear",
+                0.853420078754425
+            ],
+            [
+                "Font",
+                0.8304133415222168
+            ],
+            [
+                "Gadget",
+                0.8210064172744751
+            ],
+            [
+                "Material property",
+                0.8023328185081482
+            ],
+            [
+                "Desk",
+                0.7811320424079895
+            ],
+            [
+                "Technology",
+                0.7714334726333618
+            ],
+            [
+                "Electronic device",
+                0.7452532052993774
+            ]
+        ]
+    },
+    "2": {
+        "type": "graphic",
+        "caption_text": "Figure 2: Second Perspective navigation with a 2D map (left)\nand directional arrows (right).\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9078477621078491
+            ],
+            [
+                "Watch",
+                0.8919417858123779
+            ],
+            [
+                "Communication Device",
+                0.8838927745819092
+            ],
+            [
+                "Gadget",
+                0.8830135464668274
+            ],
+            [
+                "Portable communications device",
+                0.8511849641799927
+            ],
+            [
+                "Telephony",
+                0.8315342664718628
+            ],
+            [
+                "Finger",
+                0.83024662733078
+            ],
+            [
+                "Material property",
+                0.8020703792572021
+            ],
+            [
+                "Font",
+                0.7913322448730469
+            ],
+            [
+                "Mobile device",
+                0.7843233942985535
+            ]
+        ]
+    },
+    "3": {
+        "type": "human",
+        "caption_text": "Figure 3: The Peek-through prototype uses external cameras\nto track retrore\ufb02ective markers on the (a) device and (b) user,\nwhich enabled the several implemented AR scenarios (c\u2013f).\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9080249071121216
+            ],
+            [
+                "Sleeve",
+                0.8697101473808289
+            ],
+            [
+                "Cap",
+                0.8648897409439087
+            ],
+            [
+                "Font",
+                0.8645395636558533
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Hat",
+                0.8371213674545288
+            ],
+            [
+                "Baseball cap",
+                0.7705548405647278
+            ],
+            [
+                "Machine",
+                0.7014709115028381
+            ],
+            [
+                "Design",
+                0.6823756694793701
+            ],
+            [
+                "Fedora",
+                0.6667524576187134
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4: In the future for WatchThru, we envision a transpa-\nrent screen that can be folded out when needed.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8917219638824463
+            ],
+            [
+                "Font",
+                0.8056170344352722
+            ],
+            [
+                "Automotive exterior",
+                0.7799966931343079
+            ],
+            [
+                "Eyewear",
+                0.7718770503997803
+            ],
+            [
+                "Parallel",
+                0.7495660781860352
+            ],
+            [
+                "Electronic device",
+                0.7490410804748535
+            ],
+            [
+                "Technology",
+                0.7423147559165955
+            ],
+            [
+                "Bumper",
+                0.7102916836738586
+            ],
+            [
+                "Brand",
+                0.6833168268203735
+            ],
+            [
+                "Logo",
+                0.6682919859886169
+            ]
+        ]
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1: Hunger In Los Angeles (2012). Viewer on right is us-\ning prototypical VR hardware that would later become the\nOculus Rift.\n",
+        "image_labels": [
+            [
+                "Footwear",
+                0.980889081954956
+            ],
+            [
+                "Shoe",
+                0.957801342010498
+            ],
+            [
+                "Road surface",
+                0.8763242959976196
+            ],
+            [
+                "Standing",
+                0.8642165660858154
+            ],
+            [
+                "Flooring",
+                0.82826167345047
+            ],
+            [
+                "Floor",
+                0.8140400052070618
+            ],
+            [
+                "Sneakers",
+                0.8100675344467163
+            ],
+            [
+                "Sidewalk",
+                0.8035902380943298
+            ],
+            [
+                "City",
+                0.7826526165008545
+            ],
+            [
+                "Leisure",
+                0.7613559365272522
+            ]
+        ]
+    },
+    "2": {
+        "type": "table",
+        "caption_text": "Figure 2: Characteristics of VRNF titles (n=150) by frequency of occurrence.\n",
+        "image_labels": [
+            [
+                "Font",
+                0.7927360534667969
+            ],
+            [
+                "Parallel",
+                0.7511116862297058
+            ],
+            [
+                "Electric blue",
+                0.7046229839324951
+            ],
+            [
+                "Number",
+                0.6696789264678955
+            ],
+            [
+                "Rectangle",
+                0.6087086796760559
+            ],
+            [
+                "Document",
+                0.5827106833457947
+            ],
+            [
+                "Screenshot",
+                0.5738357901573181
+            ],
+            [
+                "Slope",
+                0.5275762677192688
+            ],
+            [
+                "Symmetry",
+                0.5183548927307129
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3: Diegetic visual annotations. 6x9: A Virtual Experi-\nence of Solitary Confinement, 2016.\n",
+        "image_labels": [
+            [
+                "Black",
+                0.8953965902328491
+            ],
+            [
+                "Font",
+                0.8531266450881958
+            ],
+            [
+                "Black-and-white",
+                0.8455309867858887
+            ],
+            [
+                "Style",
+                0.8380675911903381
+            ],
+            [
+                "Line",
+                0.8192667961120605
+            ],
+            [
+                "Wall",
+                0.8110122680664062
+            ],
+            [
+                "Monochrome photography",
+                0.7450075149536133
+            ],
+            [
+                "Snapshot",
+                0.7428476810455322
+            ],
+            [
+                "Flooring",
+                0.7380833625793457
+            ],
+            [
+                "Monochrome",
+                0.7288723587989807
+            ]
+        ]
+    },
+    "4": {
+        "type": "human",
+        "caption_text": "Figure 4: Branching narrative gaze selection. Decisions:\nParty\u2019s Over (2018)\n",
+        "image_labels": [
+            [
+                "Flash photography",
+                0.8736288547515869
+            ],
+            [
+                "Orange",
+                0.8579490780830383
+            ],
+            [
+                "Interaction",
+                0.8343839049339294
+            ],
+            [
+                "Fun",
+                0.7735304832458496
+            ],
+            [
+                "Jacket",
+                0.767525315284729
+            ],
+            [
+                "Thigh",
+                0.7633965015411377
+            ],
+            [
+                "Event",
+                0.7238252758979797
+            ],
+            [
+                "Automotive tire",
+                0.7034577131271362
+            ],
+            [
+                "Recreation",
+                0.6771790981292725
+            ],
+            [
+                "Font",
+                0.6651489734649658
+            ]
+        ]
+    }
+}

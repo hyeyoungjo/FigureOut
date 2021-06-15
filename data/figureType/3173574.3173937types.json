@@ -1,0 +1,560 @@
+{
+    "1": {
+        "type": "chart",
+        "caption_text": "Figure 1. Setup and Tasks involved in the studies presented in this paper. Participants interacted with a spatially augmented mock-up and its virtual\ncounterpart (left). They were iteratively presented with a spherical target from either egocentric (Study 1) and exocentric perspectives (Study 2), and\nthen asked to estimate the position of the target (right) using an estimator attached to a controller. The objective of this protocol is to quantitatively\nmeasure the participants\u2019 capability to transfer information between physical and virtual spaces, and between egocentric and exocentric perspectives.\n",
+        "image_labels": [
+            [
+                "Green",
+                0.9329226016998291
+            ],
+            [
+                "Product",
+                0.9077091813087463
+            ],
+            [
+                "Organism",
+                0.8700026869773865
+            ],
+            [
+                "Font",
+                0.8238619565963745
+            ],
+            [
+                "Adaptation",
+                0.7935181856155396
+            ],
+            [
+                "Toy",
+                0.7516628503799438
+            ],
+            [
+                "Art",
+                0.6890066862106323
+            ],
+            [
+                "Rectangle",
+                0.6705172657966614
+            ],
+            [
+                "Animation",
+                0.6226731538772583
+            ],
+            [
+                "Fictional character",
+                0.6193721294403076
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2. Experiment setup: HTC Vive lighthouses were placed in front\nof the participant, while the Optitrack cameras and the LG projector\nwhere placed around and over the participant.\n",
+        "image_labels": [
+            [
+                "Furniture",
+                0.9492207169532776
+            ],
+            [
+                "Table",
+                0.9450259804725647
+            ],
+            [
+                "Sharing",
+                0.8906965255737305
+            ],
+            [
+                "Cartoon",
+                0.8760026097297668
+            ],
+            [
+                "Organism",
+                0.8647316694259644
+            ],
+            [
+                "Chair",
+                0.7977433204650879
+            ],
+            [
+                "Art",
+                0.7405629754066467
+            ],
+            [
+                "Machine",
+                0.7204105854034424
+            ],
+            [
+                "Illustration",
+                0.7035134434700012
+            ],
+            [
+                "Job",
+                0.6986509561538696
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3. Controller with estimation attached to it (left). Controller\nused to align Optitrack and HTC Vive spaces, markers placed to easily\nidentify origin and orientation of the controller (right).\n",
+        "image_labels": [
+            [
+                "Arm",
+                0.945037841796875
+            ],
+            [
+                "Game controller",
+                0.9280107617378235
+            ],
+            [
+                "Joystick",
+                0.9142731428146362
+            ],
+            [
+                "Peripheral",
+                0.8865160346031189
+            ],
+            [
+                "Input device",
+                0.8693628311157227
+            ],
+            [
+                "Gesture",
+                0.8524553775787354
+            ],
+            [
+                "Gadget",
+                0.8471372127532959
+            ],
+            [
+                "Font",
+                0.8249359726905823
+            ],
+            [
+                "Electronic device",
+                0.7373443245887756
+            ],
+            [
+                "Video game accessory",
+                0.701176643371582
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4. 48 target locations (left), 6 regions (center), and the 48 targets\nclustered by region (right). The participant (not represented) would be\nplaced at the bottom of the picture.\n",
+        "image_labels": [
+            [
+                "Font",
+                0.863227128982544
+            ],
+            [
+                "Organism",
+                0.8583605289459229
+            ],
+            [
+                "Line",
+                0.8178422451019287
+            ],
+            [
+                "Circle",
+                0.7830383777618408
+            ],
+            [
+                "Design",
+                0.6862517595291138
+            ],
+            [
+                "Diagram",
+                0.6856921911239624
+            ],
+            [
+                "Dishware",
+                0.6847404837608337
+            ],
+            [
+                "Sharing",
+                0.6784845590591431
+            ],
+            [
+                "Illustration",
+                0.6730756163597107
+            ],
+            [
+                "Happy",
+                0.6687211990356445
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5. Absolute error: The effect of region by condition. The charts\npresent both mean with con\ufb01dence 95% intervals at one sample per-\nparticipant (black), and distribution at one sample per-trial (colored).\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9075064063072205
+            ],
+            [
+                "Rectangle",
+                0.9066540598869324
+            ],
+            [
+                "Slope",
+                0.8403463363647461
+            ],
+            [
+                "Font",
+                0.8363344073295593
+            ],
+            [
+                "Parallel",
+                0.7911613583564758
+            ],
+            [
+                "Diagram",
+                0.7010730504989624
+            ],
+            [
+                "Pattern",
+                0.6903288960456848
+            ],
+            [
+                "Number",
+                0.6665207147598267
+            ],
+            [
+                "Screenshot",
+                0.5107917189598083
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure 6. Depth error: A positive error in depth implies that the partici-\npants estimated closer to themselves (presented this way for clarity).\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8968405723571777
+            ],
+            [
+                "Slope",
+                0.8827915191650391
+            ],
+            [
+                "Font",
+                0.8321613669395447
+            ],
+            [
+                "Parallel",
+                0.7908221483230591
+            ],
+            [
+                "Pattern",
+                0.75385582447052
+            ],
+            [
+                "Number",
+                0.7003203630447388
+            ],
+            [
+                "Diagram",
+                0.6897183060646057
+            ],
+            [
+                "Screenshot",
+                0.6224591732025146
+            ],
+            [
+                "Plot",
+                0.534593939781189
+            ],
+            [
+                "Square",
+                0.5142221450805664
+            ]
+        ]
+    },
+    "7": {
+        "type": "chart",
+        "caption_text": "Figure 7. Subjective experience based on a 7-Likert scale questionnaire,\nvalues between -3 and 3. Error bars indicate con\ufb01dence intervals.\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8480594754219055
+            ],
+            [
+                "Rectangle",
+                0.8326579928398132
+            ],
+            [
+                "Font",
+                0.8074191212654114
+            ],
+            [
+                "Plot",
+                0.7874943017959595
+            ],
+            [
+                "Parallel",
+                0.783149003982544
+            ],
+            [
+                "Number",
+                0.655153751373291
+            ],
+            [
+                "Diagram",
+                0.6092696189880371
+            ],
+            [
+                "Electric blue",
+                0.5009159445762634
+            ]
+        ]
+    },
+    "8": {
+        "type": "formula",
+        "caption_text": "Figure 8. target locations (48) and 6 POVs, regions (6).\n",
+        "image_labels": [
+            [
+                "Azure",
+                0.895240068435669
+            ],
+            [
+                "Rectangle",
+                0.8566358089447021
+            ],
+            [
+                "Art",
+                0.8054448962211609
+            ],
+            [
+                "Font",
+                0.7689111828804016
+            ],
+            [
+                "Circle",
+                0.7625783085823059
+            ],
+            [
+                "Pattern",
+                0.7562079429626465
+            ],
+            [
+                "Electric blue",
+                0.6771592497825623
+            ],
+            [
+                "Symmetry",
+                0.6683923602104187
+            ],
+            [
+                "Creative arts",
+                0.533302903175354
+            ],
+            [
+                "Paper product",
+                0.5275614261627197
+            ]
+        ]
+    },
+    "10": {
+        "type": "chart",
+        "caption_text": "Figure 10. Depth error: The error per condition for Study 2, computed\nfrom both the egocentric (left) and exocentric (right) viewpoints. Note\nthe distribution around zero, in contrast with Study 1 (see Figure 6).\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9010480046272278
+            ],
+            [
+                "Slope",
+                0.8669485449790955
+            ],
+            [
+                "Font",
+                0.8282771706581116
+            ],
+            [
+                "Parallel",
+                0.7908390760421753
+            ],
+            [
+                "Pattern",
+                0.7588004469871521
+            ],
+            [
+                "Number",
+                0.6980896592140198
+            ],
+            [
+                "Diagram",
+                0.6892302632331848
+            ],
+            [
+                "Screenshot",
+                0.65921950340271
+            ],
+            [
+                "Circle",
+                0.6410993337631226
+            ],
+            [
+                "Plot",
+                0.6320992708206177
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9. Estimation error per condition in comparison with Study 1\n(top), and the tendency towards order effect (bottom).\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9104527831077576
+            ],
+            [
+                "Product",
+                0.9080556631088257
+            ],
+            [
+                "Slope",
+                0.8752853870391846
+            ],
+            [
+                "Font",
+                0.8573878407478333
+            ],
+            [
+                "Material property",
+                0.8004932999610901
+            ],
+            [
+                "Parallel",
+                0.7914621829986572
+            ],
+            [
+                "Pattern",
+                0.7773159146308899
+            ],
+            [
+                "Diagram",
+                0.7454041242599487
+            ],
+            [
+                "Number",
+                0.7030723094940186
+            ],
+            [
+                "Design",
+                0.6842371225357056
+            ]
+        ]
+    },
+    "11": {
+        "type": "diagram",
+        "caption_text": "Figure 11. Workload results from the NASA-TLX questionnaire. Both\nthe results for the \ufb01rst and second study are presented.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8922140598297119
+            ],
+            [
+                "Slope",
+                0.8755127787590027
+            ],
+            [
+                "Font",
+                0.7972913980484009
+            ],
+            [
+                "Parallel",
+                0.790759265422821
+            ],
+            [
+                "Pattern",
+                0.7297366857528687
+            ],
+            [
+                "Diagram",
+                0.6675999164581299
+            ],
+            [
+                "Number",
+                0.6557902693748474
+            ]
+        ]
+    },
+    "13": {
+        "type": "diagram",
+        "caption_text": "Figure 13. Three instances of estimation: touching the center of the\ntarget (A), touching the target (B), and the failure threshold (C).\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8392898440361023
+            ],
+            [
+                "Rectangle",
+                0.8361160755157471
+            ],
+            [
+                "Font",
+                0.8155895471572876
+            ],
+            [
+                "Parallel",
+                0.7803106904029846
+            ],
+            [
+                "Diagram",
+                0.6028305292129517
+            ],
+            [
+                "Number",
+                0.5938819050788879
+            ],
+            [
+                "Electric blue",
+                0.5392723083496094
+            ]
+        ]
+    },
+    "12": {
+        "type": "chart",
+        "caption_text": "Figure 12. Results obtained for the subjective experience questionnaire\nfor the second study, using a 7-Likert scale. The results are presented on\na scale between -3 to 3 for clarity.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9023202061653137
+            ],
+            [
+                "Slope",
+                0.8921831846237183
+            ],
+            [
+                "Font",
+                0.8320177793502808
+            ],
+            [
+                "Parallel",
+                0.7909971475601196
+            ],
+            [
+                "Pattern",
+                0.7578557133674622
+            ],
+            [
+                "Diagram",
+                0.7187837362289429
+            ],
+            [
+                "Number",
+                0.6925948858261108
+            ],
+            [
+                "Symmetry",
+                0.5627589821815491
+            ],
+            [
+                "Screenshot",
+                0.5601935386657715
+            ]
+        ]
+    }
+}

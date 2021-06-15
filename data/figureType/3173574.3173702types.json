@@ -1,0 +1,422 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1. We propose a solely software based approach of simulating weight in VR by deliberately using perceivable tracking offsets. These tracking\noffsets nudge users to lift their arm higher and result in a visual and haptic perception of weight.\n",
+        "image_labels": [
+            [
+                "Ten-pin bowling",
+                0.9229493141174316
+            ],
+            [
+                "Blue",
+                0.894500195980072
+            ],
+            [
+                "Leisure",
+                0.7807698249816895
+            ],
+            [
+                "Toy",
+                0.764654815196991
+            ],
+            [
+                "Fun",
+                0.7481791377067566
+            ],
+            [
+                "Recreation",
+                0.7352162599563599
+            ],
+            [
+                "Ball",
+                0.722878634929657
+            ],
+            [
+                "Elbow",
+                0.7181611061096191
+            ],
+            [
+                "Sports equipment",
+                0.7129735946655273
+            ],
+            [
+                "Electric blue",
+                0.710738480091095
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2. a) When an object is grabbed it is pulled down by the weight\nforce (F(g)). The imaginary force (F(o)) is working against the weight\nforce and increases with the offset between visual and tracked position.\nb) When an object is grabbed, the visual position \ufb01rst remains on the\ntracked position. While lifting, the visual position is shifted towards the\nobject one\u2019s. c) The faster an object is moved, the more the visual posi-\ntion is shifted towards the tracked one.\n",
+        "image_labels": [
+            [
+                "Joint",
+                0.975031316280365
+            ],
+            [
+                "Human body",
+                0.8848692774772644
+            ],
+            [
+                "Jaw",
+                0.8829876780509949
+            ],
+            [
+                "Organism",
+                0.8569142818450928
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Elbow",
+                0.8408327102661133
+            ],
+            [
+                "Font",
+                0.8027247786521912
+            ],
+            [
+                "Auto part",
+                0.727450430393219
+            ],
+            [
+                "Drawing",
+                0.726589560508728
+            ],
+            [
+                "Line art",
+                0.69712895154953
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3. Plot of the participant ratings of different presented offsets as\nwell as the trend line. The green area includes ratings where at least 50%\nof the participants rated the offsets as a good metaphor, the yellow area\nincludes offsets which were accepted by all participants. The red area\nincludes values which were not accepted by all participants.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8909517526626587
+            ],
+            [
+                "Slope",
+                0.8823277354240417
+            ],
+            [
+                "Font",
+                0.8235794305801392
+            ],
+            [
+                "Line",
+                0.8198207020759583
+            ],
+            [
+                "Plot",
+                0.8073154091835022
+            ],
+            [
+                "Parallel",
+                0.788471519947052
+            ],
+            [
+                "Pattern",
+                0.7117148041725159
+            ],
+            [
+                "Symmetry",
+                0.7024727463722229
+            ],
+            [
+                "Number",
+                0.6733445525169373
+            ],
+            [
+                "Diagram",
+                0.6664451360702515
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4. A screenshot of the bowling scene.\n",
+        "image_labels": [
+            [
+                "Bowling",
+                0.9562093019485474
+            ],
+            [
+                "Property",
+                0.9421114325523376
+            ],
+            [
+                "Blue",
+                0.8958364129066467
+            ],
+            [
+                "Building",
+                0.8941361904144287
+            ],
+            [
+                "Bowling pin",
+                0.8798091411590576
+            ],
+            [
+                "Interior design",
+                0.8588630557060242
+            ],
+            [
+                "Flooring",
+                0.8216211199760437
+            ],
+            [
+                "Floor",
+                0.8208701610565186
+            ],
+            [
+                "Font",
+                0.7749282717704773
+            ],
+            [
+                "Leisure",
+                0.771361231803894
+            ]
+        ]
+    },
+    "5": {
+        "type": "graphic",
+        "caption_text": "Figure 5. A screenshot of the detection threshold task scene.\n",
+        "image_labels": [
+            [
+                "Water",
+                0.9706653952598572
+            ],
+            [
+                "Sky",
+                0.9290922284126282
+            ],
+            [
+                "Astronomical object",
+                0.8306586742401123
+            ],
+            [
+                "Horizon",
+                0.8224130272865295
+            ],
+            [
+                "Wood",
+                0.8126654624938965
+            ],
+            [
+                "Cloud",
+                0.8122045397758484
+            ],
+            [
+                "Rectangle",
+                0.8014397025108337
+            ],
+            [
+                "Sunset",
+                0.8013004660606384
+            ],
+            [
+                "Gas",
+                0.7787102460861206
+            ],
+            [
+                "Tints and shades",
+                0.7727108001708984
+            ]
+        ]
+    },
+    "6": {
+        "type": "diagram",
+        "caption_text": "Figure 6. Boxplots of the Presence, immersion and enjoyment scores\nsplit by condition.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8434802889823914
+            ],
+            [
+                "Line",
+                0.8261498212814331
+            ],
+            [
+                "Parallel",
+                0.789002537727356
+            ],
+            [
+                "Font",
+                0.7220590114593506
+            ],
+            [
+                "Diagram",
+                0.7209168672561646
+            ],
+            [
+                "Slope",
+                0.6473745107650757
+            ],
+            [
+                "Symmetry",
+                0.5938361287117004
+            ]
+        ]
+    },
+    "7": {
+        "type": "chart",
+        "caption_text": "Figure 7. Boxplots of the results of our own questions regarding weight\nperception and estimation.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8779023885726929
+            ],
+            [
+                "Parallel",
+                0.7893043160438538
+            ],
+            [
+                "Font",
+                0.7570334076881409
+            ],
+            [
+                "Slope",
+                0.7501001954078674
+            ],
+            [
+                "Diagram",
+                0.6634147763252258
+            ],
+            [
+                "Pattern",
+                0.6481198668479919
+            ]
+        ]
+    },
+    "8": {
+        "type": "table",
+        "caption_text": "Figure 8. Illustration of the participants\u2019 rankings of the two conditions.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9024167656898499
+            ],
+            [
+                "Font",
+                0.831548810005188
+            ],
+            [
+                "Line",
+                0.8167874217033386
+            ],
+            [
+                "Parallel",
+                0.7855300903320312
+            ],
+            [
+                "Screenshot",
+                0.7261956930160522
+            ],
+            [
+                "Pattern",
+                0.7173469066619873
+            ],
+            [
+                "Number",
+                0.7026895880699158
+            ],
+            [
+                "Slope",
+                0.5976030230522156
+            ],
+            [
+                "Circle",
+                0.5718114376068115
+            ],
+            [
+                "Square",
+                0.5601564645767212
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9. The probability and variances of correct estimations as well as\na trend line when comparing two weights using different offsets.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8988227844238281
+            ],
+            [
+                "Slope",
+                0.8768221735954285
+            ],
+            [
+                "Triangle",
+                0.852901041507721
+            ],
+            [
+                "Line",
+                0.8219610452651978
+            ],
+            [
+                "Font",
+                0.8143436312675476
+            ],
+            [
+                "Plot",
+                0.8137710094451904
+            ],
+            [
+                "Parallel",
+                0.7899072170257568
+            ],
+            [
+                "Pattern",
+                0.7489023804664612
+            ],
+            [
+                "Symmetry",
+                0.7450510263442993
+            ],
+            [
+                "Number",
+                0.6692137718200684
+            ]
+        ]
+    },
+    "10": {
+        "type": "chart",
+        "caption_text": "Figure 10. Participants\u2019 weight associations of different presented off-\nsets.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8797809481620789
+            ],
+            [
+                "Slope",
+                0.8789145946502686
+            ],
+            [
+                "Parallel",
+                0.7883805632591248
+            ],
+            [
+                "Font",
+                0.7113931179046631
+            ],
+            [
+                "Diagram",
+                0.7028679251670837
+            ],
+            [
+                "Symmetry",
+                0.6671760082244873
+            ],
+            [
+                "Pattern",
+                0.6229418516159058
+            ]
+        ]
+    }
+}

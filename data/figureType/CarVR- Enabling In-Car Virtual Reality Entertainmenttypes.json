@@ -1,0 +1,504 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1. A player is sitting on the front passenger seat playing the game\nwhile the car is moving. Kinesthetic forces caused by the car match the\nmovements in VR.\n",
+        "image_labels": [
+            [
+                "Vehicle",
+                0.9151343107223511
+            ],
+            [
+                "Motor vehicle",
+                0.9141020774841309
+            ],
+            [
+                "Hood",
+                0.9120291471481323
+            ],
+            [
+                "Automotive design",
+                0.9074285626411438
+            ],
+            [
+                "Car",
+                0.8896881341934204
+            ],
+            [
+                "Vehicle door",
+                0.8450905680656433
+            ],
+            [
+                "Automotive exterior",
+                0.8398478627204895
+            ],
+            [
+                "Automotive mirror",
+                0.8231191635131836
+            ],
+            [
+                "T-shirt",
+                0.8167451620101929
+            ],
+            [
+                "Eyewear",
+                0.7686758637428284
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2. Schematic view of the position of devices and people involved\nin the apparatus. The driver acts as normal driver, following a route to a\ndestination, the co-driver is playing the game on the font-passenger seat\nwith a Samsung GearVR attached. An x-IMU measures the vehicle\u2019s\ninertia. An OBD-II reader attached to the car\u2019s diagnostic port is used\nto measure the car\u2019s velocity.\n",
+        "image_labels": [
+            [
+                "Sharing",
+                0.8292560577392578
+            ],
+            [
+                "Line",
+                0.8259521126747131
+            ],
+            [
+                "Font",
+                0.8233345746994019
+            ],
+            [
+                "Parallel",
+                0.7748537063598633
+            ],
+            [
+                "Diagram",
+                0.6808344721794128
+            ],
+            [
+                "Rectangle",
+                0.676495373249054
+            ],
+            [
+                "Auto part",
+                0.6503427028656006
+            ],
+            [
+                "Machine",
+                0.6269469857215881
+            ],
+            [
+                "Waste container",
+                0.602009654045105
+            ],
+            [
+                "Electric blue",
+                0.5894814133644104
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3. Route generation based on prede\ufb01ned route. (left) The trajec-\ntory is extracted from the topology, (center) A depth map based on the\ntrajectory is generated. (right) The terrain according to the depth map\nis generated.\n",
+        "image_labels": [
+            [
+                "Font",
+                0.8332121968269348
+            ],
+            [
+                "Plant",
+                0.832474946975708
+            ],
+            [
+                "Terrestrial plant",
+                0.7419777512550354
+            ],
+            [
+                "Service",
+                0.7126660943031311
+            ],
+            [
+                "Symbol",
+                0.6748252511024475
+            ],
+            [
+                "Medical",
+                0.5983619689941406
+            ],
+            [
+                "Bone",
+                0.5980833768844604
+            ],
+            [
+                "Graphics",
+                0.5861908197402954
+            ],
+            [
+                "Medical imaging",
+                0.5577141642570496
+            ],
+            [
+                "Radiography",
+                0.5520758628845215
+            ]
+        ]
+    },
+    "4": {
+        "type": "graphic",
+        "caption_text": "Figure 4. The warp effect can be used to visualize acceleration.\n",
+        "image_labels": [
+            [
+                "Plant",
+                0.9447869658470154
+            ],
+            [
+                "Gesture",
+                0.8385463356971741
+            ],
+            [
+                "Tree",
+                0.8354936838150024
+            ],
+            [
+                "Line",
+                0.8222827911376953
+            ],
+            [
+                "Grass",
+                0.8006120920181274
+            ],
+            [
+                "Terrestrial plant",
+                0.8004052639007568
+            ],
+            [
+                "Asphalt",
+                0.7934861183166504
+            ],
+            [
+                "Slope",
+                0.7717647552490234
+            ],
+            [
+                "Font",
+                0.7707539796829224
+            ],
+            [
+                "Urban design",
+                0.7621209621429443
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure 5. Two approaches of visualizing roll rotation. Left: the cockpit\nand the camera rotates along the roll axis. Right: only the cockpit ro-\ntates along the roll axis, the camera\u2019s roll rotation stays in line with the\nhorizon. This concept also applies for the pitch axis.\n",
+        "image_labels": [
+            [
+                "Green",
+                0.928821861743927
+            ],
+            [
+                "White",
+                0.9218831062316895
+            ],
+            [
+                "Triangle",
+                0.8410430550575256
+            ],
+            [
+                "Font",
+                0.8290328979492188
+            ],
+            [
+                "Line",
+                0.8261821269989014
+            ],
+            [
+                "Parallel",
+                0.7858819365501404
+            ],
+            [
+                "Rectangle",
+                0.7713501453399658
+            ],
+            [
+                "Slope",
+                0.7681978344917297
+            ],
+            [
+                "Diagram",
+                0.7270727753639221
+            ],
+            [
+                "Creative arts",
+                0.6821517944335938
+            ]
+        ]
+    },
+    "6": {
+        "type": "picture",
+        "caption_text": "Figure 6. Effects of vehicular rotation while braking, accelerating and\nturning. The weight transfer due to inertia in a car forces the car to\nrotate forward when braking, backward when accelerating on the pitch\naxis, and towards the outside of a curve when turning on the roll axis.\nThe rotation in a helicopter behaves inversely.\n",
+        "image_labels": [
+            [
+                "Vertebrate",
+                0.9232233166694641
+            ],
+            [
+                "White",
+                0.9218811988830566
+            ],
+            [
+                "Motor vehicle",
+                0.9200655817985535
+            ],
+            [
+                "Automotive lighting",
+                0.9157876372337341
+            ],
+            [
+                "Product",
+                0.9075367450714111
+            ],
+            [
+                "Hood",
+                0.8984518647193909
+            ],
+            [
+                "Black",
+                0.8973625302314758
+            ],
+            [
+                "Mode of transport",
+                0.8736557960510254
+            ],
+            [
+                "Font",
+                0.8590970635414124
+            ],
+            [
+                "Mammal",
+                0.8569576144218445
+            ]
+        ]
+    },
+    "7": {
+        "type": "diagram",
+        "caption_text": "Figure 7. The scene the player is \ufb02ying through. The map is a valley with\ndifferent highlights (a train, sheep, houses and a castle). The \ufb01ve small\nimages show the view from the ego perspective but without the cockpit.\n",
+        "image_labels": [
+            [
+                "Plant",
+                0.9376308917999268
+            ],
+            [
+                "Wheel",
+                0.9228144288063049
+            ],
+            [
+                "Tire",
+                0.9070946574211121
+            ],
+            [
+                "Map",
+                0.8727956414222717
+            ],
+            [
+                "World",
+                0.8477054238319397
+            ],
+            [
+                "Tree",
+                0.8120136857032776
+            ],
+            [
+                "Urban design",
+                0.800815761089325
+            ],
+            [
+                "Font",
+                0.7943494915962219
+            ],
+            [
+                "Sleeve",
+                0.7934332489967346
+            ],
+            [
+                "Auto part",
+                0.6317455768585205
+            ]
+        ]
+    },
+    "8": {
+        "type": "diagram",
+        "caption_text": "Figure 8. The view from inside the cockpit. A balloon is shot through\naiming via gaze and shooting via button press on a game controller.\n",
+        "image_labels": [
+            [
+                "Organism",
+                0.8634616136550903
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Tree",
+                0.8511291742324829
+            ],
+            [
+                "Slope",
+                0.849830150604248
+            ],
+            [
+                "Font",
+                0.8381688594818115
+            ],
+            [
+                "Line",
+                0.8268178105354309
+            ],
+            [
+                "Terrestrial plant",
+                0.8167463541030884
+            ],
+            [
+                "Adaptation",
+                0.7921910881996155
+            ],
+            [
+                "Pattern",
+                0.7710531949996948
+            ],
+            [
+                "Urban design",
+                0.7625597715377808
+            ]
+        ]
+    },
+    "9": {
+        "type": "diagram",
+        "caption_text": "Figure 9. The track driven during the study consisted of 6 curves (3 left-\nhand and 3 right-hand 90-degree curves) and three 360-degree turn (2\nleft-hand and 1 right-hand). It started in the parking lot (a). After three\nright-hand curves, the \ufb01rst 360-degree turn (b) was reached. Followed\nby another right-hand curve, the second 360-degree turn (c) was reached.\nThen after a left curve, the track went back to the \ufb01rst 360-degree turn\n(b). After three further left-hand curves, the track ended in the parking\nlot from the beginning s(a).\n",
+        "image_labels": [
+            [
+                "Font",
+                0.7948640584945679
+            ],
+            [
+                "Parallel",
+                0.7586649656295776
+            ],
+            [
+                "Terrestrial plant",
+                0.7571598887443542
+            ],
+            [
+                "Circle",
+                0.7216073870658875
+            ],
+            [
+                "Road",
+                0.6671485900878906
+            ],
+            [
+                "Diagram",
+                0.6169075965881348
+            ],
+            [
+                "Slope",
+                0.5844345092773438
+            ],
+            [
+                "Number",
+                0.5674515962600708
+            ],
+            [
+                "Intersection",
+                0.5522245168685913
+            ],
+            [
+                "Windscreen wiper",
+                0.5427333116531372
+            ]
+        ]
+    },
+    "10": {
+        "type": "table",
+        "caption_text": "Figure 10. E2I total score and subscale score for the two conditions park-\ning and driving. It can be seen that the rating for driving in all three\nscores (total, presence and enjoyment) is higher than for the parking\ncondition. The effect is signi\ufb01cant. Error bars represent one standard\ndeviation of uncertainty\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8832467794418335
+            ],
+            [
+                "Line",
+                0.8231076598167419
+            ],
+            [
+                "Material property",
+                0.8006865978240967
+            ],
+            [
+                "Parallel",
+                0.7897776961326599
+            ],
+            [
+                "Font",
+                0.7763736844062805
+            ],
+            [
+                "Pattern",
+                0.7606951594352722
+            ],
+            [
+                "Technology",
+                0.7377089262008667
+            ],
+            [
+                "Number",
+                0.7254312038421631
+            ],
+            [
+                "Diagram",
+                0.6574880480766296
+            ],
+            [
+                "Symmetry",
+                0.6327488422393799
+            ]
+        ]
+    },
+    "11": {
+        "type": "chart",
+        "caption_text": "Figure 11. Directly compared simulator sickness between the parking\ncondition and the driving condition.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8860068321228027
+            ],
+            [
+                "Font",
+                0.819354236125946
+            ],
+            [
+                "Parallel",
+                0.7871503829956055
+            ],
+            [
+                "Slope",
+                0.7477084994316101
+            ],
+            [
+                "Pattern",
+                0.7070972919464111
+            ],
+            [
+                "Number",
+                0.6661778688430786
+            ],
+            [
+                "Diagram",
+                0.618455171585083
+            ],
+            [
+                "Square",
+                0.5485471487045288
+            ],
+            [
+                "Plot",
+                0.5026040077209473
+            ]
+        ]
+    }
+}

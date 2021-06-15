@@ -1,0 +1,692 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1: Inspired by Rettig [32], 360-degree paper proto-\ntyping involves participants in different roles: User tests an\nAR/VR paper mockup of an animated butterfly scene; Facili-\ntator streams the butterfly cut-out arranged on a 360\u25e6 paper\ntemplate, while \u201cComputer\u201d moves the butterfly along the\n360\u25e6 grid; Observer records User\u2019s behavior and feedback.\n",
+        "image_labels": [
+            [
+                "Arm",
+                0.9445943832397461
+            ],
+            [
+                "Jaw",
+                0.8789477348327637
+            ],
+            [
+                "Sleeve",
+                0.8675268888473511
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8296577334403992
+            ],
+            [
+                "Finger",
+                0.8267091512680054
+            ],
+            [
+                "Rectangle",
+                0.8236260414123535
+            ],
+            [
+                "Art",
+                0.7921206951141357
+            ],
+            [
+                "Sharing",
+                0.7258077263832092
+            ],
+            [
+                "Drawing",
+                0.7191296815872192
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2: Initial Daydream, Pok\u00e9mon GO paper prototypes\n",
+        "image_labels": [
+            [
+                "Wood",
+                0.8866894245147705
+            ],
+            [
+                "Plant",
+                0.8314605355262756
+            ],
+            [
+                "Flooring",
+                0.8270680904388428
+            ],
+            [
+                "Art",
+                0.8244333863258362
+            ],
+            [
+                "Floor",
+                0.8163934946060181
+            ],
+            [
+                "Hardwood",
+                0.7501951456069946
+            ],
+            [
+                "Paint",
+                0.7432431578636169
+            ],
+            [
+                "Wood stain",
+                0.7200604677200317
+            ],
+            [
+                "Painting",
+                0.6998783946037292
+            ],
+            [
+                "Grass",
+                0.6925036907196045
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3: 360 paper prototype versions viewed in Cardboard\ntook three hours with two hours focused on paper proto-\ntyping in groups. At the end of each round, groups were\nasked to demonstrate the three required interactions with\ntheir prototypes, which we recorded from the perspective\nof the user. We concluded with a focus group discussion to\nhave participants reflect on the experience as well as exit\nquestionnaires to gather feedback in terms of two pros and\ntwo cons comparing plain and 360 paper prototyping.\n",
+        "image_labels": [
+            [
+                "Font",
+                0.7707491517066956
+            ],
+            [
+                "Event",
+                0.7055369019508362
+            ],
+            [
+                "Circle",
+                0.700617790222168
+            ],
+            [
+                "Art",
+                0.67835533618927
+            ],
+            [
+                "Medical imaging",
+                0.668607234954834
+            ],
+            [
+                "Metal",
+                0.6299904584884644
+            ],
+            [
+                "Formal wear",
+                0.6239720582962036
+            ],
+            [
+                "Soil",
+                0.5956759452819824
+            ],
+            [
+                "Automotive lighting",
+                0.5612848997116089
+            ],
+            [
+                "Pattern",
+                0.557645857334137
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4: 360 grid (red), range of motion (green), FOV (blue)\n",
+        "image_labels": [
+            [
+                "Line",
+                0.819588303565979
+            ],
+            [
+                "Font",
+                0.8054021000862122
+            ],
+            [
+                "Circle",
+                0.771979033946991
+            ],
+            [
+                "Symmetry",
+                0.7615421414375305
+            ],
+            [
+                "Pattern",
+                0.7519116997718811
+            ],
+            [
+                "Parallel",
+                0.7462891936302185
+            ],
+            [
+                "Mesh",
+                0.7416226267814636
+            ],
+            [
+                "Triangle",
+                0.7032579183578491
+            ],
+            [
+                "Diagram",
+                0.6548277139663696
+            ],
+            [
+                "Creative arts",
+                0.6397884488105774
+            ]
+        ]
+    },
+    "5": {
+        "type": "table",
+        "caption_text": "Figure 5: Camera tool creates static captures and live streams\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8894923329353333
+            ],
+            [
+                "Font",
+                0.8288253545761108
+            ],
+            [
+                "Line",
+                0.8194623589515686
+            ],
+            [
+                "Slope",
+                0.8052870631217957
+            ],
+            [
+                "Parallel",
+                0.785114586353302
+            ],
+            [
+                "Pattern",
+                0.774353563785553
+            ],
+            [
+                "Technology",
+                0.7359405755996704
+            ],
+            [
+                "Circle",
+                0.7315369844436646
+            ],
+            [
+                "Screenshot",
+                0.7224920392036438
+            ],
+            [
+                "Audio equipment",
+                0.7008386254310608
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure 6: 360proto Studio\u2019s View pane (top left) shows a simulated or live preview of the 360 paper prototype; Collect pane\n(bottom left) shows the live feed from the connected Camera tool and contains previous captures (here, three captures of\nmountains, trees, and butterflies, a dog and a car drawn using the 360 paper template); Capture pane (bottom right) shows a\nselected capture and provides color filters for chroma keying; Layers pane (top right) shows 2D, 360, and AR/VR specific layers\n(here, only 360 layers are used to compose a basic butterfly scene from the running example).\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9073014259338379
+            ],
+            [
+                "Font",
+                0.8458079695701599
+            ],
+            [
+                "Screenshot",
+                0.826300323009491
+            ],
+            [
+                "Slope",
+                0.8039480447769165
+            ],
+            [
+                "Rectangle",
+                0.7941970229148865
+            ],
+            [
+                "Software",
+                0.7869865894317627
+            ],
+            [
+                "Technology",
+                0.7662261724472046
+            ],
+            [
+                "Gadget",
+                0.759853720664978
+            ],
+            [
+                "Multimedia",
+                0.759456217288971
+            ],
+            [
+                "Electronic device",
+                0.7566222548484802
+            ]
+        ]
+    },
+    "7": {
+        "type": "diagram",
+        "caption_text": "Figure 7: Butterfly scene composed from three 360 layers\n",
+        "image_labels": [
+            [
+                "Plant",
+                0.9184991121292114
+            ],
+            [
+                "Jaw",
+                0.8773510456085205
+            ],
+            [
+                "Slope",
+                0.8743924498558044
+            ],
+            [
+                "Organism",
+                0.8616818785667419
+            ],
+            [
+                "Tree",
+                0.8527135252952576
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Art",
+                0.8448086977005005
+            ],
+            [
+                "Twig",
+                0.8330435156822205
+            ],
+            [
+                "Cartoon",
+                0.809540331363678
+            ],
+            [
+                "Woody plant",
+                0.8017570376396179
+            ]
+        ]
+    },
+    "8": {
+        "type": "graphic",
+        "caption_text": "Figure 8: AR marker to move virtual butterfly in AR view\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9075376987457275
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8403257131576538
+            ],
+            [
+                "Finger",
+                0.840313196182251
+            ],
+            [
+                "Gadget",
+                0.8261948227882385
+            ],
+            [
+                "Wood",
+                0.8006097674369812
+            ],
+            [
+                "Parallel",
+                0.7721103429794312
+            ],
+            [
+                "Output device",
+                0.7657133936882019
+            ],
+            [
+                "Rectangle",
+                0.7569532990455627
+            ],
+            [
+                "Screenshot",
+                0.7501851916313171
+            ]
+        ]
+    },
+    "9": {
+        "type": "diagram",
+        "caption_text": "Figure 9: AR mode with the user looking at a virtual butter-\nfly from inside (left) and outside (right) the 360 video sphere\nthat is anchored at the starting physical location\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.836696207523346
+            ],
+            [
+                "Rectangle",
+                0.8281638026237488
+            ],
+            [
+                "Font",
+                0.7977055311203003
+            ],
+            [
+                "Parallel",
+                0.7874805331230164
+            ],
+            [
+                "Circle",
+                0.7840550541877747
+            ],
+            [
+                "Symmetry",
+                0.742135763168335
+            ],
+            [
+                "Auto part",
+                0.7309131026268005
+            ],
+            [
+                "Drawing",
+                0.7167779803276062
+            ],
+            [
+                "Pattern",
+                0.6794083714485168
+            ],
+            [
+                "Electric blue",
+                0.6779353022575378
+            ]
+        ]
+    },
+    "10": {
+        "type": "formula",
+        "caption_text": "Figure 10: Architecture of our suite of 360proto tools\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8723923563957214
+            ],
+            [
+                "Font",
+                0.8272863030433655
+            ],
+            [
+                "Line",
+                0.8182421922683716
+            ],
+            [
+                "Parallel",
+                0.7846006751060486
+            ],
+            [
+                "Screenshot",
+                0.7167747616767883
+            ],
+            [
+                "Circle",
+                0.7062678337097168
+            ],
+            [
+                "Slope",
+                0.6843386888504028
+            ],
+            [
+                "Number",
+                0.6803633570671082
+            ],
+            [
+                "Brand",
+                0.6539711952209473
+            ],
+            [
+                "Diagram",
+                0.5829139947891235
+            ]
+        ]
+    },
+    "11": {
+        "type": "human",
+        "caption_text": "Figure 11: Star Trek: two connected rooms made from paper\n",
+        "image_labels": [
+            [
+                "Sleeve",
+                0.8723955750465393
+            ],
+            [
+                "Jersey",
+                0.8572169542312622
+            ],
+            [
+                "Font",
+                0.8130830526351929
+            ],
+            [
+                "Automotive design",
+                0.7836204767227173
+            ],
+            [
+                "Rectangle",
+                0.7624754309654236
+            ],
+            [
+                "Circle",
+                0.7572787404060364
+            ],
+            [
+                "Button",
+                0.7413066029548645
+            ],
+            [
+                "T-shirt",
+                0.7274783253669739
+            ],
+            [
+                "Automotive lighting",
+                0.7273443341255188
+            ],
+            [
+                "Pattern",
+                0.7149315476417542
+            ]
+        ]
+    },
+    "12": {
+        "type": "picture",
+        "caption_text": "Figure 12: Androids on paper appear in the environment\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9071992039680481
+            ],
+            [
+                "Green",
+                0.8991401791572571
+            ],
+            [
+                "Toy",
+                0.8298794031143188
+            ],
+            [
+                "Communication Device",
+                0.8277036547660828
+            ],
+            [
+                "Font",
+                0.825107753276825
+            ],
+            [
+                "Technology",
+                0.7464023232460022
+            ],
+            [
+                "Frog",
+                0.7448341250419617
+            ],
+            [
+                "Audio equipment",
+                0.7430747747421265
+            ],
+            [
+                "Terrestrial plant",
+                0.7356835603713989
+            ],
+            [
+                "True frog",
+                0.7294992804527283
+            ]
+        ]
+    },
+    "13": {
+        "type": "table",
+        "caption_text": "Figure 13: Distribution of 29 responses for Q1\u2013Q3\n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Rectangle",
+                0.8959309458732605
+            ],
+            [
+                "Font",
+                0.8451946377754211
+            ],
+            [
+                "Slope",
+                0.7988104224205017
+            ],
+            [
+                "Parallel",
+                0.7788321375846863
+            ],
+            [
+                "Screenshot",
+                0.7601836323738098
+            ],
+            [
+                "Circle",
+                0.7324867248535156
+            ],
+            [
+                "Software",
+                0.7166482210159302
+            ],
+            [
+                "Pattern",
+                0.7024332880973816
+            ],
+            [
+                "Number",
+                0.6724162101745605
+            ]
+        ]
+    },
+    "14": {
+        "type": "picture",
+        "caption_text": "Figure 14: Racquetball game (left), WOz version (right)\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8825412392616272
+            ],
+            [
+                "Door",
+                0.8812150955200195
+            ],
+            [
+                "Window",
+                0.868190348148346
+            ],
+            [
+                "Automotive mirror",
+                0.848801851272583
+            ],
+            [
+                "Automotive lighting",
+                0.8483263254165649
+            ],
+            [
+                "Vehicle door",
+                0.8178955316543579
+            ],
+            [
+                "Insect",
+                0.7969910502433777
+            ],
+            [
+                "Grass",
+                0.778702974319458
+            ],
+            [
+                "Font",
+                0.774728536605835
+            ],
+            [
+                "Tints and shades",
+                0.772914469242096
+            ]
+        ]
+    },
+    "15": {
+        "type": "picture",
+        "caption_text": "Figure 15: WOz version of Amazon Shopping\u2019s AR view\n",
+        "image_labels": [
+            [
+                "Handwriting",
+                0.9288697838783264
+            ],
+            [
+                "Table",
+                0.876907229423523
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8258541226387024
+            ],
+            [
+                "Line",
+                0.8158659934997559
+            ],
+            [
+                "Material property",
+                0.8022804260253906
+            ],
+            [
+                "Whiteboard",
+                0.7724941372871399
+            ],
+            [
+                "Art",
+                0.7659397721290588
+            ],
+            [
+                "Snapshot",
+                0.7428470849990845
+            ],
+            [
+                "Thumb",
+                0.7052733302116394
+            ]
+        ]
+    }
+}

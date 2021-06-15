@@ -1,0 +1,320 @@
+{
+    "1": {
+        "type": "graphic",
+        "caption_text": "Figure 1.  WalkingVibe prototype with 2 vibration motors behind the \nears,  which  provide  vibrotactile  stimulation  synchronized  to  footsteps \nin  VR.  Our  240-person  study  showed  that  it  signi\ufb01cantly  reduced  dis-\ncomfort and VR sickness, and signi\ufb01cantly improved the realism of the \nvirtual walking experience in VR. \n",
+        "image_labels": [
+            [
+                "Cloud",
+                0.9518570303916931
+            ],
+            [
+                "Building",
+                0.9416645765304565
+            ],
+            [
+                "Vision care",
+                0.938683807849884
+            ],
+            [
+                "Sky",
+                0.9267822504043579
+            ],
+            [
+                "Helmet",
+                0.910833477973938
+            ],
+            [
+                "Sunglasses",
+                0.8608794808387756
+            ],
+            [
+                "Architecture",
+                0.8557062149047852
+            ],
+            [
+                "Eyewear",
+                0.8525965213775635
+            ],
+            [
+                "Goggles",
+                0.839809000492096
+            ],
+            [
+                "Street fashion",
+                0.8109333515167236
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2. WalkingVibe prototype with 2-sided vibrotactile design. \n",
+        "image_labels": [
+            [
+                "Peripheral",
+                0.9538007974624634
+            ],
+            [
+                "Output device",
+                0.9173105955123901
+            ],
+            [
+                "Purple",
+                0.8602365851402283
+            ],
+            [
+                "Input device",
+                0.8520848155021667
+            ],
+            [
+                "Gadget",
+                0.8520407676696777
+            ],
+            [
+                "Font",
+                0.7970805764198303
+            ],
+            [
+                "Ear",
+                0.7923067808151245
+            ],
+            [
+                "Audio equipment",
+                0.7869919538497925
+            ],
+            [
+                "Electric blue",
+                0.756375789642334
+            ],
+            [
+                "Communication Device",
+                0.7429539561271667
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3.  The setup for each category of tactile feedback:  (a) 2-sided vibration, (b) backside vibration, (c) 2-sided tapping feedback replicated from \nPhantomLegs [37] project. \n",
+        "image_labels": [
+            [
+                "Automotive lighting",
+                0.9045483469963074
+            ],
+            [
+                "Purple",
+                0.8813347816467285
+            ],
+            [
+                "Camera accessory",
+                0.7950231432914734
+            ],
+            [
+                "Font",
+                0.7608964443206787
+            ],
+            [
+                "Electric blue",
+                0.7394711971282959
+            ],
+            [
+                "Gadget",
+                0.7249007225036621
+            ],
+            [
+                "Personal protective equipment",
+                0.7060962915420532
+            ],
+            [
+                "Automotive fog light",
+                0.6975768804550171
+            ],
+            [
+                "Metal",
+                0.6749340891838074
+            ],
+            [
+                "Event",
+                0.6737512350082397
+            ]
+        ]
+    },
+    "4": {
+        "type": "picture",
+        "caption_text": "Figure 4.  Screenshots of three scenes and paths of the virtual walking \nenvironment: (a)(d) the city, (b)(e) the forest, and (c)(f) the sci-\ufb01 Passage. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9075788855552673
+            ],
+            [
+                "Green",
+                0.8999993801116943
+            ],
+            [
+                "Plant",
+                0.8543800711631775
+            ],
+            [
+                "Building",
+                0.8469054698944092
+            ],
+            [
+                "Line",
+                0.8257911205291748
+            ],
+            [
+                "Slope",
+                0.8172850608825684
+            ],
+            [
+                "Terrestrial plant",
+                0.8123123645782471
+            ],
+            [
+                "Urban design",
+                0.8096433877944946
+            ],
+            [
+                "Technology",
+                0.7590958476066589
+            ],
+            [
+                "Engineering",
+                0.7552103400230408
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure  5.  The  average  and  standard  deviation  (in  parentheses)  of  dis-\ncomfort scores (from left to right) are: 1.81 (0.61), 1.53 (0.75), 1.70 (0.92), \n1.36 (0.53), 1.07 (0.62), 1.45 (0.63), 1.86 (0.74), 1.61 (0.75). \n",
+        "image_labels": [
+            [
+                "Font",
+                0.833516001701355
+            ],
+            [
+                "Line",
+                0.8173450827598572
+            ],
+            [
+                "Rectangle",
+                0.7820219397544861
+            ],
+            [
+                "Plot",
+                0.7617458701133728
+            ],
+            [
+                "Parallel",
+                0.7417869567871094
+            ],
+            [
+                "Slope",
+                0.7165608406066895
+            ],
+            [
+                "Magenta",
+                0.6095621585845947
+            ],
+            [
+                "Diagram",
+                0.5673651099205017
+            ],
+            [
+                "Number",
+                0.5529961585998535
+            ],
+            [
+                "Brand",
+                0.5410050749778748
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure 6.  The average and standard deviation (in parentheses) of RSS \n(from left to right) are:  22.19 (18.60), 18.70 (19.17), 18.20 (15.47), 6.73 \n(15.46), 9.35 (16.75), 9.60 (14.18), 16.95 (12.16), 14.34 (20.55). \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8619294166564941
+            ],
+            [
+                "Font",
+                0.8241639733314514
+            ],
+            [
+                "Line",
+                0.8172023892402649
+            ],
+            [
+                "Slope",
+                0.8151033520698547
+            ],
+            [
+                "Parallel",
+                0.784233808517456
+            ],
+            [
+                "Plot",
+                0.7729911208152771
+            ],
+            [
+                "Diagram",
+                0.7016394734382629
+            ],
+            [
+                "Pattern",
+                0.6514124870300293
+            ],
+            [
+                "Number",
+                0.5915389060974121
+            ],
+            [
+                "Brand",
+                0.5047873854637146
+            ]
+        ]
+    },
+    "7": {
+        "type": "chart",
+        "caption_text": "Figure 7. The average and standard deviation (in parentheses) of realism \nscore  (from  left  to  right)  are:  4.17  (1.86),  4.93  (2.08),  5.70  (2.31),  4.27 \n(2.03), 5.67 (2.08), 3.50 (1.69), 4.30 (2.31), 4.23 (1.98). \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8698941469192505
+            ],
+            [
+                "Font",
+                0.8340322971343994
+            ],
+            [
+                "Plot",
+                0.8319709300994873
+            ],
+            [
+                "Slope",
+                0.8315768241882324
+            ],
+            [
+                "Line",
+                0.8209176659584045
+            ],
+            [
+                "Parallel",
+                0.7676125168800354
+            ],
+            [
+                "Diagram",
+                0.6474571228027344
+            ],
+            [
+                "Number",
+                0.5812325477600098
+            ],
+            [
+                "Pattern",
+                0.5784009099006653
+            ]
+        ]
+    }
+}

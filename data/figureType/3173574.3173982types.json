@@ -1,0 +1,232 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1: a) The exergame is based on a computer-controlled stationary exercycle and played while wearing a head-mounted display.\nb) A \u201cself modelling cue\u201d helps the player to identify a \u201cghost\u201d avatar with their own previous performance. c) Low-intensity\ncycling and avoiding trucks during warm-up, recovery and cool-down phases. d) High-intensity race against the \u201cghost.\u201d\n",
+        "image_labels": [
+            [
+                "Arm",
+                0.9426477551460266
+            ],
+            [
+                "Water",
+                0.9396619200706482
+            ],
+            [
+                "Leg",
+                0.9223512411117554
+            ],
+            [
+                "Thigh",
+                0.8428889513015747
+            ],
+            [
+                "Gas",
+                0.7809224724769592
+            ],
+            [
+                "Knee",
+                0.7754185795783997
+            ],
+            [
+                "Home appliance",
+                0.7704161405563354
+            ],
+            [
+                "Electric blue",
+                0.7460428476333618
+            ],
+            [
+                "Elbow",
+                0.7411066293716431
+            ],
+            [
+                "Machine",
+                0.7340354919433594
+            ]
+        ]
+    },
+    "2": {
+        "type": "graphic",
+        "caption_text": "Figure 2: \u2206Power (difference from baseline B) for the equal\nchallenge (E) and harder challenge (H) conditions in different\nlevels of resistance awareness (top-left) and in non-self (NSC)\nvs. self competition (SC) framing (bottom-left). \u2206Power for\nH in different levels of resistance awareness (top-right) and\ncompetition framing (bottom-right).\n",
+        "image_labels": [
+            [
+                "Hat",
+                0.8637610673904419
+            ],
+            [
+                "Sky",
+                0.8572459816932678
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Mode of transport",
+                0.848107635974884
+            ],
+            [
+                "Cartoon",
+                0.8443345427513123
+            ],
+            [
+                "Font",
+                0.8245680928230286
+            ],
+            [
+                "Travel",
+                0.8205974698066711
+            ],
+            [
+                "Rectangle",
+                0.8184930682182312
+            ],
+            [
+                "Art",
+                0.8050311207771301
+            ],
+            [
+                "Landscape",
+                0.7389588356018066
+            ]
+        ]
+    },
+    "3": {
+        "type": "graphic",
+        "caption_text": "Figure 3: IMI Interest/Enjoyment (left column) and IMI Pres-\nsure/Tension (right column) scores for the baseline (B), equal\nchallenge (E) and harder challenge (H) conditions for 1) self\ncompetition (SC) framing in different levels of resistance\nawareness (top row) and 2) without resistance awareness (NA)\nin self competition (SC) vs. non-self competition (NSC) fram-\ning (bottom row).\n",
+        "image_labels": [
+            [
+                "Cloud",
+                0.9777041673660278
+            ],
+            [
+                "Sky",
+                0.9585937857627869
+            ],
+            [
+                "Vehicle",
+                0.9482822418212891
+            ],
+            [
+                "Green",
+                0.919793963432312
+            ],
+            [
+                "Motor vehicle",
+                0.900764524936676
+            ],
+            [
+                "Asphalt",
+                0.8874403238296509
+            ],
+            [
+                "Road surface",
+                0.8745800852775574
+            ],
+            [
+                "Tree",
+                0.8661101460456848
+            ],
+            [
+                "Plant",
+                0.8655321002006531
+            ],
+            [
+                "Mode of transport",
+                0.8540606498718262
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4: FSQ Balance of Challenges and Skills (left column)\nand FSQ Absorption in the Task (right column) scores for the\nbaseline (B), equal challenge (E) and harder challenge (H)\nconditions for 1) self competition (SC) framing in different\nlevels of resistance awareness (top row) and 2) without resis-\ntance awareness (NA) in self competition (SC) vs. non-self\ncompetition (NSC) framing (bottom row).\n",
+        "image_labels": [
+            [
+                "World",
+                0.9136533737182617
+            ],
+            [
+                "Font",
+                0.8379939198493958
+            ],
+            [
+                "Rectangle",
+                0.8254997134208679
+            ],
+            [
+                "Slope",
+                0.8227614164352417
+            ],
+            [
+                "Naval architecture",
+                0.7774492502212524
+            ],
+            [
+                "Technology",
+                0.7580744028091431
+            ],
+            [
+                "Electric blue",
+                0.7502109408378601
+            ],
+            [
+                "Screenshot",
+                0.744306743144989
+            ],
+            [
+                "Graphics software",
+                0.7442678213119507
+            ],
+            [
+                "Display device",
+                0.7319240570068359
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure 5: IEQ scores in different levels of resistance awareness\n(left) and competition framing (right).\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8897237181663513
+            ],
+            [
+                "Slope",
+                0.8832136988639832
+            ],
+            [
+                "Parallel",
+                0.7885549068450928
+            ],
+            [
+                "Font",
+                0.7870986461639404
+            ],
+            [
+                "Pattern",
+                0.7189542651176453
+            ],
+            [
+                "Circle",
+                0.7005693912506104
+            ],
+            [
+                "Diagram",
+                0.6985943913459778
+            ],
+            [
+                "Symmetry",
+                0.6718869805335999
+            ],
+            [
+                "Number",
+                0.6669757962226868
+            ],
+            [
+                "Drawing",
+                0.6074029803276062
+            ]
+        ]
+    }
+}

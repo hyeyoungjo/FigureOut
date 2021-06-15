@@ -1,0 +1,370 @@
+{
+    "1": {
+        "type": "graphic",
+        "caption_text": "Figure 1: Scenes from Anonymous, an interactive cinematic virtual reality story about death and loneliness. \n",
+        "image_labels": [
+            [
+                "Automotive design",
+                0.8686137199401855
+            ],
+            [
+                "Wood",
+                0.8523363471031189
+            ],
+            [
+                "Rectangle",
+                0.841706395149231
+            ],
+            [
+                "Tints and shades",
+                0.7705276608467102
+            ],
+            [
+                "Automotive exterior",
+                0.7631636261940002
+            ],
+            [
+                "Font",
+                0.7540579438209534
+            ],
+            [
+                "Vehicle door",
+                0.7339669466018677
+            ],
+            [
+                "Metal",
+                0.7124629020690918
+            ],
+            [
+                "Art",
+                0.7111413478851318
+            ],
+            [
+                "Luxury vehicle",
+                0.6299542188644409
+            ]
+        ]
+    },
+    "2": {
+        "type": "table",
+        "caption_text": "Figure 2: Initial diorama of Anonymous using physical card-\nboard. \n",
+        "image_labels": [
+            [
+                "Wood",
+                0.8778866529464722
+            ],
+            [
+                "Manhole cover",
+                0.8273349404335022
+            ],
+            [
+                "Font",
+                0.7951622009277344
+            ],
+            [
+                "Rectangle",
+                0.765703022480011
+            ],
+            [
+                "Manhole",
+                0.7642425894737244
+            ],
+            [
+                "Pattern",
+                0.7624335289001465
+            ],
+            [
+                "Tints and shades",
+                0.7607462406158447
+            ],
+            [
+                "Flooring",
+                0.7398715019226074
+            ],
+            [
+                "Circle",
+                0.7374927997589111
+            ],
+            [
+                "Design",
+                0.6839631795883179
+            ]
+        ]
+    },
+    "3": {
+        "type": "graphic",
+        "caption_text": "Figure 3: Objects in Anonymous. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8321886658668518
+            ],
+            [
+                "Handwriting",
+                0.774229109287262
+            ],
+            [
+                "Circle",
+                0.7542569041252136
+            ],
+            [
+                "Art",
+                0.750143826007843
+            ],
+            [
+                "Wood",
+                0.688599705696106
+            ],
+            [
+                "Illustration",
+                0.6557000875473022
+            ],
+            [
+                "Paper",
+                0.6386440992355347
+            ],
+            [
+                "Paper product",
+                0.6044992804527283
+            ],
+            [
+                "Games",
+                0.5980121493339539
+            ],
+            [
+                "Recreation",
+                0.5881731510162354
+            ]
+        ]
+    },
+    "4": {
+        "type": "graphic",
+        "caption_text": "Figure 4: The virtual environment of Anonymous. \n",
+        "image_labels": [
+            [
+                "Flooring",
+                0.8072708249092102
+            ],
+            [
+                "Wood",
+                0.793028712272644
+            ],
+            [
+                "Gas",
+                0.7739742398262024
+            ],
+            [
+                "Audio equipment",
+                0.7369263172149658
+            ],
+            [
+                "Space",
+                0.7320230007171631
+            ],
+            [
+                "Building",
+                0.6981387734413147
+            ],
+            [
+                "Machine",
+                0.6863441467285156
+            ],
+            [
+                "Room",
+                0.6173185706138611
+            ],
+            [
+                "Cardboard",
+                0.5927139520645142
+            ],
+            [
+                "Urban design",
+                0.5822919011116028
+            ]
+        ]
+    },
+    "5": {
+        "type": "graphic",
+        "caption_text": "Figure 5: The widower character from Anonymous. \n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Art",
+                0.8206406235694885
+            ],
+            [
+                "Packaging and labeling",
+                0.8067055344581604
+            ],
+            [
+                "Wood",
+                0.8062001466751099
+            ],
+            [
+                "Carton",
+                0.7855471968650818
+            ],
+            [
+                "Cardboard",
+                0.776576042175293
+            ],
+            [
+                "Space",
+                0.7236273288726807
+            ],
+            [
+                "Paper",
+                0.7161577343940735
+            ],
+            [
+                "Box",
+                0.71322101354599
+            ],
+            [
+                "Visual arts",
+                0.7018569111824036
+            ]
+        ]
+    },
+    "6": {
+        "type": "picture",
+        "caption_text": "Figure 6: Screenshot of the viewer inhabiting an object within \nAnonymous. In this image, the viewer\u2019s perspective is shown \nfrom inside the main character\u2019s telephone. The foreground of \nthe image shows the telephone\u2019s number pad and handset, and \nthe main character appears in the background. \n",
+        "image_labels": [
+            [
+                "Brown",
+                0.9804678559303284
+            ],
+            [
+                "Wood",
+                0.865294873714447
+            ],
+            [
+                "Art",
+                0.8446023464202881
+            ],
+            [
+                "Tints and shades",
+                0.7732440829277039
+            ],
+            [
+                "Font",
+                0.7555826306343079
+            ],
+            [
+                "Facade",
+                0.7410495281219482
+            ],
+            [
+                "Pattern",
+                0.722456157207489
+            ],
+            [
+                "Symmetry",
+                0.7217413783073425
+            ],
+            [
+                "Visual arts",
+                0.6496466994285583
+            ],
+            [
+                "Metal",
+                0.64841628074646
+            ]
+        ]
+    },
+    "7": {
+        "type": "graphic",
+        "caption_text": "Figure 7:  Screenshots of becoming the butter\ufb02y.  The upper \nhalf of the image shows the viewer\u2019s perspective when gazing \nat the butter\ufb02y. The lower half shows the viewer\u2019s perspective \nwhen they are embodied as the butter\ufb02y. \n",
+        "image_labels": [
+            [
+                "Light",
+                0.9117409586906433
+            ],
+            [
+                "Lighting",
+                0.8654882311820984
+            ],
+            [
+                "Grey",
+                0.8421755433082581
+            ],
+            [
+                "Automotive design",
+                0.7967566251754761
+            ],
+            [
+                "Clock",
+                0.7946272492408752
+            ],
+            [
+                "Wood",
+                0.7786008715629578
+            ],
+            [
+                "Urban design",
+                0.7763724327087402
+            ],
+            [
+                "Art",
+                0.7699355483055115
+            ],
+            [
+                "Space",
+                0.7656058073043823
+            ],
+            [
+                "Ceiling",
+                0.731855571269989
+            ]
+        ]
+    },
+    "8": {
+        "type": "graphic",
+        "caption_text": "Figure 8: Screenshots of the \ufb01nal scene in Anonymous. \n",
+        "image_labels": [
+            [
+                "Sky",
+                0.8828054070472717
+            ],
+            [
+                "Building",
+                0.8642440438270569
+            ],
+            [
+                "Clock",
+                0.8432193398475647
+            ],
+            [
+                "Space",
+                0.7552598118782043
+            ],
+            [
+                "Ceiling",
+                0.72346031665802
+            ],
+            [
+                "Event",
+                0.7154092788696289
+            ],
+            [
+                "Midnight",
+                0.7067996859550476
+            ],
+            [
+                "Darkness",
+                0.7039783000946045
+            ],
+            [
+                "House",
+                0.7026085257530212
+            ],
+            [
+                "Facade",
+                0.6869322657585144
+            ]
+        ]
+    }
+}

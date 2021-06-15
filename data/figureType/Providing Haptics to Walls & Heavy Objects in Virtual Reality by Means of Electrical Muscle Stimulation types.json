@@ -1,0 +1,876 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1: (a) As this user lifts a virtual cube, our system \nlets the user feel the weight and resistance of the cube. \n(b) Our system implements this by actuating the user\u2019s \nopposing muscles using electrical muscle stimulation. \n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9776573777198792
+            ],
+            [
+                "Hand",
+                0.9585487842559814
+            ],
+            [
+                "Arm",
+                0.9468834400177002
+            ],
+            [
+                "Shoulder",
+                0.9409782886505127
+            ],
+            [
+                "Muscle",
+                0.9238231182098389
+            ],
+            [
+                "Product",
+                0.9081110954284668
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Finger",
+                0.8482036590576172
+            ],
+            [
+                "Cartoon",
+                0.8267485499382019
+            ],
+            [
+                "Elbow",
+                0.8208837509155273
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2: (a) When a user picks up a physical cube, its \nweight causes tension in the user\u2019s biceps. (b) Our sys-\ntem creates this tension by instead actuating the oppos-\ning muscles, here the user\u2019s triceps and shoulders. \n",
+        "image_labels": [
+            [
+                "Hand",
+                0.9605110287666321
+            ],
+            [
+                "Arm",
+                0.9471340775489807
+            ],
+            [
+                "Sharing",
+                0.8846943378448486
+            ],
+            [
+                "Sleeve",
+                0.8643667697906494
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Thumb",
+                0.8494773507118225
+            ],
+            [
+                "Finger",
+                0.8402449488639832
+            ],
+            [
+                "Interaction",
+                0.8382947444915771
+            ],
+            [
+                "Happy",
+                0.8214744329452515
+            ],
+            [
+                "Elbow",
+                0.8170015811920166
+            ]
+        ]
+    },
+    "3": {
+        "type": "human",
+        "caption_text": "Figure 3: We use up to 8 electrode pairs, actuating \n(a) wrist, (b) biceps, (c) triceps, and (d) shoulders. \n",
+        "image_labels": [
+            [
+                "Hairstyle",
+                0.9509009122848511
+            ],
+            [
+                "White",
+                0.9218858480453491
+            ],
+            [
+                "Black",
+                0.8987885117530823
+            ],
+            [
+                "Sleeve",
+                0.8724496960639954
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8265583515167236
+            ],
+            [
+                "Sharing",
+                0.7946540117263794
+            ],
+            [
+                "People",
+                0.7757704257965088
+            ],
+            [
+                "Elbow",
+                0.7390960454940796
+            ],
+            [
+                "Design",
+                0.6839537024497986
+            ]
+        ]
+    },
+    "4": {
+        "type": "human",
+        "caption_text": "Figure 4: Implementing rigid walls requires stimulating \nmuscles with strong impulses over long periods. This \ndraws undesired attention to the electrical stimulation. \n",
+        "image_labels": [
+            [
+                "Hand",
+                0.9602402448654175
+            ],
+            [
+                "Arm",
+                0.9431803822517395
+            ],
+            [
+                "Shoulder",
+                0.9392239451408386
+            ],
+            [
+                "Product",
+                0.9076404571533203
+            ],
+            [
+                "Human body",
+                0.8864173293113708
+            ],
+            [
+                "Sleeve",
+                0.8724493980407715
+            ],
+            [
+                "Jersey",
+                0.8554429411888123
+            ],
+            [
+                "Sports gear",
+                0.8528259992599487
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Thumb",
+                0.8328272700309753
+            ]
+        ]
+    },
+    "6": {
+        "type": "human",
+        "caption_text": "Figure 6: The electro visuals.  \n",
+        "image_labels": [
+            [
+                "White",
+                0.9218624830245972
+            ],
+            [
+                "Product",
+                0.9073668718338013
+            ],
+            [
+                "Sleeve",
+                0.872395932674408
+            ],
+            [
+                "Mammal",
+                0.8554791808128357
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8336305022239685
+            ],
+            [
+                "Red",
+                0.8123018145561218
+            ],
+            [
+                "Pattern",
+                0.7227118611335754
+            ],
+            [
+                "Carmine",
+                0.6762233376502991
+            ],
+            [
+                "Event",
+                0.6698088645935059
+            ]
+        ]
+    },
+    "5": {
+        "type": "human",
+        "caption_text": "Figure 5: The magnetic visuals allow the user\u2019s hand to \npenetrate the surfaces of objects. \n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9763408899307251
+            ],
+            [
+                "Shoulder",
+                0.9452835321426392
+            ],
+            [
+                "Arm",
+                0.9451453685760498
+            ],
+            [
+                "Human body",
+                0.8855194449424744
+            ],
+            [
+                "Neck",
+                0.881680428981781
+            ],
+            [
+                "Sleeve",
+                0.8724504709243774
+            ],
+            [
+                "Waist",
+                0.8568006157875061
+            ],
+            [
+                "Jersey",
+                0.8555017113685608
+            ],
+            [
+                "Flag of the united states",
+                0.8546774983406067
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ]
+        ]
+    },
+    "7": {
+        "type": "graphic",
+        "caption_text": "Figure 7: Study participant in the virtual world of the \nstudy, here facing the vibro only condition. \n",
+        "image_labels": [
+            [
+                "Wood",
+                0.8609392046928406
+            ],
+            [
+                "Balloon",
+                0.7780396938323975
+            ],
+            [
+                "Tree",
+                0.731126070022583
+            ],
+            [
+                "Space",
+                0.7124320864677429
+            ],
+            [
+                "Art",
+                0.6958041191101074
+            ],
+            [
+                "Hardwood",
+                0.6897709965705872
+            ],
+            [
+                "Toy",
+                0.6896178126335144
+            ],
+            [
+                "Games",
+                0.6651322245597839
+            ],
+            [
+                "Rectangle",
+                0.648781955242157
+            ],
+            [
+                "Flooring",
+                0.6395066976547241
+            ]
+        ]
+    },
+    "11": {
+        "type": "chart",
+        "caption_text": "Figure 11: The repulsion wall stopped participants\u2019 \nhands on average 3.6 cm (error bars denote std. dev.).   \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8670546412467957
+            ],
+            [
+                "Font",
+                0.8067435026168823
+            ],
+            [
+                "Parallel",
+                0.7862993478775024
+            ],
+            [
+                "Slope",
+                0.7252714037895203
+            ],
+            [
+                "Diagram",
+                0.6835958361625671
+            ],
+            [
+                "Electric blue",
+                0.6290155053138733
+            ],
+            [
+                "Plot",
+                0.5598652958869934
+            ],
+            [
+                "Symmetry",
+                0.5237571001052856
+            ],
+            [
+                "Event",
+                0.520413339138031
+            ],
+            [
+                "Balance",
+                0.5166521668434143
+            ]
+        ]
+    },
+    "13": {
+        "type": "picture",
+        "caption_text": "Figure 13: Pushing this soft button opens the gate. \n",
+        "image_labels": [
+            [
+                "Gas",
+                0.7809550762176514
+            ],
+            [
+                "Audio equipment",
+                0.762279212474823
+            ],
+            [
+                "Wood",
+                0.7422022819519043
+            ],
+            [
+                "Electric blue",
+                0.6932061910629272
+            ],
+            [
+                "Electronic instrument",
+                0.6840917468070984
+            ],
+            [
+                "Machine",
+                0.6704567074775696
+            ],
+            [
+                "Home fencing",
+                0.6325026154518127
+            ],
+            [
+                "Flooring",
+                0.6225372552871704
+            ],
+            [
+                "Hardwood",
+                0.6075249314308167
+            ],
+            [
+                "Games",
+                0.6025335788726807
+            ]
+        ]
+    },
+    "14": {
+        "type": "graphic",
+        "caption_text": "Figure 14: Projectiles based on the repulsion effect. \n",
+        "image_labels": [
+            [
+                "Purple",
+                0.8557420372962952
+            ],
+            [
+                "Red",
+                0.8043864965438843
+            ],
+            [
+                "Technology",
+                0.7363170385360718
+            ],
+            [
+                "Space",
+                0.7157960534095764
+            ],
+            [
+                "Magenta",
+                0.7115265727043152
+            ],
+            [
+                "Design",
+                0.6823216676712036
+            ],
+            [
+                "Animation",
+                0.6474877595901489
+            ],
+            [
+                "Games",
+                0.6408863663673401
+            ],
+            [
+                "Electric blue",
+                0.6331939697265625
+            ],
+            [
+                "Fictional character",
+                0.6257473826408386
+            ]
+        ]
+    },
+    "12": {
+        "type": "picture",
+        "caption_text": "Figure 12: The jail cell features \u201celectrified\u201d walls and a \ngate. Touching any of these repel the user\u2019s hand. \n",
+        "image_labels": [
+            [
+                "Light",
+                0.9109891653060913
+            ],
+            [
+                "Computer",
+                0.879786491394043
+            ],
+            [
+                "Electronic instrument",
+                0.8656415939331055
+            ],
+            [
+                "Personal computer",
+                0.8640127778053284
+            ],
+            [
+                "Audio equipment",
+                0.835820198059082
+            ],
+            [
+                "Gas",
+                0.7808449268341064
+            ],
+            [
+                "Gadget",
+                0.7715542912483215
+            ],
+            [
+                "Electric blue",
+                0.7539522051811218
+            ],
+            [
+                "Electronic device",
+                0.7478139996528625
+            ],
+            [
+                "Machine",
+                0.7379713654518127
+            ]
+        ]
+    },
+    "15": {
+        "type": "graphic",
+        "caption_text": "Figure 15: The user is dragging the knob of a slider \nmechanism. The two buttons on the left form a rocker.  \n",
+        "image_labels": [
+            [
+                "Automotive design",
+                0.8920903205871582
+            ],
+            [
+                "Window",
+                0.8324732184410095
+            ],
+            [
+                "Vehicle door",
+                0.8092297911643982
+            ],
+            [
+                "Door",
+                0.795070469379425
+            ],
+            [
+                "Gas",
+                0.780788779258728
+            ],
+            [
+                "Wood",
+                0.7513372898101807
+            ],
+            [
+                "Glass",
+                0.7496866583824158
+            ],
+            [
+                "Door handle",
+                0.7227689027786255
+            ],
+            [
+                "Plastic",
+                0.7131182551383972
+            ],
+            [
+                "Audio equipment",
+                0.7118658423423767
+            ]
+        ]
+    },
+    "16": {
+        "type": "picture",
+        "caption_text": "Figure 16: Playing with the water in these fish tanks \npushes the user\u2019s hand backwards. \n",
+        "image_labels": [
+            [
+                "Gadget",
+                0.8231680393218994
+            ],
+            [
+                "Audio equipment",
+                0.8186072111129761
+            ],
+            [
+                "Gas",
+                0.7809491753578186
+            ],
+            [
+                "Electronic instrument",
+                0.7595399618148804
+            ],
+            [
+                "Electronic device",
+                0.7477937936782837
+            ],
+            [
+                "Computer hardware",
+                0.7423850297927856
+            ],
+            [
+                "Electric blue",
+                0.7337724566459656
+            ],
+            [
+                "Machine",
+                0.7208039164543152
+            ],
+            [
+                "Computer",
+                0.7128636240959167
+            ],
+            [
+                "Automotive design",
+                0.7056214213371277
+            ]
+        ]
+    },
+    "17": {
+        "type": "picture",
+        "caption_text": "Figure 17: Two cubes that users can push onto the \nbutton on the right, or pick up and carry around. \n",
+        "image_labels": [
+            [
+                "Line",
+                0.8177381753921509
+            ],
+            [
+                "Gas",
+                0.7809845209121704
+            ],
+            [
+                "Electronic device",
+                0.7501618266105652
+            ],
+            [
+                "Electronic instrument",
+                0.7289795875549316
+            ],
+            [
+                "Electric blue",
+                0.7256026864051819
+            ],
+            [
+                "Art",
+                0.7167681455612183
+            ],
+            [
+                "Audio equipment",
+                0.7144473791122437
+            ],
+            [
+                "Personal computer hardware",
+                0.6924389600753784
+            ],
+            [
+                "Machine",
+                0.6625376343727112
+            ],
+            [
+                "Computer component",
+                0.6061599254608154
+            ]
+        ]
+    },
+    "18": {
+        "type": "graphic",
+        "caption_text": "Figure 18: The user has picked up a cube and is about \nto throw it over the glass barrier. \n",
+        "image_labels": [
+            [
+                "Screenshot",
+                0.7869288921356201
+            ],
+            [
+                "Gas",
+                0.7803798317909241
+            ],
+            [
+                "Games",
+                0.7385876178741455
+            ],
+            [
+                "Electronic device",
+                0.7327739596366882
+            ],
+            [
+                "Machine",
+                0.732698380947113
+            ],
+            [
+                "Space",
+                0.7251015305519104
+            ],
+            [
+                "Video game software",
+                0.7053118348121643
+            ],
+            [
+                "Fictional character",
+                0.6979786157608032
+            ],
+            [
+                "Symbol",
+                0.657951295375824
+            ],
+            [
+                "Electric blue",
+                0.6544187664985657
+            ]
+        ]
+    },
+    "20": {
+        "type": "formula",
+        "caption_text": "Figure 20: Participants rated their experience in the \nEMS condition higher than in baseline. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8900561928749084
+            ],
+            [
+                "Line",
+                0.8168249726295471
+            ],
+            [
+                "Slope",
+                0.7923566699028015
+            ],
+            [
+                "Font",
+                0.7922703623771667
+            ],
+            [
+                "Parallel",
+                0.7870253920555115
+            ],
+            [
+                "Diagram",
+                0.7202532291412354
+            ],
+            [
+                "Number",
+                0.6540899276733398
+            ],
+            [
+                "Brand",
+                0.6149264574050903
+            ],
+            [
+                "Magenta",
+                0.6109642386436462
+            ],
+            [
+                "Event",
+                0.5917155146598816
+            ]
+        ]
+    },
+    "21": {
+        "type": "chart",
+        "caption_text": "Figure 21: Participants preferred the experience in the \nEMS condition. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8975946307182312
+            ],
+            [
+                "Slope",
+                0.8747724294662476
+            ],
+            [
+                "Font",
+                0.8395857214927673
+            ],
+            [
+                "Parallel",
+                0.7879449725151062
+            ],
+            [
+                "Plot",
+                0.7680824995040894
+            ],
+            [
+                "Diagram",
+                0.6323655843734741
+            ],
+            [
+                "Brand",
+                0.5927296876907349
+            ],
+            [
+                "Circle",
+                0.5334751605987549
+            ],
+            [
+                "Number",
+                0.51395183801651
+            ],
+            [
+                "Screenshot",
+                0.5016591548919678
+            ]
+        ]
+    },
+    "22": {
+        "type": "picture",
+        "caption_text": "Figure 22: The muscle stimulator we used. \n",
+        "image_labels": [
+            [
+                "Electrical wiring",
+                0.8193191885948181
+            ],
+            [
+                "Font",
+                0.7683767676353455
+            ],
+            [
+                "Electric blue",
+                0.7519083023071289
+            ],
+            [
+                "Wire",
+                0.748706579208374
+            ],
+            [
+                "Technology",
+                0.7481220960617065
+            ],
+            [
+                "Cable",
+                0.7409141659736633
+            ],
+            [
+                "Electronic device",
+                0.740357518196106
+            ],
+            [
+                "Electrical supply",
+                0.7383123636245728
+            ],
+            [
+                "Gas",
+                0.7220463752746582
+            ],
+            [
+                "Gadget",
+                0.6815304160118103
+            ]
+        ]
+    },
+    "23": {
+        "type": "human",
+        "caption_text": "Figure 23: Electrode placement for arm and shoulder. \n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9748336672782898
+            ],
+            [
+                "Head",
+                0.9720777869224548
+            ],
+            [
+                "Jeans",
+                0.9706289172172546
+            ],
+            [
+                "Arm",
+                0.9458914399147034
+            ],
+            [
+                "Stomach",
+                0.89997398853302
+            ],
+            [
+                "Human body",
+                0.8890912532806396
+            ],
+            [
+                "Jaw",
+                0.8813074231147766
+            ],
+            [
+                "Neck",
+                0.8792899250984192
+            ],
+            [
+                "Sleeve",
+                0.8724504709243774
+            ],
+            [
+                "Waist",
+                0.8675286769866943
+            ]
+        ]
+    }
+}

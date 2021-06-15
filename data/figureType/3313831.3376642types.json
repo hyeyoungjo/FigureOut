@@ -1,0 +1,454 @@
+{
+    "1": {
+        "type": "graphic",
+        "caption_text": "Figure 1. Three prototypes for sharing virtual reality experiences over distance: (1) Co-watching 360-degrees videos on desktop; (2) Co-watching \n360-degrees videos in VR; (3) ReliveInVR: fully recreating the experience to relive it socially. \n",
+        "image_labels": [
+            [
+                "World",
+                0.9213302731513977
+            ],
+            [
+                "Nature",
+                0.8992505073547363
+            ],
+            [
+                "Human",
+                0.8897231221199036
+            ],
+            [
+                "Organism",
+                0.8665957450866699
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Urban design",
+                0.8489122986793518
+            ],
+            [
+                "Font",
+                0.8360114097595215
+            ],
+            [
+                "Biome",
+                0.8351995348930359
+            ],
+            [
+                "Community",
+                0.8121868968009949
+            ],
+            [
+                "Adaptation",
+                0.7932178974151611
+            ]
+        ]
+    },
+    "2": {
+        "type": "graphic",
+        "caption_text": "Figure  2.  The  basic  interactions  in  the  archery  game;  (1)  picking  up \na  bow,  (2)  grabbing  an  arrow,  releasing  an  arrow,  and  (3)  teleporting. \nReliveInVR provides controls such as play, pause, seek to certain time \nstamp (4). \n",
+        "image_labels": [
+            [
+                "Green",
+                0.901446521282196
+            ],
+            [
+                "Organism",
+                0.8576523661613464
+            ],
+            [
+                "Terrestrial plant",
+                0.8178670406341553
+            ],
+            [
+                "Urban design",
+                0.7617360949516296
+            ],
+            [
+                "Art",
+                0.7600886821746826
+            ],
+            [
+                "Fictional character",
+                0.6890048980712891
+            ],
+            [
+                "Landscape",
+                0.6626476049423218
+            ],
+            [
+                "Wind",
+                0.6615068912506104
+            ],
+            [
+                "Pole",
+                0.6485759615898132
+            ],
+            [
+                "Animation",
+                0.6375842690467834
+            ]
+        ]
+    },
+    "3": {
+        "type": "graphic",
+        "caption_text": "Figure 3. All the surprising events in the both islands. \n",
+        "image_labels": [
+            [
+                "Sky",
+                0.9655221700668335
+            ],
+            [
+                "Property",
+                0.9449948072433472
+            ],
+            [
+                "Daytime",
+                0.9448413848876953
+            ],
+            [
+                "Photograph",
+                0.9417443871498108
+            ],
+            [
+                "World",
+                0.9110367894172668
+            ],
+            [
+                "Azure",
+                0.9020374417304993
+            ],
+            [
+                "Blue",
+                0.8941444754600525
+            ],
+            [
+                "Travel",
+                0.8672178983688354
+            ],
+            [
+                "Building",
+                0.8372425436973572
+            ],
+            [
+                "Landscape",
+                0.8003920912742615
+            ]
+        ]
+    },
+    "4": {
+        "type": "graphic",
+        "caption_text": "Figure 4. Co-watching 360-degree videos on desktop (Co-watchDT) pro-\ntotype:  (a)  Sharer  can  have  the  video  control.  (b)  Sharee  can  view  a \nsynchronized  video  with  the  sharer  over  distance.  Sharer  and  sharee \ncan have different perspectives of the 360-degree video \n",
+        "image_labels": [
+            [
+                "Vehicle",
+                0.9006563425064087
+            ],
+            [
+                "Natural environment",
+                0.8887118101119995
+            ],
+            [
+                "Land lot",
+                0.8483758568763733
+            ],
+            [
+                "Grass",
+                0.8396163582801819
+            ],
+            [
+                "Biome",
+                0.8256620764732361
+            ],
+            [
+                "Terrestrial plant",
+                0.8171560168266296
+            ],
+            [
+                "Adaptation",
+                0.7934507131576538
+            ],
+            [
+                "Screenshot",
+                0.7850632071495056
+            ],
+            [
+                "Urban design",
+                0.7610352039337158
+            ],
+            [
+                "Technology",
+                0.735970139503479
+            ]
+        ]
+    },
+    "5": {
+        "type": "graphic",
+        "caption_text": "Figure 5. Co-watching 360-degree videos in VR prototype (CowatchVR). \nUsers  can  watch  the  360-degree  video  together  and  see  each  other\u2019s \navatar at the same time. \n",
+        "image_labels": [
+            [
+                "World",
+                0.9039582014083862
+            ],
+            [
+                "Sky",
+                0.895812451839447
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Urban design",
+                0.7960664629936218
+            ],
+            [
+                "Leisure",
+                0.7487602829933167
+            ],
+            [
+                "Travel",
+                0.7438820004463196
+            ],
+            [
+                "Landscape",
+                0.7080057859420776
+            ],
+            [
+                "Pole",
+                0.7023696899414062
+            ],
+            [
+                "Art",
+                0.6980084180831909
+            ],
+            [
+                "Fun",
+                0.676312267780304
+            ]
+        ]
+    },
+    "6": {
+        "type": "graphic",
+        "caption_text": "Figure  6.  Reliving  experience  in  VR  prototype  (ReliveInVR).(a)  P2\u2019s \npoint of view when P1 and P2 relive P1\u2019s experience through ReliveInVR. \n(b)  P1  and  P2  can  see  each  other  and  P1\u2019s  replayed  avatar.  (c)  VR \nnetworked environment and record-replay technique in the ReliveInVR \nprototype. \n",
+        "image_labels": [
+            [
+                "Organism",
+                0.8531557321548462
+            ],
+            [
+                "Font",
+                0.7886204123497009
+            ],
+            [
+                "Screenshot",
+                0.7412348985671997
+            ],
+            [
+                "Urban design",
+                0.7084571719169617
+            ],
+            [
+                "Landscape",
+                0.7068625688552856
+            ],
+            [
+                "Circle",
+                0.7010278105735779
+            ],
+            [
+                "Travel",
+                0.6891071796417236
+            ],
+            [
+                "Recreation",
+                0.6889603137969971
+            ],
+            [
+                "Design",
+                0.6881359815597534
+            ],
+            [
+                "Art",
+                0.6546899676322937
+            ]
+        ]
+    },
+    "7": {
+        "type": "chart",
+        "caption_text": "Figure 7.  (a)-(e) boxplots for each factor across sharing conditions.  (f) Self-reported emotion ratings for each condition.  (g) Most preferred sharing \ntools. (h) Least preferred sharing tools. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9075265526771545
+            ],
+            [
+                "Azure",
+                0.8928449153900146
+            ],
+            [
+                "Slope",
+                0.8845598697662354
+            ],
+            [
+                "Rectangle",
+                0.856848418712616
+            ],
+            [
+                "Font",
+                0.8334890604019165
+            ],
+            [
+                "Line",
+                0.8171039819717407
+            ],
+            [
+                "Parallel",
+                0.7886380553245544
+            ],
+            [
+                "Pattern",
+                0.7299352884292603
+            ],
+            [
+                "Diagram",
+                0.7191265821456909
+            ],
+            [
+                "Circle",
+                0.7109907269477844
+            ]
+        ]
+    },
+    "8": {
+        "type": "table",
+        "caption_text": "Figure 8.  The result of normalized sharing time consists of the Review \nsession and the Exploration session. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8896626830101013
+            ],
+            [
+                "Font",
+                0.8019353747367859
+            ],
+            [
+                "Parallel",
+                0.7845366597175598
+            ],
+            [
+                "Slope",
+                0.7663131356239319
+            ],
+            [
+                "Number",
+                0.6963789463043213
+            ],
+            [
+                "Pattern",
+                0.6821301579475403
+            ],
+            [
+                "Diagram",
+                0.6279979944229126
+            ],
+            [
+                "Circle",
+                0.515877366065979
+            ],
+            [
+                "Electric blue",
+                0.5039129257202148
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9. Head orientation result across all sharing conditions. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8939839601516724
+            ],
+            [
+                "Font",
+                0.804604172706604
+            ],
+            [
+                "Parallel",
+                0.7856501936912537
+            ],
+            [
+                "Slope",
+                0.779360830783844
+            ],
+            [
+                "Plot",
+                0.7500843405723572
+            ],
+            [
+                "Number",
+                0.6990483403205872
+            ],
+            [
+                "Pattern",
+                0.6858232021331787
+            ],
+            [
+                "Diagram",
+                0.6370416879653931
+            ],
+            [
+                "Electric blue",
+                0.6331797242164612
+            ]
+        ]
+    },
+    "10": {
+        "type": "diagram",
+        "caption_text": "Figure  10.  (a)  The  distribution  of  relative  positions  between  partici-\npant\u2019s avatar and replayed avatar when the participant viewed the re-\nplayed avatar in the ReliveInVR condition.  (b) The percentage of time \nwhen two participants were within the area of social space during the \nExploration session in the ReliveInVR condition. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8307150602340698
+            ],
+            [
+                "Circle",
+                0.779396653175354
+            ],
+            [
+                "Auto part",
+                0.7348958253860474
+            ],
+            [
+                "Parallel",
+                0.7083255648612976
+            ],
+            [
+                "Diagram",
+                0.6555917859077454
+            ],
+            [
+                "Number",
+                0.6490452289581299
+            ],
+            [
+                "Rectangle",
+                0.6329376697540283
+            ],
+            [
+                "Slope",
+                0.6125112771987915
+            ],
+            [
+                "Graphics",
+                0.5901161432266235
+            ],
+            [
+                "Science",
+                0.5320847034454346
+            ]
+        ]
+    }
+}

@@ -1,0 +1,358 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1. Retargeting a \u2019henna decoration\u2019 video tutorial to a teapot decoration scenario in the user\u2019s workspace. (left) The user extracts relevant\nmotion from the video, (middle) scales it and aligns the result to a 3D scan of a teapot in the current workspace. With our editing tools, the user can\nquickly alter the original tutorial to meet their requirements. In this example, the original video tutorial shows a decoration consisting of dots, which\nrequires a special henna pen. The user chooses to connect the dots into lines which can be drawn with a ceramic pen on the teapot. The user also scales\ndown the entire ornament to better \ufb01t the desired aesthetics. (right) Using augmented reality, the user validates the result directly on the real teapot.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9076367020606995
+            ],
+            [
+                "Purple",
+                0.881129264831543
+            ],
+            [
+                "Font",
+                0.8271604180335999
+            ],
+            [
+                "Serveware",
+                0.8143417239189148
+            ],
+            [
+                "Peripheral",
+                0.8090570569038391
+            ],
+            [
+                "Electric blue",
+                0.7429277300834656
+            ],
+            [
+                "Art",
+                0.7422486543655396
+            ],
+            [
+                "Cap",
+                0.7130464911460876
+            ],
+            [
+                "Personal protective equipment",
+                0.706409215927124
+            ],
+            [
+                "Jewellery",
+                0.6916237473487854
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2. System overview. (left) We extract object and user motions by tracking known model features in the 2D video. Here, tracked features are\nused to record the path of the brush and to align a face model in each frame. (middle) After validating and possibly editing the extracted motion, we\nretarget the motion data to real world 3D objects. This requires registering the same 3D model as used in the extraction stage, in this case, a face model,\nto the live camera image. By tracking the model in 3D, we are able to relate video data to the real world. In this example, we present the recorded path\nof the brush directly on the user\u2019s face. (right) Since we retarget the extracted motion data in 3D, we can choose an arbitrary point of view. To provide\neffective visual instructions, we generate dynamic glyphs (here: timed arrows) and we indicate the position of the brush over time using a red circle.\n",
+        "image_labels": [
+            [
+                "Forehead",
+                0.9846563935279846
+            ],
+            [
+                "Nose",
+                0.9835830330848694
+            ],
+            [
+                "Skin",
+                0.9758161306381226
+            ],
+            [
+                "Chin",
+                0.9667571783065796
+            ],
+            [
+                "Hairstyle",
+                0.9509009122848511
+            ],
+            [
+                "Eyebrow",
+                0.9481697082519531
+            ],
+            [
+                "Photograph",
+                0.9419082403182983
+            ],
+            [
+                "Mouth",
+                0.9354653358459473
+            ],
+            [
+                "Facial expression",
+                0.9328212738037109
+            ],
+            [
+                "Eyelash",
+                0.9290672540664673
+            ]
+        ]
+    },
+    "3": {
+        "type": "human",
+        "caption_text": "Figure 3. Extracting motion with surface contact. (a) We extract the 2D trajectory by tracking the tip of the tool in unwrapped texture space. (b) We\nconvert the 2D trajectory to 3D by back-projecting the video data to a corresponding 3D model, in this case, a face.\n",
+        "image_labels": [
+            [
+                "Lipstick",
+                0.9525668025016785
+            ],
+            [
+                "Hairstyle",
+                0.9509009122848511
+            ],
+            [
+                "Photograph",
+                0.9414841532707214
+            ],
+            [
+                "Facial expression",
+                0.9328905344009399
+            ],
+            [
+                "Eye liner",
+                0.927060604095459
+            ],
+            [
+                "Eyelash",
+                0.9261959195137024
+            ],
+            [
+                "Font",
+                0.8492025136947632
+            ],
+            [
+                "Art",
+                0.8331401348114014
+            ],
+            [
+                "Makeover",
+                0.8023039102554321
+            ],
+            [
+                "Eye shadow",
+                0.7838866114616394
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4. Segmentation and Layering. (a) We interactively segment the input data by selecting starting and ending frames. (b) This results in a set of\nactions (red), which we can use to derive image layers.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8914260268211365
+            ],
+            [
+                "Cloud",
+                0.8217732310295105
+            ],
+            [
+                "Font",
+                0.7893787622451782
+            ],
+            [
+                "Parallel",
+                0.7792345881462097
+            ],
+            [
+                "Slope",
+                0.721303403377533
+            ],
+            [
+                "Electric blue",
+                0.6439824104309082
+            ],
+            [
+                "Symmetry",
+                0.6435511112213135
+            ],
+            [
+                "Display device",
+                0.6383445262908936
+            ],
+            [
+                "Pattern",
+                0.6226617693901062
+            ],
+            [
+                "Glass",
+                0.6003840565681458
+            ]
+        ]
+    },
+    "5": {
+        "type": "human",
+        "caption_text": "Figure 5. Experiment setup for a retargeted make-up tutorial. (a) Input video tutorial. (b) We showed the resulting AR tutorial using an AR mirror,\nwhich consisted of a camera and an USB display. (c) Participants could use the AR mirror and the video which we placed next to the mirror.\n",
+        "image_labels": [
+            [
+                "Eyewear",
+                0.8878720998764038
+            ],
+            [
+                "Audio equipment",
+                0.851060688495636
+            ],
+            [
+                "Gadget",
+                0.8453220725059509
+            ],
+            [
+                "Output device",
+                0.843119740486145
+            ],
+            [
+                "Font",
+                0.81739741563797
+            ],
+            [
+                "Electronic device",
+                0.7627294659614563
+            ],
+            [
+                "Personal protective equipment",
+                0.7624714970588684
+            ],
+            [
+                "Technology",
+                0.7563820481300354
+            ],
+            [
+                "Circle",
+                0.7538674473762512
+            ],
+            [
+                "Electric blue",
+                0.7513070702552795
+            ]
+        ]
+    },
+    "6": {
+        "type": "human",
+        "caption_text": "Figure 6. Path generation and \ufb01rst revision of AR visualization. (a) We generate path illustrations from motion capture data. (b) The extracted path\ndata is analyzed and simpli\ufb01ed. In particular, we remove zig-zag overdraw along the trajectory by clustering and detect turning points (marked in\ngreen). (c) We generate arrows in-between turning points, the start point and end point. (d) At runtime, we use the arrows to provide a preview of the\nmotions. To minimize occlusion, the arrow is replaced by the border of the tool\u2019s trajectory. The red dot shows the extracted tool position over time. (e)\nThe combination of visualization techniques provide an overview \ufb01rst, before the user can follow the exact motion.\n",
+        "image_labels": [
+            [
+                "Hair",
+                0.9837316870689392
+            ],
+            [
+                "Nose",
+                0.9835830330848694
+            ],
+            [
+                "Glasses",
+                0.9768704771995544
+            ],
+            [
+                "Head",
+                0.9728869795799255
+            ],
+            [
+                "Chin",
+                0.9667787551879883
+            ],
+            [
+                "Photograph",
+                0.9422440528869629
+            ],
+            [
+                "Eye",
+                0.9382213950157166
+            ],
+            [
+                "Facial expression",
+                0.9325449466705322
+            ],
+            [
+                "Vision care",
+                0.9309249520301819
+            ],
+            [
+                "Light",
+                0.9119232296943665
+            ]
+        ]
+    },
+    "7": {
+        "type": "picture",
+        "caption_text": "Figure 7. Retargeted Kanji tutorial and \ufb01nal revision of AR visualization. (a) The AR visualization is presented using an Optical See-Through HMD\n(Microsoft Hololens) and a handheld clicker that the user is holding in one hand. (b) The video tutorial is shown on a tablet mounted right above the\ndrawing area. This reduced the in\ufb02uence of head motion. (c) Our \ufb01nal glyph design encodes the direction of the stroke on its border using arrow heads.\nThe system presents one glyph at a time next to a full preview of the \ufb01nal drawing. This picture shows the six instructions presented to the user in AR.\n",
+        "image_labels": [
+            [
+                "Hand",
+                0.9582628607749939
+            ],
+            [
+                "Tablet computer",
+                0.9130309820175171
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Gadget",
+                0.847259521484375
+            ],
+            [
+                "Communication Device",
+                0.841772735118866
+            ],
+            [
+                "Finger",
+                0.8352394104003906
+            ],
+            [
+                "Handwriting",
+                0.8194749355316162
+            ],
+            [
+                "Font",
+                0.7974348664283752
+            ],
+            [
+                "Output device",
+                0.7955057621002197
+            ],
+            [
+                "Display device",
+                0.7681031823158264
+            ]
+        ]
+    },
+    "8": {
+        "type": "diagram",
+        "caption_text": "Figure 8. Kanji study results. Stars indicate signi\ufb01cant differences.\n",
+        "image_labels": [
+            [
+                "Font",
+                0.8465415835380554
+            ],
+            [
+                "Rectangle",
+                0.8462343811988831
+            ],
+            [
+                "Parallel",
+                0.789459228515625
+            ],
+            [
+                "Pattern",
+                0.7423155903816223
+            ],
+            [
+                "Number",
+                0.6861821413040161
+            ],
+            [
+                "Slope",
+                0.6193848252296448
+            ],
+            [
+                "Diagram",
+                0.5472493171691895
+            ]
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2. 1st row: screenshots of non-human hands: abstract, cartoon,\nrobot; 2nd row: human hands: male, female, androgynous\n",
+        "image_labels": [
+            [
+                "Hand",
+                0.9581406116485596
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Thumb",
+                0.848694920539856
+            ],
+            [
+                "Finger",
+                0.8473384380340576
+            ],
+            [
+                "Nail",
+                0.8434226512908936
+            ],
+            [
+                "Font",
+                0.8174982070922852
+            ],
+            [
+                "Wrist",
+                0.8013284802436829
+            ],
+            [
+                "Rectangle",
+                0.6778768301010132
+            ],
+            [
+                "Room",
+                0.6620107889175415
+            ],
+            [
+                "Electric blue",
+                0.6387876868247986
+            ]
+        ]
+    },
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1. Gender related differences of presence (l.), likeability (c.), and eerieness (r.) between the avatar hand models. Virtual hands are sorted by\nmean naturalness ratings of all participants (not depicted). Presence scale ranges from 145 to 170. All error bars show standard error of the mean (SE).\n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Rectangle",
+                0.8427882194519043
+            ],
+            [
+                "Output device",
+                0.7952839732170105
+            ],
+            [
+                "Art",
+                0.792758047580719
+            ],
+            [
+                "Font",
+                0.7698178887367249
+            ],
+            [
+                "Tableware",
+                0.7329573631286621
+            ],
+            [
+                "Chair",
+                0.7175949811935425
+            ],
+            [
+                "Table",
+                0.7120687961578369
+            ],
+            [
+                "Glass",
+                0.7011891603469849
+            ],
+            [
+                "Metal",
+                0.6769245266914368
+            ]
+        ]
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1: The concept of Telewalk: The combination of perceivable curvature and translation gains along with a head based camera \ncontrol allows to compress any virtual space to a pre-defned real world radius (in our case 1.5m). (Left) illustration of walking paths \nand (right) plots of the virtual and real path walked in our study application. \n",
+        "image_labels": [
+            [
+                "Green",
+                0.922772228717804
+            ],
+            [
+                "Plant",
+                0.8988978862762451
+            ],
+            [
+                "Organism",
+                0.8627341985702515
+            ],
+            [
+                "Terrestrial plant",
+                0.8601599931716919
+            ],
+            [
+                "Shorts",
+                0.8460890054702759
+            ],
+            [
+                "Font",
+                0.8344285488128662
+            ],
+            [
+                "Sports equipment",
+                0.8322328329086304
+            ],
+            [
+                "Grass",
+                0.8207527995109558
+            ],
+            [
+                "Line",
+                0.8176836967468262
+            ],
+            [
+                "Tree",
+                0.8119867444038391
+            ]
+        ]
+    },
+    "2": {
+        "type": "graphic",
+        "caption_text": "Figure  2:  The  visualization  of  the  optimal  path  including  the \nspot  with  the  optimal  distance  to  the  tracking  center  and  the \ntwo  lines  indicating  the  optimal  direction.  The  user\u2019s  viewing \ndirection is visualized by a single line. \n",
+        "image_labels": [
+            [
+                "Green",
+                0.9065307378768921
+            ],
+            [
+                "Grass",
+                0.8478600978851318
+            ],
+            [
+                "Player",
+                0.8251410126686096
+            ],
+            [
+                "Line",
+                0.8160892128944397
+            ],
+            [
+                "Flooring",
+                0.7761757373809814
+            ],
+            [
+                "Mesh",
+                0.7657965421676636
+            ],
+            [
+                "Plant",
+                0.7546790242195129
+            ],
+            [
+                "Net",
+                0.7448363900184631
+            ],
+            [
+                "Ball game",
+                0.7088385224342346
+            ],
+            [
+                "Stadium",
+                0.705405592918396
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure  3:  Boxplots  of  presence  (SUS),  immersion  and  enjoy-\nment  (E2I)  and  simulator  sickness  (SSQ)  scores.  The  marked \ncomparisons were signifcant on the 5% level. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8575769662857056
+            ],
+            [
+                "Font",
+                0.7937507033348083
+            ],
+            [
+                "Parallel",
+                0.7888901829719543
+            ],
+            [
+                "Slope",
+                0.7757145166397095
+            ],
+            [
+                "Diagram",
+                0.7086037993431091
+            ],
+            [
+                "Plot",
+                0.5708006024360657
+            ],
+            [
+                "Pattern",
+                0.5462602972984314
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4: Diverging Stacked Bar Charts of the single item questions as described in the Method section. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9074376821517944
+            ],
+            [
+                "Rectangle",
+                0.9072571396827698
+            ],
+            [
+                "Font",
+                0.8388954997062683
+            ],
+            [
+                "Material property",
+                0.8012984991073608
+            ],
+            [
+                "Slope",
+                0.7974189519882202
+            ],
+            [
+                "Parallel",
+                0.7908596396446228
+            ],
+            [
+                "Pattern",
+                0.7515893578529358
+            ],
+            [
+                "Screenshot",
+                0.7154786586761475
+            ],
+            [
+                "Number",
+                0.6799280047416687
+            ]
+        ]
+    }
+}

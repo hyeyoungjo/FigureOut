@@ -1,0 +1,830 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1. SymbiosisSketch combines mid-air 3D interactions (a) with constrained sketching. Users can create planar or curved canvases (b), and use a\ntablet (c) to sketch onto them. Designs are created in situ, in context of physical objects in the scene (d), allowing quick post-processing operations to\nseamlessly blend the virtual objects into the real world (e).\n",
+        "image_labels": [
+            [
+                "Light",
+                0.9110816121101379
+            ],
+            [
+                "Product",
+                0.9084927439689636
+            ],
+            [
+                "Line",
+                0.8187741041183472
+            ],
+            [
+                "Recreation",
+                0.7307963371276855
+            ],
+            [
+                "Pole",
+                0.6798725724220276
+            ],
+            [
+                "Engineering",
+                0.6731481552124023
+            ],
+            [
+                "Machine",
+                0.6590147614479065
+            ],
+            [
+                "Font",
+                0.6323151588439941
+            ],
+            [
+                "Sailboat",
+                0.595092236995697
+            ],
+            [
+                "Transport",
+                0.592753529548645
+            ]
+        ]
+    },
+    "2": {
+        "type": "chart",
+        "caption_text": "Figure 2. Lacking surfaces, Tilt Brush users employ many strokes to de-\npict texture or the illusion of a surface. \u00a9Kamikakushi de Sen et Chihiro\n(left) and Christopher Watson (right). Used under CC-Attribution 3.0.\n",
+        "image_labels": [
+            [
+                "Organism",
+                0.8593625426292419
+            ],
+            [
+                "Rectangle",
+                0.8568814992904663
+            ],
+            [
+                "Art",
+                0.8193660974502563
+            ],
+            [
+                "Grass",
+                0.7703187465667725
+            ],
+            [
+                "Font",
+                0.7671350240707397
+            ],
+            [
+                "Wood",
+                0.7572008967399597
+            ],
+            [
+                "Urban design",
+                0.745155930519104
+            ],
+            [
+                "Pattern",
+                0.6975435614585876
+            ],
+            [
+                "Motor vehicle",
+                0.6840844750404358
+            ],
+            [
+                "Visual arts",
+                0.677001416683197
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3. Design work\ufb02ow using 3D and 2D tools. Rustam Hasanov mod-\neled an underlay of an interior scene in a 3D modeling tool (SketchUp),\nand then drew details over the top of those underlays using a 2D inter-\nface and tools. \u00a9Rustam Hasanov. Used with permission.\n",
+        "image_labels": [
+            [
+                "Art",
+                0.7779389023780823
+            ],
+            [
+                "Drawing",
+                0.7134455442428589
+            ],
+            [
+                "Painting",
+                0.7016534209251404
+            ],
+            [
+                "Illustration",
+                0.6963504552841187
+            ],
+            [
+                "Parallel",
+                0.6645807027816772
+            ],
+            [
+                "Font",
+                0.6563177108764648
+            ],
+            [
+                "Line art",
+                0.6461121439933777
+            ],
+            [
+                "Holy places",
+                0.6283029913902283
+            ],
+            [
+                "Visual arts",
+                0.615140974521637
+            ],
+            [
+                "Sketch",
+                0.5999312996864319
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4. Details in 2D drawings: structural details, architectural em-\nbellishments, and textures. \u00a9 Jake Parker (left) and Johannes Figlhuber\n(right). Used with permission.\n",
+        "image_labels": [
+            [
+                "Art",
+                0.8418691754341125
+            ],
+            [
+                "Painting",
+                0.785469114780426
+            ],
+            [
+                "Illustration",
+                0.7476503849029541
+            ],
+            [
+                "Building",
+                0.7432442903518677
+            ],
+            [
+                "Font",
+                0.7348741292953491
+            ],
+            [
+                "Drawing",
+                0.7258360981941223
+            ],
+            [
+                "Facade",
+                0.7028396725654602
+            ],
+            [
+                "Visual arts",
+                0.6730767488479614
+            ],
+            [
+                "Paper product",
+                0.6551898121833801
+            ],
+            [
+                "Sketch",
+                0.6177599430084229
+            ]
+        ]
+    },
+    "5": {
+        "type": "picture",
+        "caption_text": "Figure 5. Post-processed results. HoloLens hardware limitations restrict us to basic Gouraud shading. With appropriate shading and occlusion,\nSymbiosisSketch designs can seamlessly blend into the real world. (Clockwise from top) war helicopter shooting at Captain America (Figure 14a),\nmechanical wing augmentation (Figure 14c), mini car (participant creation), Flintstones\u2019 house (author creation), and large fan (Figure 14d).\n",
+        "image_labels": [
+            [
+                "Line",
+                0.8190934658050537
+            ],
+            [
+                "Art",
+                0.7566800713539124
+            ],
+            [
+                "Fictional character",
+                0.7151289582252502
+            ],
+            [
+                "Toy",
+                0.6893039345741272
+            ],
+            [
+                "Electric blue",
+                0.6642099022865295
+            ],
+            [
+                "Bow",
+                0.6153932213783264
+            ],
+            [
+                "Illustration",
+                0.6111880540847778
+            ],
+            [
+                "Fashion accessory",
+                0.6105738878250122
+            ],
+            [
+                "Animation",
+                0.6016694903373718
+            ],
+            [
+                "Backpack",
+                0.5982360243797302
+            ]
+        ]
+    },
+    "6": {
+        "type": "picture",
+        "caption_text": "Figure 6. Setup: the user puts on the HoloLens and draws with a motion-\ntracked stylus, on a tablet (left), or mid-air (right) using a mouse af\ufb01xed\nto the back of the tablet.\n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9432606101036072
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Output device",
+                0.8316155076026917
+            ],
+            [
+                "Finger",
+                0.8309415578842163
+            ],
+            [
+                "Font",
+                0.8012773394584656
+            ],
+            [
+                "Wood",
+                0.7799970507621765
+            ],
+            [
+                "Wrist",
+                0.751243531703949
+            ],
+            [
+                "Snapshot",
+                0.7428473830223083
+            ],
+            [
+                "Electronic device",
+                0.7349767088890076
+            ],
+            [
+                "Gadget",
+                0.7342222929000854
+            ]
+        ]
+    },
+    "7": {
+        "type": "formula",
+        "caption_text": "Figure 7. Strokes drawn using the 2D tablet are projected onto drawing\ncanvases. (a) A planar drawing canvas is a rectangle with the same aspect\nratio as the tablet. (b) Surfaces form curved drawing canvases. (c) Users\ncan draw closed curves on canvases to de\ufb01ne (d) solid surfaces which also\nlend occlusion, lighting, and shadows to the design.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8842751383781433
+            ],
+            [
+                "Line",
+                0.8158153295516968
+            ],
+            [
+                "Font",
+                0.8097329139709473
+            ],
+            [
+                "Parallel",
+                0.7848747372627258
+            ],
+            [
+                "Pattern",
+                0.7507860064506531
+            ],
+            [
+                "Circle",
+                0.7093755006790161
+            ],
+            [
+                "Electric blue",
+                0.6889110207557678
+            ],
+            [
+                "Slope",
+                0.6670966148376465
+            ],
+            [
+                "Diagram",
+                0.6658031940460205
+            ],
+            [
+                "Brand",
+                0.6404721736907959
+            ]
+        ]
+    },
+    "8": {
+        "type": "formula",
+        "caption_text": "Figure 8. 2D UI toolbar. (left to right) save/load, initial canvas, create canvas, explore and select bookmarks, color tools (palette, HSV sliders, indicator),\n\ufb01ll, pencil/ink toggle, symmetry plane, UI and pencil toggles, workspace scaling and reset, clear all and undo stroke. Buttons are shown only if currently\nuseful. For example, selecting the pencil hides color tools. Icons \u00a9 icons8.com. Used under CC BY-ND 3.0.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8773703575134277
+            ],
+            [
+                "Font",
+                0.7720598578453064
+            ],
+            [
+                "Magenta",
+                0.7690262198448181
+            ],
+            [
+                "Art",
+                0.7621525526046753
+            ],
+            [
+                "Tints and shades",
+                0.7591292262077332
+            ],
+            [
+                "Display device",
+                0.7492920756340027
+            ],
+            [
+                "Pattern",
+                0.6998280882835388
+            ],
+            [
+                "Symmetry",
+                0.6895454525947571
+            ],
+            [
+                "Circle",
+                0.6702653765678406
+            ],
+            [
+                "Brand",
+                0.646484375
+            ]
+        ]
+    },
+    "9": {
+        "type": "picture",
+        "caption_text": "Figure 9. Creating a curved drawing canvas. (a) The user draws a few\nstrokes using the 2D and/or 3D interface. (b) A surface patch is \ufb01t to\nthese strokes.\n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Yellow",
+                0.8459103107452393
+            ],
+            [
+                "Art",
+                0.8421291708946228
+            ],
+            [
+                "Font",
+                0.8119040727615356
+            ],
+            [
+                "Handwriting",
+                0.8087286353111267
+            ],
+            [
+                "Wood",
+                0.7816526889801025
+            ],
+            [
+                "Thumb",
+                0.7479174137115479
+            ],
+            [
+                "Elbow",
+                0.7360997200012207
+            ],
+            [
+                "Knee",
+                0.7156851887702942
+            ],
+            [
+                "Rectangle",
+                0.6936936378479004
+            ]
+        ]
+    },
+    "10": {
+        "type": "graphic",
+        "caption_text": "Figure 10. Widgets for direct 3D manipulation: translation and rotation\n(all canvases), and scaling (planar canvases): shown at the center, edges,\nand corners, respectively.\n",
+        "image_labels": [
+            [
+                "Green",
+                0.937213122844696
+            ],
+            [
+                "Recreation",
+                0.7984502911567688
+            ],
+            [
+                "Rectangle",
+                0.772779643535614
+            ],
+            [
+                "Technology",
+                0.7362198233604431
+            ],
+            [
+                "Games",
+                0.7036851048469543
+            ],
+            [
+                "Font",
+                0.6798041462898254
+            ],
+            [
+                "Circle",
+                0.672366201877594
+            ],
+            [
+                "Event",
+                0.661841630935669
+            ],
+            [
+                "Indoor games and sports",
+                0.6465525031089783
+            ],
+            [
+                "Fixture",
+                0.6300983428955078
+            ]
+        ]
+    },
+    "11": {
+        "type": "chart",
+        "caption_text": "Figure 11. (a) The user sketches in the 2D view of the canvas. (b) The\ncorresponding strokes in 3D.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9075067639350891
+            ],
+            [
+                "Rectangle",
+                0.8536899089813232
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8439515233039856
+            ],
+            [
+                "Slope",
+                0.8313776254653931
+            ],
+            [
+                "Line",
+                0.8213706016540527
+            ],
+            [
+                "Art",
+                0.8211842179298401
+            ],
+            [
+                "Pattern",
+                0.7493947744369507
+            ],
+            [
+                "Technology",
+                0.7406684160232544
+            ],
+            [
+                "Screenshot",
+                0.7063174247741699
+            ]
+        ]
+    },
+    "12": {
+        "type": "graphic",
+        "caption_text": "Figure 12. Workspace scaling tool for drawing a car. The user uses a\nlarge workspace to draw the shape of the car in a small, comfortable,\nscale (left). She then de\ufb01nes a small workspace centered on a headlight\n(right). This \u201czoom in\u201d effect allows her to capture the details of the\nheadlight\u2019s shape, de\ufb01ne a new canvas on it, and draw highlights.\n",
+        "image_labels": [
+            [
+                "Automotive lighting",
+                0.9176152944564819
+            ],
+            [
+                "Hood",
+                0.9171040654182434
+            ],
+            [
+                "Motor vehicle",
+                0.9038647413253784
+            ],
+            [
+                "Wheel",
+                0.8925544619560242
+            ],
+            [
+                "Vehicle",
+                0.8836886882781982
+            ],
+            [
+                "Automotive tire",
+                0.8658258318901062
+            ],
+            [
+                "Automotive design",
+                0.8636126518249512
+            ],
+            [
+                "Bumper",
+                0.8263946771621704
+            ],
+            [
+                "Automotive exterior",
+                0.819063127040863
+            ],
+            [
+                "Rectangle",
+                0.7915212512016296
+            ]
+        ]
+    },
+    "13": {
+        "type": "picture",
+        "caption_text": "Figure 13. Physical planes detected by the HoloLens are automatically\nbookmarked (shown overlaid on the scene, left). With workspace scaling,\nusers can visualize and work even with room-scale planes in an accessi-\nble position and comfortable scale (right).\n",
+        "image_labels": [
+            [
+                "Table",
+                0.9179725050926208
+            ],
+            [
+                "Purple",
+                0.9108250141143799
+            ],
+            [
+                "Rectangle",
+                0.8993220329284668
+            ],
+            [
+                "Violet",
+                0.8521372079849243
+            ],
+            [
+                "Floor",
+                0.8143254518508911
+            ],
+            [
+                "Flooring",
+                0.8114134669303894
+            ],
+            [
+                "Material property",
+                0.8003231287002563
+            ],
+            [
+                "Magenta",
+                0.7871701121330261
+            ],
+            [
+                "Ceiling",
+                0.7247669696807861
+            ],
+            [
+                "Electric blue",
+                0.6871271133422852
+            ]
+        ]
+    },
+    "14": {
+        "type": "picture",
+        "caption_text": "Figure 14. Sample results showing SymbiosisSketch\u2019s creative potential. Author creations: war helicopter shooting at a Captain America \ufb01gure (a), logo\ndrawn on a person\u2019s clothing (b), mechanical wing augmenting a robot \ufb01gure (c), and a large wall-fan (d). Participant creations: scary \ufb01gure utilizing\na mannequin head (e) and genie emanating out of a teapot (f) with details (g, h).\n",
+        "image_labels": [
+            [
+                "Light",
+                0.9108938574790955
+            ],
+            [
+                "Product",
+                0.9079278111457825
+            ],
+            [
+                "Sleeve",
+                0.8724489808082581
+            ],
+            [
+                "Yellow",
+                0.849387526512146
+            ],
+            [
+                "Font",
+                0.836100697517395
+            ],
+            [
+                "Line",
+                0.8203586339950562
+            ],
+            [
+                "Creative arts",
+                0.8162323832511902
+            ],
+            [
+                "Art",
+                0.7804033160209656
+            ],
+            [
+                "Pattern",
+                0.7218932509422302
+            ],
+            [
+                "Sportswear",
+                0.7007650136947632
+            ]
+        ]
+    },
+    "15": {
+        "type": "chart",
+        "caption_text": "Figure 15. Task-1: drawing London\u2019s Gherkin building (a). Task-2:\ndrawing a logo (b) on a curved physical surface of a vase (c).\n",
+        "image_labels": [
+            [
+                "Drinkware",
+                0.8803371787071228
+            ],
+            [
+                "Tableware",
+                0.8657686114311218
+            ],
+            [
+                "Beer",
+                0.8618646264076233
+            ],
+            [
+                "Ingredient",
+                0.8563719391822815
+            ],
+            [
+                "Liquid",
+                0.8529492020606995
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Fruit",
+                0.8467727303504944
+            ],
+            [
+                "Rectangle",
+                0.8299380540847778
+            ],
+            [
+                "Font",
+                0.8069765567779541
+            ],
+            [
+                "Handwriting",
+                0.7973730564117432
+            ]
+        ]
+    },
+    "16": {
+        "type": "picture",
+        "caption_text": "Figure 16. Representative results for the \ufb01xed tasks. Task 1: Gherkin\nbuilding, using symbiosis (left) and mid-air only (center-left). Task 2:\nlogo on physical object, symbiosis (center-right), mid-air only (right).\n",
+        "image_labels": [
+            [
+                "Handwriting",
+                0.9002752900123596
+            ],
+            [
+                "Leaf",
+                0.8929950594902039
+            ],
+            [
+                "Botany",
+                0.8909690976142883
+            ],
+            [
+                "Organism",
+                0.8649637699127197
+            ],
+            [
+                "Font",
+                0.8565735220909119
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Rectangle",
+                0.8493176102638245
+            ],
+            [
+                "Red",
+                0.8013487458229065
+            ],
+            [
+                "Art",
+                0.797330379486084
+            ],
+            [
+                "Plant",
+                0.7911971807479858
+            ]
+        ]
+    },
+    "17": {
+        "type": "picture",
+        "caption_text": "Figure 17. (Clockwise from top-left) close-ups of selected results showing details of designs: mechanical wing (Figure 14c), war helicopter (Figure 14a),\nlarge wall-fan (Figure 14d), and some additional results: CHInosaur as the Toronto Raptor (participant creation) and skirt drawn over a human model\n(author creation).\n",
+        "image_labels": [
+            [
+                "Vertebrate",
+                0.9207296371459961
+            ],
+            [
+                "Product",
+                0.907227098941803
+            ],
+            [
+                "Green",
+                0.8994150161743164
+            ],
+            [
+                "Organism",
+                0.8689858913421631
+            ],
+            [
+                "Yellow",
+                0.842523455619812
+            ],
+            [
+                "Line",
+                0.8249301314353943
+            ],
+            [
+                "Art",
+                0.8094348311424255
+            ],
+            [
+                "Terrestrial plant",
+                0.7705230116844177
+            ],
+            [
+                "Font",
+                0.7059482932090759
+            ],
+            [
+                "Design",
+                0.6846639513969421
+            ]
+        ]
+    },
+    "18": {
+        "type": "chart",
+        "caption_text": "Figure 18. All participants\u2019 drawings for the \ufb01xed tasks. Row-wise from top: task 1 (Gherkin building) in symbiosis condition, the in mid-air only\ncondition; task 2 (logo on a physical surface) in symbiosis condition, and in mid-air only condition.\n",
+        "image_labels": [
+            [
+                "Organ",
+                0.9093425273895264
+            ],
+            [
+                "Product",
+                0.9079441428184509
+            ],
+            [
+                "Botany",
+                0.9064862728118896
+            ],
+            [
+                "Organism",
+                0.8792158961296082
+            ],
+            [
+                "Font",
+                0.870171844959259
+            ],
+            [
+                "Art",
+                0.8635098934173584
+            ],
+            [
+                "Creative arts",
+                0.8464714288711548
+            ],
+            [
+                "Pink",
+                0.8374802470207214
+            ],
+            [
+                "Line",
+                0.8226944804191589
+            ],
+            [
+                "Material property",
+                0.8003869652748108
+            ]
+        ]
+    }
+}

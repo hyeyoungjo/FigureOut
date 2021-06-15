@@ -1,0 +1,492 @@
+{
+    "1": {
+        "type": "graphic",
+        "caption_text": "Figure  1.  VRSketchIn  is  an  (a)  immersive  sketching  application  combining  (b)  unconstrained  3D  mid-air  sketching  with  a  pen  and  (c)  constrained \nsurface-based sketching with pen on tablet. We created a design space and describe multiple interaction metaphors such as drawing surfaces (c) or World \nIn Miniature (d) to enable a combination of 2D and 3D mid-air sketching. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9081113934516907
+            ],
+            [
+                "Naval architecture",
+                0.8996973633766174
+            ],
+            [
+                "Font",
+                0.8530484437942505
+            ],
+            [
+                "World",
+                0.8444588780403137
+            ],
+            [
+                "Art",
+                0.7947425246238708
+            ],
+            [
+                "Slope",
+                0.7871201634407043
+            ],
+            [
+                "Urban design",
+                0.784834623336792
+            ],
+            [
+                "Terrestrial plant",
+                0.7481083869934082
+            ],
+            [
+                "Plant",
+                0.7346075177192688
+            ],
+            [
+                "Space",
+                0.7275688648223877
+            ]
+        ]
+    },
+    "2": {
+        "type": "table",
+        "caption_text": "Figure 2. A design space for pen- and tablet-based VR sketching applica\u00ad\ntions. Interaction metaphors are categorized into cells of this space by se\u00ad\nlecting the appropriate input devices (D1) and sketching operations (D2) \nparameters (P). This matrix was created during a morphological analysis. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8740741610527039
+            ],
+            [
+                "Font",
+                0.8198679089546204
+            ],
+            [
+                "Parallel",
+                0.7700794339179993
+            ],
+            [
+                "Pattern",
+                0.7156432867050171
+            ],
+            [
+                "Number",
+                0.7050818800926208
+            ],
+            [
+                "Slope",
+                0.5230594873428345
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3. A populated version of our design space for pen- and tablet-based sketching that shows (1) the classi\ufb01cation of interaction metaphors, (2) the \nclassi\ufb01cation of prior art, (3) the de\ufb01ned interaction metaphor groups, and (4) the interaction metaphors implemented in VRSketchIn. Due to space \nconstraints, we had to split the design space into two parts. This is only a visualization. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9078820943832397
+            ],
+            [
+                "Rectangle",
+                0.898713231086731
+            ],
+            [
+                "Font",
+                0.8568460941314697
+            ],
+            [
+                "Slope",
+                0.8521010279655457
+            ],
+            [
+                "Material property",
+                0.8025760054588318
+            ],
+            [
+                "Parallel",
+                0.7909739017486572
+            ],
+            [
+                "Screenshot",
+                0.7721546292304993
+            ],
+            [
+                "Pattern",
+                0.7388303279876709
+            ],
+            [
+                "Number",
+                0.722865104675293
+            ],
+            [
+                "Design",
+                0.6824237704277039
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure  5.  3D  Mid-Air  Sketching.  a)  Pen-based  mid-air  drawing  in  the \nimmersive environment. b) Pen-based mid-air object selection. \n",
+        "image_labels": [
+            [
+                "Triangle",
+                0.8654329180717468
+            ],
+            [
+                "Wood",
+                0.8543406128883362
+            ],
+            [
+                "Rectangle",
+                0.8219203352928162
+            ],
+            [
+                "Slope",
+                0.8058921694755554
+            ],
+            [
+                "Font",
+                0.7957566976547241
+            ],
+            [
+                "Parallel",
+                0.7807576656341553
+            ],
+            [
+                "Tints and shades",
+                0.7509737014770508
+            ],
+            [
+                "Wing",
+                0.6891153454780579
+            ],
+            [
+                "Composite material",
+                0.6823103427886963
+            ],
+            [
+                "Metal",
+                0.6444053649902344
+            ]
+        ]
+    },
+    "6": {
+        "type": "graphic",
+        "caption_text": "Figure  6.  Gizmos.  a)  The  translation  gizmo  activated  for  the  selected \nstroke. b) The rotation gizmo for the same stroke. \n",
+        "image_labels": [
+            [
+                "Green",
+                0.915645956993103
+            ],
+            [
+                "Product",
+                0.907336950302124
+            ],
+            [
+                "Nature",
+                0.900775671005249
+            ],
+            [
+                "Azure",
+                0.8967456817626953
+            ],
+            [
+                "Organism",
+                0.8624663352966309
+            ],
+            [
+                "World",
+                0.8516926765441895
+            ],
+            [
+                "Biome",
+                0.8338006138801575
+            ],
+            [
+                "Font",
+                0.777161717414856
+            ],
+            [
+                "Art",
+                0.7728853821754456
+            ],
+            [
+                "Urban design",
+                0.7549362778663635
+            ]
+        ]
+    },
+    "4": {
+        "type": "human",
+        "caption_text": "Figure 4. Our setup (c) consisted of an HMD, a tablet, and a pen (a). We \n3D  printed  a  pen  case  and  combined  the  graphical  pen  with  wireless \nbuttons (b). All devices were motion tracked using OptiTrack [42]. \n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9768645763397217
+            ],
+            [
+                "Hand",
+                0.9570496678352356
+            ],
+            [
+                "Arm",
+                0.9439912438392639
+            ],
+            [
+                "Product",
+                0.9081194400787354
+            ],
+            [
+                "Neck",
+                0.8734200596809387
+            ],
+            [
+                "Sleeve",
+                0.8724504709243774
+            ],
+            [
+                "Musical instrument",
+                0.8616503477096558
+            ],
+            [
+                "Cap",
+                0.8597283959388733
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8358308672904968
+            ]
+        ]
+    },
+    "7": {
+        "type": "diagram",
+        "caption_text": "Figure 7. Drawing Surfaces. a) New drawing surfaces can be created by \nplacing them in space with the tablet position and orientation. The scale \nand the distance are set by sliding the pen on the tablet. A preview of the sli\u00ad\nced objects is provided on the tablet. b) Sketching on the tablet creates sto\u00ad\nkes in mid-air that lie on the de\ufb01ned surface. Gridlines can be activated. \n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.8526046872138977
+            ],
+            [
+                "Urban design",
+                0.8295053243637085
+            ],
+            [
+                "Font",
+                0.8163682222366333
+            ],
+            [
+                "Triangle",
+                0.8080070614814758
+            ],
+            [
+                "Real estate",
+                0.7842262387275696
+            ],
+            [
+                "Facade",
+                0.7739778757095337
+            ],
+            [
+                "Landmark",
+                0.7736839056015015
+            ],
+            [
+                "Art",
+                0.7243832349777222
+            ],
+            [
+                "Slope",
+                0.6945691108703613
+            ],
+            [
+                "Roof",
+                0.69063800573349
+            ]
+        ]
+    },
+    "8": {
+        "type": "diagram",
+        "caption_text": "Figure 8. World In Miniature. a) WIM provides a miniaturized view of \nthe whole space in the vicinity of the user and attaches it to the tablet. \nb) It is possible to use all interaction metaphors inside WIM such as the \nrotation gizmo. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8197136521339417
+            ],
+            [
+                "Naval architecture",
+                0.8168751001358032
+            ],
+            [
+                "Art",
+                0.8060474991798401
+            ],
+            [
+                "Triangle",
+                0.7143392562866211
+            ],
+            [
+                "Urban design",
+                0.6890292763710022
+            ],
+            [
+                "Wind",
+                0.6798946857452393
+            ],
+            [
+                "Electric blue",
+                0.6660757660865784
+            ],
+            [
+                "Animation",
+                0.6542125940322876
+            ],
+            [
+                "Nonbuilding structure",
+                0.6458820104598999
+            ],
+            [
+                "Graphics",
+                0.6361414194107056
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9. a) Portals can be places in space and provide a virtual camera \nthat is visible on the tablet. b) Primitives can be extruded to create solid \nobjects. \n",
+        "image_labels": [
+            [
+                "White",
+                0.9218598008155823
+            ],
+            [
+                "Product",
+                0.907848060131073
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8411431908607483
+            ],
+            [
+                "Rectangle",
+                0.8125430345535278
+            ],
+            [
+                "Gas",
+                0.7779046893119812
+            ],
+            [
+                "Graphics",
+                0.7091448307037354
+            ],
+            [
+                "Logo",
+                0.7040044069290161
+            ],
+            [
+                "Brand",
+                0.6867237091064453
+            ],
+            [
+                "Sky",
+                0.6508502960205078
+            ]
+        ]
+    },
+    "10": {
+        "type": "chart",
+        "caption_text": "Figure  10.  Con\ufb01guration  Menu.  Besides  the  permanently  available \nphysical tablet with two hardware buttons and the \ufb02oating buttons, all \nother  controls  are  accessible  via  the  con\ufb01guration  menu  on  the  tablet. \nIcons \u00a9 icons8.com. Used under CC BY-ND 3.0. [26] \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9073240756988525
+            ],
+            [
+                "Font",
+                0.8459450006484985
+            ],
+            [
+                "Communication Device",
+                0.8414081931114197
+            ],
+            [
+                "Rectangle",
+                0.828765869140625
+            ],
+            [
+                "Gadget",
+                0.8068150281906128
+            ],
+            [
+                "Smartphone",
+                0.7089201807975769
+            ],
+            [
+                "Audio equipment",
+                0.7061175107955933
+            ],
+            [
+                "Multimedia",
+                0.7058285474777222
+            ],
+            [
+                "Portable communications device",
+                0.6915929317474365
+            ],
+            [
+                "Magenta",
+                0.6863340735435486
+            ]
+        ]
+    },
+    "11": {
+        "type": "graphic",
+        "caption_text": "Figure 11. Islands with beach houses created by our participants during the usability walkthrough (P2: (a), P1: (b), P5: (c)). \n",
+        "image_labels": [
+            [
+                "Plant",
+                0.9271592497825623
+            ],
+            [
+                "Tree",
+                0.8845182657241821
+            ],
+            [
+                "Font",
+                0.7905541062355042
+            ],
+            [
+                "Art",
+                0.7885592579841614
+            ],
+            [
+                "Grass",
+                0.7520945072174072
+            ],
+            [
+                "Illustration",
+                0.7348079681396484
+            ],
+            [
+                "Circle",
+                0.7059249877929688
+            ],
+            [
+                "Symbol",
+                0.7045407891273499
+            ],
+            [
+                "Graphics",
+                0.6936599612236023
+            ],
+            [
+                "Fruit",
+                0.6787447929382324
+            ]
+        ]
+    }
+}

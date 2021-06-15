@@ -1,0 +1,764 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1: (a) In this Mixed Reality game that uses a \nphysical tray as prop, our mobile system renders shifts \nin the tray\u2019s center of gravity as the marble moves. \n(b) Our system creates the necessary forces by applying \nelectrical muscle stimulation to users\u2019 triceps muscles. \n(c) Our approach leaves users\u2019 hands free at all times, \nallowing the user to interact with the tray.  \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9075794816017151
+            ],
+            [
+                "Textile",
+                0.8776496648788452
+            ],
+            [
+                "Sleeve",
+                0.8724504113197327
+            ],
+            [
+                "Orange",
+                0.8629196286201477
+            ],
+            [
+                "Street fashion",
+                0.8575828671455383
+            ],
+            [
+                "Font",
+                0.8566616177558899
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Sunglasses",
+                0.8379318714141846
+            ],
+            [
+                "Goggles",
+                0.7510039210319519
+            ],
+            [
+                "Eyewear",
+                0.7413303852081299
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3: The previous scene through the HoloLens. \n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9420404434204102
+            ],
+            [
+                "Vertebrate",
+                0.924673318862915
+            ],
+            [
+                "Green",
+                0.9054264426231384
+            ],
+            [
+                "Organism",
+                0.8664088845252991
+            ],
+            [
+                "Yellow",
+                0.8417897820472717
+            ],
+            [
+                "Terrestrial plant",
+                0.8343081474304199
+            ],
+            [
+                "Art",
+                0.8199982643127441
+            ],
+            [
+                "Plant",
+                0.8154911994934082
+            ],
+            [
+                "Grass",
+                0.7866392135620117
+            ],
+            [
+                "Snapshot",
+                0.7428475022315979
+            ]
+        ]
+    },
+    "4": {
+        "type": "picture",
+        "caption_text": "Figure 4: (a) This user physically drags the couch and \nfeels the simulated friction against the floor. (b) As the \ncouch collides with a real wall, the system stops the user \nby pushing the user\u2019s shoulders and wrists backwards.     \n",
+        "image_labels": [
+            [
+                "Sleeve",
+                0.8724238872528076
+            ],
+            [
+                "Gesture",
+                0.8526045083999634
+            ],
+            [
+                "Wood",
+                0.8233456611633301
+            ],
+            [
+                "Font",
+                0.7836832404136658
+            ],
+            [
+                "Baseball cap",
+                0.7612836956977844
+            ],
+            [
+                "Art",
+                0.7494232654571533
+            ],
+            [
+                "Hat",
+                0.7018818855285645
+            ],
+            [
+                "Magenta",
+                0.6757603287696838
+            ],
+            [
+                "Cap",
+                0.6661901473999023
+            ],
+            [
+                "Table",
+                0.6451712846755981
+            ]
+        ]
+    },
+    "5": {
+        "type": "human",
+        "caption_text": "Figure 5: Turning on the virtual lamp. Here our EMS \nsystem renders the forces of the button\u2019s mechanism.  \n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9431418776512146
+            ],
+            [
+                "White",
+                0.921879768371582
+            ],
+            [
+                "Picture frame",
+                0.8952649831771851
+            ],
+            [
+                "Art",
+                0.8631431460380554
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Artist",
+                0.8004531860351562
+            ],
+            [
+                "Eyelash",
+                0.7456142902374268
+            ],
+            [
+                "Snapshot",
+                0.7428473830223083
+            ],
+            [
+                "Font",
+                0.7404934763908386
+            ],
+            [
+                "Event",
+                0.7326497435569763
+            ]
+        ]
+    },
+    "6": {
+        "type": "human",
+        "caption_text": "Figure 6: The user configures the intensity of the de-\nsired light bulb using a cup as a stand-in for a dial (pas-\nsive prop). Using EMS force feedback, our system aug-\nments the tangible with constraints and detents.  \n",
+        "image_labels": [
+            [
+                "Arm",
+                0.9437229633331299
+            ],
+            [
+                "Photograph",
+                0.9423671364784241
+            ],
+            [
+                "White",
+                0.9218622446060181
+            ],
+            [
+                "Yellow",
+                0.87087082862854
+            ],
+            [
+                "Hat",
+                0.8380889892578125
+            ],
+            [
+                "Sports equipment",
+                0.8245764374732971
+            ],
+            [
+                "Door",
+                0.8203571438789368
+            ],
+            [
+                "Artist",
+                0.8084889054298401
+            ],
+            [
+                "Font",
+                0.8048946857452393
+            ],
+            [
+                "Recreation",
+                0.7835241556167603
+            ]
+        ]
+    },
+    "7": {
+        "type": "picture",
+        "caption_text": "Figure 7: The user manipulates two cups to control the \nlight temperature and intensity simultaneously.  \n",
+        "image_labels": [
+            [
+                "Hand",
+                0.9590174555778503
+            ],
+            [
+                "Arm",
+                0.945183277130127
+            ],
+            [
+                "Vertebrate",
+                0.9198766946792603
+            ],
+            [
+                "Green",
+                0.9177958965301514
+            ],
+            [
+                "Product",
+                0.9087167382240295
+            ],
+            [
+                "Sleeve",
+                0.8724504709243774
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Finger",
+                0.8490896821022034
+            ],
+            [
+                "Yellow",
+                0.8426546454429626
+            ],
+            [
+                "Cool",
+                0.8129976987838745
+            ]
+        ]
+    },
+    "8": {
+        "type": "human",
+        "caption_text": "Figure 8: Here, our system enhances a fully functional \nthermostat with detents.  \n",
+        "image_labels": [
+            [
+                "Hand",
+                0.9595323204994202
+            ],
+            [
+                "Hairstyle",
+                0.9509009122848511
+            ],
+            [
+                "Eyebrow",
+                0.9473444223403931
+            ],
+            [
+                "Neck",
+                0.8836724162101746
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Art",
+                0.8433882594108582
+            ],
+            [
+                "Finger",
+                0.8354125618934631
+            ],
+            [
+                "Headgear",
+                0.8345999717712402
+            ],
+            [
+                "Eyelash",
+                0.8216454386711121
+            ],
+            [
+                "Gadget",
+                0.8057349920272827
+            ]
+        ]
+    },
+    "9": {
+        "type": "diagram",
+        "caption_text": "Figure 9: Walkthrough examples mapped to the reality-\nvirtuality continuum by Milgram et al. [43].  \n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8298383355140686
+            ],
+            [
+                "Font",
+                0.8138465881347656
+            ],
+            [
+                "Parallel",
+                0.7866597175598145
+            ],
+            [
+                "Rectangle",
+                0.7203491926193237
+            ],
+            [
+                "Number",
+                0.681422233581543
+            ],
+            [
+                "Circle",
+                0.6794232130050659
+            ]
+        ]
+    },
+    "10": {
+        "type": "human",
+        "caption_text": "Figure 10: While the user pulls the lever of this virtual \ncatapult, our system provides force feedback simulating \nthe catapult\u2019s spring.  \n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9767575263977051
+            ],
+            [
+                "Shoulder",
+                0.9477038979530334
+            ],
+            [
+                "Arm",
+                0.9455887675285339
+            ],
+            [
+                "Photograph",
+                0.941470205783844
+            ],
+            [
+                "Table",
+                0.9183849692344666
+            ],
+            [
+                "Output device",
+                0.8950840830802917
+            ],
+            [
+                "Desk",
+                0.8681820631027222
+            ],
+            [
+                "Yellow",
+                0.8467261791229248
+            ],
+            [
+                "Computer",
+                0.8287391066551208
+            ],
+            [
+                "Audio equipment",
+                0.8185949921607971
+            ]
+        ]
+    },
+    "11": {
+        "type": "human",
+        "caption_text": "Figure 11: (a) At the start of the game the marble falls \nfrom the sky. (b) As it hits the tray, the EMS pulls the \nuser\u2019s arms down quickly so as to represent the impact.  \n",
+        "image_labels": [
+            [
+                "Sleeve",
+                0.8724504709243774
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Eyewear",
+                0.793562650680542
+            ],
+            [
+                "T-shirt",
+                0.767204225063324
+            ],
+            [
+                "Hearing",
+                0.7648235559463501
+            ],
+            [
+                "Waist",
+                0.7220072150230408
+            ],
+            [
+                "Belt",
+                0.7176024317741394
+            ],
+            [
+                "Event",
+                0.7159449458122253
+            ],
+            [
+                "Gadget",
+                0.7059670686721802
+            ],
+            [
+                "Headphones",
+                0.700252890586853
+            ]
+        ]
+    },
+    "12": {
+        "type": "human",
+        "caption_text": "Figure 12: (a) These gooseneck lamps are repurposed as \nlevers, with force feedback, allowing the user to input \nthe secret combination to (b) unlock the door.  \n",
+        "image_labels": [
+            [
+                "Clothing",
+                0.986534059047699
+            ],
+            [
+                "Joint",
+                0.977257490158081
+            ],
+            [
+                "Shoulder",
+                0.948393702507019
+            ],
+            [
+                "Neck",
+                0.8734570145606995
+            ],
+            [
+                "Sleeve",
+                0.8724504709243774
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Hat",
+                0.819329023361206
+            ],
+            [
+                "Art",
+                0.8150156140327454
+            ],
+            [
+                "Cap",
+                0.8050570487976074
+            ],
+            [
+                "Street fashion",
+                0.7841382622718811
+            ]
+        ]
+    },
+    "13": {
+        "type": "human",
+        "caption_text": "Figure 13: The hardware components and electrode \nplacement (one arm only).  \n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9777997732162476
+            ],
+            [
+                "Shoulder",
+                0.9519224762916565
+            ],
+            [
+                "Outerwear",
+                0.951375424861908
+            ],
+            [
+                "White",
+                0.9218741655349731
+            ],
+            [
+                "Product",
+                0.9074873924255371
+            ],
+            [
+                "Black",
+                0.8961747884750366
+            ],
+            [
+                "Neck",
+                0.8948569893836975
+            ],
+            [
+                "Human body",
+                0.8862554430961609
+            ],
+            [
+                "Fashion",
+                0.8796010613441467
+            ],
+            [
+                "Textile",
+                0.8726468682289124
+            ]
+        ]
+    },
+    "14": {
+        "type": "table",
+        "caption_text": "Figure 14: Stimulation parameters per haptic effect at \nthe example of one study participant: amplitude (in \nmA), pulse-width (in \u00b5s) and duration (in ms).   \n",
+        "image_labels": [
+            [
+                "Font",
+                0.826768696308136
+            ],
+            [
+                "Pattern",
+                0.727764904499054
+            ],
+            [
+                "Parallel",
+                0.7205337285995483
+            ],
+            [
+                "Number",
+                0.694854199886322
+            ],
+            [
+                "Music",
+                0.6590437889099121
+            ],
+            [
+                "Monochrome",
+                0.628890335559845
+            ],
+            [
+                "Document",
+                0.5892869830131531
+            ],
+            [
+                "Screenshot",
+                0.5819011330604553
+            ],
+            [
+                "Art",
+                0.5402294397354126
+            ]
+        ]
+    },
+    "15": {
+        "type": "chart",
+        "caption_text": "Figure 15: Participants rated their experience as more \nrealistic in the EMS conditions.  \n",
+        "image_labels": [
+            [
+                "Azure",
+                0.896251916885376
+            ],
+            [
+                "Rectangle",
+                0.8847368955612183
+            ],
+            [
+                "Slope",
+                0.873438835144043
+            ],
+            [
+                "Font",
+                0.8086397051811218
+            ],
+            [
+                "Parallel",
+                0.7905057668685913
+            ],
+            [
+                "Plot",
+                0.7665801048278809
+            ],
+            [
+                "Diagram",
+                0.6924268007278442
+            ],
+            [
+                "Pattern",
+                0.6737096905708313
+            ],
+            [
+                "Electric blue",
+                0.6703804135322571
+            ],
+            [
+                "Number",
+                0.6380696296691895
+            ]
+        ]
+    },
+    "16": {
+        "type": "chart",
+        "caption_text": "Figure 16: Participants rated their experience as more \nenjoyable in most of the EMS conditions.  \n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Azure",
+                0.8990849852561951
+            ],
+            [
+                "Rectangle",
+                0.846032977104187
+            ],
+            [
+                "Font",
+                0.8376801013946533
+            ],
+            [
+                "Slope",
+                0.8127641677856445
+            ],
+            [
+                "Parallel",
+                0.7846212983131409
+            ],
+            [
+                "Plot",
+                0.6985805034637451
+            ],
+            [
+                "Electric blue",
+                0.6918700337409973
+            ],
+            [
+                "Pattern",
+                0.603493869304657
+            ],
+            [
+                "Diagram",
+                0.5723140835762024
+            ]
+        ]
+    },
+    "17": {
+        "type": "table",
+        "caption_text": "Figure 17: Most participants preferred the EMS to the \nno-EMS interface condition across tasks. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8899903297424316
+            ],
+            [
+                "Font",
+                0.8172195553779602
+            ],
+            [
+                "Aqua",
+                0.8025884032249451
+            ],
+            [
+                "Material property",
+                0.8013582229614258
+            ],
+            [
+                "Parallel",
+                0.7863056659698486
+            ],
+            [
+                "Electric blue",
+                0.7614896893501282
+            ],
+            [
+                "Circle",
+                0.7118832468986511
+            ],
+            [
+                "Slope",
+                0.7078371644020081
+            ],
+            [
+                "Number",
+                0.6974719762802124
+            ],
+            [
+                "Brand",
+                0.6075931191444397
+            ]
+        ]
+    },
+    "18": {
+        "type": "picture",
+        "caption_text": "Figure 18: Participant balancing the marble (image \nfrom the study, with consent of the participant). \n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Rectangle",
+                0.8141912817955017
+            ],
+            [
+                "Art",
+                0.8080003261566162
+            ],
+            [
+                "Font",
+                0.7855013608932495
+            ],
+            [
+                "Technology",
+                0.7545368671417236
+            ],
+            [
+                "Wood",
+                0.7221664786338806
+            ],
+            [
+                "Wrist",
+                0.7033524513244629
+            ],
+            [
+                "Thigh",
+                0.6865079998970032
+            ],
+            [
+                "Display device",
+                0.6777089834213257
+            ],
+            [
+                "Human leg",
+                0.6741447448730469
+            ]
+        ]
+    }
+}

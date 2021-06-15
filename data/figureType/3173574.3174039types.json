@@ -1,0 +1,508 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1. (a)  A surgeon operating a CatAR  system.  (b) System  overview: AR microscope platform, dual  4K displays, tracking  area  and surgical\nmannequin are shown. (c) A real surgical instrument interacting with the virtual object in a training module. The iris, blue guidance curve, and white\nrectangle are virtual objects overlaid on a real scene.\n",
+        "image_labels": [
+            [
+                "Output device",
+                0.9243249893188477
+            ],
+            [
+                "Product",
+                0.9077423810958862
+            ],
+            [
+                "Television set",
+                0.8254890441894531
+            ],
+            [
+                "Home appliance",
+                0.8095808029174805
+            ],
+            [
+                "Audio equipment",
+                0.8038580417633057
+            ],
+            [
+                "Gadget",
+                0.7926583290100098
+            ],
+            [
+                "Computer monitor accessory",
+                0.7902913093566895
+            ],
+            [
+                "Technology",
+                0.7715680599212646
+            ],
+            [
+                "Display device",
+                0.7658191919326782
+            ],
+            [
+                "Font",
+                0.752476692199707
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2. CatAR system structure diagram.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8882695436477661
+            ],
+            [
+                "Font",
+                0.8023772239685059
+            ],
+            [
+                "Slope",
+                0.8003004789352417
+            ],
+            [
+                "Parallel",
+                0.7888493537902832
+            ],
+            [
+                "Engineering",
+                0.7281836271286011
+            ],
+            [
+                "Diagram",
+                0.6880981922149658
+            ],
+            [
+                "Drawing",
+                0.6527171730995178
+            ],
+            [
+                "Technical drawing",
+                0.6384612321853638
+            ],
+            [
+                "Schematic",
+                0.6163032054901123
+            ],
+            [
+                "Symmetry",
+                0.613113284111023
+            ]
+        ]
+    },
+    "3": {
+        "type": "table",
+        "caption_text": "Figure 3. (a) Components and structure of the lower camera module.\n(b) Dot markers on 3 different plans. (c) Three different types of micro\ncalibration boards.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.908571720123291
+            ],
+            [
+                "Font",
+                0.848405122756958
+            ],
+            [
+                "Circle",
+                0.7703323364257812
+            ],
+            [
+                "Technology",
+                0.7648651599884033
+            ],
+            [
+                "Gas",
+                0.7574424743652344
+            ],
+            [
+                "Hat",
+                0.720839262008667
+            ],
+            [
+                "Design",
+                0.6882259845733643
+            ],
+            [
+                "Pattern",
+                0.6480863690376282
+            ],
+            [
+                "Rectangle",
+                0.6326661109924316
+            ],
+            [
+                "Machine",
+                0.6287200450897217
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4. Stereoscopic display system in CatAR. The distance between\nthe eye and screen is 32 cm, the viewing angle is 50 degrees and has 2160\npixels in this field (43 PPD).\n",
+        "image_labels": [
+            [
+                "Flash photography",
+                0.8628273010253906
+            ],
+            [
+                "Automotive tire",
+                0.8331075310707092
+            ],
+            [
+                "Font",
+                0.7932162880897522
+            ],
+            [
+                "Rim",
+                0.7542683482170105
+            ],
+            [
+                "Circle",
+                0.7273299098014832
+            ],
+            [
+                "Symbol",
+                0.7019311189651489
+            ],
+            [
+                "Art",
+                0.7004740834236145
+            ],
+            [
+                "Electric blue",
+                0.6902323365211487
+            ],
+            [
+                "Darkness",
+                0.6796131134033203
+            ],
+            [
+                "Auto part",
+                0.6725610494613647
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure 5. (a) Spatula and (b) Capsule forceps used in cataract surgery.\nArrow: reflective tracker. (c) Standard hand posture on the face model\nwhile holding forceps. (d) Dimensions of eye model, the soft part is made\nusing EVA material. (e) The soft part allows the forceps to be tilted in\nthe small artificial wound. (f) The elasticity will constrain the opening\ndistance of forceps while tilting laterally.\n",
+        "image_labels": [
+            [
+                "Font",
+                0.7973477244377136
+            ],
+            [
+                "Art",
+                0.7459421753883362
+            ],
+            [
+                "Auto part",
+                0.7035698294639587
+            ],
+            [
+                "Logo",
+                0.6801976561546326
+            ],
+            [
+                "Event",
+                0.6697421669960022
+            ],
+            [
+                "Circle",
+                0.6514776945114136
+            ],
+            [
+                "Number",
+                0.6487789750099182
+            ],
+            [
+                "Brand",
+                0.6425306797027588
+            ],
+            [
+                "Graphics",
+                0.6318196654319763
+            ],
+            [
+                "Symbol",
+                0.6183224320411682
+            ]
+        ]
+    },
+    "6": {
+        "type": "picture",
+        "caption_text": "Figure 6. This spatula is fixed on the linear translation stage and its tip\nis placed inside the eye model through the wound. * Micrometer drive.\n",
+        "image_labels": [
+            [
+                "Toy",
+                0.8546162247657776
+            ],
+            [
+                "Electronic instrument",
+                0.75286465883255
+            ],
+            [
+                "Engineering",
+                0.752463698387146
+            ],
+            [
+                "Machine",
+                0.7423601150512695
+            ],
+            [
+                "Auto part",
+                0.7133583426475525
+            ],
+            [
+                "Audio equipment",
+                0.6825535297393799
+            ],
+            [
+                "Nail",
+                0.627090573310852
+            ],
+            [
+                "Automotive wheel system",
+                0.6226982474327087
+            ],
+            [
+                "Fashion accessory",
+                0.5949538946151733
+            ],
+            [
+                "Thumb",
+                0.5934650897979736
+            ]
+        ]
+    },
+    "7": {
+        "type": "picture",
+        "caption_text": "Figure 7. Instructor\u2019s 3D view (black star) and user\u2019s AR view (white star) of 5 modules. (a) Antitremor module, 6 blue virtual balls are placed in the\npupil area, and turn to red when touched. Arrow: insertion point of the instrument. (b) Anterior chamber navigation module. Arrow: starting point\nin  the  pupil  center.  (c)  Circular  tracing  module,  green  line  represents the  curve  drawn by  the user  along  the white  reference circle.  (d) Forceps\ntraining module: six blue balls are dragged to the small white point in the pupil center. Two white balls beside the blue ball represent the forceps tips.\nArrow: wound touch warning indicators, the lower one is touched and turned to red. (e) Capsulorhexis module: white thin box represents the proximal\nend of the capsule flap. The box is dragged along the blue curve to the white point. (f) Capsulorhexis in the human eye.\n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Photograph",
+                0.9420294761657715
+            ],
+            [
+                "Green",
+                0.9232099652290344
+            ],
+            [
+                "White",
+                0.9218593835830688
+            ],
+            [
+                "Automotive tire",
+                0.9164043664932251
+            ],
+            [
+                "Light",
+                0.9121345281600952
+            ],
+            [
+                "Blue",
+                0.9097395539283752
+            ],
+            [
+                "Organ",
+                0.9052890539169312
+            ],
+            [
+                "Camera lens",
+                0.8905383944511414
+            ],
+            [
+                "Iris",
+                0.8639900088310242
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure  8.  Wound  touch  counts  and  accumulated  time  of  every\nparticipants\u2019 pre- and post-intervention in the forceps training module.\nThe IDs are sorted in ascending order by their total training experience.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9075672030448914
+            ],
+            [
+                "Rectangle",
+                0.9038655757904053
+            ],
+            [
+                "Slope",
+                0.8918048143386841
+            ],
+            [
+                "Plot",
+                0.8680956363677979
+            ],
+            [
+                "Font",
+                0.8430675864219666
+            ],
+            [
+                "Line",
+                0.8240326046943665
+            ],
+            [
+                "Parallel",
+                0.7910236716270447
+            ],
+            [
+                "Screenshot",
+                0.7896532416343689
+            ],
+            [
+                "Diagram",
+                0.7057339549064636
+            ],
+            [
+                "Number",
+                0.6693531274795532
+            ]
+        ]
+    },
+    "9": {
+        "type": "formula",
+        "caption_text": "Figure  9.  Correlation  between  experience  and  search  time  in  the\nanterior  chamber  navigation  module.  Linear  regression  lines  are\npresented.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8721088171005249
+            ],
+            [
+                "Slope",
+                0.8654576539993286
+            ],
+            [
+                "Plot",
+                0.8425213694572449
+            ],
+            [
+                "Line",
+                0.8181285262107849
+            ],
+            [
+                "Font",
+                0.8153796792030334
+            ],
+            [
+                "Parallel",
+                0.7893980741500854
+            ],
+            [
+                "Circle",
+                0.7611868381500244
+            ],
+            [
+                "Symmetry",
+                0.7505016922950745
+            ],
+            [
+                "Pattern",
+                0.708332896232605
+            ],
+            [
+                "Bird",
+                0.6972335577011108
+            ]
+        ]
+    },
+    "10": {
+        "type": "chart",
+        "caption_text": "Figure  10.  3D  presentation  of  the  results  in  circular  tracing  module.\nNovice: R2, Experienced: Attending physician\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9111739993095398
+            ],
+            [
+                "Product",
+                0.9083970785140991
+            ],
+            [
+                "Slope",
+                0.8958743214607239
+            ],
+            [
+                "Font",
+                0.848038911819458
+            ],
+            [
+                "Plot",
+                0.8349969387054443
+            ],
+            [
+                "Parallel",
+                0.7895501852035522
+            ],
+            [
+                "Circle",
+                0.7823235392570496
+            ],
+            [
+                "Pattern",
+                0.7535592913627625
+            ],
+            [
+                "Symmetry",
+                0.7253009080886841
+            ],
+            [
+                "Diagram",
+                0.7175111770629883
+            ]
+        ]
+    },
+    "11": {
+        "type": "chart",
+        "caption_text": "Figure  11. Tracking  plots  on  the  XY  and  XZ  planes  in  3  different  modules  (unit  of  axes:  mm).  (a)  Pre-intervention  results  of  novice  (R2)  and\nexperienced surgeons (R4) in the antitremor module. (b) Pre-intervention results of novice (R2) and experienced surgeons (Fellow) in the forceps\ntraining module. The pink circles represent the position of virtual balls. (c) Pre- and post-intervention results of the same novice participant (R2).\nThe circles in 4 different colors represent the starting and releasing point of 4 tears. The curves connecting 2 circles are the guidance tracts for the\ntrainee to follow.\n",
+        "image_labels": [
+            [
+                "White",
+                0.9218763709068298
+            ],
+            [
+                "Botany",
+                0.9099411964416504
+            ],
+            [
+                "Product",
+                0.9075177907943726
+            ],
+            [
+                "Handwriting",
+                0.8789381980895996
+            ],
+            [
+                "Organism",
+                0.8764029145240784
+            ],
+            [
+                "Font",
+                0.8551633358001709
+            ],
+            [
+                "Creative arts",
+                0.8303216695785522
+            ],
+            [
+                "Line",
+                0.8278455138206482
+            ],
+            [
+                "Rectangle",
+                0.7946556806564331
+            ],
+            [
+                "Pattern",
+                0.7827219367027283
+            ]
+        ]
+    }
+}

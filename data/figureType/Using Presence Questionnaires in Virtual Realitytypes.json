@@ -1,0 +1,278 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1: Virtual (l) and real (r) environment with question-\nnaire and input controller.\n",
+        "image_labels": [
+            [
+                "Output device",
+                0.9000774025917053
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8150370121002197
+            ],
+            [
+                "Rectangle",
+                0.7733380794525146
+            ],
+            [
+                "Gadget",
+                0.7658093571662903
+            ],
+            [
+                "Computer monitor accessory",
+                0.7596678137779236
+            ],
+            [
+                "Input device",
+                0.7532735466957092
+            ],
+            [
+                "Display device",
+                0.7451638579368591
+            ],
+            [
+                "Electronic device",
+                0.7397298812866211
+            ],
+            [
+                "Peripheral",
+                0.7142083048820496
+            ]
+        ]
+    },
+    "2": {
+        "type": "graphic",
+        "caption_text": "Figure 2: Abstract and realistic scene of a first person shooter game developed to induce different levels of presence.\n",
+        "image_labels": [
+            [
+                "Sky",
+                0.9694657325744629
+            ],
+            [
+                "Daytime",
+                0.9460498690605164
+            ],
+            [
+                "Azure",
+                0.8971507549285889
+            ],
+            [
+                "Biome",
+                0.8341534733772278
+            ],
+            [
+                "Games",
+                0.7523828744888306
+            ],
+            [
+                "Space",
+                0.7401350736618042
+            ],
+            [
+                "Screenshot",
+                0.7147342562675476
+            ],
+            [
+                "Urban design",
+                0.693035900592804
+            ],
+            [
+                "Landscape",
+                0.6911112070083618
+            ],
+            [
+                "Design",
+                0.685610294342041
+            ]
+        ]
+    },
+    "3": {
+        "type": "graphic",
+        "caption_text": "Figure 3: Means and score variances of the presence measures. While presence scores of the three questionnaires did not differ\nsignificantly between in- and outside the VR, variance measures show significant interaction effects between the questionnaire\nenvironment and the realism during the VR experience. Error bars show 95% confidence intervals (CI95)\n",
+        "image_labels": [
+            [
+                "Sky",
+                0.9656920433044434
+            ],
+            [
+                "Cloud",
+                0.9529732465744019
+            ],
+            [
+                "Aircraft",
+                0.8702664971351624
+            ],
+            [
+                "Mountain",
+                0.8644217848777771
+            ],
+            [
+                "Highland",
+                0.8383716344833374
+            ],
+            [
+                "Vehicle",
+                0.8322156071662903
+            ],
+            [
+                "Plant",
+                0.8256051540374756
+            ],
+            [
+                "Terrain",
+                0.8192554116249084
+            ],
+            [
+                "Landscape",
+                0.7786409854888916
+            ],
+            [
+                "Mountainous landforms",
+                0.7757521271705627
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4: Histogram, means, and fitted Gaussian distribution using the average scores of all questionnaires. While the distribu-\ntions remain nearly constant when the questionnaires are used in VR, there is a significant difference between the variances\nin the real-world responses after BIP using abstract and after BIP using a realistic virtual scene.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.908609926700592
+            ],
+            [
+                "Azure",
+                0.8927324414253235
+            ],
+            [
+                "Slope",
+                0.8906580805778503
+            ],
+            [
+                "Font",
+                0.829230785369873
+            ],
+            [
+                "Plot",
+                0.8148660659790039
+            ],
+            [
+                "Parallel",
+                0.7885083556175232
+            ],
+            [
+                "Symmetry",
+                0.767937421798706
+            ],
+            [
+                "Pattern",
+                0.7580335140228271
+            ],
+            [
+                "Circle",
+                0.7249694466590881
+            ],
+            [
+                "Design",
+                0.6841013431549072
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5: Subscales of the IPQ and WS presence questionnaires. IPQ: General Presence (GP), spatial presence (SP), involvement\n(INV), and realism (REAL); WS: Involvement (INV), natural (NAT), auditory (AUD), haptics (HAPTC), resolution (RES), and\ninterface quality (IFQUAL).\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9083420038223267
+            ],
+            [
+                "Azure",
+                0.895437479019165
+            ],
+            [
+                "Font",
+                0.8644916415214539
+            ],
+            [
+                "Plot",
+                0.8347500562667847
+            ],
+            [
+                "Rectangle",
+                0.8210998177528381
+            ],
+            [
+                "Slope",
+                0.8210458755493164
+            ],
+            [
+                "Red",
+                0.8026063442230225
+            ],
+            [
+                "Parallel",
+                0.7899628281593323
+            ],
+            [
+                "Design",
+                0.6865401864051819
+            ],
+            [
+                "Diagram",
+                0.6812512874603271
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure 6: Completion times of the SUS, IPQ, and WS ques-\ntionnaire. Error bars show CI95.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8966518640518188
+            ],
+            [
+                "Slope",
+                0.8697461485862732
+            ],
+            [
+                "Line",
+                0.8186469078063965
+            ],
+            [
+                "Font",
+                0.8138450980186462
+            ],
+            [
+                "Parallel",
+                0.788317084312439
+            ],
+            [
+                "Plot",
+                0.699481189250946
+            ],
+            [
+                "Diagram",
+                0.6958157420158386
+            ],
+            [
+                "Number",
+                0.6106607913970947
+            ],
+            [
+                "Electric blue",
+                0.6046440005302429
+            ],
+            [
+                "Circle",
+                0.5873681902885437
+            ]
+        ]
+    }
+}

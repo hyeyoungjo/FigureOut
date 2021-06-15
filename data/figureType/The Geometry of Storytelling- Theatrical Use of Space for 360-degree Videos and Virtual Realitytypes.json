@@ -1,0 +1,404 @@
+{
+    "1": {
+        "type": "table",
+        "caption_text": "Figure 1. Diagrams of F-formations (left) and Proxemics (right), based\non [6, 11]\n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9420442581176758
+            ],
+            [
+                "White",
+                0.9218679666519165
+            ],
+            [
+                "Product",
+                0.9086817502975464
+            ],
+            [
+                "Font",
+                0.8515804409980774
+            ],
+            [
+                "Dvd",
+                0.8082759380340576
+            ],
+            [
+                "Circle",
+                0.7995216846466064
+            ],
+            [
+                "Technology",
+                0.7817942500114441
+            ],
+            [
+                "Logo",
+                0.7127957344055176
+            ],
+            [
+                "Screenshot",
+                0.7081835865974426
+            ],
+            [
+                "Design",
+                0.6879759430885315
+            ]
+        ]
+    },
+    "2": {
+        "type": "table",
+        "caption_text": "Figure 2. Diagram showing the placement of recording equipment\n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Font",
+                0.7546945810317993
+            ],
+            [
+                "Circle",
+                0.7510372400283813
+            ],
+            [
+                "Diagram",
+                0.6358175873756409
+            ],
+            [
+                "Rectangle",
+                0.572791576385498
+            ],
+            [
+                "Number",
+                0.5724748969078064
+            ],
+            [
+                "Logo",
+                0.5532310605049133
+            ],
+            [
+                "Graphics",
+                0.5529059767723083
+            ],
+            [
+                "Electric blue",
+                0.5509918332099915
+            ],
+            [
+                "Parallel",
+                0.5471252202987671
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3. Distance between Red and Blue characters compared to the\naverage distance between Green/Blue and Green/Red dyads\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8898377418518066
+            ],
+            [
+                "Font",
+                0.8327041864395142
+            ],
+            [
+                "Parallel",
+                0.7883067727088928
+            ],
+            [
+                "Slope",
+                0.7750986218452454
+            ],
+            [
+                "Diagram",
+                0.6916819214820862
+            ],
+            [
+                "Circle",
+                0.6710912585258484
+            ],
+            [
+                "Number",
+                0.5837792158126831
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4. Mean interpersonal distance between dyads for each group\nover time\n",
+        "image_labels": [
+            [
+                "Azure",
+                0.8937656283378601
+            ],
+            [
+                "Rectangle",
+                0.8854131102561951
+            ],
+            [
+                "Slope",
+                0.8843113780021667
+            ],
+            [
+                "Plot",
+                0.859584629535675
+            ],
+            [
+                "Font",
+                0.8469648361206055
+            ],
+            [
+                "Parallel",
+                0.780964195728302
+            ],
+            [
+                "Pattern",
+                0.7601006627082825
+            ],
+            [
+                "Technology",
+                0.754311203956604
+            ],
+            [
+                "Symmetry",
+                0.7447585463523865
+            ],
+            [
+                "Circle",
+                0.7430502772331238
+            ]
+        ]
+    },
+    "5": {
+        "type": "formula",
+        "caption_text": "Figure 5. Distance between Red character and centre compared to the\naverage distance from centre of Blue and Green characters\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9139122366905212
+            ],
+            [
+                "Slope",
+                0.8950986266136169
+            ],
+            [
+                "Font",
+                0.8573520183563232
+            ],
+            [
+                "Line",
+                0.8183732032775879
+            ],
+            [
+                "Parallel",
+                0.7914570569992065
+            ],
+            [
+                "Pattern",
+                0.7797922492027283
+            ],
+            [
+                "Circle",
+                0.7551765441894531
+            ],
+            [
+                "Magenta",
+                0.750751793384552
+            ],
+            [
+                "Number",
+                0.7281997799873352
+            ],
+            [
+                "Design",
+                0.6842578053474426
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8. Normalized instances of audience being inside or outside the\nactors\u2019 F-formations\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8951212167739868
+            ],
+            [
+                "Azure",
+                0.8936969637870789
+            ],
+            [
+                "Font",
+                0.8498122692108154
+            ],
+            [
+                "Slope",
+                0.8493605852127075
+            ],
+            [
+                "Line",
+                0.8156442046165466
+            ],
+            [
+                "Plot",
+                0.8094797730445862
+            ],
+            [
+                "Parallel",
+                0.7895033359527588
+            ],
+            [
+                "Number",
+                0.716655969619751
+            ],
+            [
+                "Diagram",
+                0.6852686405181885
+            ],
+            [
+                "Pattern",
+                0.6818808317184448
+            ]
+        ]
+    },
+    "6": {
+        "type": "diagram",
+        "caption_text": "Figure 6. Mean ranks of distance from centre in theatre and 360-degree\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8795872330665588
+            ],
+            [
+                "Line",
+                0.818790853023529
+            ],
+            [
+                "Slope",
+                0.789299488067627
+            ],
+            [
+                "Parallel",
+                0.7883919477462769
+            ],
+            [
+                "Font",
+                0.7652062177658081
+            ],
+            [
+                "Pattern",
+                0.6973142623901367
+            ],
+            [
+                "Symmetry",
+                0.6819782257080078
+            ],
+            [
+                "Diagram",
+                0.6791710257530212
+            ],
+            [
+                "Plan",
+                0.6052030920982361
+            ],
+            [
+                "Schematic",
+                0.5729140639305115
+            ]
+        ]
+    },
+    "7": {
+        "type": "diagram",
+        "caption_text": "Figure 7. Mean ranks of angles in staging for theatre and 360-degree\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8678499460220337
+            ],
+            [
+                "Slope",
+                0.8604279160499573
+            ],
+            [
+                "Parallel",
+                0.7860947847366333
+            ],
+            [
+                "Font",
+                0.7378301620483398
+            ],
+            [
+                "Pattern",
+                0.7219973802566528
+            ],
+            [
+                "Symmetry",
+                0.6979895830154419
+            ],
+            [
+                "Diagram",
+                0.6972887516021729
+            ],
+            [
+                "Number",
+                0.5895946025848389
+            ],
+            [
+                "Electric blue",
+                0.5890085697174072
+            ],
+            [
+                "Schematic",
+                0.5823743939399719
+            ]
+        ]
+    },
+    "9": {
+        "type": "graphic",
+        "caption_text": "Figure 9. Group 4\u2019s \u2018huddle\u2019 in theatre (left) and 360-degree (right)\n",
+        "image_labels": [
+            [
+                "Green",
+                0.9010266661643982
+            ],
+            [
+                "Font",
+                0.8183117508888245
+            ],
+            [
+                "Automotive lighting",
+                0.7910287976264954
+            ],
+            [
+                "Rectangle",
+                0.7869827151298523
+            ],
+            [
+                "Technology",
+                0.7578811049461365
+            ],
+            [
+                "Space",
+                0.7381584048271179
+            ],
+            [
+                "Sky",
+                0.696975827217102
+            ],
+            [
+                "Event",
+                0.6832304000854492
+            ],
+            [
+                "Graphics",
+                0.6784488558769226
+            ],
+            [
+                "Personal protective equipment",
+                0.6775411367416382
+            ]
+        ]
+    }
+}

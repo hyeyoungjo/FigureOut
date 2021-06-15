@@ -1,0 +1,186 @@
+{
+    "1": {
+        "type": "table",
+        "caption_text": "Figure 1. Cylindrical DisplayObject with rectangular prism \nimage. \n",
+        "image_labels": [
+            [
+                "Material property",
+                0.80051189661026
+            ],
+            [
+                "Gas",
+                0.7710031867027283
+            ],
+            [
+                "Computer monitor accessory",
+                0.7420422434806824
+            ],
+            [
+                "Electric blue",
+                0.7385425567626953
+            ],
+            [
+                "Composite material",
+                0.7088859677314758
+            ],
+            [
+                "Paint",
+                0.7083409428596497
+            ],
+            [
+                "Gadget",
+                0.6933971643447876
+            ],
+            [
+                "Rectangle",
+                0.6320988535881042
+            ],
+            [
+                "Cylinder",
+                0.6063816547393799
+            ],
+            [
+                "Office supplies",
+                0.6026026010513306
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2. Apparatus used in the study: Cylindrical display \n(left), Flat display (right), and Leap Motion (bottom). \n",
+        "image_labels": [
+            [
+                "Gadget",
+                0.8630526065826416
+            ],
+            [
+                "Cable",
+                0.783301591873169
+            ],
+            [
+                "Computer monitor accessory",
+                0.7820122838020325
+            ],
+            [
+                "Rectangle",
+                0.7681165337562561
+            ],
+            [
+                "Electric blue",
+                0.7499951124191284
+            ],
+            [
+                "Wire",
+                0.7456635236740112
+            ],
+            [
+                "Technology",
+                0.7413920164108276
+            ],
+            [
+                "Electronic device",
+                0.737273097038269
+            ],
+            [
+                "Multimedia",
+                0.7181755304336548
+            ],
+            [
+                "Display device",
+                0.6774165630340576
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3. Exploratory procedure used during the experiment \nfor the cylindrical display: a. Vibrotactile feedback is applied \nwhen the participant\u2019s finger is dragged within the boundaries \nof the rectangular prism. Feedback amplitude increases \nlinearly as the finger is dragged towards the corner from \neither side. b. A strong pulse is produced when the finger \ncrosses the corner line, and feedback is stopped. \n",
+        "image_labels": [
+            [
+                "Facial expression",
+                0.9326913356781006
+            ],
+            [
+                "Human body",
+                0.8867126107215881
+            ],
+            [
+                "Sharing",
+                0.8845611810684204
+            ],
+            [
+                "Organism",
+                0.8660885095596313
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8213697671890259
+            ],
+            [
+                "Circle",
+                0.7844992280006409
+            ],
+            [
+                "Poster",
+                0.7486475110054016
+            ],
+            [
+                "Symmetry",
+                0.7477123737335205
+            ],
+            [
+                "Illustration",
+                0.7372890710830688
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4. Boxplots for scores of participants\u2019 responses (7-point Likert scale, N = 19). \n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Rectangle",
+                0.9018206596374512
+            ],
+            [
+                "Font",
+                0.8366161584854126
+            ],
+            [
+                "Plot",
+                0.8159308433532715
+            ],
+            [
+                "Parallel",
+                0.7897843718528748
+            ],
+            [
+                "Slope",
+                0.7829724550247192
+            ],
+            [
+                "Diagram",
+                0.6772449612617493
+            ],
+            [
+                "Pattern",
+                0.6743503212928772
+            ],
+            [
+                "Screenshot",
+                0.6062935590744019
+            ],
+            [
+                "Number",
+                0.5815261602401733
+            ]
+        ]
+    }
+}

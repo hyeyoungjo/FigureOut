@@ -1,0 +1,274 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure  1:  Augmenting  texture  perception  by  overlaying  a \nphysical structure with diferent virtual textures. \n",
+        "image_labels": [
+            [
+                "Sleeve",
+                0.8634868860244751
+            ],
+            [
+                "Finger",
+                0.854011058807373
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Thumb",
+                0.8241132497787476
+            ],
+            [
+                "Nail",
+                0.7966406941413879
+            ],
+            [
+                "Wood",
+                0.7922400832176208
+            ],
+            [
+                "Electric blue",
+                0.7338387370109558
+            ],
+            [
+                "Rectangle",
+                0.6923449039459229
+            ],
+            [
+                "Wrist",
+                0.6910900473594666
+            ],
+            [
+                "Fashion accessory",
+                0.6690949201583862
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2: A sample book to explore diferent fabrics. \n",
+        "image_labels": [
+            [
+                "Brown",
+                0.9804678559303284
+            ],
+            [
+                "Product",
+                0.907742440700531
+            ],
+            [
+                "Rectangle",
+                0.895896852016449
+            ],
+            [
+                "Orange",
+                0.8740051984786987
+            ],
+            [
+                "Creative arts",
+                0.8339470028877258
+            ],
+            [
+                "Pink",
+                0.8299915194511414
+            ],
+            [
+                "Wood",
+                0.8166996836662292
+            ],
+            [
+                "Red",
+                0.811669647693634
+            ],
+            [
+                "Magenta",
+                0.7744361758232117
+            ],
+            [
+                "Pattern",
+                0.7628729343414307
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3: Overview of the fve physical surfaces and fve virtual textures used in our study. Note that the material used for \nglass is highly transparent and would refect the environment. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.888457715511322
+            ],
+            [
+                "Font",
+                0.8371269702911377
+            ],
+            [
+                "Parallel",
+                0.7775977849960327
+            ],
+            [
+                "Slope",
+                0.7147989869117737
+            ],
+            [
+                "Pattern",
+                0.652527928352356
+            ],
+            [
+                "Number",
+                0.6450004577636719
+            ],
+            [
+                "Brand",
+                0.6011947989463806
+            ],
+            [
+                "Event",
+                0.588397741317749
+            ],
+            [
+                "Magenta",
+                0.5446443557739258
+            ],
+            [
+                "Electric blue",
+                0.5286655426025391
+            ]
+        ]
+    },
+    "4": {
+        "type": "human",
+        "caption_text": "Figure 4: Experiment Setup. Lef:  A user touching a physi-\ncal sample on the proxy plate with a Vive controller in the \ncenter and a Leap Motion positioned above the user\u2019s hand. \nRight Top: First person view of a user touching a virtual plas-\ntic material. Right Botom: A patch of 3D-printed hair. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9082207083702087
+            ],
+            [
+                "Sleeve",
+                0.8723657727241516
+            ],
+            [
+                "Gesture",
+                0.8526046276092529
+            ],
+            [
+                "Font",
+                0.8151773810386658
+            ],
+            [
+                "Elbow",
+                0.8069638013839722
+            ],
+            [
+                "Baseball cap",
+                0.7343222498893738
+            ],
+            [
+                "Hat",
+                0.7244858145713806
+            ],
+            [
+                "Art",
+                0.7163258790969849
+            ],
+            [
+                "Design",
+                0.686505138874054
+            ],
+            [
+                "Recreation",
+                0.684689998626709
+            ]
+        ]
+    },
+    "5": {
+        "type": "table",
+        "caption_text": "Figure  5:  Boxplots  depicting  the  baseline  assessments.  Haptic  ratings  of  the  physical  samples  without  visual  information \nfor roughness (a) and hardness (c). Visual ratings of the virtual textures without haptic information for roughness (b) and \nhardness (d). Brackets connect groups with statistically signifcant diferences (p < .05). \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9017101526260376
+            ],
+            [
+                "Font",
+                0.8064404129981995
+            ],
+            [
+                "Material property",
+                0.8018328547477722
+            ],
+            [
+                "Pattern",
+                0.7677430510520935
+            ],
+            [
+                "Parallel",
+                0.7652550935745239
+            ],
+            [
+                "Symmetry",
+                0.7084289789199829
+            ],
+            [
+                "Number",
+                0.6569761037826538
+            ],
+            [
+                "Diagram",
+                0.651050329208374
+            ],
+            [
+                "Square",
+                0.642480731010437
+            ]
+        ]
+    },
+    "6": {
+        "type": "formula",
+        "caption_text": "Figure 6: Stacked perception graphs per virtual texture indicating for each physical sample the percentage of samples identifed \nper material category. Unassigned space depicts the percentage of times no meaningful material or object was assigned. \n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8859851360321045
+            ],
+            [
+                "Rectangle",
+                0.8787551522254944
+            ],
+            [
+                "Plot",
+                0.8732004761695862
+            ],
+            [
+                "Font",
+                0.8262349963188171
+            ],
+            [
+                "Line",
+                0.8180223703384399
+            ],
+            [
+                "Magenta",
+                0.7755812406539917
+            ],
+            [
+                "Parallel",
+                0.7646843194961548
+            ],
+            [
+                "Pattern",
+                0.7431240081787109
+            ],
+            [
+                "Diagram",
+                0.741318941116333
+            ],
+            [
+                "Circle",
+                0.5713524222373962
+            ]
+        ]
+    }
+}

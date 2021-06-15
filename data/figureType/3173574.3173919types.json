@@ -1,0 +1,232 @@
+{
+    "1": {
+        "type": "chart",
+        "caption_text": "Figure 1: Side by side illustration of the real environment (left)\nand the virtual reality replica (right).\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8659176826477051
+            ],
+            [
+                "Font",
+                0.7877473831176758
+            ],
+            [
+                "Parallel",
+                0.7585323452949524
+            ],
+            [
+                "Display device",
+                0.718677282333374
+            ],
+            [
+                "Computer monitor accessory",
+                0.7111533880233765
+            ],
+            [
+                "Multimedia",
+                0.6834136247634888
+            ],
+            [
+                "Brand",
+                0.6399315595626831
+            ],
+            [
+                "Diagram",
+                0.6247227191925049
+            ],
+            [
+                "Electric blue",
+                0.5895683169364929
+            ],
+            [
+                "Signage",
+                0.5697821974754333
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2: Hand with 23 retrore\ufb02ective markers (left) and the\nhardware setup for \ufb01nger and keyboard tracking (right).\n",
+        "image_labels": [
+            [
+                "Human body",
+                0.8857924938201904
+            ],
+            [
+                "Finger",
+                0.8537159562110901
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Thumb",
+                0.8484309911727905
+            ],
+            [
+                "Material property",
+                0.802749752998352
+            ],
+            [
+                "Nail",
+                0.7815670371055603
+            ],
+            [
+                "Terrestrial plant",
+                0.7046974897384644
+            ],
+            [
+                "Electric blue",
+                0.6976388692855835
+            ],
+            [
+                "Fashion accessory",
+                0.638371467590332
+            ],
+            [
+                "Flesh",
+                0.6378575563430786
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3: Pictures of the eight hand visualizations used in the study. Realistic, abstract, \ufb01ngertips with no transparency and real\nhands (1st row) as well as 50% transparency and no hands (2nd row).\n",
+        "image_labels": [
+            [
+                "Light",
+                0.9106497168540955
+            ],
+            [
+                "Gas",
+                0.7634109854698181
+            ],
+            [
+                "Machine",
+                0.73074871301651
+            ],
+            [
+                "Engineering",
+                0.6959846019744873
+            ],
+            [
+                "Science",
+                0.6793313026428223
+            ],
+            [
+                "Metal",
+                0.63677579164505
+            ],
+            [
+                "Room",
+                0.6286664605140686
+            ],
+            [
+                "Cameras & optics",
+                0.6093676686286926
+            ],
+            [
+                "Light fixture",
+                0.547921895980835
+            ],
+            [
+                "Safety glove",
+                0.5238872170448303
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4: Mean values of words per minute and corrected error rate for each condition. Error bars show standard error of the\nmean (SE). Exact values are also listed in Table 1.\n",
+        "image_labels": [
+            [
+                "Computer",
+                0.9590827822685242
+            ],
+            [
+                "Computer keyboard",
+                0.9398382306098938
+            ],
+            [
+                "Personal computer",
+                0.9367821216583252
+            ],
+            [
+                "Input device",
+                0.9297683835029602
+            ],
+            [
+                "Peripheral",
+                0.920134961605072
+            ],
+            [
+                "Space bar",
+                0.8975124955177307
+            ],
+            [
+                "Output device",
+                0.8938627243041992
+            ],
+            [
+                "Human body",
+                0.8850964307785034
+            ],
+            [
+                "Netbook",
+                0.8599337935447693
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ]
+        ]
+    },
+    "5": {
+        "type": "graphic",
+        "caption_text": "Figure 5: Subjective assessments of task load and presence. Error bars show standard error of the mean (SE).\n",
+        "image_labels": [
+            [
+                "Guitar accessory",
+                0.8873427510261536
+            ],
+            [
+                "Musical instrument",
+                0.8487442135810852
+            ],
+            [
+                "Musical instrument accessory",
+                0.8329094648361206
+            ],
+            [
+                "Electronic instrument",
+                0.7873005867004395
+            ],
+            [
+                "Gas",
+                0.7796173095703125
+            ],
+            [
+                "String instrument accessory",
+                0.7744739055633545
+            ],
+            [
+                "Font",
+                0.7631137371063232
+            ],
+            [
+                "Music",
+                0.7515996098518372
+            ],
+            [
+                "String instrument",
+                0.7434555888175964
+            ],
+            [
+                "Circle",
+                0.7421708703041077
+            ]
+        ]
+    }
+}

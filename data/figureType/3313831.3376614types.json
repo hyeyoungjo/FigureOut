@@ -1,0 +1,492 @@
+{
+    "1": {
+        "type": "graphic",
+        "caption_text": "Figure 1. (a) ARchitect allows physical objects to be mapped to virtual proxies offering matching affordances (e.g. both \u201cchair\u201d and \u201ctree stump\u201d afford \na \u201csitting\u201d interaction). A physical scene (b) may be translated using ARchitect\u2019s user interface (c) to an interactive virtual experience (d). \n",
+        "image_labels": [
+            [
+                "Organism",
+                0.8570394515991211
+            ],
+            [
+                "Grass",
+                0.8324582576751709
+            ],
+            [
+                "Urban design",
+                0.7621647715568542
+            ],
+            [
+                "Recreation",
+                0.7617395520210266
+            ],
+            [
+                "Plant",
+                0.7470306158065796
+            ],
+            [
+                "Tree",
+                0.7386476397514343
+            ],
+            [
+                "Technology",
+                0.7345594167709351
+            ],
+            [
+                "Font",
+                0.7164010405540466
+            ],
+            [
+                "Screenshot",
+                0.7036148309707642
+            ],
+            [
+                "Animation",
+                0.6787503957748413
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2. Overview of the ARchitect system \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8978745937347412
+            ],
+            [
+                "Font",
+                0.8295893669128418
+            ],
+            [
+                "Slope",
+                0.8258247375488281
+            ],
+            [
+                "Parallel",
+                0.7905612587928772
+            ],
+            [
+                "Diagram",
+                0.7078720927238464
+            ],
+            [
+                "Number",
+                0.6582517623901367
+            ],
+            [
+                "Pattern",
+                0.5839493274688721
+            ],
+            [
+                "Circle",
+                0.5168822407722473
+            ]
+        ]
+    },
+    "3": {
+        "type": "graphic",
+        "caption_text": "Figure 3. Components of the virtual world being added by the Assistant: (a) scene, (b) barriers, (c) obstacles, (d) interactables, (e) game objects. \n",
+        "image_labels": [
+            [
+                "World",
+                0.9072020053863525
+            ],
+            [
+                "Cartoon",
+                0.8805685043334961
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8525776267051697
+            ],
+            [
+                "Mode of transport",
+                0.8485751152038574
+            ],
+            [
+                "Cone",
+                0.8304131627082825
+            ],
+            [
+                "Biome",
+                0.8288438320159912
+            ],
+            [
+                "Fun",
+                0.8018485307693481
+            ],
+            [
+                "Recreation",
+                0.78822922706604
+            ],
+            [
+                "Games",
+                0.7483764886856079
+            ]
+        ]
+    },
+    "4": {
+        "type": "graphic",
+        "caption_text": "Figure 4. The Affordance Recommender detects prede\ufb01ned interactable \nclasses (e.g. \u201cchair\u201d class corresponds to \u201csitting on\u201d interactable). \n",
+        "image_labels": [
+            [
+                "Font",
+                0.7466439008712769
+            ],
+            [
+                "Chair",
+                0.6962376832962036
+            ],
+            [
+                "Urban design",
+                0.6764594912528992
+            ],
+            [
+                "Recreation",
+                0.664943277835846
+            ],
+            [
+                "Aircraft",
+                0.6590017676353455
+            ],
+            [
+                "Vehicle",
+                0.6516013741493225
+            ],
+            [
+                "Grass",
+                0.6320993304252625
+            ],
+            [
+                "Animation",
+                0.6193686723709106
+            ],
+            [
+                "Screenshot",
+                0.5937404036521912
+            ],
+            [
+                "Games",
+                0.5833697319030762
+            ]
+        ]
+    },
+    "5": {
+        "type": "graphic",
+        "caption_text": "Figure 5.  Operations for con\ufb01guring a virtual proxy over the physical \nscene using ARchitect:  (a) scan the \ufb02oor, (b) place the virtual proxy, (c) \ntranslate  the  virtual  proxy,  (d)  rotate  the  virtual  proxy,  (e)  resize  the \nvirtual proxy, (f) remove the virtual proxy. \n",
+        "image_labels": [
+            [
+                "Green",
+                0.9325392842292786
+            ],
+            [
+                "Light",
+                0.9123307466506958
+            ],
+            [
+                "Product",
+                0.9078540205955505
+            ],
+            [
+                "Grass",
+                0.868576169013977
+            ],
+            [
+                "Line",
+                0.8275843262672424
+            ],
+            [
+                "Slope",
+                0.8275251388549805
+            ],
+            [
+                "Rectangle",
+                0.8190517425537109
+            ],
+            [
+                "Font",
+                0.7749421000480652
+            ],
+            [
+                "Space",
+                0.7560573816299438
+            ],
+            [
+                "Pattern",
+                0.75355464220047
+            ]
+        ]
+    },
+    "6": {
+        "type": "graphic",
+        "caption_text": "Figure 6. The virtual view of the Player in baseline (a) and in ARchitect \n(b) while bending down to collect virtual mushrooms (c). \n",
+        "image_labels": [
+            [
+                "Plant",
+                0.8976137638092041
+            ],
+            [
+                "Rectangle",
+                0.8152165412902832
+            ],
+            [
+                "Tree",
+                0.8094595074653625
+            ],
+            [
+                "Grass",
+                0.7952977418899536
+            ],
+            [
+                "Font",
+                0.7921977639198303
+            ],
+            [
+                "Recreation",
+                0.7733814716339111
+            ],
+            [
+                "Screenshot",
+                0.7378529906272888
+            ],
+            [
+                "Asphalt",
+                0.7307332158088684
+            ],
+            [
+                "Circle",
+                0.7255275845527649
+            ],
+            [
+                "Competition event",
+                0.6760867238044739
+            ]
+        ]
+    },
+    "7": {
+        "type": "graphic",
+        "caption_text": "Figure 7. The virtual view of the Player in baseline (a) and in ARchitect \n(b) while sitting down to take a rest (c). \n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.8525533080101013
+            ],
+            [
+                "Grass",
+                0.8046689033508301
+            ],
+            [
+                "Font",
+                0.7901461124420166
+            ],
+            [
+                "Wood",
+                0.6956921815872192
+            ],
+            [
+                "Rectangle",
+                0.663318395614624
+            ],
+            [
+                "Pattern",
+                0.6497125029563904
+            ],
+            [
+                "Symbol",
+                0.6451595425605774
+            ],
+            [
+                "Circle",
+                0.6342946887016296
+            ],
+            [
+                "Art",
+                0.6237654685974121
+            ],
+            [
+                "Recreation",
+                0.5993755459785461
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8.  Means and standard deviations of presence, trust, workload \n(Assistant), and workload (Player) scores comparing ARchitect and the \nbaseline. Error bars are standard errors. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8733285665512085
+            ],
+            [
+                "Font",
+                0.8467965126037598
+            ],
+            [
+                "Handwriting",
+                0.8336345553398132
+            ],
+            [
+                "Line",
+                0.8160852193832397
+            ],
+            [
+                "Parallel",
+                0.7870699167251587
+            ],
+            [
+                "Plot",
+                0.7705549001693726
+            ],
+            [
+                "Diagram",
+                0.7062494158744812
+            ],
+            [
+                "Slope",
+                0.7012389898300171
+            ],
+            [
+                "Number",
+                0.6528499722480774
+            ],
+            [
+                "Pattern",
+                0.6392388939857483
+            ]
+        ]
+    },
+    "9": {
+        "type": "diagram",
+        "caption_text": "Figure 9.  (a) In LavaEscape, the Assistant \ufb01rst maps physical furniture \nto rocks of various shapes and sizes (and heights). The Player steps onto \nthe lowest piece of furniture (b) and continues moving onto higher furni-\nture as the lava plane rises (c) until reaching the higher ground (d). \n",
+        "image_labels": [
+            [
+                "Organism",
+                0.8678878545761108
+            ],
+            [
+                "Font",
+                0.851778507232666
+            ],
+            [
+                "Line",
+                0.8167380690574646
+            ],
+            [
+                "Pattern",
+                0.7094751000404358
+            ],
+            [
+                "Design",
+                0.6863633990287781
+            ],
+            [
+                "Graphics",
+                0.6536806225776672
+            ],
+            [
+                "Graphic design",
+                0.5583980083465576
+            ],
+            [
+                "Circle",
+                0.5011052489280701
+            ]
+        ]
+    },
+    "10": {
+        "type": "chart",
+        "caption_text": "Figure 10.  A Player attempting to locate the treasure chest (3D audio \nsource)  (a)  while  playing  Maze.  The  virtual  maze  corresponds  to  the \nphysical room con\ufb01guration (walls and table) with the addition of a fake \nvirtual wall (b). (c) shows an example completion path that may be taken \nby the Player. \n",
+        "image_labels": [
+            [
+                "Green",
+                0.9213857650756836
+            ],
+            [
+                "Product",
+                0.9082673788070679
+            ],
+            [
+                "Organism",
+                0.8704768419265747
+            ],
+            [
+                "Font",
+                0.8553044199943542
+            ],
+            [
+                "Line",
+                0.8179695010185242
+            ],
+            [
+                "Slope",
+                0.8170930743217468
+            ],
+            [
+                "Triangle",
+                0.78327476978302
+            ],
+            [
+                "Rectangle",
+                0.7820581197738647
+            ],
+            [
+                "Parallel",
+                0.7757745385169983
+            ],
+            [
+                "Grass",
+                0.7522323131561279
+            ]
+        ]
+    },
+    "11": {
+        "type": "graphic",
+        "caption_text": "Figure 11. A Player playing with a skateboard simulator con\ufb01gured with \nSandbox (a) using a physical skateboard controller (b).  The experience \nmay be recon\ufb01gured to a different theme (e.g. aquatic (c) or space (d)). \n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9423250555992126
+            ],
+            [
+                "Green",
+                0.9213374257087708
+            ],
+            [
+                "Light",
+                0.9118008017539978
+            ],
+            [
+                "Product",
+                0.9086401462554932
+            ],
+            [
+                "Lighting",
+                0.8666551113128662
+            ],
+            [
+                "Font",
+                0.8548130989074707
+            ],
+            [
+                "Gadget",
+                0.8294183015823364
+            ],
+            [
+                "Output device",
+                0.8066321015357971
+            ],
+            [
+                "Technology",
+                0.7816236019134521
+            ],
+            [
+                "Entertainment",
+                0.7774625420570374
+            ]
+        ]
+    }
+}

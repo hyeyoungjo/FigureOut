@@ -1,0 +1,228 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure  1.  The  Augmented  Reality  system  developed  for \nthis  project  (top  image:  two  users  interacting  with  the \nspeaker activity; bottom image: the magnetic fields around \nthe  coil  and  the  magnet  that  are  generating  the  sound \nwaves). \n",
+        "image_labels": [
+            [
+                "Shirt",
+                0.9480023384094238
+            ],
+            [
+                "Product",
+                0.9072846174240112
+            ],
+            [
+                "Hat",
+                0.9049797654151917
+            ],
+            [
+                "Cap",
+                0.8962128758430481
+            ],
+            [
+                "Baseball cap",
+                0.8421307802200317
+            ],
+            [
+                "T-shirt",
+                0.8406094312667847
+            ],
+            [
+                "Automotive design",
+                0.8251581788063049
+            ],
+            [
+                "Gadget",
+                0.8032960295677185
+            ],
+            [
+                "Electronic instrument",
+                0.7987633943557739
+            ],
+            [
+                "Engineering",
+                0.796165406703949
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure  2.  Changing  AR  visualizations  of  electricity, \namplification, and magnetic fields overlaid on the physical \nobject.  (Note,  AR  visualization  misalignments  are  due  to \nthe photo camera, and not visible to participants) \n",
+        "image_labels": [
+            [
+                "Electrical wiring",
+                0.8181626796722412
+            ],
+            [
+                "Engineering",
+                0.7890881896018982
+            ],
+            [
+                "Font",
+                0.7877903580665588
+            ],
+            [
+                "Science",
+                0.7624496221542358
+            ],
+            [
+                "Electronic engineering",
+                0.7614956498146057
+            ],
+            [
+                "Cable",
+                0.7383729815483093
+            ],
+            [
+                "Urban design",
+                0.7326787710189819
+            ],
+            [
+                "Wire",
+                0.7251526117324829
+            ],
+            [
+                "Machine",
+                0.7182519435882568
+            ],
+            [
+                "Electrical supply",
+                0.6744022965431213
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure  4.  Information  shown  on  the  physical  poster  in \nfront of the participants.  \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8164013028144836
+            ],
+            [
+                "Parallel",
+                0.783011257648468
+            ],
+            [
+                "Circle",
+                0.7390562891960144
+            ],
+            [
+                "Auto part",
+                0.6989307999610901
+            ],
+            [
+                "Diagram",
+                0.6424070000648499
+            ],
+            [
+                "Slope",
+                0.6274027824401855
+            ],
+            [
+                "Rectangle",
+                0.6184334754943848
+            ],
+            [
+                "Science",
+                0.5789026021957397
+            ],
+            [
+                "Motor vehicle",
+                0.5484088659286499
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3. Examples of questions from the learning test.  \n",
+        "image_labels": [
+            [
+                "Light",
+                0.9112316966056824
+            ],
+            [
+                "Product",
+                0.907676637172699
+            ],
+            [
+                "Font",
+                0.8193497657775879
+            ],
+            [
+                "Gas",
+                0.7653209567070007
+            ],
+            [
+                "Terrestrial plant",
+                0.7316796183586121
+            ],
+            [
+                "Automotive design",
+                0.7193251252174377
+            ],
+            [
+                "Art",
+                0.7124054431915283
+            ],
+            [
+                "Machine",
+                0.6783217191696167
+            ],
+            [
+                "Creative arts",
+                0.677808403968811
+            ],
+            [
+                "Brand",
+                0.6711145639419556
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure  6.  Group  differences  in  relative  learning  gains \n(Range 0-1; Red = EdAR group, Blue = NoEdAR group; Bars \n= standard error) \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8718913197517395
+            ],
+            [
+                "Slope",
+                0.8098724484443665
+            ],
+            [
+                "Font",
+                0.7943909764289856
+            ],
+            [
+                "Parallel",
+                0.7838059067726135
+            ],
+            [
+                "Plot",
+                0.7192406058311462
+            ],
+            [
+                "Diagram",
+                0.6847310662269592
+            ],
+            [
+                "Number",
+                0.6826158761978149
+            ],
+            [
+                "Electric blue",
+                0.6115355491638184
+            ],
+            [
+                "Brand",
+                0.5385311841964722
+            ],
+            [
+                "Screenshot",
+                0.5364020466804504
+            ]
+        ]
+    }
+}

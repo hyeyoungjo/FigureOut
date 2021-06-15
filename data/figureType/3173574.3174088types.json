@@ -1,0 +1,94 @@
+{
+    "1": {
+        "type": "table",
+        "caption_text": "Figure 1: From sketching to final environment \n",
+        "image_labels": [
+            [
+                "Material property",
+                0.8011627197265625
+            ],
+            [
+                "Font",
+                0.8000832200050354
+            ],
+            [
+                "Rectangle",
+                0.7954499125480652
+            ],
+            [
+                "Symbol",
+                0.7535091638565063
+            ],
+            [
+                "Circle",
+                0.7393542528152466
+            ],
+            [
+                "Number",
+                0.6958637237548828
+            ],
+            [
+                "Auto part",
+                0.6916725039482117
+            ],
+            [
+                "Brand",
+                0.6688706278800964
+            ],
+            [
+                "Logo",
+                0.6639365553855896
+            ],
+            [
+                "Games",
+                0.6601938009262085
+            ]
+        ]
+    },
+    "2": {
+        "type": "chart",
+        "caption_text": "Figure 2: creating the concert venue for Janet \n",
+        "image_labels": [
+            [
+                "Handwriting",
+                0.9169620275497437
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Rectangle",
+                0.848257303237915
+            ],
+            [
+                "Font",
+                0.817431628704071
+            ],
+            [
+                "Art",
+                0.777331531047821
+            ],
+            [
+                "Drawing",
+                0.7202737331390381
+            ],
+            [
+                "Pattern",
+                0.7194295525550842
+            ],
+            [
+                "Parallel",
+                0.7062332630157471
+            ],
+            [
+                "Paper",
+                0.7037004828453064
+            ],
+            [
+                "Paper product",
+                0.6902896761894226
+            ]
+        ]
+    }
+}

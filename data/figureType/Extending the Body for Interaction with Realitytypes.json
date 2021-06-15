@@ -1,0 +1,496 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1: We present an ownership-preserving direct manipulation technique in augmented reality, which allows interaction with\nremote devices in a ubicomp environment with the help of a long virtual arm. While the user\u2019s real hand is close to the body the\nvirtual arm is of normal length (A) and by simply reaching out the user can make it extend to access remote devices in the room.\nFor instance we allow adjusting the height of a table (B), opening and closing a curtain (C) and adjusting the angle of a tilting\nsurface (D).\n",
+        "image_labels": [
+            [
+                "Table",
+                0.9641353487968445
+            ],
+            [
+                "Furniture",
+                0.9503410458564758
+            ],
+            [
+                "Building",
+                0.8963903188705444
+            ],
+            [
+                "Desk",
+                0.8888870477676392
+            ],
+            [
+                "Wood",
+                0.8865693211555481
+            ],
+            [
+                "Office chair",
+                0.8799456357955933
+            ],
+            [
+                "Chair",
+                0.8648993372917175
+            ],
+            [
+                "Flooring",
+                0.8244115114212036
+            ],
+            [
+                "Floor",
+                0.8133406639099121
+            ],
+            [
+                "Hardwood",
+                0.7963184714317322
+            ]
+        ]
+    },
+    "4": {
+        "type": "formula",
+        "caption_text": "Figure 4: The arm-stretch function was implemented based\non the Go-Go Interaction Technique. The graph shows the\nfunction adjusted to a participant\u2019s arm length, with the expo-\nnent p = 4 and a maximum virtual arm length of Rv = 5.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8522263765335083
+            ],
+            [
+                "Slope",
+                0.8494788408279419
+            ],
+            [
+                "Line",
+                0.8183093070983887
+            ],
+            [
+                "Parallel",
+                0.785921037197113
+            ],
+            [
+                "Font",
+                0.7359638810157776
+            ],
+            [
+                "Symmetry",
+                0.7358066439628601
+            ],
+            [
+                "Pattern",
+                0.7321599125862122
+            ],
+            [
+                "Plot",
+                0.724877119064331
+            ],
+            [
+                "Number",
+                0.6606270670890808
+            ],
+            [
+                "Circle",
+                0.6103057265281677
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2: Optical tracking of the user and the actuated objects\nin the room is achieved with retro-re\ufb02ective markers. This\npicture shows the view of one of the OptiTrack cameras.\n",
+        "image_labels": [
+            [
+                "Table",
+                0.9430490136146545
+            ],
+            [
+                "Furniture",
+                0.930998682975769
+            ],
+            [
+                "White",
+                0.9218724966049194
+            ],
+            [
+                "Black",
+                0.896844208240509
+            ],
+            [
+                "Flash photography",
+                0.8855563998222351
+            ],
+            [
+                "Black-and-white",
+                0.8559814691543579
+            ],
+            [
+                "Style",
+                0.840808629989624
+            ],
+            [
+                "Chair",
+                0.8179025650024414
+            ],
+            [
+                "Flooring",
+                0.8084897994995117
+            ],
+            [
+                "Tints and shades",
+                0.7701432704925537
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3: (A) Hand in green sleeve, (B) binary mask after chroma keying, (C) Memory Inpainting.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8589344024658203
+            ],
+            [
+                "Tints and shades",
+                0.7708052396774292
+            ],
+            [
+                "Font",
+                0.7691434621810913
+            ],
+            [
+                "Magenta",
+                0.6695746183395386
+            ],
+            [
+                "Display device",
+                0.6365386247634888
+            ],
+            [
+                "Room",
+                0.6278119683265686
+            ],
+            [
+                "Brand",
+                0.5689558982849121
+            ],
+            [
+                "Visual arts",
+                0.565396785736084
+            ],
+            [
+                "Rock",
+                0.5633737444877625
+            ],
+            [
+                "Multimedia",
+                0.5589950084686279
+            ]
+        ]
+    },
+    "5": {
+        "type": "picture",
+        "caption_text": "Figure 5: To provide a better sense of interaction with a 3D\nenvironment, we implemented depth cues such as shadows\n(A) and occlusion (B) of the virtual hand.\n",
+        "image_labels": [
+            [
+                "Furniture",
+                0.9318497776985168
+            ],
+            [
+                "Wood",
+                0.8799747228622437
+            ],
+            [
+                "Wing",
+                0.7800270318984985
+            ],
+            [
+                "Table",
+                0.7478018999099731
+            ],
+            [
+                "Monoplane",
+                0.7340653538703918
+            ],
+            [
+                "Wood stain",
+                0.7264927625656128
+            ],
+            [
+                "Plywood",
+                0.705940306186676
+            ],
+            [
+                "Hardwood",
+                0.6851186752319336
+            ],
+            [
+                "Room",
+                0.6836084127426147
+            ],
+            [
+                "Metal",
+                0.6604108810424805
+            ]
+        ]
+    },
+    "7": {
+        "type": "picture",
+        "caption_text": "Figure 7: To establish a baseline participants were asked to\nrepeatedly tap 3 virtual cubes with their virtual hand, while\ntheir virtual arm was of equal length to their real arm.\n",
+        "image_labels": [
+            [
+                "Glove",
+                0.8693628907203674
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Flooring",
+                0.8290278315544128
+            ],
+            [
+                "Font",
+                0.7807016968727112
+            ],
+            [
+                "Rectangle",
+                0.7756071090698242
+            ],
+            [
+                "Tints and shades",
+                0.7679107189178467
+            ],
+            [
+                "Triangle",
+                0.7538537383079529
+            ],
+            [
+                "Paint",
+                0.7488575577735901
+            ],
+            [
+                "Electric blue",
+                0.7470450401306152
+            ],
+            [
+                "Wood",
+                0.7305272817611694
+            ]
+        ]
+    },
+    "6": {
+        "type": "picture",
+        "caption_text": "Figure 6: In the user study we compared 3 different types of\nhand representations in 4 conditions: (C1) arm, (C2) hand,\n(C3) abstract-hand, and (C4) arm w/o inpainting (the real\narm was simultaneously visible).\n",
+        "image_labels": [
+            [
+                "Vertebrate",
+                0.920028030872345
+            ],
+            [
+                "Black",
+                0.8959903717041016
+            ],
+            [
+                "Wood",
+                0.8845792412757874
+            ],
+            [
+                "Font",
+                0.8543060421943665
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Art",
+                0.8507528305053711
+            ],
+            [
+                "Yellow",
+                0.8421193361282349
+            ],
+            [
+                "Line",
+                0.8222346305847168
+            ],
+            [
+                "Rectangle",
+                0.7292909026145935
+            ],
+            [
+                "Hardwood",
+                0.7082220315933228
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8: Left: When interacting in the baseline and with the extended arm in C1 participants felt like the virtual hand was part\nof their body. Center: In the baseline and the arm condition participants felt like the virtual hand was their own hand. Right:\nWhen interacting with the long arm, some participants felt that their real arm was becoming longer.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8896441459655762
+            ],
+            [
+                "Slope",
+                0.8754413723945618
+            ],
+            [
+                "Plot",
+                0.8587912917137146
+            ],
+            [
+                "Font",
+                0.816920280456543
+            ],
+            [
+                "Parallel",
+                0.7896066904067993
+            ],
+            [
+                "Pattern",
+                0.691846489906311
+            ],
+            [
+                "Diagram",
+                0.69017094373703
+            ],
+            [
+                "Number",
+                0.6506248116493225
+            ],
+            [
+                "Screenshot",
+                0.5924668908119202
+            ]
+        ]
+    },
+    "9": {
+        "type": "table",
+        "caption_text": "Figure 9: Left: Across all conditions and in the baseline participants maintained strong expectations of the virtual hand following\nthe movement of their real hand. Center: Participants indicated that they felt strongly in control of the devices in the environment\nacross all conditions. Right: When interacting with the devices the participants adapted the movement of their real hand based\non that of the virtual hand. E.g., they stopped when they saw the virtual hand stop at the table\u2019s edge, and adjusted their hand\nmovement to the speed of the table movement.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8996586799621582
+            ],
+            [
+                "Slope",
+                0.8780837059020996
+            ],
+            [
+                "Font",
+                0.8323197960853577
+            ],
+            [
+                "Parallel",
+                0.789814829826355
+            ],
+            [
+                "Technology",
+                0.7357147336006165
+            ],
+            [
+                "Pattern",
+                0.7347308993339539
+            ],
+            [
+                "Diagram",
+                0.7064710259437561
+            ],
+            [
+                "Number",
+                0.6840235590934753
+            ],
+            [
+                "Circle",
+                0.6758115291595459
+            ],
+            [
+                "Screenshot",
+                0.5810708999633789
+            ]
+        ]
+    },
+    "10": {
+        "type": "diagram",
+        "caption_text": "Figure 10: Left: Seeing both the real arm and the virtual arm elicited the feeling of owning more than one right hand. Center:\nDuring interaction participants concentrated more on the virtual hand than on their real hand, even if it was simultaneously visible\n(as in C4, arm w/o inpainting). Right: After all trials were concluded, we asked each participant to stretch both arms out in front\nof him and rate the following two statements: P1) I feel like my right arm is longer than my left. P2) I feel like my right arm can\nreach further than my left.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8911811709403992
+            ],
+            [
+                "Slope",
+                0.8649793267250061
+            ],
+            [
+                "Font",
+                0.8218059539794922
+            ],
+            [
+                "Parallel",
+                0.788530707359314
+            ],
+            [
+                "Pattern",
+                0.7260015606880188
+            ],
+            [
+                "Diagram",
+                0.6887198090553284
+            ],
+            [
+                "Plan",
+                0.6058292984962463
+            ],
+            [
+                "Number",
+                0.5878862142562866
+            ]
+        ]
+    },
+    "11": {
+        "type": "diagram",
+        "caption_text": "Figure 11: As a step beyond command languages, direct manipulation interfaces allow users to directly manipulate a representa-\ntion of data. In the \ufb01rst generation, with Graphical User Interfaces (GUIs), the screen provided the border between the physical\nand digital worlds. Tangible User Interfaces (TUIs) and Radical Atoms provide a physical representation of the digital world,\nthereby moving this border into the physical world. Body extension goes beyond these paradigms by moving the border between\nthe physical and the digital into the user\u2019s own body.\n",
+        "image_labels": [
+            [
+                "Azure",
+                0.8998249173164368
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8413922190666199
+            ],
+            [
+                "Line",
+                0.8157723546028137
+            ],
+            [
+                "Electric blue",
+                0.7627760171890259
+            ],
+            [
+                "Symbol",
+                0.740524411201477
+            ],
+            [
+                "Parallel",
+                0.738247275352478
+            ],
+            [
+                "Sharing",
+                0.7353769540786743
+            ],
+            [
+                "Circle",
+                0.7254918813705444
+            ],
+            [
+                "Magenta",
+                0.7150092720985413
+            ]
+        ]
+    }
+}

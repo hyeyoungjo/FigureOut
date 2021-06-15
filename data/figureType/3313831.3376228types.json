@@ -1,0 +1,140 @@
+{
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3. A sample of the study procedure (top) and the timeline \nof each block (bottom). \none  11-20  times.  The  remaining  11  (27.5%)  had  used  VR \nmore than 20 times. The participants were balanced in terms \nof  their  self-reported  receptivity  to  message  notifications, \nwith  10  individuals  fitting  into  each  of  the  following  four \ncategories: 1) tend to ignore notifications; 2) tend not to deal \nwith notifications immediately, but check and respond later; \n3) tend to check notifications immediately, but respond later; \nand 4) tend to check and respond immediately.  \n",
+        "image_labels": [
+            [
+                "Building",
+                0.9415733218193054
+            ],
+            [
+                "Window",
+                0.9006940722465515
+            ],
+            [
+                "House",
+                0.8390145301818848
+            ],
+            [
+                "Wood",
+                0.7811614274978638
+            ],
+            [
+                "Fixture",
+                0.7466801404953003
+            ],
+            [
+                "Event",
+                0.7119787335395813
+            ],
+            [
+                "Room",
+                0.6839932799339294
+            ],
+            [
+                "Hardwood",
+                0.6401978731155396
+            ],
+            [
+                "Rectangle",
+                0.6231556534767151
+            ],
+            [
+                "Font",
+                0.6201754808425903
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4. Means and SDs of engagement, by VR activity. \n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Rectangle",
+                0.8805223703384399
+            ],
+            [
+                "Plot",
+                0.8059555292129517
+            ],
+            [
+                "Slope",
+                0.8010968565940857
+            ],
+            [
+                "Parallel",
+                0.7790045738220215
+            ],
+            [
+                "Font",
+                0.7413637638092041
+            ],
+            [
+                "Magenta",
+                0.7051558494567871
+            ],
+            [
+                "Diagram",
+                0.6978768110275269
+            ],
+            [
+                "Pattern",
+                0.6763821840286255
+            ],
+            [
+                "Tints and shades",
+                0.5510510206222534
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure 6. All notifications\u2019 means and SDs of the outcome variables: Perceived Disruptiveness (top left), Perceived Timeliness (top \ncenter) and Recall (top right); seen notifications\u2019 means and SDs of the outcome variables: Perceived Disruptiveness (bottom left), \nPerceived Timeliness (bottom center) and Recall (bottom right). \n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Product",
+                0.9078333377838135
+            ],
+            [
+                "Rectangle",
+                0.896833598613739
+            ],
+            [
+                "Slope",
+                0.8852390646934509
+            ],
+            [
+                "Plot",
+                0.8651934862136841
+            ],
+            [
+                "Font",
+                0.8408112525939941
+            ],
+            [
+                "Line",
+                0.8159168362617493
+            ],
+            [
+                "Material property",
+                0.8008266091346741
+            ],
+            [
+                "Parallel",
+                0.7817733883857727
+            ],
+            [
+                "Pattern",
+                0.7241067886352539
+            ]
+        ]
+    }
+}

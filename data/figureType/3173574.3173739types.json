@@ -1,0 +1,232 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1. VR-OOM allows participants to experience the physical sen-\nsations of the real-world with the controlled virtual environments and\nevents. Photo by Arjan Reef.\n",
+        "image_labels": [
+            [
+                "Automotive design",
+                0.8905451893806458
+            ],
+            [
+                "Vehicle",
+                0.8826424479484558
+            ],
+            [
+                "Flash photography",
+                0.872626543045044
+            ],
+            [
+                "Motor vehicle",
+                0.8402409553527832
+            ],
+            [
+                "Automotive mirror",
+                0.8249564170837402
+            ],
+            [
+                "Steering wheel",
+                0.8136050701141357
+            ],
+            [
+                "Cameras & optics",
+                0.7754105925559998
+            ],
+            [
+                "Personal luxury car",
+                0.7530819773674011
+            ],
+            [
+                "Suit",
+                0.7373847365379333
+            ],
+            [
+                "Head restraint",
+                0.7039492130279541
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2. VR-OOM System Diagram (excluding the wizard driver)\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9077507853507996
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Rectangle",
+                0.8429428935050964
+            ],
+            [
+                "Font",
+                0.8267646431922913
+            ],
+            [
+                "Slope",
+                0.7954643368721008
+            ],
+            [
+                "Parallel",
+                0.7902937531471252
+            ],
+            [
+                "Technology",
+                0.7330857515335083
+            ],
+            [
+                "Circle",
+                0.7221358418464661
+            ],
+            [
+                "Automotive exterior",
+                0.7133655548095703
+            ],
+            [
+                "Diagram",
+                0.6962692141532898
+            ]
+        ]
+    },
+    "3": {
+        "type": "human",
+        "caption_text": "Figure 3. View from inside vehicle with participant on left, Driving Wizard on right, and Interaction Wizard in backseat, top. Participant\u2019s view with\nhand in foreground, left. Bird\u2019s eye view of virtual vehicle in virtual world, right.\n",
+        "image_labels": [
+            [
+                "Seat belt",
+                0.9373939633369446
+            ],
+            [
+                "Motor vehicle",
+                0.9182131290435791
+            ],
+            [
+                "Automotive design",
+                0.8973090052604675
+            ],
+            [
+                "Automotive mirror",
+                0.8803297281265259
+            ],
+            [
+                "Vehicle",
+                0.8755195736885071
+            ],
+            [
+                "Car seat cover",
+                0.8594859838485718
+            ],
+            [
+                "Yellow",
+                0.8587640523910522
+            ],
+            [
+                "Head restraint",
+                0.8568903207778931
+            ],
+            [
+                "Automotive exterior",
+                0.8558977842330933
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ]
+        ]
+    },
+    "4": {
+        "type": "graphic",
+        "caption_text": "Figure 4. Participant view at the start of the experiment (excluding the tracked hands).\n",
+        "image_labels": [
+            [
+                "Window",
+                0.9255303144454956
+            ],
+            [
+                "Building",
+                0.8772706985473633
+            ],
+            [
+                "Automotive design",
+                0.8361454606056213
+            ],
+            [
+                "Asphalt",
+                0.8316397666931152
+            ],
+            [
+                "Plant",
+                0.8098446130752563
+            ],
+            [
+                "Steering wheel",
+                0.8035697937011719
+            ],
+            [
+                "Automotive exterior",
+                0.7903255820274353
+            ],
+            [
+                "Personal luxury car",
+                0.764142632484436
+            ],
+            [
+                "Vehicle door",
+                0.7442141771316528
+            ],
+            [
+                "Aircraft",
+                0.7439609169960022
+            ]
+        ]
+    },
+    "5": {
+        "type": "picture",
+        "caption_text": "Figure 5. The virtual route overlaid on a satellite map. The black box\nis the starting location, conditions one and two are marked by the yel-\nlow cars and the white outline is the shape of the road. The gray boxes\nindicated the approximate locations of buildings in the virtual scene.\n",
+        "image_labels": [
+            [
+                "Font",
+                0.8061434030532837
+            ],
+            [
+                "Rectangle",
+                0.7734774351119995
+            ],
+            [
+                "Gadget",
+                0.7626159191131592
+            ],
+            [
+                "Urban design",
+                0.7612482309341431
+            ],
+            [
+                "Machine",
+                0.7184985876083374
+            ],
+            [
+                "Terrestrial plant",
+                0.7110797762870789
+            ],
+            [
+                "Pattern",
+                0.701560378074646
+            ],
+            [
+                "Design",
+                0.6846158504486084
+            ],
+            [
+                "Multimedia",
+                0.6533666253089905
+            ],
+            [
+                "Audio equipment",
+                0.64720219373703
+            ]
+        ]
+    }
+}

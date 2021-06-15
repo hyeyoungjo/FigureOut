@@ -1,0 +1,94 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1. Experimental Study Procedure and Measurement \n",
+        "image_labels": [
+            [
+                "Gadget",
+                0.8455122709274292
+            ],
+            [
+                "Finger",
+                0.8319461345672607
+            ],
+            [
+                "Font",
+                0.8274190425872803
+            ],
+            [
+                "Communication Device",
+                0.8131636381149292
+            ],
+            [
+                "Electronic device",
+                0.7596803307533264
+            ],
+            [
+                "Technology",
+                0.7572611570358276
+            ],
+            [
+                "Output device",
+                0.7215967178344727
+            ],
+            [
+                "Telephone",
+                0.7203075289726257
+            ],
+            [
+                "Screenshot",
+                0.7083538174629211
+            ],
+            [
+                "Portable communications device",
+                0.6930097341537476
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2. Facial expressions that provided by MABLE \n",
+        "image_labels": [
+            [
+                "Facial expression",
+                0.9330641627311707
+            ],
+            [
+                "Vertebrate",
+                0.9287188649177551
+            ],
+            [
+                "White",
+                0.9218998551368713
+            ],
+            [
+                "Product",
+                0.9088102579116821
+            ],
+            [
+                "Toy",
+                0.9000089764595032
+            ],
+            [
+                "Textile",
+                0.878799557685852
+            ],
+            [
+                "Mammal",
+                0.8675011992454529
+            ],
+            [
+                "Font",
+                0.8607010841369629
+            ],
+            [
+                "Gesture",
+                0.8525967001914978
+            ],
+            [
+                "Red",
+                0.834265947341919
+            ]
+        ]
+    }
+}

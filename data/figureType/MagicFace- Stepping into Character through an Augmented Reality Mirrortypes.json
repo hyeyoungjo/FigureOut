@@ -1,0 +1,162 @@
+{
+    "1": {
+        "type": "table",
+        "caption_text": "Figure 1. Four landing pages: (i) screen saver that is automatically replaced with virtual make-up once a user appears in front of \nthe camera (first from the left); (ii) screen saver with buttons that a user clicks on to see the virtual make-up (second from the left); \n(iii) screen saver is automatically replaced with the virtual mirror with the buttons for switching between the two looks (third from \nthe left); (iv) screen saver with the choice of two names that the user taps on to see the virtual looks (fourth from the left) \n",
+        "image_labels": [
+            [
+                "Font",
+                0.7810598611831665
+            ],
+            [
+                "Number",
+                0.6600929498672485
+            ],
+            [
+                "Document",
+                0.6478500962257385
+            ],
+            [
+                "Screenshot",
+                0.542752742767334
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3. Different groups of visitors trying on virtual make-up in the opera dressing room: opera singer (first from the left); \npupil (second from the left); make-up artist (third from the left), opera singer (fourth from the left). \n",
+        "image_labels": [
+            [
+                "Hair",
+                0.9850398898124695
+            ],
+            [
+                "Forehead",
+                0.9846563935279846
+            ],
+            [
+                "Nose",
+                0.9835830330848694
+            ],
+            [
+                "Face",
+                0.9832751750946045
+            ],
+            [
+                "Skin",
+                0.9744559526443481
+            ],
+            [
+                "Head",
+                0.972773551940918
+            ],
+            [
+                "Lip",
+                0.970553994178772
+            ],
+            [
+                "Chin",
+                0.9679000377655029
+            ],
+            [
+                "Eyebrow",
+                0.9532724618911743
+            ],
+            [
+                "Hairstyle",
+                0.9509009718894958
+            ]
+        ]
+    },
+    "2": {
+        "type": "formula",
+        "caption_text": "Figure 2: Info page that dropped down if an info button in the \nupper right corner of the virtual mirror was tapped \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8329483270645142
+            ],
+            [
+                "Art",
+                0.8112963438034058
+            ],
+            [
+                "Magenta",
+                0.7506912350654602
+            ],
+            [
+                "Rectangle",
+                0.7404670119285583
+            ],
+            [
+                "Circle",
+                0.7359581589698792
+            ],
+            [
+                "Number",
+                0.6590449213981628
+            ],
+            [
+                "Writing",
+                0.6502060890197754
+            ],
+            [
+                "Paper product",
+                0.6293138265609741
+            ],
+            [
+                "Paper",
+                0.5562739968299866
+            ],
+            [
+                "Pattern",
+                0.5524860620498657
+            ]
+        ]
+    },
+    "5": {
+        "type": "human",
+        "caption_text": "Figure 5: A museum visitor doing an Egyptian walk while \ninteracting with the MagicFace \n",
+        "image_labels": [
+            [
+                "Lighting",
+                0.867588460445404
+            ],
+            [
+                "Lamp",
+                0.74857497215271
+            ],
+            [
+                "Event",
+                0.6917026042938232
+            ],
+            [
+                "Comfort",
+                0.6697502732276917
+            ],
+            [
+                "Room",
+                0.6670472621917725
+            ],
+            [
+                "T-shirt",
+                0.6503830552101135
+            ],
+            [
+                "Picture frame",
+                0.6284224390983582
+            ],
+            [
+                "Living room",
+                0.5951574444770813
+            ],
+            [
+                "Visual arts",
+                0.5876054763793945
+            ],
+            [
+                "Heat",
+                0.5503615140914917
+            ]
+        ]
+    }
+}

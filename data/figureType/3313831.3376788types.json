@@ -1,0 +1,284 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1.  (a) The train platform and the avatars approaching in the Trolley study,  (b) A participant in the Trolley study wearing the Oculus DK2 \nand relying on Kinect for input, (c) Interacting with the bomber avatar in the Mad Bomber study, (d) A participant wearing Oculus DK2 and using a \nmouse/keyboard for input. \n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9415055513381958
+            ],
+            [
+                "Sleeve",
+                0.8723806142807007
+            ],
+            [
+                "Font",
+                0.8122223615646362
+            ],
+            [
+                "Adaptation",
+                0.7923712730407715
+            ],
+            [
+                "Job",
+                0.7037371397018433
+            ],
+            [
+                "Room",
+                0.6662347912788391
+            ],
+            [
+                "Brand",
+                0.6636953949928284
+            ],
+            [
+                "Machine",
+                0.635901153087616
+            ],
+            [
+                "Photo caption",
+                0.6157810091972351
+            ],
+            [
+                "T-shirt",
+                0.6047928333282471
+            ]
+        ]
+    },
+    "2": {
+        "type": "chart",
+        "caption_text": "Figure 2. Lever pulls (%) by scenario and condition in the Trolley study. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8986718058586121
+            ],
+            [
+                "Azure",
+                0.8930619359016418
+            ],
+            [
+                "Font",
+                0.8304003477096558
+            ],
+            [
+                "Material property",
+                0.8005298376083374
+            ],
+            [
+                "Parallel",
+                0.7902447581291199
+            ],
+            [
+                "Electric blue",
+                0.742686927318573
+            ],
+            [
+                "Slope",
+                0.7139121294021606
+            ],
+            [
+                "Plot",
+                0.7124055624008179
+            ],
+            [
+                "Magenta",
+                0.7106488347053528
+            ],
+            [
+                "Brand",
+                0.6205322742462158
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3. Tactics employed (%) by condition in the Mad Bomber study. \n",
+        "image_labels": [
+            [
+                "Plot",
+                0.8681655526161194
+            ],
+            [
+                "Slope",
+                0.8372877240180969
+            ],
+            [
+                "Font",
+                0.8358234167098999
+            ],
+            [
+                "Parallel",
+                0.7675926685333252
+            ],
+            [
+                "Diagram",
+                0.720363199710846
+            ],
+            [
+                "Rectangle",
+                0.690081000328064
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4.  Tactics employed in all scenarios and both conditions in the \nMad Bomber study. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.898868203163147
+            ],
+            [
+                "Slope",
+                0.8694877624511719
+            ],
+            [
+                "Font",
+                0.838554859161377
+            ],
+            [
+                "Line",
+                0.8176882266998291
+            ],
+            [
+                "Parallel",
+                0.7907464504241943
+            ],
+            [
+                "Plot",
+                0.7749415040016174
+            ],
+            [
+                "Pattern",
+                0.730848491191864
+            ],
+            [
+                "Diagram",
+                0.6839357018470764
+            ],
+            [
+                "Number",
+                0.6748725771903992
+            ],
+            [
+                "Screenshot",
+                0.6250209808349609
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5. Median self-reported workload for all scenarios and both con-\nditions in the Mad Bomber study. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.907210111618042
+            ],
+            [
+                "Font",
+                0.838177502155304
+            ],
+            [
+                "Material property",
+                0.8015446662902832
+            ],
+            [
+                "Rectangle",
+                0.7879268527030945
+            ],
+            [
+                "Parallel",
+                0.7473028302192688
+            ],
+            [
+                "Electric blue",
+                0.673859179019928
+            ],
+            [
+                "Brand",
+                0.5653712749481201
+            ],
+            [
+                "Slope",
+                0.5146483182907104
+            ]
+        ]
+    },
+    "6": {
+        "type": "table",
+        "caption_text": "Figure 6.  Lever pulls (%) by scenario for both genders and both condi-\ntions in the Trolley study. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8266374468803406
+            ],
+            [
+                "Screenshot",
+                0.7425937652587891
+            ],
+            [
+                "Parallel",
+                0.7066447138786316
+            ],
+            [
+                "Number",
+                0.6427015066146851
+            ],
+            [
+                "Symmetry",
+                0.6391232013702393
+            ],
+            [
+                "Document",
+                0.617026150226593
+            ],
+            [
+                "Rectangle",
+                0.5538491606712341
+            ],
+            [
+                "Pattern",
+                0.5469527840614319
+            ],
+            [
+                "Publication",
+                0.5282090306282043
+            ]
+        ]
+    },
+    "7": {
+        "type": "chart",
+        "caption_text": "Figure 7. Tactics employed (%) for both genders and both conditions in \nthe Mad Bomber study. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8293078541755676
+            ],
+            [
+                "Plot",
+                0.8235499858856201
+            ],
+            [
+                "Parallel",
+                0.6986380815505981
+            ],
+            [
+                "Slope",
+                0.6927021741867065
+            ],
+            [
+                "Diagram",
+                0.6509333848953247
+            ],
+            [
+                "Electric blue",
+                0.5401716828346252
+            ],
+            [
+                "Graphics",
+                0.5007309913635254
+            ]
+        ]
+    }
+}

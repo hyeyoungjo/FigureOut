@@ -1,0 +1,684 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1: TORC interaction \u2013 real vs VR animation rendering.\n",
+        "image_labels": [
+            [
+                "Hand",
+                0.9631144404411316
+            ],
+            [
+                "Green",
+                0.89837247133255
+            ],
+            [
+                "Finger",
+                0.8655027747154236
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Thumb",
+                0.8524180054664612
+            ],
+            [
+                "Nail",
+                0.8209466934204102
+            ],
+            [
+                "Wrist",
+                0.696599006652832
+            ],
+            [
+                "Art",
+                0.6421421766281128
+            ],
+            [
+                "Sharing",
+                0.6408659815788269
+            ],
+            [
+                "Fun",
+                0.6193477511405945
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2: (a) Desk-fixed prototype used in Experiments 1 and 2 (b) diagram of end view, left side view, and right side view.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9075745344161987
+            ],
+            [
+                "Organ",
+                0.9056001901626587
+            ],
+            [
+                "Font",
+                0.8295407295227051
+            ],
+            [
+                "Line",
+                0.8172839283943176
+            ],
+            [
+                "Parallel",
+                0.7861907482147217
+            ],
+            [
+                "Circle",
+                0.7454258799552917
+            ],
+            [
+                "Diagram",
+                0.7392579317092896
+            ],
+            [
+                "Rectangle",
+                0.7288227081298828
+            ],
+            [
+                "Slope",
+                0.7154831886291504
+            ],
+            [
+                "Design",
+                0.6829244494438171
+            ]
+        ]
+    },
+    "3": {
+        "type": "table",
+        "caption_text": "Figure 3: Schematic diagram of desk-fixed prototype.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8926243782043457
+            ],
+            [
+                "Font",
+                0.8190287947654724
+            ],
+            [
+                "Parallel",
+                0.784946620464325
+            ],
+            [
+                "Screenshot",
+                0.7513858079910278
+            ],
+            [
+                "Technology",
+                0.7349883913993835
+            ],
+            [
+                "Pattern",
+                0.7140007019042969
+            ],
+            [
+                "Slope",
+                0.7077425718307495
+            ],
+            [
+                "Number",
+                0.7060660123825073
+            ],
+            [
+                "Electric blue",
+                0.6839007139205933
+            ],
+            [
+                "Software",
+                0.6381102800369263
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4: Measured acceleration on index finger rest with vi-\nbration from the VCA under the index finger rest. (a) with-\nout fingers touching (b) with fingers touching the finger\nrests.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9119565486907959
+            ],
+            [
+                "Product",
+                0.9072791934013367
+            ],
+            [
+                "Slope",
+                0.8781135082244873
+            ],
+            [
+                "Font",
+                0.8449194431304932
+            ],
+            [
+                "Parallel",
+                0.7903240919113159
+            ],
+            [
+                "Pattern",
+                0.7756982445716858
+            ],
+            [
+                "Plot",
+                0.7655385732650757
+            ],
+            [
+                "Circle",
+                0.7609924674034119
+            ],
+            [
+                "Number",
+                0.7168300747871399
+            ],
+            [
+                "Symmetry",
+                0.7057837843894958
+            ]
+        ]
+    },
+    "5": {
+        "type": "human",
+        "caption_text": "Figure 5: Experiment setup. The participant compared two\nrendered sensations A and B from our device (right hand)\nto the sensation of an analog object, a\n5.08 cm silicone\nball made of Eco-flex 00-30 (durometer 27.4 (Shore hardness,\nscale: OO)) (left hand).\n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9773718118667603
+            ],
+            [
+                "Hand",
+                0.9607994556427002
+            ],
+            [
+                "Shoulder",
+                0.9488110542297363
+            ],
+            [
+                "Arm",
+                0.9458323121070862
+            ],
+            [
+                "Personal computer",
+                0.8908824920654297
+            ],
+            [
+                "Computer",
+                0.8842015862464905
+            ],
+            [
+                "Gadget",
+                0.8080371618270874
+            ],
+            [
+                "Engineering",
+                0.7863569259643555
+            ],
+            [
+                "Audio equipment",
+                0.7793740034103394
+            ],
+            [
+                "Output device",
+                0.7611826658248901
+            ]
+        ]
+    },
+    "6": {
+        "type": "table",
+        "caption_text": "Figure 6: Boxplot representing distribution of the psy-\nchophysical preference score between different combina-\ntions of the location of VCAs.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8729873895645142
+            ],
+            [
+                "Font",
+                0.8401113152503967
+            ],
+            [
+                "Parallel",
+                0.7794613838195801
+            ],
+            [
+                "Pattern",
+                0.7625712752342224
+            ],
+            [
+                "Symmetry",
+                0.73211669921875
+            ],
+            [
+                "Slope",
+                0.7035108208656311
+            ],
+            [
+                "Number",
+                0.6742825508117676
+            ],
+            [
+                "Circle",
+                0.6639890074729919
+            ],
+            [
+                "Diagram",
+                0.6375204920768738
+            ],
+            [
+                "Square",
+                0.6173833608627319
+            ]
+        ]
+    },
+    "7": {
+        "type": "diagram",
+        "caption_text": "Figure 7: Final TORC controller. (a) photos (b) diagram of end view and right side view.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.907933235168457
+            ],
+            [
+                "Font",
+                0.8298391103744507
+            ],
+            [
+                "Automotive tire",
+                0.8135548233985901
+            ],
+            [
+                "Eyewear",
+                0.715404212474823
+            ],
+            [
+                "Cylinder",
+                0.7067620754241943
+            ],
+            [
+                "Helmet",
+                0.6877199411392212
+            ],
+            [
+                "Circle",
+                0.6857028603553772
+            ],
+            [
+                "Design",
+                0.6839066743850708
+            ],
+            [
+                "Sharing",
+                0.6783149242401123
+            ],
+            [
+                "Personal protective equipment",
+                0.6750003695487976
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8: Schematic diagram of TORC controller.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9012613892555237
+            ],
+            [
+                "Fixture",
+                0.8814032077789307
+            ],
+            [
+                "Font",
+                0.8237088322639465
+            ],
+            [
+                "Parallel",
+                0.7820879817008972
+            ],
+            [
+                "Pattern",
+                0.7411485314369202
+            ],
+            [
+                "Electric blue",
+                0.7085739374160767
+            ],
+            [
+                "Automotive exterior",
+                0.6426861882209778
+            ],
+            [
+                "Slope",
+                0.6201842427253723
+            ],
+            [
+                "Screenshot",
+                0.6142009496688843
+            ],
+            [
+                "Brand",
+                0.610204815864563
+            ]
+        ]
+    },
+    "9": {
+        "type": "human",
+        "caption_text": "Figure 9: Fingers are holding the object, with joint position\nestimated by inverse kinematics (left). Applying a little pres-\nsure outward by opening the index & middle fingers releases\nthe grabbed object (middle & right).\n",
+        "image_labels": [
+            [
+                "Arm",
+                0.9436642527580261
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Thumb",
+                0.8052652478218079
+            ],
+            [
+                "Knee",
+                0.7907034754753113
+            ],
+            [
+                "Wrist",
+                0.7422210574150085
+            ],
+            [
+                "Thigh",
+                0.7402502298355103
+            ],
+            [
+                "Elbow",
+                0.7363144755363464
+            ],
+            [
+                "Shorts",
+                0.7301281690597534
+            ],
+            [
+                "Human leg",
+                0.714213490486145
+            ],
+            [
+                "Event",
+                0.7080284357070923
+            ]
+        ]
+    },
+    "10": {
+        "type": "human",
+        "caption_text": "Figure 10: Context-based release. When holding the hand\nup, the thumb may be lifted without releasing the held ob-\nject (left). In contrast, doing the same while the hand points\ndown will release and drop the object (right).\n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9769538044929504
+            ],
+            [
+                "Hand",
+                0.9616114497184753
+            ],
+            [
+                "Arm",
+                0.9439938068389893
+            ],
+            [
+                "Shoulder",
+                0.9428653717041016
+            ],
+            [
+                "Personal computer",
+                0.9246591925621033
+            ],
+            [
+                "Computer",
+                0.9088922142982483
+            ],
+            [
+                "Gadget",
+                0.8516594767570496
+            ],
+            [
+                "Audio equipment",
+                0.8326470255851746
+            ],
+            [
+                "Peripheral",
+                0.801220178604126
+            ],
+            [
+                "Engineering",
+                0.7945868372917175
+            ]
+        ]
+    },
+    "11": {
+        "type": "picture",
+        "caption_text": "Figure 11: Applying force on the controller allows users to\nsqueeze virtual objects. A simulated haptic sensation ren-\ndered on TORC completes the visual simulation.\n",
+        "image_labels": [
+            [
+                "Hand",
+                0.959540843963623
+            ],
+            [
+                "Finger",
+                0.8625655174255371
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Thumb",
+                0.8500475883483887
+            ],
+            [
+                "Nail",
+                0.7983793020248413
+            ],
+            [
+                "Wood",
+                0.7897855639457703
+            ],
+            [
+                "Wrist",
+                0.7792564034461975
+            ],
+            [
+                "Recreation",
+                0.7508608102798462
+            ],
+            [
+                "Puzzle",
+                0.7467865943908691
+            ],
+            [
+                "Font",
+                0.7080253958702087
+            ]
+        ]
+    },
+    "12": {
+        "type": "picture",
+        "caption_text": "Figure 12: TORC allows precise manipulation of a held ob-\njects rotation by sensing finger motion (left). Rotation is\naround the center of rotation between the fingers and it is\ncontrolled by the thumb motion. The index and middle fin-\ngers rotate in the opposite direction (middle & right).\n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Finger",
+                0.8402801752090454
+            ],
+            [
+                "Creative arts",
+                0.8400086760520935
+            ],
+            [
+                "Thumb",
+                0.8312174081802368
+            ],
+            [
+                "Art",
+                0.8132642507553101
+            ],
+            [
+                "Font",
+                0.7380626201629639
+            ],
+            [
+                "Nail",
+                0.7355623245239258
+            ],
+            [
+                "Pattern",
+                0.7015697956085205
+            ],
+            [
+                "Circle",
+                0.6861396431922913
+            ],
+            [
+                "Craft",
+                0.6720404028892517
+            ]
+        ]
+    },
+    "13": {
+        "type": "picture",
+        "caption_text": "Figure 13: Two-level docking task. Participants had to match\nthe key they were holding with the controller to a target\nkey hole. The first docking task (a, b, c) only aimed at posi-\ntional docking (Locatin\u0434), therefore the key hole and the key\ndid not display any superficial pattern. In the second dock-\ning task (d, e, f), the key hole displayed a particular pattern\nthat participants were asked to match. In essence that meant\nthey needed to rotate their hand and key (Rotatin\u0434).\n",
+        "image_labels": [
+            [
+                "Joint",
+                0.975849986076355
+            ],
+            [
+                "Hand",
+                0.9601325392723083
+            ],
+            [
+                "Light",
+                0.9122018814086914
+            ],
+            [
+                "Product",
+                0.9078863859176636
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8508248329162598
+            ],
+            [
+                "Finger",
+                0.831251323223114
+            ],
+            [
+                "Line",
+                0.8302910923957825
+            ],
+            [
+                "Thumb",
+                0.8042638301849365
+            ],
+            [
+                "Elbow",
+                0.7923538684844971
+            ]
+        ]
+    },
+    "14": {
+        "type": "table",
+        "caption_text": "Figure 14: Questionnaire Responses. (top) Boxplots of the\nscores, only showing questions with significant difference\nbetween conditions. (bottom) Histogram of preference be-\ntween two methods (response to Q26).\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9038814306259155
+            ],
+            [
+                "Font",
+                0.8234788775444031
+            ],
+            [
+                "Parallel",
+                0.7897719144821167
+            ],
+            [
+                "Slope",
+                0.7810525298118591
+            ],
+            [
+                "Pattern",
+                0.7221426963806152
+            ],
+            [
+                "Number",
+                0.6856687664985657
+            ],
+            [
+                "Electric blue",
+                0.671604335308075
+            ],
+            [
+                "Circle",
+                0.604924201965332
+            ],
+            [
+                "Brand",
+                0.5877280235290527
+            ],
+            [
+                "Signage",
+                0.5815245509147644
+            ]
+        ]
+    },
+    "15": {
+        "type": "chart",
+        "caption_text": "Figure 15: Task Performance. Boxplots of the task comple-\ntion time, distance error and angular error during the differ-\nent parts of the experiment (Locatin\u0434 task and Rotatin\u0434 task),\nfor the two controllers: TORC and VIVE.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8618996143341064
+            ],
+            [
+                "Font",
+                0.8151734471321106
+            ],
+            [
+                "Slope",
+                0.7887363433837891
+            ],
+            [
+                "Parallel",
+                0.7793453335762024
+            ],
+            [
+                "Plot",
+                0.7484872937202454
+            ],
+            [
+                "Pattern",
+                0.7482373714447021
+            ],
+            [
+                "Number",
+                0.6471617221832275
+            ],
+            [
+                "Diagram",
+                0.5605693459510803
+            ]
+        ]
+    }
+}

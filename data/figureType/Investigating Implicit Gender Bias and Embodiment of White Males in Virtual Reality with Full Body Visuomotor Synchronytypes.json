@@ -1,0 +1,358 @@
+{
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2: Male and female avatars used for embodiment.\n",
+        "image_labels": [
+            [
+                "Footwear",
+                0.9811078906059265
+            ],
+            [
+                "Joint",
+                0.9769282341003418
+            ],
+            [
+                "Shoulder",
+                0.9381552934646606
+            ],
+            [
+                "Leg",
+                0.9257189631462097
+            ],
+            [
+                "Muscle",
+                0.915037989616394
+            ],
+            [
+                "Active pants",
+                0.8914591670036316
+            ],
+            [
+                "Flash photography",
+                0.8710508346557617
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "yoga pant",
+                0.8501335382461548
+            ],
+            [
+                "Thigh",
+                0.8395761847496033
+            ]
+        ]
+    },
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1: Left: Participant wearing all nine HTC Vive track-\ners and headset (highlighted by red cirles). Right: HTC Vive\ntrackers, headset, and accompanying devices.\n",
+        "image_labels": [
+            [
+                "Shoe",
+                0.9616481065750122
+            ],
+            [
+                "Automotive tire",
+                0.8949424624443054
+            ],
+            [
+                "Sleeve",
+                0.8723832368850708
+            ],
+            [
+                "Bag",
+                0.8306130766868591
+            ],
+            [
+                "Font",
+                0.8121134638786316
+            ],
+            [
+                "Hat",
+                0.7847007513046265
+            ],
+            [
+                "Personal protective equipment",
+                0.7807284593582153
+            ],
+            [
+                "Automotive design",
+                0.777178943157196
+            ],
+            [
+                "Sportswear",
+                0.7609180808067322
+            ],
+            [
+                "Goggles",
+                0.745773196220398
+            ]
+        ]
+    },
+    "3": {
+        "type": "human",
+        "caption_text": "Figure 3: VR and avatar setup: Participant\u2019s physical body\n(left) and tracked virtual body in female avatar (right). Par-\nticipant follows movements of the virtual Tai Chi Teacher.\n",
+        "image_labels": [
+            [
+                "Footwear",
+                0.9838608503341675
+            ],
+            [
+                "Shoe",
+                0.949367880821228
+            ],
+            [
+                "Leg",
+                0.923774778842926
+            ],
+            [
+                "Wood",
+                0.831592321395874
+            ],
+            [
+                "Flooring",
+                0.8085338473320007
+            ],
+            [
+                "Cartoon",
+                0.8035993576049805
+            ],
+            [
+                "Art",
+                0.7448854446411133
+            ],
+            [
+                "Fun",
+                0.7394976019859314
+            ],
+            [
+                "Thigh",
+                0.7303010821342468
+            ],
+            [
+                "Balance",
+                0.7066472172737122
+            ]
+        ]
+    },
+    "4": {
+        "type": "human",
+        "caption_text": "Figure 4: Top: Participant\u2019s point of view when looking\ndown at virtual body in female (left) and male (right) avatar.\nBottom: VR setting with virtual mirrors to the front and left\nof participant. Participant is following movements of vir-\ntual Tai Chi teacher.\n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9427635073661804
+            ],
+            [
+                "Green",
+                0.9001479744911194
+            ],
+            [
+                "Black",
+                0.8960012197494507
+            ],
+            [
+                "Sleeve",
+                0.8724493384361267
+            ],
+            [
+                "Mammal",
+                0.8535571694374084
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Yellow",
+                0.848640501499176
+            ],
+            [
+                "Grey",
+                0.8455029726028442
+            ],
+            [
+                "Denim",
+                0.7898342609405518
+            ],
+            [
+                "Art",
+                0.7887685894966125
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5: Bar chart (means and standard errors) of \u2206IAT by\nembodiment (male or female). For those embodied in a male\navatar (red) the mean \u00b1 SE is -0.08 \u00b1 0.010 and for those em-\nbodied in a female avatar (green) 0.30 \u00b1 0.115.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8821595311164856
+            ],
+            [
+                "Slope",
+                0.8390849232673645
+            ],
+            [
+                "Font",
+                0.8084996938705444
+            ],
+            [
+                "Parallel",
+                0.7875819206237793
+            ],
+            [
+                "Plot",
+                0.7290616631507874
+            ],
+            [
+                "Diagram",
+                0.6925289034843445
+            ],
+            [
+                "Brand",
+                0.6203558444976807
+            ],
+            [
+                "Number",
+                0.6052625179290771
+            ],
+            [
+                "Circle",
+                0.6023188233375549
+            ],
+            [
+                "Pattern",
+                0.5545371770858765
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure 6: For male-embodying participants (red), preIAT\nmean \u00b1 SE is 0.255 \u00b1 0.085 and postIAT mean \u00b1 SE is 0.179\n\u00b1 0.115. For female-embodying participants (green), preIAT\nmean \u00b1 SE is 0.174 \u00b1 0.138 and postIAT mean \u00b1 SE is 0.476 \u00b1\n0.117.\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8855149745941162
+            ],
+            [
+                "Rectangle",
+                0.878792941570282
+            ],
+            [
+                "Plot",
+                0.824259877204895
+            ],
+            [
+                "Parallel",
+                0.7874028086662292
+            ],
+            [
+                "Triangle",
+                0.7824454307556152
+            ],
+            [
+                "Font",
+                0.7767110466957092
+            ],
+            [
+                "Pattern",
+                0.7051906585693359
+            ],
+            [
+                "Diagram",
+                0.6836972832679749
+            ],
+            [
+                "Number",
+                0.6802349090576172
+            ],
+            [
+                "Symmetry",
+                0.6722351908683777
+            ]
+        ]
+    },
+    "7": {
+        "type": "chart",
+        "caption_text": "Figure 7: Box plot of body ownership questions for top:\nMyBody and TwoBodies and bottom: MyMovements and\nMyFeatures. The thick black horizontal lines are the medi-\nans, the boxes are the interquartile ranges, and the whiskers\nextend to \u00b11.5 x IQR, or the range. Individual points are out-\nliers.\n",
+        "image_labels": [
+            [
+                "White",
+                0.921873152256012
+            ],
+            [
+                "Product",
+                0.9076743125915527
+            ],
+            [
+                "Rectangle",
+                0.879200279712677
+            ],
+            [
+                "Font",
+                0.8421732783317566
+            ],
+            [
+                "Line",
+                0.8258196115493774
+            ],
+            [
+                "Slope",
+                0.8168352246284485
+            ],
+            [
+                "Material property",
+                0.800915002822876
+            ],
+            [
+                "Parallel",
+                0.7886884212493896
+            ],
+            [
+                "Diagram",
+                0.7278215885162354
+            ],
+            [
+                "Symmetry",
+                0.6622128486633301
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8: Bar graph of participants\u2019 subjective ratings on\nphysical attraction of male and female virtual avatars\n",
+        "image_labels": [
+            [
+                "Line",
+                0.8205386400222778
+            ],
+            [
+                "Font",
+                0.8031278252601624
+            ],
+            [
+                "Rectangle",
+                0.7251020073890686
+            ],
+            [
+                "Parallel",
+                0.7148520350456238
+            ],
+            [
+                "Slope",
+                0.6957165002822876
+            ],
+            [
+                "Plot",
+                0.6620100140571594
+            ],
+            [
+                "Diagram",
+                0.5065044164657593
+            ]
+        ]
+    }
+}

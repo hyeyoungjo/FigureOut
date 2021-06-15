@@ -1,0 +1,324 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1: Creation. (a) Flip the tablet, select the object for\ncreation, (b) Tap on tablet viewport to create.\n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Slope",
+                0.8222696185112
+            ],
+            [
+                "Font",
+                0.8119755983352661
+            ],
+            [
+                "Parallel",
+                0.7664512395858765
+            ],
+            [
+                "Cable",
+                0.7552219033241272
+            ],
+            [
+                "Auto part",
+                0.7529948949813843
+            ],
+            [
+                "Thumb",
+                0.7428022623062134
+            ],
+            [
+                "Circuit component",
+                0.7096948623657227
+            ],
+            [
+                "Wire",
+                0.6996185779571533
+            ],
+            [
+                "Circle",
+                0.6990289092063904
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4: (a) Swipe-in to delete the object, (b) Two finger scale,\n(c) Two finger drag to translate.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9075731635093689
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.7861312627792358
+            ],
+            [
+                "Parallel",
+                0.7836688160896301
+            ],
+            [
+                "Slope",
+                0.7567430734634399
+            ],
+            [
+                "Sharing",
+                0.7502666711807251
+            ],
+            [
+                "Technology",
+                0.7488463521003723
+            ],
+            [
+                "Diagram",
+                0.7233431339263916
+            ],
+            [
+                "Rectangle",
+                0.6930534839630127
+            ],
+            [
+                "Brand",
+                0.6333141326904297
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2: Object selection. (a) Tap on tablet viewport, (b)\nPierce tablet corner in the object and pinch, (c) Tap on the\nface of the object.\n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Rectangle",
+                0.8378561735153198
+            ],
+            [
+                "Finger",
+                0.8357834219932556
+            ],
+            [
+                "Font",
+                0.8032291531562805
+            ],
+            [
+                "Parallel",
+                0.7803477048873901
+            ],
+            [
+                "Thumb",
+                0.7651504278182983
+            ],
+            [
+                "Diagram",
+                0.7369461059570312
+            ],
+            [
+                "Wood",
+                0.7123984694480896
+            ],
+            [
+                "Sharing",
+                0.6954662799835205
+            ],
+            [
+                "Slope",
+                0.6846110224723816
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3: (a) Knuckle for multiple object selection, (b) Pinch\nto deselect, (c) Tap on viewport to deselect.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9077032804489136
+            ],
+            [
+                "Rectangle",
+                0.8884792327880859
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8504739999771118
+            ],
+            [
+                "Finger",
+                0.8483255505561829
+            ],
+            [
+                "Thumb",
+                0.8358837962150574
+            ],
+            [
+                "Material property",
+                0.8013537526130676
+            ],
+            [
+                "Parallel",
+                0.7760761976242065
+            ],
+            [
+                "Automotive mirror",
+                0.7359143495559692
+            ],
+            [
+                "Wrist",
+                0.7335296273231506
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5: Select axis of transformation using the orientation\nof the tablet. (a) Facing up to select the x-axis, (c) Portrait\nvertical to select the y-axis, and (c) Landscape left to select\nthe z-axis.\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8753302693367004
+            ],
+            [
+                "Rectangle",
+                0.8633844256401062
+            ],
+            [
+                "Font",
+                0.8072831630706787
+            ],
+            [
+                "Parallel",
+                0.7912358641624451
+            ],
+            [
+                "Symmetry",
+                0.7445462942123413
+            ],
+            [
+                "Diagram",
+                0.7024984955787659
+            ],
+            [
+                "Triangle",
+                0.693584680557251
+            ],
+            [
+                "Pattern",
+                0.6811658143997192
+            ],
+            [
+                "Circle",
+                0.6772761940956116
+            ],
+            [
+                "Plot",
+                0.6744976043701172
+            ]
+        ]
+    },
+    "6": {
+        "type": "picture",
+        "caption_text": "Figure 6: (a) Slicing an object, (b) Five-finger touch to navi-\ngate, (c) Speak to tablet and ask for help.\n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Finger",
+                0.8437561988830566
+            ],
+            [
+                "Rectangle",
+                0.8276284337043762
+            ],
+            [
+                "Thumb",
+                0.8177576661109924
+            ],
+            [
+                "Font",
+                0.8146016597747803
+            ],
+            [
+                "Parallel",
+                0.7610151767730713
+            ],
+            [
+                "Art",
+                0.7446020245552063
+            ],
+            [
+                "Slope",
+                0.743690013885498
+            ],
+            [
+                "Wood",
+                0.7352612018585205
+            ],
+            [
+                "Elbow",
+                0.7230774164199829
+            ]
+        ]
+    },
+    "7": {
+        "type": "graphic",
+        "caption_text": "Figure 7: Sample results from \u2018replication\u2019 and \u2018freeform exploration\u2019 task. (a) Target Model, (b-g) Participant\u2019s replication\n(P1-P6), (h-k) Participant\u2019s creations in \u2018freeform exploration\u2019 (P1-P4)\n",
+        "image_labels": [
+            [
+                "Light",
+                0.9129965901374817
+            ],
+            [
+                "Line",
+                0.8301391005516052
+            ],
+            [
+                "Font",
+                0.8110883235931396
+            ],
+            [
+                "Urban design",
+                0.7957014441490173
+            ],
+            [
+                "Technology",
+                0.7759553790092468
+            ],
+            [
+                "Engineering",
+                0.7733639478683472
+            ],
+            [
+                "Space",
+                0.7610591650009155
+            ],
+            [
+                "Rectangle",
+                0.7366293668746948
+            ],
+            [
+                "Pattern",
+                0.7236177325248718
+            ],
+            [
+                "Electric blue",
+                0.7207381129264832
+            ]
+        ]
+    }
+}

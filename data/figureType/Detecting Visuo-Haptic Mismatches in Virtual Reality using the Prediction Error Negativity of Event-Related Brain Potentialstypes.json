@@ -1,0 +1,278 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1: We propose using the prediction error negativity\nof the brain\u2019s event related potential (ERP) to detect visuo-\nhaptic conflicts arising from unrealistic VR feedback. In our\nstudy, participants selected objects in VR. To provoke their\nbrains to process an unrealistic interaction, we sometimes\nprovided the haptic feedback prematurely. When subtract-\ning these ERPs to the ERPs from realistic interactions, we\nfound that the negative amplitude of the error prediction\nincreased, hinting at a loss in immersion.\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8747542500495911
+            ],
+            [
+                "Organism",
+                0.8549484014511108
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Line",
+                0.8284037113189697
+            ],
+            [
+                "Finger",
+                0.8263812065124512
+            ],
+            [
+                "Font",
+                0.8168549537658691
+            ],
+            [
+                "Parallel",
+                0.7810573577880859
+            ],
+            [
+                "Elbow",
+                0.7761480808258057
+            ],
+            [
+                "Thumb",
+                0.7420746088027954
+            ],
+            [
+                "Diagram",
+                0.716046154499054
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2: Our experimental setup (image with consent from\nparticipant).\n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9758147597312927
+            ],
+            [
+                "Hand",
+                0.9568295478820801
+            ],
+            [
+                "Shoulder",
+                0.9367708563804626
+            ],
+            [
+                "Neck",
+                0.8770147562026978
+            ],
+            [
+                "Sleeve",
+                0.8724503517150879
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Street fashion",
+                0.8364099264144897
+            ],
+            [
+                "Flash photography",
+                0.8134334683418274
+            ],
+            [
+                "Elbow",
+                0.8110631108283997
+            ],
+            [
+                "Font",
+                0.8098703026771545
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3: Interaction flow depicting one trial in our 3D object selection task.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8682118058204651
+            ],
+            [
+                "Wood",
+                0.862632691860199
+            ],
+            [
+                "Organism",
+                0.8572986125946045
+            ],
+            [
+                "Font",
+                0.8107717037200928
+            ],
+            [
+                "Wood stain",
+                0.7598395943641663
+            ],
+            [
+                "Screenshot",
+                0.7555326223373413
+            ],
+            [
+                "Technology",
+                0.7407087683677673
+            ],
+            [
+                "Operating system",
+                0.7326732277870178
+            ],
+            [
+                "Software",
+                0.708308756351471
+            ],
+            [
+                "Hardwood",
+                0.6981251239776611
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5: Amplitude and standard error of the mean of the\nresulting ERPs obtained by subtracting the mean amplitude\nof all match trials from the mean amplitude of all mismatch\ntrials for each participant (in \u00b5V ) at the forehead electrode\nFCz; for all three feedback conditions (Visual, Vibro and\nEMS)\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8900362253189087
+            ],
+            [
+                "Font",
+                0.7869956493377686
+            ],
+            [
+                "Plot",
+                0.7706902027130127
+            ],
+            [
+                "Parallel",
+                0.7516396641731262
+            ],
+            [
+                "Diagram",
+                0.6995931267738342
+            ],
+            [
+                "Terrestrial plant",
+                0.6968180537223816
+            ],
+            [
+                "Elbow",
+                0.6274441480636597
+            ],
+            [
+                "Science",
+                0.581689715385437
+            ],
+            [
+                "Event",
+                0.5795137882232666
+            ],
+            [
+                "Symmetry",
+                0.5209771394729614
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4: ERP amplitude (in \u00b5V ) and standard error of the\nmean at the forehead electrode FCz across [A] all match tri-\nals and [B] mismatch trials in a -300ms to 700ms window\ncentered at the object selection time, for each of the three\nfeedback conditions (Visual, Vibro and EMS).\n",
+        "image_labels": [
+            [
+                "Ecoregion",
+                0.9216247200965881
+            ],
+            [
+                "Slope",
+                0.8820902705192566
+            ],
+            [
+                "Rectangle",
+                0.8789515495300293
+            ],
+            [
+                "Plot",
+                0.8628701567649841
+            ],
+            [
+                "Organism",
+                0.8519996404647827
+            ],
+            [
+                "Line",
+                0.8217836618423462
+            ],
+            [
+                "Font",
+                0.8041091561317444
+            ],
+            [
+                "Parallel",
+                0.7868590354919434
+            ],
+            [
+                "Circle",
+                0.7523422837257385
+            ],
+            [
+                "Diagram",
+                0.7284291982650757
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure 6: Negative peak amplitudes (in \u00b5V ) and latencies (in\nms) 100 to 300ms post object selection event in difference\nERPs, see figure 5. Dots represent individual participants.\nUncorrected p-values of pairwise comparisons were com-\nputed with non-parametric rank-sum tests.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9073381423950195
+            ],
+            [
+                "Rectangle",
+                0.8975634574890137
+            ],
+            [
+                "Slope",
+                0.8604367971420288
+            ],
+            [
+                "Font",
+                0.8368703126907349
+            ],
+            [
+                "Schematic",
+                0.8230997920036316
+            ],
+            [
+                "Line",
+                0.8183478116989136
+            ],
+            [
+                "Parallel",
+                0.7909643054008484
+            ],
+            [
+                "Pattern",
+                0.7534403204917908
+            ],
+            [
+                "Diagram",
+                0.7319824695587158
+            ],
+            [
+                "Engineering",
+                0.7190283536911011
+            ]
+        ]
+    }
+}

@@ -1,0 +1,454 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1. FaceDisplay is a modified VR HMD consisting of three touch sensitive displays and a depth camera attached to its back (a-c). This allows people in\nthe surrounding to perceive the virtual world through the displays and interact with the HMD user either through touch (e) or gestures (d).\n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9421963095664978
+            ],
+            [
+                "Product",
+                0.9082591533660889
+            ],
+            [
+                "Cameras & optics",
+                0.8773319125175476
+            ],
+            [
+                "Gadget",
+                0.8583604097366333
+            ],
+            [
+                "Communication Device",
+                0.8433822989463806
+            ],
+            [
+                "Font",
+                0.7697395086288452
+            ],
+            [
+                "Technology",
+                0.7632531523704529
+            ],
+            [
+                "Electronic device",
+                0.7542890310287476
+            ],
+            [
+                "Multimedia",
+                0.7525370121002197
+            ],
+            [
+                "Snapshot",
+                0.7428476214408875
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2. The hardware prototype of FaceDisplay, consisting of three\ntouchscreens and a Leap Motion depth camera attached to the back and\nthe sides of an Oculus Rift DK2\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9074814915657043
+            ],
+            [
+                "Circuit component",
+                0.8489653468132019
+            ],
+            [
+                "Font",
+                0.8158224821090698
+            ],
+            [
+                "Rectangle",
+                0.7798905372619629
+            ],
+            [
+                "Cable",
+                0.7707956433296204
+            ],
+            [
+                "Auto part",
+                0.746537446975708
+            ],
+            [
+                "Electrical supply",
+                0.7304194569587708
+            ],
+            [
+                "Electrical wiring",
+                0.711292028427124
+            ],
+            [
+                "Wire",
+                0.7079014182090759
+            ],
+            [
+                "Audio equipment",
+                0.7070596814155579
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3. The technical setup used to reduce the weight of the FaceDisplay\nprototype, using a key retractor (a) and a pair of springs (b).\n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9420116543769836
+            ],
+            [
+                "Camera accessory",
+                0.857355535030365
+            ],
+            [
+                "Font",
+                0.8339999914169312
+            ],
+            [
+                "Tripod",
+                0.8306443095207214
+            ],
+            [
+                "Line",
+                0.8202745318412781
+            ],
+            [
+                "Cameras & optics",
+                0.7417755722999573
+            ],
+            [
+                "Camera",
+                0.7207448482513428
+            ],
+            [
+                "Audio equipment",
+                0.701953113079071
+            ],
+            [
+                "Gadget",
+                0.7008341550827026
+            ],
+            [
+                "Machine",
+                0.6919733285903931
+            ]
+        ]
+    },
+    "4": {
+        "type": "human",
+        "caption_text": "Figure 4. Interaction Gradient for FaceDisplay. Starting from the most engaged a: touch to b:gesture, c: external device and d: observing.\n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9762574434280396
+            ],
+            [
+                "Arm",
+                0.9457055926322937
+            ],
+            [
+                "Muscle",
+                0.9187908172607422
+            ],
+            [
+                "Sleeve",
+                0.8724497556686401
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "T-shirt",
+                0.8407276272773743
+            ],
+            [
+                "Automotive design",
+                0.8285646438598633
+            ],
+            [
+                "Elbow",
+                0.8184891939163208
+            ],
+            [
+                "Font",
+                0.807878851890564
+            ],
+            [
+                "Engineering",
+                0.753481924533844
+            ]
+        ]
+    },
+    "5": {
+        "type": "human",
+        "caption_text": "Figure 5. The FruitSlicer application with its outside view (a), inside view\n(b), interaction concepts (c) and visualization metaphor (d).\n",
+        "image_labels": [
+            [
+                "Product",
+                0.908014178276062
+            ],
+            [
+                "Output device",
+                0.8824064135551453
+            ],
+            [
+                "Gadget",
+                0.8637270927429199
+            ],
+            [
+                "Communication Device",
+                0.8539249897003174
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Tablet computer",
+                0.8487685322761536
+            ],
+            [
+                "Cameras & optics",
+                0.8210832476615906
+            ],
+            [
+                "Font",
+                0.7832605242729187
+            ],
+            [
+                "Technology",
+                0.7828299403190613
+            ],
+            [
+                "Display device",
+                0.7691720128059387
+            ]
+        ]
+    },
+    "6": {
+        "type": "human",
+        "caption_text": "Figure 6. The SpaceFace application and its outside view (a), inside view (b)\ninteraction and visualization concept (c) and physical interaction scenario\n(d).\n",
+        "image_labels": [
+            [
+                "Hand",
+                0.9581711292266846
+            ],
+            [
+                "Photograph",
+                0.9432785511016846
+            ],
+            [
+                "Arm",
+                0.9428322315216064
+            ],
+            [
+                "Product",
+                0.9074952602386475
+            ],
+            [
+                "Purple",
+                0.9023411870002747
+            ],
+            [
+                "Human",
+                0.8980086445808411
+            ],
+            [
+                "Blue",
+                0.8963638544082642
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8325906991958618
+            ],
+            [
+                "Violet",
+                0.8202134370803833
+            ]
+        ]
+    },
+    "7": {
+        "type": "human",
+        "caption_text": "Figure 7. The Conductor application showing its outside view (a), inside\nview (b), hand tracking region (c) and interaction scenario (d).\n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9441751837730408
+            ],
+            [
+                "Product",
+                0.9076551198959351
+            ],
+            [
+                "Output device",
+                0.8987471461296082
+            ],
+            [
+                "Human",
+                0.8912222981452942
+            ],
+            [
+                "Gadget",
+                0.8732466697692871
+            ],
+            [
+                "Cameras & optics",
+                0.8672588467597961
+            ],
+            [
+                "Communication Device",
+                0.8479884266853333
+            ],
+            [
+                "Font",
+                0.8377054333686829
+            ],
+            [
+                "Camera",
+                0.8274088501930237
+            ],
+            [
+                "Multimedia",
+                0.7775780558586121
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8. The distribution of our data from (a) the GEQ In-Game Module, GEQ Social Module, the SUS and (b) the SAM questionnaire. All bar charts\nshowing the mean with standard deviation.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9004330039024353
+            ],
+            [
+                "Slope",
+                0.858726978302002
+            ],
+            [
+                "Font",
+                0.8231139779090881
+            ],
+            [
+                "Parallel",
+                0.7904099822044373
+            ],
+            [
+                "Pattern",
+                0.759962260723114
+            ],
+            [
+                "Plot",
+                0.7190394997596741
+            ],
+            [
+                "Diagram",
+                0.6673262119293213
+            ],
+            [
+                "Number",
+                0.640238881111145
+            ],
+            [
+                "Electric blue",
+                0.5385199189186096
+            ],
+            [
+                "Square",
+                0.5199154019355774
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9. Boxplots of our own questions on discomfort \"I felt uncomfortable\ntouching/being touched/gesturing/being gestured at\", understanding \"I was\nalways able to understand the current state of the game\" and agency \"I was\nalways able to influence the outcome of the game\"\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8514821529388428
+            ],
+            [
+                "Slope",
+                0.800173282623291
+            ],
+            [
+                "Font",
+                0.7933818697929382
+            ],
+            [
+                "Parallel",
+                0.7721224427223206
+            ],
+            [
+                "Electric blue",
+                0.5676873326301575
+            ],
+            [
+                "Diagram",
+                0.560965895652771
+            ],
+            [
+                "Plot",
+                0.558366060256958
+            ],
+            [
+                "Number",
+                0.5114211440086365
+            ]
+        ]
+    },
+    "10": {
+        "type": "diagram",
+        "caption_text": "Figure 10. A variety of physical interaction poses participants used during the study emphasizing the vast possibilities of physical interaction arising from\nSpaceFace: (a) The Kraken: The Non-HMD User abused his power and wraps around the HMD User to restrict his motions. (b) The Leg-press: the HMD User\nutilizes his legs to either find or push the Non-HMD User away. (d) The Hedgehog: the HMD User rolls in like a hedgehog to hide from the attacks.\n",
+        "image_labels": [
+            [
+                "Automotive design",
+                0.8933439254760742
+            ],
+            [
+                "Interior design",
+                0.8500218987464905
+            ],
+            [
+                "Font",
+                0.8218992948532104
+            ],
+            [
+                "Art",
+                0.7758774161338806
+            ],
+            [
+                "Machine",
+                0.7542086243629456
+            ],
+            [
+                "Technology",
+                0.7468017935752869
+            ],
+            [
+                "Electronic device",
+                0.7373563051223755
+            ],
+            [
+                "Engineering",
+                0.7247223258018494
+            ],
+            [
+                "Flooring",
+                0.7079245448112488
+            ],
+            [
+                "Room",
+                0.6933874487876892
+            ]
+        ]
+    }
+}

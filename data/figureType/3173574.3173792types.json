@@ -1,0 +1,462 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1. In a mock setup depicting the flow of Projective Windows, (a) the user wishing to adjust the position and scale of an AR \nwindow (b) grabs the window, (c) moves it, (d) makes it bigger by bringing it closer, and (e) projects it to the desired position.\n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Communication Device",
+                0.8501139879226685
+            ],
+            [
+                "Finger",
+                0.8281360268592834
+            ],
+            [
+                "Gadget",
+                0.8174533843994141
+            ],
+            [
+                "Font",
+                0.7867226600646973
+            ],
+            [
+                "Mobile phone",
+                0.7750339508056641
+            ],
+            [
+                "Display device",
+                0.7530137300491333
+            ],
+            [
+                "Electronic device",
+                0.745922327041626
+            ],
+            [
+                "Technology",
+                0.7423205971717834
+            ],
+            [
+                "Thumb",
+                0.7262369394302368
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2. (a) The user creates a big area cursor, (b) specifies a \nwindow in a cluttered situation by closing the fingers and \nmaking the cursor smaller, and (c) selects it by pinching. \n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8821583986282349
+            ],
+            [
+                "Rectangle",
+                0.8797734975814819
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8200034499168396
+            ],
+            [
+                "Line",
+                0.8159335255622864
+            ],
+            [
+                "Elbow",
+                0.8003148436546326
+            ],
+            [
+                "Thumb",
+                0.7866676449775696
+            ],
+            [
+                "Sharing",
+                0.7853085398674011
+            ],
+            [
+                "Parallel",
+                0.7800354361534119
+            ],
+            [
+                "Circle",
+                0.7241625785827637
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3. (a) The user makes a grab gesture on a window to (b) \nprojectively bring it to the grabbed point. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9076584577560425
+            ],
+            [
+                "Green",
+                0.8997997641563416
+            ],
+            [
+                "Rectangle",
+                0.8937880396842957
+            ],
+            [
+                "Sleeve",
+                0.8703973889350891
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Happy",
+                0.8367197513580322
+            ],
+            [
+                "Elbow",
+                0.8296610713005066
+            ],
+            [
+                "Line",
+                0.819327712059021
+            ],
+            [
+                "Font",
+                0.8186016082763672
+            ],
+            [
+                "Thumb",
+                0.7865980863571167
+            ]
+        ]
+    },
+    "6": {
+        "type": "human",
+        "caption_text": "Figure 6. (a) Implementation hardware. (b) The hands, real \nand virtual objects in the user\u2019s view. \n",
+        "image_labels": [
+            [
+                "Vision care",
+                0.8978622555732727
+            ],
+            [
+                "Human body",
+                0.8841513395309448
+            ],
+            [
+                "Neck",
+                0.8733826279640198
+            ],
+            [
+                "Sleeve",
+                0.8724467754364014
+            ],
+            [
+                "Sunglasses",
+                0.8720958828926086
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Street fashion",
+                0.8494824171066284
+            ],
+            [
+                "Cap",
+                0.8367650508880615
+            ],
+            [
+                "Hat",
+                0.8226057291030884
+            ],
+            [
+                "Gadget",
+                0.799782931804657
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4. (a) The user makes the window appear bigger by \nbringing it closer to the face, and (b) smaller by putting it \naway. The user can project a window (a, b) onto a vertical \nsurface, or (c) make it stand on a horizontal surface. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8766090273857117
+            ],
+            [
+                "Window",
+                0.8600082397460938
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8214493989944458
+            ],
+            [
+                "Elbow",
+                0.8085260987281799
+            ],
+            [
+                "Parallel",
+                0.7890999913215637
+            ],
+            [
+                "Door",
+                0.7342633008956909
+            ],
+            [
+                "Diagram",
+                0.7095614075660706
+            ],
+            [
+                "Art",
+                0.7022383809089661
+            ],
+            [
+                "Line art",
+                0.7019891738891602
+            ]
+        ]
+    },
+    "5": {
+        "type": "formula",
+        "caption_text": "Figure 5. (a) When the user grabs a window from a wall, \nmoves it relative to the face, and releases it to another wall, (b) \nthe zoom (ratio of the final to initial widths) is inversely \nproportional to d. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.7998417615890503
+            ],
+            [
+                "Parallel",
+                0.7420282363891602
+            ],
+            [
+                "Art",
+                0.7261272668838501
+            ],
+            [
+                "Rectangle",
+                0.7186245918273926
+            ],
+            [
+                "Circle",
+                0.7181124091148376
+            ],
+            [
+                "Pattern",
+                0.716427743434906
+            ],
+            [
+                "Magenta",
+                0.6660429239273071
+            ],
+            [
+                "Brand",
+                0.660178542137146
+            ],
+            [
+                "Number",
+                0.6561154723167419
+            ],
+            [
+                "Triangle",
+                0.6376755833625793
+            ]
+        ]
+    },
+    "7": {
+        "type": "picture",
+        "caption_text": "Figure 7. With Projective Windows (PW) using a hardware \ncontroller (PWC), (a-b) a finger pinch is substituted with (c-d) \nthe pull of the trigger (highlighted green) on the hardware \ncontroller. Note the similarity between the bare hand gesture \nand the controller-based gesture. \n",
+        "image_labels": [
+            [
+                "Hand",
+                0.9597693681716919
+            ],
+            [
+                "Thumb",
+                0.872715950012207
+            ],
+            [
+                "Finger",
+                0.8669177293777466
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Nail",
+                0.8477432131767273
+            ],
+            [
+                "Font",
+                0.838693380355835
+            ],
+            [
+                "Office supplies",
+                0.7605254650115967
+            ],
+            [
+                "Gadget",
+                0.670799732208252
+            ],
+            [
+                "Circle",
+                0.6365532279014587
+            ],
+            [
+                "Wrist",
+                0.6290771961212158
+            ]
+        ]
+    },
+    "8": {
+        "type": "picture",
+        "caption_text": "Figure 8. The experiment was conducted with PW using a controller (PWC) and ray-casting (RC). Using PWC, the participant (a) \nfirst searched for the target (white), (b) grabbed the window (blue), (c) moved the window while adjusting its apparent size, and (d) \nreleased it onto the target when the apparent sizes matched. Using RC, the participant (e) first searched for the target (white), (f) \ndragged the window (blue) to the target, (g) placed it in the target, and (h) scaled it so that the absolute sizes matched. \n",
+        "image_labels": [
+            [
+                "Hand",
+                0.9565176963806152
+            ],
+            [
+                "Thumb",
+                0.8719441294670105
+            ],
+            [
+                "Finger",
+                0.8713285326957703
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Nail",
+                0.8445752859115601
+            ],
+            [
+                "Font",
+                0.8438247442245483
+            ],
+            [
+                "Wrist",
+                0.7005493640899658
+            ],
+            [
+                "Service",
+                0.6810293197631836
+            ],
+            [
+                "Office supplies",
+                0.651768684387207
+            ],
+            [
+                "Gadget",
+                0.6186721920967102
+            ]
+        ]
+    },
+    "9": {
+        "type": "diagram",
+        "caption_text": "Figure 9. Windows and targets appeared on A~L. The user \nperformed move and scale tasks using Projective Windows \nand a widget-based ray-casting baseline technique. \n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8855438232421875
+            ],
+            [
+                "Triangle",
+                0.879002571105957
+            ],
+            [
+                "Font",
+                0.820645809173584
+            ],
+            [
+                "Parallel",
+                0.7875216603279114
+            ],
+            [
+                "Circle",
+                0.7800329923629761
+            ],
+            [
+                "Symmetry",
+                0.7512437701225281
+            ],
+            [
+                "Pattern",
+                0.7439173460006714
+            ],
+            [
+                "Diagram",
+                0.7261220216751099
+            ],
+            [
+                "Rectangle",
+                0.7084273099899292
+            ],
+            [
+                "Number",
+                0.6600146293640137
+            ]
+        ]
+    },
+    "14": {
+        "type": "chart",
+        "caption_text": "Figure 14. User scenarios of Projective Windows in a (a) \ndesign studio, (b) study, (c) living room, and (d) VR scene. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9072448015213013
+            ],
+            [
+                "Rectangle",
+                0.899271547794342
+            ],
+            [
+                "Slope",
+                0.8866259455680847
+            ],
+            [
+                "Plot",
+                0.8691132664680481
+            ],
+            [
+                "Font",
+                0.8471671342849731
+            ],
+            [
+                "Parallel",
+                0.7904874086380005
+            ],
+            [
+                "Circle",
+                0.7658101916313171
+            ],
+            [
+                "Pattern",
+                0.7514053583145142
+            ],
+            [
+                "Diagram",
+                0.7148925065994263
+            ],
+            [
+                "Number",
+                0.681658923625946
+            ]
+        ]
+    }
+}

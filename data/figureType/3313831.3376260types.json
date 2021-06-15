@@ -1,0 +1,220 @@
+{
+    "1": {
+        "type": "chart",
+        "caption_text": "Figure 1. Examples of different realizations of INVRQ: (a) and (b) present the questionnaire using a HUD, (c)-(f) use a world-referenced questionnaire, \nand (g) presents the questionnaire attached to the body. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9083021283149719
+            ],
+            [
+                "Font",
+                0.8377113342285156
+            ],
+            [
+                "Screenshot",
+                0.8172498345375061
+            ],
+            [
+                "Line",
+                0.817086398601532
+            ],
+            [
+                "Parallel",
+                0.7660050988197327
+            ],
+            [
+                "Engineering",
+                0.7489129304885864
+            ],
+            [
+                "Electronic device",
+                0.7434977889060974
+            ],
+            [
+                "Rectangle",
+                0.7415353655815125
+            ],
+            [
+                "Technology",
+                0.7332232594490051
+            ],
+            [
+                "Software",
+                0.7291775941848755
+            ]
+        ]
+    },
+    "2": {
+        "type": "chart",
+        "caption_text": "Figure  2.  Ratings  of  the  usefulness  of  INVRQS  (Q17,  scale:  0  to  5,  5 \nbeing highest) separated by INVRQ experience (Yes/No). \n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Rectangle",
+                0.8412159085273743
+            ],
+            [
+                "Font",
+                0.7874101400375366
+            ],
+            [
+                "Plot",
+                0.771621584892273
+            ],
+            [
+                "Parallel",
+                0.7688427567481995
+            ],
+            [
+                "Slope",
+                0.7628862261772156
+            ],
+            [
+                "Pattern",
+                0.7187319397926331
+            ],
+            [
+                "Diagram",
+                0.6609655618667603
+            ],
+            [
+                "Number",
+                0.5200121998786926
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3.  Screenshots of the archery task.  The world space-anchored \nINVRQ is \ufb01lled out using the HTC Vive controller as a laser pointer. \n",
+        "image_labels": [
+            [
+                "Plant",
+                0.9446805119514465
+            ],
+            [
+                "Ecoregion",
+                0.9289694428443909
+            ],
+            [
+                "Nature",
+                0.9011185765266418
+            ],
+            [
+                "Natural environment",
+                0.889268159866333
+            ],
+            [
+                "Terrestrial plant",
+                0.8656283617019653
+            ],
+            [
+                "Slope",
+                0.8601920008659363
+            ],
+            [
+                "Grass",
+                0.8580718040466309
+            ],
+            [
+                "Organism",
+                0.8568578362464905
+            ],
+            [
+                "Vegetation",
+                0.8472611904144287
+            ],
+            [
+                "Biome",
+                0.8462315201759338
+            ]
+        ]
+    },
+    "4": {
+        "type": "table",
+        "caption_text": "Figure 4.  Ratings of usability on UMUX [155] (left) and of completion \ntimes (right) for both conditions. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9094579815864563
+            ],
+            [
+                "Product",
+                0.9075300097465515
+            ],
+            [
+                "Slope",
+                0.8574607968330383
+            ],
+            [
+                "Font",
+                0.8494089841842651
+            ],
+            [
+                "Line",
+                0.8167053461074829
+            ],
+            [
+                "Parallel",
+                0.7900242209434509
+            ],
+            [
+                "Pattern",
+                0.7304149270057678
+            ],
+            [
+                "Number",
+                0.7108121514320374
+            ],
+            [
+                "Diagram",
+                0.6969308257102966
+            ],
+            [
+                "Design",
+                0.6823439002037048
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure 5. Boxplots of presence and workload split by questionnaire type \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8965878486633301
+            ],
+            [
+                "Line",
+                0.8192839622497559
+            ],
+            [
+                "Slope",
+                0.8135616183280945
+            ],
+            [
+                "Font",
+                0.8126233220100403
+            ],
+            [
+                "Parallel",
+                0.7886884212493896
+            ],
+            [
+                "Diagram",
+                0.7132591605186462
+            ],
+            [
+                "Number",
+                0.6875249743461609
+            ],
+            [
+                "Pattern",
+                0.5980899930000305
+            ]
+        ]
+    }
+}

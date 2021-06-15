@@ -1,0 +1,140 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1: Conditions in our study (Left column: The UK,\nRight column: Germany; Top images: traditional control in-\nvision condition (T), Middle images: \u2018half-body\u2019 AR condi-\ntions (H), Bottom images: \u2018full-body\u2019 AR conditions (F)\n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9442991614341736
+            ],
+            [
+                "Product",
+                0.9080527424812317
+            ],
+            [
+                "Green",
+                0.9035685062408447
+            ],
+            [
+                "Purple",
+                0.8923356533050537
+            ],
+            [
+                "Lighting",
+                0.865788459777832
+            ],
+            [
+                "Output device",
+                0.8575502038002014
+            ],
+            [
+                "Yellow",
+                0.8531941771507263
+            ],
+            [
+                "Art",
+                0.8516812920570374
+            ],
+            [
+                "Television set",
+                0.7945289611816406
+            ],
+            [
+                "Display device",
+                0.7847846746444702
+            ]
+        ]
+    },
+    "2": {
+        "type": "table",
+        "caption_text": "Figure 2: Descriptive statistics on responses to post condition questions [39]: max: maximum, 3rd: third quartile, 2nd: median,\n1st: first quartile, min: minimum. Solid boxes indicate where Friedman test indicates an influence of method (T: traditional,\nH: half-body, F: full-body). Dashed boxes indicate where Mann-Whitney U test indicate a difference across countries.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8929967284202576
+            ],
+            [
+                "Font",
+                0.8393996953964233
+            ],
+            [
+                "Line",
+                0.8179191946983337
+            ],
+            [
+                "Material property",
+                0.800224781036377
+            ],
+            [
+                "Office equipment",
+                0.7826656699180603
+            ],
+            [
+                "Pattern",
+                0.7727487087249756
+            ],
+            [
+                "Games",
+                0.7272886037826538
+            ],
+            [
+                "Parallel",
+                0.7006365656852722
+            ],
+            [
+                "Number",
+                0.6988348960876465
+            ],
+            [
+                "Indoor games and sports",
+                0.649165689945221
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3: a) Participant preference of the methods; b) Responses on questions about the acceptance of the TV+HoloLens system;\nc) Responses to the question on whether the HoloLens changed the television experience.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8896863460540771
+            ],
+            [
+                "Slope",
+                0.8613474369049072
+            ],
+            [
+                "Font",
+                0.8222740888595581
+            ],
+            [
+                "Parallel",
+                0.7902302145957947
+            ],
+            [
+                "Pattern",
+                0.7346292734146118
+            ],
+            [
+                "Circle",
+                0.7331862449645996
+            ],
+            [
+                "Number",
+                0.6857828497886658
+            ],
+            [
+                "Diagram",
+                0.6825978755950928
+            ],
+            [
+                "Illustration",
+                0.6279777884483337
+            ],
+            [
+                "Drawing",
+                0.5809128880500793
+            ]
+        ]
+    }
+}

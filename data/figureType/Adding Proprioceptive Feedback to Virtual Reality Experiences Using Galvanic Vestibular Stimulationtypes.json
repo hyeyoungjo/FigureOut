@@ -1,0 +1,546 @@
+{
+    "1": {
+        "type": "graphic",
+        "caption_text": "Figure 1: Our GVS device induces proprioceptive feedback\nfor VR motions: (a) riding a roller coaster, (b) driving a car,\n(c) leaping forward, and (d) navigating by flying.\n",
+        "image_labels": [
+            [
+                "Property",
+                0.9426605105400085
+            ],
+            [
+                "Photograph",
+                0.9416415691375732
+            ],
+            [
+                "World",
+                0.9258813261985779
+            ],
+            [
+                "Product",
+                0.9072747826576233
+            ],
+            [
+                "Nature",
+                0.9032744765281677
+            ],
+            [
+                "Natural environment",
+                0.895406186580658
+            ],
+            [
+                "Vehicle",
+                0.892485499382019
+            ],
+            [
+                "Biome",
+                0.8491629958152771
+            ],
+            [
+                "Travel",
+                0.8348736763000488
+            ],
+            [
+                "Automotive tire",
+                0.8158082365989685
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2: The first GVS prototype built using a Light Blue\nBean Board with a custom current driver circuit board.\n",
+        "image_labels": [
+            [
+                "Light",
+                0.9108673930168152
+            ],
+            [
+                "Circuit component",
+                0.8929601907730103
+            ],
+            [
+                "Font",
+                0.8363097906112671
+            ],
+            [
+                "Audio equipment",
+                0.8261685371398926
+            ],
+            [
+                "Gadget",
+                0.8168767094612122
+            ],
+            [
+                "Hardware programmer",
+                0.7786428928375244
+            ],
+            [
+                "Cable",
+                0.7595271468162537
+            ],
+            [
+                "Wire",
+                0.7442384362220764
+            ],
+            [
+                "Electric blue",
+                0.7405142188072205
+            ],
+            [
+                "Electronic component",
+                0.7354117035865784
+            ]
+        ]
+    },
+    "3": {
+        "type": "human",
+        "caption_text": "Figure 3: The second and final GVS prototype in the form of\na small wearable device that sits on the user\u2019s neck, similar\nto behind-the-head earphones. The red wire connects the cir-\ncuit to an electrode behind the user\u2019s ear. A similar wire con-\nnects to a second electrode behind the other ear. The white\nwires connect to EDA and HR sensors.\n",
+        "image_labels": [
+            [
+                "Hand",
+                0.9564844369888306
+            ],
+            [
+                "Eyelash",
+                0.8890384435653687
+            ],
+            [
+                "Sleeve",
+                0.8724217414855957
+            ],
+            [
+                "Circuit component",
+                0.868422269821167
+            ],
+            [
+                "Passive circuit component",
+                0.8543481230735779
+            ],
+            [
+                "Microcontroller",
+                0.8225586414337158
+            ],
+            [
+                "Hardware programmer",
+                0.7998059988021851
+            ],
+            [
+                "Wrist",
+                0.7894454598426819
+            ],
+            [
+                "Gadget",
+                0.759547233581543
+            ],
+            [
+                "Electronic engineering",
+                0.7546105980873108
+            ]
+        ]
+    },
+    "4": {
+        "type": "picture",
+        "caption_text": "Figure 4: GVS prototype with the 3D printed housing, PCB,\nLiPo battery, sensor ports, and the electrode connectors.\n",
+        "image_labels": [
+            [
+                "Circuit component",
+                0.8558772802352905
+            ],
+            [
+                "Automotive lighting",
+                0.8370873332023621
+            ],
+            [
+                "Passive circuit component",
+                0.8235146999359131
+            ],
+            [
+                "Audio equipment",
+                0.7757883071899414
+            ],
+            [
+                "Computer hardware",
+                0.7734565138816833
+            ],
+            [
+                "Gadget",
+                0.745937168598175
+            ],
+            [
+                "Cable",
+                0.7412866353988647
+            ],
+            [
+                "Electrical wiring",
+                0.7383120059967041
+            ],
+            [
+                "Electronic engineering",
+                0.7332123517990112
+            ],
+            [
+                "Machine",
+                0.7284833788871765
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure 5: We attach electrodes to the mastoid process on the\ntemporal bone behind each ear to electrically stimulate the\nvestibular system. Image courtesy: Wikipedia\n",
+        "image_labels": [
+            [
+                "Head",
+                0.9728372097015381
+            ],
+            [
+                "Mouth",
+                0.9165430665016174
+            ],
+            [
+                "Jaw",
+                0.8818510174751282
+            ],
+            [
+                "Bone",
+                0.869696319103241
+            ],
+            [
+                "Headgear",
+                0.8338155150413513
+            ],
+            [
+                "Font",
+                0.8036924004554749
+            ],
+            [
+                "Art",
+                0.7953647375106812
+            ],
+            [
+                "Skull",
+                0.7650468945503235
+            ],
+            [
+                "Snout",
+                0.7328243255615234
+            ],
+            [
+                "Personal protective equipment",
+                0.6874736547470093
+            ]
+        ]
+    },
+    "6": {
+        "type": "picture",
+        "caption_text": "Figure 6: Our GVS device without the 3D printed housing.\nThe image shows the EDA and HR sensors plugged into the\nPCB using the onboard connection ports.\n",
+        "image_labels": [
+            [
+                "Light",
+                0.910469651222229
+            ],
+            [
+                "Product",
+                0.908191978931427
+            ],
+            [
+                "Circuit component",
+                0.8556960225105286
+            ],
+            [
+                "Font",
+                0.7973852157592773
+            ],
+            [
+                "Electronic component",
+                0.7907328605651855
+            ],
+            [
+                "Passive circuit component",
+                0.785279393196106
+            ],
+            [
+                "Electrical wiring",
+                0.7530404329299927
+            ],
+            [
+                "Jewellery",
+                0.7237461805343628
+            ],
+            [
+                "Machine",
+                0.7230991125106812
+            ],
+            [
+                "Wire",
+                0.7218628525733948
+            ]
+        ]
+    },
+    "7": {
+        "type": "graphic",
+        "caption_text": "Figure 7: VR scenes for the with-GVS and without-GVS trials.\n(a) Full visibility, breezy sunny day. (b) Full visibility, over-\ncast day with occasional thunder in the distance.\n",
+        "image_labels": [
+            [
+                "Ecoregion",
+                0.9261597394943237
+            ],
+            [
+                "Sky",
+                0.9115188121795654
+            ],
+            [
+                "Infrastructure",
+                0.9053351879119873
+            ],
+            [
+                "Nature",
+                0.9012159109115601
+            ],
+            [
+                "Tree",
+                0.8811861276626587
+            ],
+            [
+                "Plant",
+                0.8570448160171509
+            ],
+            [
+                "Natural landscape",
+                0.8427650928497314
+            ],
+            [
+                "Biome",
+                0.8326315879821777
+            ],
+            [
+                "Slope",
+                0.8231057524681091
+            ],
+            [
+                "Travel",
+                0.8164451122283936
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9: A Pairwise Wilcoxon test shows Flow was signifi-\ncantly higher in VR with the GVS device.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8867583870887756
+            ],
+            [
+                "Slope",
+                0.8494924306869507
+            ],
+            [
+                "Parallel",
+                0.7895562052726746
+            ],
+            [
+                "Font",
+                0.7803120017051697
+            ],
+            [
+                "Diagram",
+                0.7015961408615112
+            ],
+            [
+                "Symmetry",
+                0.6839073896408081
+            ],
+            [
+                "Pattern",
+                0.6825123429298401
+            ],
+            [
+                "Number",
+                0.5957316756248474
+            ],
+            [
+                "Electric blue",
+                0.5209140181541443
+            ]
+        ]
+    },
+    "10": {
+        "type": "table",
+        "caption_text": "Figure 10: Positive Affect was significantly higher and there\nwas no significant difference in the Negative Affect between\nthe with-GVS and without-GVS conditions.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8965770602226257
+            ],
+            [
+                "Slope",
+                0.8253077268600464
+            ],
+            [
+                "Font",
+                0.7918370962142944
+            ],
+            [
+                "Parallel",
+                0.7895551323890686
+            ],
+            [
+                "Diagram",
+                0.691555380821228
+            ],
+            [
+                "Pattern",
+                0.632413387298584
+            ],
+            [
+                "Number",
+                0.6245266795158386
+            ],
+            [
+                "Electric blue",
+                0.6082876324653625
+            ],
+            [
+                "Circle",
+                0.5618088841438293
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8: Participants had significantly higher presence\nwhen using the GVS device than without.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8649325966835022
+            ],
+            [
+                "Slope",
+                0.8324799537658691
+            ],
+            [
+                "Parallel",
+                0.7890670299530029
+            ],
+            [
+                "Font",
+                0.7879791259765625
+            ],
+            [
+                "Diagram",
+                0.7019670009613037
+            ],
+            [
+                "Pattern",
+                0.6929599046707153
+            ],
+            [
+                "Electric blue",
+                0.6246281266212463
+            ],
+            [
+                "Symmetry",
+                0.6218284368515015
+            ],
+            [
+                "Plot",
+                0.5770297646522522
+            ],
+            [
+                "Number",
+                0.5423314571380615
+            ]
+        ]
+    },
+    "11": {
+        "type": "chart",
+        "caption_text": "Figure 11: Perceived realism of experience is higher as indi-\ncated by responses to related questions in the SUS inventory\nfor with-GVS and without-GVS conditions.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8826001286506653
+            ],
+            [
+                "Line",
+                0.8162054419517517
+            ],
+            [
+                "Parallel",
+                0.7886403799057007
+            ],
+            [
+                "Slope",
+                0.7872393131256104
+            ],
+            [
+                "Font",
+                0.7728556394577026
+            ],
+            [
+                "Diagram",
+                0.7077047228813171
+            ],
+            [
+                "Symmetry",
+                0.7060102820396423
+            ],
+            [
+                "Plot",
+                0.6962085366249084
+            ],
+            [
+                "Pattern",
+                0.6915891170501709
+            ],
+            [
+                "Electric blue",
+                0.665682852268219
+            ]
+        ]
+    },
+    "12": {
+        "type": "chart",
+        "caption_text": "Figure 12: Results show that 85% of the users preferred the\nVR experience with the GVS device.\n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Rectangle",
+                0.8831951022148132
+            ],
+            [
+                "Font",
+                0.7741110920906067
+            ],
+            [
+                "Parallel",
+                0.7576362490653992
+            ],
+            [
+                "Slope",
+                0.7146132588386536
+            ],
+            [
+                "Diagram",
+                0.6916806697845459
+            ],
+            [
+                "Electric blue",
+                0.6687501072883606
+            ],
+            [
+                "Magenta",
+                0.6570672392845154
+            ],
+            [
+                "Brand",
+                0.6568652987480164
+            ],
+            [
+                "Circle",
+                0.5307472348213196
+            ]
+        ]
+    }
+}

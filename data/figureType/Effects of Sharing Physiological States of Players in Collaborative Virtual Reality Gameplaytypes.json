@@ -1,0 +1,284 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1. Participants were asked to stand during the gameplay sessions.\nThey were wearing HTC Vive HMD and two different heart-rate sensors\n- Empatica E4 and Biometric Glove with Arduino sensors. They were\nalso wearing a Logitech noise canceling headphone to hear the sounds of\nthe game.\n",
+        "image_labels": [
+            [
+                "Helmet",
+                0.9396525621414185
+            ],
+            [
+                "Eyewear",
+                0.8972642421722412
+            ],
+            [
+                "Vision care",
+                0.8653786778450012
+            ],
+            [
+                "Automotive lighting",
+                0.8641138076782227
+            ],
+            [
+                "Automotive tire",
+                0.8560271263122559
+            ],
+            [
+                "Eyelash",
+                0.8515066504478455
+            ],
+            [
+                "Cameras & optics",
+                0.8446916937828064
+            ],
+            [
+                "Gadget",
+                0.8294532895088196
+            ],
+            [
+                "Headgear",
+                0.8198875188827515
+            ],
+            [
+                "Font",
+                0.8121721744537354
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2. In this user study we used two different games and two different conditions. In our control condition, a heart-rate was not shown to the\nparticipants (a) and (c). In the experimental condition, we showed a heart-rate feedback to the participant that showed the real-time heart-rate of the\nplayer (b) and (d). (a - b) show the calm butter\ufb02y game and (c - d) show the scary zombie game.\n",
+        "image_labels": [
+            [
+                "Plant",
+                0.9571510553359985
+            ],
+            [
+                "Green",
+                0.9193275570869446
+            ],
+            [
+                "Light",
+                0.9104230999946594
+            ],
+            [
+                "Natural environment",
+                0.8902570009231567
+            ],
+            [
+                "Tree",
+                0.884854257106781
+            ],
+            [
+                "Natural landscape",
+                0.8725664019584656
+            ],
+            [
+                "Grass",
+                0.842321515083313
+            ],
+            [
+                "Terrestrial plant",
+                0.8197833895683289
+            ],
+            [
+                "Adaptation",
+                0.7925435900688171
+            ],
+            [
+                "Landscape",
+                0.7704535722732544
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3. The user study setup. Both player and the observer were standing during the gameplay sessions. They were physically located in a 15\u2019 \u00d7 15\u2019\ncalibrated area and could speak to each other to collaborate.\n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8233400583267212
+            ],
+            [
+                "Line",
+                0.8162810206413269
+            ],
+            [
+                "Slope",
+                0.737110435962677
+            ],
+            [
+                "Recreation",
+                0.7280696630477905
+            ],
+            [
+                "Fictional character",
+                0.6975656747817993
+            ],
+            [
+                "Screenshot",
+                0.6949948668479919
+            ],
+            [
+                "Illustration",
+                0.6617597341537476
+            ],
+            [
+                "Multimedia software",
+                0.661281943321228
+            ],
+            [
+                "Graphics",
+                0.6474499702453613
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4. Subjective feedback on three question. 4(a) how much did participants understood the emotional state of the player? 4(b) how much were\nthey attentive to the gameplay? 4(c) how much did enjoy the collaboration? Lower values indicate better outcome and whiskers represent \u00b1 1 SE.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8872246742248535
+            ],
+            [
+                "Slope",
+                0.8757966160774231
+            ],
+            [
+                "Plot",
+                0.8276145458221436
+            ],
+            [
+                "Font",
+                0.8200911283493042
+            ],
+            [
+                "Parallel",
+                0.7450640201568604
+            ],
+            [
+                "Diagram",
+                0.6693964004516602
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5. Analysis of PANAS data showed an evidence of non-\nsigni\ufb01cantly more positive affect in the presence of heart-rate feedback.\nZombie game caused higher positive and negative affect than the Butter-\n\ufb02y game.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8894993662834167
+            ],
+            [
+                "Slope",
+                0.8738904595375061
+            ],
+            [
+                "Plot",
+                0.8206483721733093
+            ],
+            [
+                "Font",
+                0.8027046322822571
+            ],
+            [
+                "Parallel",
+                0.7587409615516663
+            ],
+            [
+                "Diagram",
+                0.6653428077697754
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure 6. Analysis of viewing angle shows that the butter\ufb02y game had\nsigni\ufb01cantly less difference in viewing angle between the observer and\nthe player than the zombie game. Whiskers represent \u00b1 1 standard er-\nror.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9036892652511597
+            ],
+            [
+                "Slope",
+                0.8811360597610474
+            ],
+            [
+                "Plot",
+                0.8218331933021545
+            ],
+            [
+                "Font",
+                0.814726710319519
+            ],
+            [
+                "Parallel",
+                0.7819186449050903
+            ],
+            [
+                "Diagram",
+                0.7331206202507019
+            ],
+            [
+                "Electric blue",
+                0.6329028010368347
+            ],
+            [
+                "Number",
+                0.5311900973320007
+            ]
+        ]
+    },
+    "7": {
+        "type": "formula",
+        "caption_text": "Figure 7. Observers looked differently in the butter\ufb02y game than in the zombie game. Their gaze direction was more aligned to the player in the\nbutter\ufb02y game but in the zombie game the direction was less aligned. 0\u00b0 shows the normalized direction of player\u2019s gaze.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8931145071983337
+            ],
+            [
+                "Slope",
+                0.8759967088699341
+            ],
+            [
+                "Plot",
+                0.828122079372406
+            ],
+            [
+                "Line",
+                0.8155252933502197
+            ],
+            [
+                "Font",
+                0.8140949010848999
+            ],
+            [
+                "Parallel",
+                0.7873021960258484
+            ],
+            [
+                "Circle",
+                0.7679731845855713
+            ],
+            [
+                "Pattern",
+                0.7556972503662109
+            ],
+            [
+                "Symmetry",
+                0.754374623298645
+            ],
+            [
+                "Diagram",
+                0.6709421873092651
+            ]
+        ]
+    }
+}

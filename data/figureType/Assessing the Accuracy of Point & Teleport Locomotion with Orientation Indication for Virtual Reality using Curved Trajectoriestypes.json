@@ -1,0 +1,518 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1: A user is teleporting herself in a Virtual Environment using the Curved Teleport. It allows her to teleport around an \nobstacle and graphically choose the orientation, which she wants to face after teleportation only by using the curved trajectory \nvisualization with orientation indication, and without having to turn her body in the physical world. \n",
+        "image_labels": [
+            [
+                "Plant",
+                0.9060177803039551
+            ],
+            [
+                "Sky",
+                0.9034501910209656
+            ],
+            [
+                "Wood",
+                0.8720215559005737
+            ],
+            [
+                "Organism",
+                0.8535070419311523
+            ],
+            [
+                "Land lot",
+                0.8434951305389404
+            ],
+            [
+                "Terrestrial plant",
+                0.8032835721969604
+            ],
+            [
+                "Adaptation",
+                0.7935642004013062
+            ],
+            [
+                "Grass",
+                0.7847907543182373
+            ],
+            [
+                "Landscape",
+                0.7772476077079773
+            ],
+            [
+                "Leisure",
+                0.7607332468032837
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2: A user is using the Linear Teleport to move onto a \ntarget. The orientation that the user is facing is the forward \nvector of the straight teleport line. \n",
+        "image_labels": [
+            [
+                "Musical instrument",
+                0.9412123560905457
+            ],
+            [
+                "Jaw",
+                0.8775851726531982
+            ],
+            [
+                "Sleeve",
+                0.8722392320632935
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Cartoon",
+                0.8505265116691589
+            ],
+            [
+                "Finger",
+                0.8479052782058716
+            ],
+            [
+                "Font",
+                0.8269823789596558
+            ],
+            [
+                "Happy",
+                0.8129354119300842
+            ],
+            [
+                "Art",
+                0.7869158387184143
+            ],
+            [
+                "Circle",
+                0.7675917744636536
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3: The Parabola Teleport uses a parabola shaped visu-\nalization to indicate the target position of the teleport. After \nthe teleport, users face the forward vector of the teleport. \n",
+        "image_labels": [
+            [
+                "Eye",
+                0.9363086223602295
+            ],
+            [
+                "Water",
+                0.8563845157623291
+            ],
+            [
+                "Gesture",
+                0.8526047468185425
+            ],
+            [
+                "Plumbing fixture",
+                0.83791583776474
+            ],
+            [
+                "Font",
+                0.8072986006736755
+            ],
+            [
+                "Audio equipment",
+                0.7731801867485046
+            ],
+            [
+                "Circle",
+                0.7557558417320251
+            ],
+            [
+                "Electric blue",
+                0.7507984638214111
+            ],
+            [
+                "Elbow",
+                0.7224702835083008
+            ],
+            [
+                "Diagram",
+                0.717319130897522
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4: The AngleSelect Teleport uses a parabola visualiza-\ntion to show the user the target position. Further it uses an \norientation indicator that lets the user select the orientation \nthat the user is facing after the teleport. \n",
+        "image_labels": [
+            [
+                "Azure",
+                0.894435703754425
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8320570588111877
+            ],
+            [
+                "Audio equipment",
+                0.7899047136306763
+            ],
+            [
+                "Elbow",
+                0.7668358683586121
+            ],
+            [
+                "Electric blue",
+                0.7624609470367432
+            ],
+            [
+                "Circle",
+                0.7559229135513306
+            ],
+            [
+                "Drawing",
+                0.723723292350769
+            ],
+            [
+                "Logo",
+                0.7111050486564636
+            ],
+            [
+                "Diagram",
+                0.6891228556632996
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure 5: The Curved Teleport visualizes the trajectory of the \nteleportation in a curved line. The orientation that the user \nis facing at the target location can be infuenced by adjusting \nthe steepness of the curve. \n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Organism",
+                0.8519152402877808
+            ],
+            [
+                "Font",
+                0.8139736652374268
+            ],
+            [
+                "Circle",
+                0.7451414465904236
+            ],
+            [
+                "Art",
+                0.7326465845108032
+            ],
+            [
+                "Eyewear",
+                0.7271133661270142
+            ],
+            [
+                "Electric blue",
+                0.7254180312156677
+            ],
+            [
+                "Jewellery",
+                0.7116131782531738
+            ],
+            [
+                "Drawing",
+                0.699483335018158
+            ],
+            [
+                "Pattern",
+                0.694696307182312
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure  6:  The  visualization  of  the  HPCurved  Teleport  frst \nuses a parabola that behaves like a state-of-the-art Parabola \nTeleport, but at the high point of the parabola turns into a \nCurved Teleport that lets the users chose the target orienta-\ntion. \n",
+        "image_labels": [
+            [
+                "Head",
+                0.9722665548324585
+            ],
+            [
+                "Vertebrate",
+                0.9222733974456787
+            ],
+            [
+                "Azure",
+                0.8964107036590576
+            ],
+            [
+                "Human body",
+                0.8847887516021729
+            ],
+            [
+                "Ear",
+                0.8796480894088745
+            ],
+            [
+                "Mammal",
+                0.8553646802902222
+            ],
+            [
+                "Organism",
+                0.8543158173561096
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Finger",
+                0.8376717567443848
+            ],
+            [
+                "Audio equipment",
+                0.8276184797286987
+            ]
+        ]
+    },
+    "7": {
+        "type": "picture",
+        "caption_text": "Figure 7: We used round targets in our accuracy study. The \ndirection of the target is indicated by the green target area \nand supported by the yellow target area. The rest of the tar-\nget is colored in red indicating the wrong direction. In this \nscreenshot of our accuracy study, the participant is using the \nParabola Teleport. (Picture of participant added for clarity). \n",
+        "image_labels": [
+            [
+                "Plant",
+                0.9085065722465515
+            ],
+            [
+                "Terrestrial plant",
+                0.8616540431976318
+            ],
+            [
+                "Grass",
+                0.800166666507721
+            ],
+            [
+                "Font",
+                0.7631064653396606
+            ],
+            [
+                "Circle",
+                0.7559206485748291
+            ],
+            [
+                "Grassland",
+                0.7479420304298401
+            ],
+            [
+                "Pattern",
+                0.7405862808227539
+            ],
+            [
+                "Symmetry",
+                0.7198715209960938
+            ],
+            [
+                "Macro photography",
+                0.6871270537376404
+            ],
+            [
+                "Landscape",
+                0.6334540247917175
+            ]
+        ]
+    },
+    "8": {
+        "type": "graphic",
+        "caption_text": "Figure 8: The VE that we created as the environment for con-\nducting the study. The castle in the middle of the environ-\nment is the tutorial area, where participants can practice the \nteleportation method before starting the study. Once partic-\nipants leave the tutorial castle, it disappears and becomes a \ngreen lawn area. \n",
+        "image_labels": [
+            [
+                "Nature",
+                0.8991202116012573
+            ],
+            [
+                "Natural environment",
+                0.8951445817947388
+            ],
+            [
+                "Grass",
+                0.8541862964630127
+            ],
+            [
+                "Biome",
+                0.829093337059021
+            ],
+            [
+                "Flooring",
+                0.8257277607917786
+            ],
+            [
+                "Urban design",
+                0.7989773750305176
+            ],
+            [
+                "Landscape",
+                0.7707957625389099
+            ],
+            [
+                "Recreation",
+                0.752564013004303
+            ],
+            [
+                "Grassland",
+                0.7351412773132324
+            ],
+            [
+                "Games",
+                0.709036111831665
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9: The average angle \u03b1cor r ect ed  that was corrected by \nthe participants using each teleportation method. All error \nbars  indicate  the  standard  error.  All  conditions  are  signif-\nicantly  diferent,  except  the  two  baseline  conditions  (indi-\ncated with n.s.). \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8993205428123474
+            ],
+            [
+                "Slope",
+                0.838446855545044
+            ],
+            [
+                "Font",
+                0.8327494859695435
+            ],
+            [
+                "Plot",
+                0.789014995098114
+            ],
+            [
+                "Parallel",
+                0.7885710597038269
+            ],
+            [
+                "Diagram",
+                0.6598990559577942
+            ],
+            [
+                "Number",
+                0.6374193429946899
+            ],
+            [
+                "Circle",
+                0.6269213557243347
+            ],
+            [
+                "Pattern",
+                0.6110548377037048
+            ],
+            [
+                "Electric blue",
+                0.5706807374954224
+            ]
+        ]
+    },
+    "10": {
+        "type": "chart",
+        "caption_text": "Figure  10:  The  average  time  that  participants  took  to  tele-\nport tt el epor t  using each teleportation method. All error bars \nindicate the standard error. All teleportation methods were \nsignifcantly diferent, except the ones indicated with n.s. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8998561501502991
+            ],
+            [
+                "Slope",
+                0.868233323097229
+            ],
+            [
+                "Font",
+                0.8254293203353882
+            ],
+            [
+                "Plot",
+                0.8140277862548828
+            ],
+            [
+                "Parallel",
+                0.790575385093689
+            ],
+            [
+                "Diagram",
+                0.7322938442230225
+            ],
+            [
+                "Number",
+                0.5060038566589355
+            ]
+        ]
+    },
+    "11": {
+        "type": "chart",
+        "caption_text": "Figure 11: The average time that participants took to correct \ntheir position tcor r ect ed  using natural walking for each tele-\nportation method. All error bars indicate the standard error. \nThe asterisk (*) indicates a statistically signifcant diference \nbetween the teleportation methods. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8431280255317688
+            ],
+            [
+                "Parallel",
+                0.7891111969947815
+            ],
+            [
+                "Slope",
+                0.7872177958488464
+            ],
+            [
+                "Plot",
+                0.7781325578689575
+            ],
+            [
+                "Font",
+                0.7353407144546509
+            ],
+            [
+                "Diagram",
+                0.7000662684440613
+            ]
+        ]
+    },
+    "12": {
+        "type": "chart",
+        "caption_text": "Figure 12: The NASA-TLX scores of the VR locomotion tech-\nniques that were assessed in the user study. All error bars \nindicate the standard error. The asterisk (*) indicates a sig-\nnifcant diference between the locomotion techniques. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8958985209465027
+            ],
+            [
+                "Font",
+                0.8216448426246643
+            ],
+            [
+                "Parallel",
+                0.7901162505149841
+            ],
+            [
+                "Diagram",
+                0.7191669344902039
+            ],
+            [
+                "Slope",
+                0.7125576138496399
+            ],
+            [
+                "Plot",
+                0.6461506485939026
+            ],
+            [
+                "Number",
+                0.6220481395721436
+            ],
+            [
+                "Event",
+                0.5077193975448608
+            ]
+        ]
+    }
+}

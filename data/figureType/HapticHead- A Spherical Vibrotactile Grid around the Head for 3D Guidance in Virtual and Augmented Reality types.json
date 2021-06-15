@@ -1,0 +1,642 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1. Placement of actuators in HapticHead. Note the three \nconcentric ellipses around the user\u2019s head and no actuators \nclose to the ear openings. The red ellipse contains 8 equidistant \nactuators, the green and blue ellipses each contain 6 actuators.\n",
+        "image_labels": [
+            [
+                "Head",
+                0.9737352132797241
+            ],
+            [
+                "Font",
+                0.8189786076545715
+            ],
+            [
+                "Tree",
+                0.7949762940406799
+            ],
+            [
+                "Helmet",
+                0.7687395215034485
+            ],
+            [
+                "Art",
+                0.7624772191047668
+            ],
+            [
+                "Circle",
+                0.7552082538604736
+            ],
+            [
+                "Personal protective equipment",
+                0.7486701011657715
+            ],
+            [
+                "Pattern",
+                0.7319281697273254
+            ],
+            [
+                "Diagram",
+                0.7278796434402466
+            ],
+            [
+                "Automotive design",
+                0.7253246903419495
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2. First HapticHead prototype (left) and Unity scene \nview with visible targets from the outside (right). The user\u2019s \ncamera is in the center. \nWe built a simple VR environment in Unity 5.3 that spawns \n20  small  (r  =  1 m)  equidistant  spheres  on  the  surface  of  a \nlarger (r = 5 m) invisible sphere with the viewer at its center \n(see Figure 2). The spheres were distributed with pack.3.20 \ncoordinates [27]. As the user rotates the head the location of \nthe spheres stays fixed with respect to the environment. The \ntarget spheres do not coincide with the actuator positions. \n",
+        "image_labels": [
+            [
+                "White",
+                0.9218719005584717
+            ],
+            [
+                "Light",
+                0.9105889797210693
+            ],
+            [
+                "Black",
+                0.8957337141036987
+            ],
+            [
+                "Sleeve",
+                0.872448742389679
+            ],
+            [
+                "Cap",
+                0.8300276398658752
+            ],
+            [
+                "Sports gear",
+                0.8208500146865845
+            ],
+            [
+                "Line",
+                0.8186574578285217
+            ],
+            [
+                "Font",
+                0.7712194919586182
+            ],
+            [
+                "Hat",
+                0.7627410292625427
+            ],
+            [
+                "Electric blue",
+                0.7492440342903137
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3. Attention funnels with a tiny red crosshair in the \nview\u2019s center. Visual feedback from the user\u2019s perspective. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8405233025550842
+            ],
+            [
+                "Font",
+                0.8067323565483093
+            ],
+            [
+                "Circle",
+                0.7701150178909302
+            ],
+            [
+                "Symbol",
+                0.6663920879364014
+            ],
+            [
+                "Event",
+                0.6366456151008606
+            ],
+            [
+                "Astronomical object",
+                0.6200442910194397
+            ],
+            [
+                "Science",
+                0.6123109459877014
+            ],
+            [
+                "Gas",
+                0.6083904504776001
+            ],
+            [
+                "Graphics",
+                0.5650148391723633
+            ],
+            [
+                "Illustration",
+                0.5239143371582031
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5. Boxplots of completion times for all conditions  \nwith merged data from all participants. \n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Rectangle",
+                0.8974294662475586
+            ],
+            [
+                "Slope",
+                0.8909254670143127
+            ],
+            [
+                "Font",
+                0.8233310580253601
+            ],
+            [
+                "Line",
+                0.8186784982681274
+            ],
+            [
+                "Plot",
+                0.801425576210022
+            ],
+            [
+                "Parallel",
+                0.7897456884384155
+            ],
+            [
+                "Symmetry",
+                0.7775663137435913
+            ],
+            [
+                "Pattern",
+                0.7650999426841736
+            ],
+            [
+                "Circle",
+                0.7495336532592773
+            ]
+        ]
+    },
+    "7": {
+        "type": "formula",
+        "caption_text": "Figure 7. Selection time by angular distance between the start \nbox and the target center. Visual (R2 = 0.89) and vibration (R2 \n= 0.59) conditions show a linear relationship. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9102181792259216
+            ],
+            [
+                "Slope",
+                0.879021167755127
+            ],
+            [
+                "Plot",
+                0.8425995707511902
+            ],
+            [
+                "Font",
+                0.829655647277832
+            ],
+            [
+                "Line",
+                0.8168728351593018
+            ],
+            [
+                "Parallel",
+                0.7910139560699463
+            ],
+            [
+                "Circle",
+                0.7643207311630249
+            ],
+            [
+                "Pattern",
+                0.7496230006217957
+            ],
+            [
+                "Number",
+                0.7118692398071289
+            ],
+            [
+                "Symmetry",
+                0.6741267442703247
+            ]
+        ]
+    },
+    "8": {
+        "type": "formula",
+        "caption_text": "Figure  8.  Selection  time  by yaw (horizontal  heading)  distance \nbetween the start box and the target center. Visual (R2 = 0.86) \nand  vibrotactile  (R2 =  0.72)  conditions  show  a  linear  relation-\nship. The auditory condition is slow with targets in front of and \nbehind the user. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8964676856994629
+            ],
+            [
+                "Slope",
+                0.8710062503814697
+            ],
+            [
+                "Font",
+                0.8249192833900452
+            ],
+            [
+                "Parallel",
+                0.7905889749526978
+            ],
+            [
+                "Circle",
+                0.7667551636695862
+            ],
+            [
+                "Pattern",
+                0.7322621941566467
+            ],
+            [
+                "Symmetry",
+                0.7167966365814209
+            ],
+            [
+                "Number",
+                0.7075650691986084
+            ],
+            [
+                "Plot",
+                0.6536111235618591
+            ],
+            [
+                "Diagram",
+                0.6500937938690186
+            ]
+        ]
+    },
+    "11": {
+        "type": "formula",
+        "caption_text": "Figure 11. Average learning effect - success rate. Merged data, \nall participants. Curves: Gaussian weighted moving average \n(width=3, blue=visual, green=vibrotactile, red=auditory). \nFigure 11 shows the success rates over time. In the auditory \ncondition, participants had a steep learning curve, which flat-\ntens after trial 40 but still shows a high variance compared to \nthe other conditions. Despite the fact that participants learned \nto be a lot faster after trial 65 in the auditory condition, the \nsuccess rate did not drop but even increased a bit. In the vi-\nbrotactile condition, participants needed less than 15 trials to \naccommodate  themselves  with  this  new  form  of  feedback. \nAfter the first few trials, the success rate curve for vibrotac-\ntile feedback flattens and stays close to 97% without much \nvariance or measurable fatigue effects. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9049486517906189
+            ],
+            [
+                "Slope",
+                0.8928356766700745
+            ],
+            [
+                "Plot",
+                0.8828359246253967
+            ],
+            [
+                "Font",
+                0.8338995575904846
+            ],
+            [
+                "Line",
+                0.821917712688446
+            ],
+            [
+                "Parallel",
+                0.7907304763793945
+            ],
+            [
+                "Circle",
+                0.7770752906799316
+            ],
+            [
+                "Pattern",
+                0.7649105787277222
+            ],
+            [
+                "Diagram",
+                0.7311697006225586
+            ],
+            [
+                "Symmetry",
+                0.7167305946350098
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9. Average learning effect \u2013 time. Merged data, all par-\nticipants. Curves: Gaussian weighted moving average \n(width=3, blue=visual, green=vibrotactile, red=auditory). \nand below the plane and roughly has a parabola shape. The \nvisual and vibrotactile conditions do not exhibit this effect. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9041861891746521
+            ],
+            [
+                "Slope",
+                0.8946068286895752
+            ],
+            [
+                "Plot",
+                0.878681480884552
+            ],
+            [
+                "Organism",
+                0.8660969138145447
+            ],
+            [
+                "Line",
+                0.8241085410118103
+            ],
+            [
+                "Font",
+                0.8232234716415405
+            ],
+            [
+                "Parallel",
+                0.7908974289894104
+            ],
+            [
+                "Circle",
+                0.7776700854301453
+            ],
+            [
+                "Pattern",
+                0.7713747620582581
+            ],
+            [
+                "Symmetry",
+                0.7475656270980835
+            ]
+        ]
+    },
+    "10": {
+        "type": "diagram",
+        "caption_text": "Figure 10. Qualitative results of Experiment 1. Diverging stacked bar chart: scales in percent, and absolute values on bars.  \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8361083269119263
+            ],
+            [
+                "Font",
+                0.8324079513549805
+            ],
+            [
+                "Slope",
+                0.7909799218177795
+            ],
+            [
+                "Parallel",
+                0.7793390154838562
+            ],
+            [
+                "Number",
+                0.6736416220664978
+            ],
+            [
+                "Screenshot",
+                0.6170739531517029
+            ],
+            [
+                "Document",
+                0.5451603531837463
+            ],
+            [
+                "Circle",
+                0.5395969152450562
+            ],
+            [
+                "Event",
+                0.5334548354148865
+            ]
+        ]
+    },
+    "14": {
+        "type": "diagram",
+        "caption_text": "Figure 14. Intensity cal-\nculation visualization. \n",
+        "image_labels": [
+            [
+                "Slope",
+                0.880928635597229
+            ],
+            [
+                "Triangle",
+                0.8466769456863403
+            ],
+            [
+                "Font",
+                0.8273366093635559
+            ],
+            [
+                "Rectangle",
+                0.8165213465690613
+            ],
+            [
+                "Parallel",
+                0.7897387742996216
+            ],
+            [
+                "Symmetry",
+                0.7425198554992676
+            ],
+            [
+                "Pattern",
+                0.7399160265922546
+            ],
+            [
+                "Circle",
+                0.728238046169281
+            ],
+            [
+                "Diagram",
+                0.724463701248169
+            ],
+            [
+                "Electric blue",
+                0.5942518711090088
+            ]
+        ]
+    },
+    "12": {
+        "type": "human",
+        "caption_text": "Figure 12. Second, refined HapticHead prototype, side and \nfront view. Notice actuators located on the outside, the flexible \nchinstrap, and five instead of three actuators on each, the fore-\nhead and chinstrap. Positions of the 10 forehead and chin ac-\ntuators forming a \u201cring\u201d around the face are marked in red. \n",
+        "image_labels": [
+            [
+                "Sports gear",
+                0.9331272840499878
+            ],
+            [
+                "Cap",
+                0.905044674873352
+            ],
+            [
+                "Gesture",
+                0.85260409116745
+            ],
+            [
+                "Eyewear",
+                0.8450428247451782
+            ],
+            [
+                "Audio equipment",
+                0.8216565251350403
+            ],
+            [
+                "Eyelash",
+                0.818065345287323
+            ],
+            [
+                "Headgear",
+                0.809191882610321
+            ],
+            [
+                "Gadget",
+                0.7941692471504211
+            ],
+            [
+                "Peripheral",
+                0.7867414951324463
+            ],
+            [
+                "Personal protective equipment",
+                0.7696819305419922
+            ]
+        ]
+    },
+    "13": {
+        "type": "diagram",
+        "caption_text": "Figure 13. Side and front view of modeled actuator positions. \nDoes not fit perfectly due to arbitrary size and asymmetries of \nthe Styrofoam head. The refined guidance algorithm uses trian-\ngles between actuators, including a virtual point zero (in green) \nbetween the eyes. \n",
+        "image_labels": [
+            [
+                "Automotive design",
+                0.8802933692932129
+            ],
+            [
+                "Triangle",
+                0.8670969605445862
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.802950918674469
+            ],
+            [
+                "Symmetry",
+                0.7715421319007874
+            ],
+            [
+                "Electric blue",
+                0.7566586136817932
+            ],
+            [
+                "Circle",
+                0.7517935037612915
+            ],
+            [
+                "Ball",
+                0.7460193037986755
+            ],
+            [
+                "Diagram",
+                0.7271143198013306
+            ],
+            [
+                "Pattern",
+                0.7268312573432922
+            ]
+        ]
+    },
+    "15": {
+        "type": "table",
+        "caption_text": "Figure 15. Qualitative results of Experiments 2 and 3. Diverging stacked bar chart: scales in percent, and absolute values on bars. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9077127575874329
+            ],
+            [
+                "Rectangle",
+                0.8990578055381775
+            ],
+            [
+                "Slope",
+                0.8519187569618225
+            ],
+            [
+                "Font",
+                0.8274939060211182
+            ],
+            [
+                "Parallel",
+                0.7893218398094177
+            ],
+            [
+                "Number",
+                0.7062123417854309
+            ],
+            [
+                "Circle",
+                0.7002363801002502
+            ],
+            [
+                "Screenshot",
+                0.6767584681510925
+            ],
+            [
+                "Diagram",
+                0.6605086326599121
+            ],
+            [
+                "Pattern",
+                0.5507618188858032
+            ]
+        ]
+    },
+    "16": {
+        "type": "picture",
+        "caption_text": "Figure 16. 10 items for Experiment 3. From left to right (height): Three boo\n(1.7 m, 6 cm diameter), a screwdriver (0.8 m), a remote control (1.4 m) and \n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.8394062519073486
+            ],
+            [
+                "Machine",
+                0.7155078053474426
+            ],
+            [
+                "Event",
+                0.6593191027641296
+            ],
+            [
+                "Circle",
+                0.6139622330665588
+            ],
+            [
+                "Font",
+                0.6077935695648193
+            ],
+            [
+                "Balance",
+                0.6045665144920349
+            ],
+            [
+                "Toy",
+                0.5725024342536926
+            ],
+            [
+                "Metal",
+                0.5677504539489746
+            ],
+            [
+                "Illustration",
+                0.5172373056411743
+            ],
+            [
+                "Pole",
+                0.5145601630210876
+            ]
+        ]
+    }
+}

@@ -1,0 +1,354 @@
+{
+    "1": {
+        "type": "chart",
+        "caption_text": "Figure 1. A person in Virtual Reality, using their feet for teleportation while simultaneously using their hands for interaction. \n",
+        "image_labels": [
+            [
+                "Vertebrate",
+                0.9257681369781494
+            ],
+            [
+                "Azure",
+                0.8924543857574463
+            ],
+            [
+                "Mammal",
+                0.8596068024635315
+            ],
+            [
+                "Font",
+                0.833152711391449
+            ],
+            [
+                "Art",
+                0.8106645345687866
+            ],
+            [
+                "Landscape",
+                0.7269275784492493
+            ],
+            [
+                "Grass",
+                0.7084240913391113
+            ],
+            [
+                "Graphics",
+                0.6901784539222717
+            ],
+            [
+                "Design",
+                0.6837745308876038
+            ],
+            [
+                "Screenshot",
+                0.66063392162323
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2.  Illustration of the different direction input methods.  a) inter \nfeet direction b) foot direction c) Point and lean \n",
+        "image_labels": [
+            [
+                "Audio equipment",
+                0.8530330657958984
+            ],
+            [
+                "Font",
+                0.8274636268615723
+            ],
+            [
+                "Circle",
+                0.7699599266052246
+            ],
+            [
+                "Technology",
+                0.7456854581832886
+            ],
+            [
+                "Electronic device",
+                0.7344152927398682
+            ],
+            [
+                "Diagram",
+                0.7344081997871399
+            ],
+            [
+                "Cylinder",
+                0.7320550680160522
+            ],
+            [
+                "Magenta",
+                0.6927450895309448
+            ],
+            [
+                "Brand",
+                0.6891021728515625
+            ],
+            [
+                "Graphics",
+                0.6889597177505493
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3. Illustration of the different distance input methods. a) forefoot \nlift b) inter feet distance c) intra foot pressure \n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8180899024009705
+            ],
+            [
+                "Material property",
+                0.8012195825576782
+            ],
+            [
+                "Auto part",
+                0.7570085525512695
+            ],
+            [
+                "Tool",
+                0.739613950252533
+            ],
+            [
+                "Logo",
+                0.7256051301956177
+            ],
+            [
+                "Circle",
+                0.7252715229988098
+            ],
+            [
+                "Magenta",
+                0.7005505561828613
+            ],
+            [
+                "Graphics",
+                0.6950289607048035
+            ],
+            [
+                "Design",
+                0.6824396848678589
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4.  The inside of our prototype with two visible sensors (left), the \ntop sole with the four pins (middle) and an example of how the prototype \nis worn (right) \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9076257348060608
+            ],
+            [
+                "Gesture",
+                0.8525165319442749
+            ],
+            [
+                "Finger",
+                0.8222220540046692
+            ],
+            [
+                "Font",
+                0.7670162320137024
+            ],
+            [
+                "Auto part",
+                0.7482326626777649
+            ],
+            [
+                "Bicycle part",
+                0.7389452457427979
+            ],
+            [
+                "Personal protective equipment",
+                0.6962863802909851
+            ],
+            [
+                "Composite material",
+                0.6751372814178467
+            ],
+            [
+                "Fashion accessory",
+                0.6686020493507385
+            ],
+            [
+                "Tool",
+                0.6676442623138428
+            ]
+        ]
+    },
+    "5": {
+        "type": "graphic",
+        "caption_text": "Figure 5. Screenshot of our testing environment, showing a target and a \nteleport being performed. \n",
+        "image_labels": [
+            [
+                "Ecoregion",
+                0.9286512732505798
+            ],
+            [
+                "Green",
+                0.9159170389175415
+            ],
+            [
+                "Leaf",
+                0.9020434617996216
+            ],
+            [
+                "Natural environment",
+                0.8889951109886169
+            ],
+            [
+                "Grass",
+                0.8415098786354065
+            ],
+            [
+                "Biome",
+                0.8383607864379883
+            ],
+            [
+                "Grassland",
+                0.8149172067642212
+            ],
+            [
+                "Screenshot",
+                0.8135669231414795
+            ],
+            [
+                "Landscape",
+                0.8123259544372559
+            ],
+            [
+                "Fun",
+                0.7661017775535583
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure 6. Error in position, measured between the target center and the \nparticipants\u2019 active foot. \n",
+        "image_labels": [
+            [
+                "Plot",
+                0.8507649302482605
+            ],
+            [
+                "Slope",
+                0.8423139452934265
+            ],
+            [
+                "Rectangle",
+                0.8411558866500854
+            ],
+            [
+                "Font",
+                0.8340524435043335
+            ],
+            [
+                "Parallel",
+                0.7719720602035522
+            ],
+            [
+                "Diagram",
+                0.6589106917381287
+            ]
+        ]
+    },
+    "7": {
+        "type": "chart",
+        "caption_text": "Figure 7. Ef\ufb01ciency and convenience metric of all presented input modalities including point & teleport as baseline. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8750251531600952
+            ],
+            [
+                "Plot",
+                0.8439908623695374
+            ],
+            [
+                "Font",
+                0.8284995555877686
+            ],
+            [
+                "Material property",
+                0.801041841506958
+            ],
+            [
+                "Slope",
+                0.7914323210716248
+            ],
+            [
+                "Parallel",
+                0.7723693251609802
+            ],
+            [
+                "Diagram",
+                0.6506929397583008
+            ],
+            [
+                "Number",
+                0.5634360909461975
+            ],
+            [
+                "Electric blue",
+                0.5553346276283264
+            ],
+            [
+                "Brand",
+                0.5275543928146362
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8. The results of our custom questionnaire on a 5-point Likert scale (1:fully disagree, 5:fully agree, percentage of answers) \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.906853973865509
+            ],
+            [
+                "Slope",
+                0.8847343921661377
+            ],
+            [
+                "Font",
+                0.8386555314064026
+            ],
+            [
+                "Parallel",
+                0.7888901829719543
+            ],
+            [
+                "Pattern",
+                0.7738891839981079
+            ],
+            [
+                "Circle",
+                0.742651104927063
+            ],
+            [
+                "Number",
+                0.730984628200531
+            ],
+            [
+                "Screenshot",
+                0.722261905670166
+            ],
+            [
+                "Plot",
+                0.7131587862968445
+            ],
+            [
+                "Design",
+                0.6836384534835815
+            ]
+        ]
+    }
+}

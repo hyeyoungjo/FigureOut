@@ -1,0 +1,232 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1.  The FaceHaptics system, showing a side and frontal view of the setup for face haptic feedback, affording various sensations including touch, \ntexture, warmth, air \ufb02ow, or wetness. The left image depict one of many possible touch/texture feedback elements, which can easily be exchanged. \n",
+        "image_labels": [
+            [
+                "Automotive design",
+                0.8547182679176331
+            ],
+            [
+                "Video camera",
+                0.8234513998031616
+            ],
+            [
+                "Camera lens",
+                0.7819650769233704
+            ],
+            [
+                "Cameras & optics",
+                0.7587998509407043
+            ],
+            [
+                "Gadget",
+                0.7463324666023254
+            ],
+            [
+                "Digital camera",
+                0.7345736026763916
+            ],
+            [
+                "Camera accessory",
+                0.7305199503898621
+            ],
+            [
+                "Engineering",
+                0.7233012914657593
+            ],
+            [
+                "Machine",
+                0.7216558456420898
+            ],
+            [
+                "Automotive lighting",
+                0.7203922867774963
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure  2.  System  overview:  elements  of  the  robot  arm  with  different \nfeedback  elements.  The  close  up  shows  a  frontal  view  of  lower  robot \narm  with  fan,  heat  wire  in  front  of  fan,  and  spray  nozzle.  The  blue \noverlay over the face shows the approximate area that can be reached \nusing touch events (wind can be sensed over the whole face). \n",
+        "image_labels": [
+            [
+                "Cameras & optics",
+                0.7486012578010559
+            ],
+            [
+                "Technology",
+                0.7459440231323242
+            ],
+            [
+                "Camera accessory",
+                0.7437008023262024
+            ],
+            [
+                "Machine",
+                0.7393130660057068
+            ],
+            [
+                "Auto part",
+                0.7374451160430908
+            ],
+            [
+                "Recreation",
+                0.7286893129348755
+            ],
+            [
+                "Science",
+                0.7005692720413208
+            ],
+            [
+                "Engineering",
+                0.6986741423606873
+            ],
+            [
+                "Font",
+                0.6640377640724182
+            ],
+            [
+                "Optical instrument",
+                0.6507757902145386
+            ]
+        ]
+    },
+    "3": {
+        "type": "table",
+        "caption_text": "Figure 3. Mean performance for the different conditions, averaged over \nthe two repetitions. Gray dots indicate participant mean data, whiskers \nindicate 95% con\ufb01dence intervals. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.82309490442276
+            ],
+            [
+                "Line",
+                0.8167973160743713
+            ],
+            [
+                "Material property",
+                0.8013691902160645
+            ],
+            [
+                "Parallel",
+                0.7749306559562683
+            ],
+            [
+                "Pattern",
+                0.715070366859436
+            ],
+            [
+                "Number",
+                0.7055527567863464
+            ],
+            [
+                "Rectangle",
+                0.6689159870147705
+            ],
+            [
+                "Slope",
+                0.6169808506965637
+            ],
+            [
+                "Circle",
+                0.5476232171058655
+            ],
+            [
+                "Symmetry",
+                0.5229621529579163
+            ]
+        ]
+    },
+    "4": {
+        "type": "graphic",
+        "caption_text": "Figure 4.  Feedback elements with sample events: ventilator depicts fan, \nwire for heat, leaf is the rubber tip and spray the water-air spray. \n",
+        "image_labels": [
+            [
+                "Water resources",
+                0.9511525630950928
+            ],
+            [
+                "World",
+                0.9274754524230957
+            ],
+            [
+                "Ecoregion",
+                0.926468551158905
+            ],
+            [
+                "Plant",
+                0.9261844158172607
+            ],
+            [
+                "Mountain",
+                0.9159011244773865
+            ],
+            [
+                "Sky",
+                0.9141705632209778
+            ],
+            [
+                "Natural landscape",
+                0.9012359380722046
+            ],
+            [
+                "Natural environment",
+                0.8888018727302551
+            ],
+            [
+                "Organism",
+                0.861559271812439
+            ],
+            [
+                "Travel",
+                0.8512662649154663
+            ]
+        ]
+    },
+    "5": {
+        "type": "human",
+        "caption_text": "Figure 5.  Adding biting functionality to FaceHaptics - showing the po-\ntential of extensibility, but also the limitations regarding reloading. \n",
+        "image_labels": [
+            [
+                "Hearing",
+                0.8633168339729309
+            ],
+            [
+                "Eyewear",
+                0.8189208507537842
+            ],
+            [
+                "Audio equipment",
+                0.8048684597015381
+            ],
+            [
+                "Video camera",
+                0.7902205586433411
+            ],
+            [
+                "Camera accessory",
+                0.7658557295799255
+            ],
+            [
+                "Electronic device",
+                0.7348485589027405
+            ],
+            [
+                "Smile",
+                0.7270397543907166
+            ],
+            [
+                "Throat",
+                0.6996923089027405
+            ],
+            [
+                "Cameras & optics",
+                0.6961688995361328
+            ],
+            [
+                "Hat",
+                0.680025041103363
+            ]
+        ]
+    }
+}

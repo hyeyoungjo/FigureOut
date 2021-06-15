@@ -1,0 +1,312 @@
+{
+    "1": {
+        "type": "graphic",
+        "caption_text": "Figure 1: We use physical jumps to augment locomotion in VR, by applying a scaling factor to extend the natural jumping parabola \nby forward motion (a). The range of the previous jump is indicated to users by a radius indicator (b). We compared this scaled \njumping to a teleportation baseline (c). \n",
+        "image_labels": [
+            [
+                "Ecoregion",
+                0.9238089323043823
+            ],
+            [
+                "World",
+                0.8978090286254883
+            ],
+            [
+                "Mountain",
+                0.8880521655082703
+            ],
+            [
+                "Sky",
+                0.8791542649269104
+            ],
+            [
+                "Terrain",
+                0.8136762380599976
+            ],
+            [
+                "Landscape",
+                0.7856094837188721
+            ],
+            [
+                "Screenshot",
+                0.7781705856323242
+            ],
+            [
+                "Formation",
+                0.7521840929985046
+            ],
+            [
+                "Aeolian landform",
+                0.7486975789070129
+            ],
+            [
+                "Natural landscape",
+                0.7470699548721313
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2:  Topviews of the course (a) in the main study (all conditions except forward-jumping) and (b) the smaller second \ncourse used only for the forward-jumping condition. The brown blocks in the main-study course were checkpoints; upon falling, \nparticipants were re-set to the last passed checkpoint. \n",
+        "image_labels": [
+            [
+                "Brown",
+                0.9804678559303284
+            ],
+            [
+                "Amber",
+                0.9146633744239807
+            ],
+            [
+                "Orange",
+                0.8835762739181519
+            ],
+            [
+                "Art",
+                0.8612396717071533
+            ],
+            [
+                "Wood",
+                0.8523610830307007
+            ],
+            [
+                "Font",
+                0.8429474830627441
+            ],
+            [
+                "Tints and shades",
+                0.773528516292572
+            ],
+            [
+                "Pattern",
+                0.7363719940185547
+            ],
+            [
+                "Graphics",
+                0.6979419589042664
+            ],
+            [
+                "Visual arts",
+                0.6897138357162476
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3: The different scaled jumping conditions in comparison, visualizing the range of each scaling for an average jump on the \nyellow square to the left. \n",
+        "image_labels": [
+            [
+                "Bird",
+                0.889552116394043
+            ],
+            [
+                "Wood",
+                0.8884278535842896
+            ],
+            [
+                "Guitar accessory",
+                0.8871417045593262
+            ],
+            [
+                "Orange",
+                0.8761263489723206
+            ],
+            [
+                "Musical instrument",
+                0.8585925698280334
+            ],
+            [
+                "Font",
+                0.8355407118797302
+            ],
+            [
+                "Slope",
+                0.8337861895561218
+            ],
+            [
+                "Line",
+                0.8158063292503357
+            ],
+            [
+                "Art",
+                0.7885511517524719
+            ],
+            [
+                "Tints and shades",
+                0.7680662274360657
+            ]
+        ]
+    },
+    "4": {
+        "type": "human",
+        "caption_text": "Figure 4:  The main states the system is able to detect:  On-\nGround (a), KneesBent (b), Rising/Falling (c), Landing (d). \nThe dashed line symbolises the measured baseline. \n",
+        "image_labels": [
+            [
+                "Clothing",
+                0.9870709776878357
+            ],
+            [
+                "Jeans",
+                0.9784554243087769
+            ],
+            [
+                "Joint",
+                0.9749809503555298
+            ],
+            [
+                "Trousers",
+                0.9685220718383789
+            ],
+            [
+                "Photograph",
+                0.941363513469696
+            ],
+            [
+                "Human",
+                0.8972949981689453
+            ],
+            [
+                "Fashion",
+                0.8881769776344299
+            ],
+            [
+                "Sleeve",
+                0.8724502921104431
+            ],
+            [
+                "Standing",
+                0.8642165660858154
+            ],
+            [
+                "T-shirt",
+                0.8417878150939941
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5: Immersion, interest/enjoyment, and presence were rated higher for the scaled jumping conditions than compared to \nare highlighted with \u2217 (p<.05), \u2217\u2217 (p<.01) \nteleportation (and largely also compared to forward-jumping). Signi\ufb01cant differences \nand \u2217 \u2217 \u2217 (p<.001). \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9077324867248535
+            ],
+            [
+                "Rectangle",
+                0.8470295667648315
+            ],
+            [
+                "Line",
+                0.817365825176239
+            ],
+            [
+                "Font",
+                0.7963932156562805
+            ],
+            [
+                "Parallel",
+                0.7830069065093994
+            ],
+            [
+                "Slope",
+                0.7428264021873474
+            ],
+            [
+                "Diagram",
+                0.7260850667953491
+            ],
+            [
+                "Pattern",
+                0.7032671570777893
+            ],
+            [
+                "Number",
+                0.6415496468544006
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure 6: Results of participants\u2019 most preferred condition. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9093595743179321
+            ],
+            [
+                "Slope",
+                0.8827774524688721
+            ],
+            [
+                "Font",
+                0.8393057584762573
+            ],
+            [
+                "Parallel",
+                0.7910302877426147
+            ],
+            [
+                "Diagram",
+                0.733078122138977
+            ],
+            [
+                "Pattern",
+                0.7160010933876038
+            ],
+            [
+                "Design",
+                0.68265700340271
+            ],
+            [
+                "Plot",
+                0.6550886631011963
+            ],
+            [
+                "Number",
+                0.601510763168335
+            ]
+        ]
+    },
+    "7": {
+        "type": "chart",
+        "caption_text": "Figure 7: Comfort with HMD. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9073670506477356
+            ],
+            [
+                "Rectangle",
+                0.884666919708252
+            ],
+            [
+                "Font",
+                0.8222250938415527
+            ],
+            [
+                "Line",
+                0.8166405558586121
+            ],
+            [
+                "Parallel",
+                0.7829168438911438
+            ],
+            [
+                "Slope",
+                0.7643537521362305
+            ],
+            [
+                "Diagram",
+                0.7077822089195251
+            ],
+            [
+                "Pattern",
+                0.7006317973136902
+            ],
+            [
+                "Number",
+                0.6899994015693665
+            ]
+        ]
+    }
+}

@@ -1,0 +1,550 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1.  a:  PoCoPo is a handheld pin-based shape display that has 18 pins on two opposite faces of the device (36 pins in total).  The display area \nwhere the pins move up and down touch the user\u2019s \ufb01ngers and palm base.  By controlling the length of the 36 pins, PoCoPo can render various shapes, \nincluding rectangular and curved shapes (e.g., b-1 and b-2 show a user holding a glass).  Moreover, PoCoPo can render dynamic transformations of \ngraspable objects (e.g., c-1 and c-2 show the pins moving up and down to represent the heartbeat of a small animal). \n",
+        "image_labels": [
+            [
+                "Green",
+                0.9362819194793701
+            ],
+            [
+                "Circuit component",
+                0.925801157951355
+            ],
+            [
+                "Passive circuit component",
+                0.9215621948242188
+            ],
+            [
+                "Hardware programmer",
+                0.8642051815986633
+            ],
+            [
+                "Gesture",
+                0.8492681384086609
+            ],
+            [
+                "Gadget",
+                0.8413052558898926
+            ],
+            [
+                "Finger",
+                0.8375265002250671
+            ],
+            [
+                "Electronic engineering",
+                0.8210797905921936
+            ],
+            [
+                "Computer hardware",
+                0.8106432557106018
+            ],
+            [
+                "Thumb",
+                0.7984017133712769
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2. Top and side views with the dimensions of PoCoPo. \n",
+        "image_labels": [
+            [
+                "Circuit component",
+                0.9282323718070984
+            ],
+            [
+                "Light",
+                0.9114211201667786
+            ],
+            [
+                "Passive circuit component",
+                0.9104744791984558
+            ],
+            [
+                "Hardware programmer",
+                0.8661223649978638
+            ],
+            [
+                "Electronic instrument",
+                0.856656551361084
+            ],
+            [
+                "Electrical wiring",
+                0.840927004814148
+            ],
+            [
+                "Electronic component",
+                0.8403535485267639
+            ],
+            [
+                "Line",
+                0.8220731616020203
+            ],
+            [
+                "Electronic engineering",
+                0.819633424282074
+            ],
+            [
+                "Font",
+                0.8044759631156921
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3. Worm gear mechanism used to change the force direction and \nincrease the power. By actuating the worm gear (blue: worm, red: worm \nwheel with lead screw) by a DC motor (black), the pin moves with up-\ndown motion. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9072244763374329
+            ],
+            [
+                "Line",
+                0.8244226574897766
+            ],
+            [
+                "Font",
+                0.7846487760543823
+            ],
+            [
+                "Office supplies",
+                0.783362627029419
+            ],
+            [
+                "Audio equipment",
+                0.7614244222640991
+            ],
+            [
+                "Electronic device",
+                0.7482654452323914
+            ],
+            [
+                "Parallel",
+                0.7363636493682861
+            ],
+            [
+                "Magenta",
+                0.6575364470481873
+            ],
+            [
+                "Cable",
+                0.6483615040779114
+            ],
+            [
+                "Rectangle",
+                0.636529266834259
+            ]
+        ]
+    },
+    "4": {
+        "type": "graphic",
+        "caption_text": "Figure 4. Variations in pin length depending on their position: 3, 9, and \n14 mm. A rendered CG image of the worm gear mechanism is overlaid. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8655662536621094
+            ],
+            [
+                "Wood",
+                0.8314287066459656
+            ],
+            [
+                "Gas",
+                0.7804561853408813
+            ],
+            [
+                "Water",
+                0.7757236957550049
+            ],
+            [
+                "Recreation",
+                0.7297735214233398
+            ],
+            [
+                "Font",
+                0.7125588655471802
+            ],
+            [
+                "Sport venue",
+                0.6953444480895996
+            ],
+            [
+                "Sports",
+                0.6943094730377197
+            ],
+            [
+                "Games",
+                0.6222302913665771
+            ],
+            [
+                "Pipe",
+                0.6034553647041321
+            ]
+        ]
+    },
+    "6": {
+        "type": "diagram",
+        "caption_text": "Figure  6.  Shape  surface  represented  by  the  blue  areas  (a  circle  here). \nEach pin length is determined so that the midpoint on the outer edge of \neach pin is close to the surface of the target shape. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8363858461380005
+            ],
+            [
+                "Line",
+                0.8183905482292175
+            ],
+            [
+                "Slope",
+                0.8003448247909546
+            ],
+            [
+                "Parallel",
+                0.7752552032470703
+            ],
+            [
+                "Rectangle",
+                0.7691381573677063
+            ],
+            [
+                "Diagram",
+                0.7178423404693604
+            ],
+            [
+                "Asphalt",
+                0.7043876051902771
+            ],
+            [
+                "Circle",
+                0.7002005577087402
+            ],
+            [
+                "Illustration",
+                0.6879450678825378
+            ],
+            [
+                "Brand",
+                0.6733909845352173
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure  5.  Overview  of  the  software  and  hardware  architecture  of \nPoCoPo.  Four  types  of  custom  two-layer  PCBs  were  designed  for \nPoCoPo.  The microcontroller (Teensy 3.6) and a Bluetooth module are \nattached  to  the  main  board.  The  motor  driver  board  is  connected  to \nthe main board via I2C. The board with two multiplexers (multiplexer \nboard)  is  used  to  switch  the  optical  encoders  to  read  by  time  division. \nThe  encoder  board  is  placed  at  the  bottom  of  the  pin  to  measure  the \nlength of its extrusion. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8981539607048035
+            ],
+            [
+                "Font",
+                0.834922194480896
+            ],
+            [
+                "Slope",
+                0.8064399361610413
+            ],
+            [
+                "Parallel",
+                0.7903230786323547
+            ],
+            [
+                "Pattern",
+                0.7532783150672913
+            ],
+            [
+                "Diagram",
+                0.7456326484680176
+            ],
+            [
+                "Schematic",
+                0.7404786944389343
+            ],
+            [
+                "Number",
+                0.6962156891822815
+            ],
+            [
+                "Plan",
+                0.6375077962875366
+            ],
+            [
+                "Document",
+                0.5553650259971619
+            ]
+        ]
+    },
+    "7": {
+        "type": "picture",
+        "caption_text": "Figure 7.  Example applications of PoCoPo regarding the rendering of \nstatic objects.  The user can freely hold a:  a glass (linear surface), b:  a \nmatryoshka  (convex  surface),  or  c:  a  trophy  (concave  surface)  on  the \ntable in VR. \n",
+        "image_labels": [
+            [
+                "Green",
+                0.9315890669822693
+            ],
+            [
+                "Circuit component",
+                0.9155359864234924
+            ],
+            [
+                "Product",
+                0.9076728820800781
+            ],
+            [
+                "Sleeve",
+                0.872341513633728
+            ],
+            [
+                "Orange",
+                0.8611188530921936
+            ],
+            [
+                "Finger",
+                0.8528972864151001
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8451207876205444
+            ],
+            [
+                "Hardware programmer",
+                0.8201496005058289
+            ],
+            [
+                "Electronic component",
+                0.7906814217567444
+            ]
+        ]
+    },
+    "9": {
+        "type": "human",
+        "caption_text": "Figure 9.  Example setup of Study 1.  The image on the right side shows \nhow the paricipant held the device. \n",
+        "image_labels": [
+            [
+                "Sleeve",
+                0.8722980618476868
+            ],
+            [
+                "Table",
+                0.8662819266319275
+            ],
+            [
+                "Eyelash",
+                0.813837468624115
+            ],
+            [
+                "Technology",
+                0.7423504590988159
+            ],
+            [
+                "T-shirt",
+                0.724275529384613
+            ],
+            [
+                "Machine",
+                0.7184276580810547
+            ],
+            [
+                "Eyewear",
+                0.6996660828590393
+            ],
+            [
+                "Fashion design",
+                0.6915125250816345
+            ],
+            [
+                "Science",
+                0.6666773557662964
+            ],
+            [
+                "Room",
+                0.6371193528175354
+            ]
+        ]
+    },
+    "10": {
+        "type": "picture",
+        "caption_text": "Figure 10. Shapes used in the shape prediction study. The images at the \nbottom show examples of how the shapes appeared when rendered by \nPoCoPo. \n",
+        "image_labels": [
+            [
+                "White",
+                0.9218742847442627
+            ],
+            [
+                "Light",
+                0.9113827347755432
+            ],
+            [
+                "Product",
+                0.9085984826087952
+            ],
+            [
+                "Font",
+                0.8342732191085815
+            ],
+            [
+                "Line",
+                0.8236969709396362
+            ],
+            [
+                "Automotive lighting",
+                0.7101022601127625
+            ],
+            [
+                "Wood",
+                0.7008893489837646
+            ],
+            [
+                "Circle",
+                0.6927005052566528
+            ],
+            [
+                "Vehicle",
+                0.6848682761192322
+            ],
+            [
+                "Logo",
+                0.6761912107467651
+            ]
+        ]
+    },
+    "8": {
+        "type": "picture",
+        "caption_text": "Figure 8.  Example applications of PoCoPo regarding the rendering of \ndynamic objects. The user can freely hold animals in VR. a: Popping up \nof the pins when holding a hedgehog.  b:  Expanding or shrinking of the \ndevice representing hamster pulse. c: Movement of the pins correspond-\ning to the movement of a snake. \n",
+        "image_labels": [
+            [
+                "Light",
+                0.9112200736999512
+            ],
+            [
+                "Product",
+                0.9077101945877075
+            ],
+            [
+                "Green",
+                0.9014134407043457
+            ],
+            [
+                "Plant",
+                0.8805818557739258
+            ],
+            [
+                "Font",
+                0.830061137676239
+            ],
+            [
+                "Line",
+                0.8240455389022827
+            ],
+            [
+                "Circuit component",
+                0.8203281164169312
+            ],
+            [
+                "Terrestrial plant",
+                0.8125395178794861
+            ],
+            [
+                "Adaptation",
+                0.7928423285484314
+            ],
+            [
+                "Electronic component",
+                0.7719523310661316
+            ]
+        ]
+    },
+    "11": {
+        "type": "table",
+        "caption_text": "Figure  11.  Confusion  matrix  summarizing  the  results  from  the  shape \nprediction study (N=10). Each row shows the total number of predicted \nobjects in the \ufb01nal two sets of the study. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8109411001205444
+            ],
+            [
+                "Circle",
+                0.7502935528755188
+            ],
+            [
+                "Parallel",
+                0.7493372559547424
+            ],
+            [
+                "Pattern",
+                0.739018440246582
+            ],
+            [
+                "Electric blue",
+                0.7202494740486145
+            ],
+            [
+                "Number",
+                0.6835469007492065
+            ],
+            [
+                "Square",
+                0.5496750473976135
+            ],
+            [
+                "Rectangle",
+                0.5295807123184204
+            ],
+            [
+                "Slope",
+                0.5013837218284607
+            ]
+        ]
+    },
+    "12": {
+        "type": "picture",
+        "caption_text": "Figure 12.  Shapes used in the visual size acceptance range study.  The \nimages at the bottom show examples of how the shapes appeared when \nrendered by PoCoPo. \n",
+        "image_labels": [
+            [
+                "Light",
+                0.91168612241745
+            ],
+            [
+                "Product",
+                0.9083662629127502
+            ],
+            [
+                "Automotive lighting",
+                0.8437662124633789
+            ],
+            [
+                "Font",
+                0.8302127718925476
+            ],
+            [
+                "Line",
+                0.8177928328514099
+            ],
+            [
+                "Wood",
+                0.7888439297676086
+            ],
+            [
+                "Technology",
+                0.7695453763008118
+            ],
+            [
+                "Output device",
+                0.7490480542182922
+            ],
+            [
+                "Motor vehicle",
+                0.7468487620353699
+            ],
+            [
+                "Engineering",
+                0.6840415000915527
+            ]
+        ]
+    }
+}

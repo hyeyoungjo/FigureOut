@@ -1,0 +1,232 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1. Left: Gear VR HMD used in study. Right: Peripheral blending\nof Condition 6, combining motion landscape and 360\u00b0 video.\n",
+        "image_labels": [
+            [
+                "Cloud",
+                0.9259080290794373
+            ],
+            [
+                "Vision care",
+                0.9253340363502502
+            ],
+            [
+                "Sky",
+                0.9049089550971985
+            ],
+            [
+                "Cap",
+                0.8795853853225708
+            ],
+            [
+                "Flash photography",
+                0.8722215890884399
+            ],
+            [
+                "Eyewear",
+                0.8507169485092163
+            ],
+            [
+                "Audio equipment",
+                0.8322985768318176
+            ],
+            [
+                "Peripheral",
+                0.8278326988220215
+            ],
+            [
+                "Leisure",
+                0.8269726634025574
+            ],
+            [
+                "Fun",
+                0.8256608843803406
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2. 0.86km test route velocity pro\ufb01le, as captured throughout the\nstudy across participants using GPS and OBD2 velocity.\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8800949454307556
+            ],
+            [
+                "Rectangle",
+                0.8104173541069031
+            ],
+            [
+                "Font",
+                0.7996376752853394
+            ],
+            [
+                "Map",
+                0.7797991633415222
+            ],
+            [
+                "Parallel",
+                0.770204484462738
+            ],
+            [
+                "Urban design",
+                0.7633111476898193
+            ],
+            [
+                "Diagram",
+                0.7182859778404236
+            ],
+            [
+                "Design",
+                0.6841827034950256
+            ],
+            [
+                "Circle",
+                0.6617872714996338
+            ],
+            [
+                "Terrestrial plant",
+                0.626943826675415
+            ]
+        ]
+    },
+    "3": {
+        "type": "formula",
+        "caption_text": "Figure 3. Stacked density plot (geom_density in R, using ..count.. and\n\u201cstack\u201d) of motion sickness susceptibility against preferred condition\n(higher is more susceptible), with labels indicating susceptibility per-\ncentiles for the general population from [41]. 50th%ile is considered\n\u201cslightly susceptible\u201d, and 75th%ile \u201cmoderately susceptible\u201d.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9052678346633911
+            ],
+            [
+                "Slope",
+                0.8928704857826233
+            ],
+            [
+                "Font",
+                0.8480672836303711
+            ],
+            [
+                "Plot",
+                0.8441533446311951
+            ],
+            [
+                "Line",
+                0.817865788936615
+            ],
+            [
+                "Parallel",
+                0.787700355052948
+            ],
+            [
+                "Pattern",
+                0.7640084028244019
+            ],
+            [
+                "Circle",
+                0.7350122928619385
+            ],
+            [
+                "Number",
+                0.6984931826591492
+            ],
+            [
+                "Design",
+                0.6832355260848999
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4. Plot of smoothed conditional mean real-time sickness ratings against condition and preference across participants (in black), with individual\nparticipants plotted (in colour) and if they stopped the condition prematurely (coloured circles show time stopped).\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8850255012512207
+            ],
+            [
+                "Rectangle",
+                0.8800433278083801
+            ],
+            [
+                "Font",
+                0.8339783549308777
+            ],
+            [
+                "Line",
+                0.8160714507102966
+            ],
+            [
+                "Parallel",
+                0.7912148237228394
+            ],
+            [
+                "Pattern",
+                0.7473193407058716
+            ],
+            [
+                "Technology",
+                0.7390695214271545
+            ],
+            [
+                "Diagram",
+                0.7090217471122742
+            ],
+            [
+                "Terrestrial plant",
+                0.6947497725486755
+            ],
+            [
+                "Plot",
+                0.6687110662460327
+            ]
+        ]
+    },
+    "5": {
+        "type": "formula",
+        "caption_text": "Figure 5. Interaction plot of SSQ total sickness score against condition\nand preference (higher is worse). Boxplots indicate the \ufb01rst and third\nquartiles (25th and 75th percentiles). Coloured lines indicate means.\nGrey background line indicates the sickness score of the 2F64C \ufb02ight\nsimulator, suggested as indicating a problematic level of sickness [37].\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9077906608581543
+            ],
+            [
+                "Rectangle",
+                0.901296854019165
+            ],
+            [
+                "Slope",
+                0.8848424553871155
+            ],
+            [
+                "Font",
+                0.8477323651313782
+            ],
+            [
+                "Line",
+                0.8223575949668884
+            ],
+            [
+                "Parallel",
+                0.7908443808555603
+            ],
+            [
+                "Circle",
+                0.7605147361755371
+            ],
+            [
+                "Symmetry",
+                0.7581760883331299
+            ],
+            [
+                "Pattern",
+                0.7380212545394897
+            ],
+            [
+                "Diagram",
+                0.7203270196914673
+            ]
+        ]
+    }
+}

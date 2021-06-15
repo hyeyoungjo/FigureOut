@@ -1,0 +1,308 @@
+{
+    "1": {
+        "type": "graphic",
+        "caption_text": "Figure 1. Overhead view of the Crystallize virtual reality scenario that we set up to test the ability of virtual reality to communicate cultural and\nlanguage information. Players navigated through a Japanese teahouse and solved language learning questions by interacting with non-player-controlled\ncharacters.\n",
+        "image_labels": [
+            [
+                "Leg",
+                0.9088261723518372
+            ],
+            [
+                "Screenshot",
+                0.8360311985015869
+            ],
+            [
+                "Biome",
+                0.8354485630989075
+            ],
+            [
+                "Fictional character",
+                0.7183235883712769
+            ],
+            [
+                "Video game software",
+                0.7155224084854126
+            ],
+            [
+                "Games",
+                0.7126314640045166
+            ],
+            [
+                "Font",
+                0.706588089466095
+            ],
+            [
+                "Software",
+                0.6948558688163757
+            ],
+            [
+                "Spider-man",
+                0.6825889348983765
+            ],
+            [
+                "Pc game",
+                0.6502004861831665
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2. Using Unity, we made Crystallize work with the Oculus Rift.\n",
+        "image_labels": [
+            [
+                "Computer",
+                0.9782744646072388
+            ],
+            [
+                "Table",
+                0.9620317220687866
+            ],
+            [
+                "Personal computer",
+                0.9593800902366638
+            ],
+            [
+                "Computer keyboard",
+                0.9506133198738098
+            ],
+            [
+                "Computer monitor",
+                0.9494224786758423
+            ],
+            [
+                "Computer desk",
+                0.948301374912262
+            ],
+            [
+                "Peripheral",
+                0.947064995765686
+            ],
+            [
+                "Output device",
+                0.9312978982925415
+            ],
+            [
+                "Desk",
+                0.9287340044975281
+            ],
+            [
+                "Input device",
+                0.9285256862640381
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3. An example of an eavesdropping dialogue. The player can\nlisten in on NPC dialogues and collect new words to add to the inventory.\n",
+        "image_labels": [
+            [
+                "Plant",
+                0.9134427309036255
+            ],
+            [
+                "Terrestrial plant",
+                0.856841504573822
+            ],
+            [
+                "People in nature",
+                0.8521162867546082
+            ],
+            [
+                "Tree",
+                0.8029704093933105
+            ],
+            [
+                "Grass",
+                0.7828935384750366
+            ],
+            [
+                "Screenshot",
+                0.7733699083328247
+            ],
+            [
+                "Font",
+                0.752255916595459
+            ],
+            [
+                "Natural landscape",
+                0.6878312826156616
+            ],
+            [
+                "Leisure",
+                0.6693609356880188
+            ],
+            [
+                "Art",
+                0.6659518480300903
+            ]
+        ]
+    },
+    "4": {
+        "type": "graphic",
+        "caption_text": "Figure 4. An example of a multiple-choice conversation dialogue in VR.\nThe player must select an appropriate response based on what the NPC\nsaid.\n",
+        "image_labels": [
+            [
+                "Cartoon",
+                0.8599105477333069
+            ],
+            [
+                "Font",
+                0.8216657638549805
+            ],
+            [
+                "Screenshot",
+                0.8199584484100342
+            ],
+            [
+                "Fun",
+                0.7420121431350708
+            ],
+            [
+                "Games",
+                0.7040376663208008
+            ],
+            [
+                "Software",
+                0.7011502981185913
+            ],
+            [
+                "Video game software",
+                0.6718024015426636
+            ],
+            [
+                "Animation",
+                0.6580754518508911
+            ],
+            [
+                "Multimedia software",
+                0.6529824733734131
+            ],
+            [
+                "Graphics software",
+                0.6513817310333252
+            ]
+        ]
+    },
+    "5": {
+        "type": "graphic",
+        "caption_text": "Figure 5. An example of a sentence-construction conversation dialogue\nin VR. The player must arrange vocabulary words in the correct order\nin order to respond to the NPC.\n",
+        "image_labels": [
+            [
+                "Screenshot",
+                0.830890417098999
+            ],
+            [
+                "Biome",
+                0.8234887719154358
+            ],
+            [
+                "Shorts",
+                0.7930691242218018
+            ],
+            [
+                "T-shirt",
+                0.7796009182929993
+            ],
+            [
+                "Grass",
+                0.7648951411247253
+            ],
+            [
+                "Technology",
+                0.7377395033836365
+            ],
+            [
+                "Font",
+                0.7291859984397888
+            ],
+            [
+                "Software",
+                0.7182784676551819
+            ],
+            [
+                "Video game software",
+                0.7068134546279907
+            ],
+            [
+                "Recreation",
+                0.6947751045227051
+            ]
+        ]
+    },
+    "7": {
+        "type": "human",
+        "caption_text": "Figure 7. Using the Oculus Rift head tracking, we trained players to bow when greeting other characters in Japanese. A few seconds after the NPC\nbows, the player is given a prompt to bow. The third panel shows the player\u2019s \ufb01eld of view mid-bow.\n",
+        "image_labels": [
+            [
+                "Sleeve",
+                0.8721781969070435
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Gadget",
+                0.8090303540229797
+            ],
+            [
+                "Font",
+                0.7915205359458923
+            ],
+            [
+                "Electronic device",
+                0.7598354816436768
+            ],
+            [
+                "Screenshot",
+                0.7589635848999023
+            ],
+            [
+                "T-shirt",
+                0.7506632804870605
+            ],
+            [
+                "Display device",
+                0.7437695264816284
+            ],
+            [
+                "Multimedia",
+                0.725349485874176
+            ],
+            [
+                "Pattern",
+                0.724041223526001
+            ]
+        ]
+    },
+    "8": {
+        "type": "table",
+        "caption_text": "Figure 8. Analysis of survey questions. Response options used a Likert scale, spanning from 1 (None/not at all) to 5 (Very much/a great deal).\n",
+        "image_labels": [
+            [
+                "Font",
+                0.8049885034561157
+            ],
+            [
+                "Rectangle",
+                0.7893094420433044
+            ],
+            [
+                "Number",
+                0.6963017582893372
+            ],
+            [
+                "Parallel",
+                0.6955604553222656
+            ],
+            [
+                "Screenshot",
+                0.6536582708358765
+            ],
+            [
+                "Circle",
+                0.6088090538978577
+            ]
+        ]
+    }
+}

@@ -18,7 +18,8 @@ var $cardPerPage = 10;
 var $totalItem = 0;
 
 setTimeout(function() {
-    cardMaker()
+    cardMaker();
+    
 }, 1000);
 
 function cardMaker() {
@@ -190,6 +191,10 @@ function cardMaker() {
                     $("div.description_area ul.authors").html(findItem.find("data>authors").html());
                     $("div.description_area span.conf").html(findItem.find("data>venue").html());
                     $("p.des").html(findCaption);
+
+                    imgUrl = thisSrc.replace("crops/", "").replace(/\./gi, "`");
+                    console.log(imgUrl); 
+                    updateUserData(imgUrl);
                 });
                 $("div.buttons li.back").on("click", function () {
                     coverClick("-110%",200,0)

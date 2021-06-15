@@ -1,0 +1,446 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1. The physical controller position (green), relative to a calibrated \nneutral position, is amplifed using a non-linear function so the virtual \ncontroller (blue) appears farther away.  The transfer function keeps the \nphysical-to-virtual hand offset small near the body,  but maximum vir-\ntual reach can be achieved with the real controller moving 30% less. \n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9754561185836792
+            ],
+            [
+                "Head",
+                0.9717617034912109
+            ],
+            [
+                "Hand",
+                0.9564758539199829
+            ],
+            [
+                "Green",
+                0.8989120721817017
+            ],
+            [
+                "Azure",
+                0.8959804773330688
+            ],
+            [
+                "Human body",
+                0.888584315776825
+            ],
+            [
+                "Jaw",
+                0.8783842325210571
+            ],
+            [
+                "Organism",
+                0.8633008599281311
+            ],
+            [
+                "Happy",
+                0.862506091594696
+            ],
+            [
+                "Sleeve",
+                0.8544076085090637
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2. Key geometric points captured in calibration and used for the \namplifcation technique: (a) the user\u2019s maximum reach Pmax, at distance \nrmax  from their shoulder point PS;  (b) P\u2217 \nH  is calculated from the user\u2019s \nhand position PH . \n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9764013886451721
+            ],
+            [
+                "Head",
+                0.9718608856201172
+            ],
+            [
+                "Shoulder",
+                0.9373523592948914
+            ],
+            [
+                "Organ",
+                0.9087877869606018
+            ],
+            [
+                "Human body",
+                0.8872590661048889
+            ],
+            [
+                "Organism",
+                0.8655287623405457
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8374862670898438
+            ],
+            [
+                "Line",
+                0.8216506242752075
+            ],
+            [
+                "Slope",
+                0.7990556359291077
+            ]
+        ]
+    },
+    "3": {
+        "type": "formula",
+        "caption_text": "Figure 3. The Low and High amplifcation functions used in Experiment \n1.  These functions modify the relationship between the physical offset r \nand the virtual offset  f (r) from PN . \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8978447914123535
+            ],
+            [
+                "Slope",
+                0.8833228945732117
+            ],
+            [
+                "Plot",
+                0.8548786640167236
+            ],
+            [
+                "Triangle",
+                0.8474836945533752
+            ],
+            [
+                "Font",
+                0.8393345475196838
+            ],
+            [
+                "Line",
+                0.820284903049469
+            ],
+            [
+                "Parallel",
+                0.7899892330169678
+            ],
+            [
+                "Pattern",
+                0.7821680903434753
+            ],
+            [
+                "Symmetry",
+                0.7391965985298157
+            ],
+            [
+                "Circle",
+                0.716899573802948
+            ]
+        ]
+    },
+    "4": {
+        "type": "picture",
+        "caption_text": "Figure 4.  The  ERGONOMIC,  LIMITS, and  FIXED  target layouts used in \nExperiment 1. \n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Purple",
+                0.9083064198493958
+            ],
+            [
+                "Azure",
+                0.8970732688903809
+            ],
+            [
+                "Violet",
+                0.8547314405441284
+            ],
+            [
+                "Font",
+                0.8198333382606506
+            ],
+            [
+                "Circle",
+                0.7787079215049744
+            ],
+            [
+                "Magenta",
+                0.7707211375236511
+            ],
+            [
+                "Pattern",
+                0.7679917812347412
+            ],
+            [
+                "Visual effect lighting",
+                0.7659580111503601
+            ],
+            [
+                "Electric blue",
+                0.7638291716575623
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5. (a) Time, (b) Comfort, (c) Physical Path Length, and (d) Virtual Path Length by AMPLIFICATION and LAYOUT. Error bars are 95% CI. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8895212411880493
+            ],
+            [
+                "Plot",
+                0.8604111075401306
+            ],
+            [
+                "Slope",
+                0.8578476905822754
+            ],
+            [
+                "Font",
+                0.8338884115219116
+            ],
+            [
+                "Parallel",
+                0.7883732914924622
+            ],
+            [
+                "Pattern",
+                0.6722594499588013
+            ],
+            [
+                "Number",
+                0.6648547649383545
+            ],
+            [
+                "Diagram",
+                0.6579433679580688
+            ],
+            [
+                "Screenshot",
+                0.5972137451171875
+            ]
+        ]
+    },
+    "6": {
+        "type": "formula",
+        "caption_text": "Figure 6. Levels of AMPLIFICATION used in Experiment 2. These curves \nmodify the relationship between the physical offset r and the virtual off-\nset  f (r) from PN . \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9102652072906494
+            ],
+            [
+                "Slope",
+                0.8811212778091431
+            ],
+            [
+                "Font",
+                0.8353989124298096
+            ],
+            [
+                "Parallel",
+                0.7898464202880859
+            ],
+            [
+                "Pattern",
+                0.7755729556083679
+            ],
+            [
+                "Plot",
+                0.7385469675064087
+            ],
+            [
+                "Circle",
+                0.714972972869873
+            ],
+            [
+                "Design",
+                0.6843633055686951
+            ],
+            [
+                "Magenta",
+                0.6817295551300049
+            ],
+            [
+                "Number",
+                0.6806686520576477
+            ]
+        ]
+    },
+    "7": {
+        "type": "diagram",
+        "caption_text": "Figure  7.  The  target  layout  used  in  Experiment  2,  coloured  by  DIS-\nTANCE,  from the side (a) and the front (b).  Purple targets are  CLOSE, \nblue are MID, green are FAR. Only two targets are visible at a time (c). \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8121273517608643
+            ],
+            [
+                "Circle",
+                0.7605347633361816
+            ],
+            [
+                "Pattern",
+                0.7061923146247864
+            ],
+            [
+                "Symmetry",
+                0.689631998538971
+            ],
+            [
+                "Science",
+                0.6840411424636841
+            ],
+            [
+                "Diagram",
+                0.6749440431594849
+            ],
+            [
+                "Sharing",
+                0.5999411940574646
+            ],
+            [
+                "Illustration",
+                0.5998759269714355
+            ],
+            [
+                "Symbol",
+                0.569433867931366
+            ],
+            [
+                "Gesture",
+                0.5269360542297363
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8. (a) Time, (b) Comfort, (c) Error, (d) Physical Path Length, and (e) Virtual Path Length by AMPLIFICATION. Error bars are 95% CI. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9002452492713928
+            ],
+            [
+                "Slope",
+                0.8610460162162781
+            ],
+            [
+                "Font",
+                0.8392134308815002
+            ],
+            [
+                "Plot",
+                0.8228014707565308
+            ],
+            [
+                "Parallel",
+                0.789972722530365
+            ],
+            [
+                "Circle",
+                0.7793680429458618
+            ],
+            [
+                "Symmetry",
+                0.7702310681343079
+            ],
+            [
+                "Triangle",
+                0.7610450387001038
+            ],
+            [
+                "Pattern",
+                0.7574423551559448
+            ],
+            [
+                "Technology",
+                0.7378188371658325
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9. The proportion of participants who noticed that amplifcation \nwas taking place at each level. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8944916129112244
+            ],
+            [
+                "Slope",
+                0.8872175812721252
+            ],
+            [
+                "Plot",
+                0.8437055349349976
+            ],
+            [
+                "Font",
+                0.8031700253486633
+            ],
+            [
+                "Parallel",
+                0.7897860407829285
+            ],
+            [
+                "Circle",
+                0.7363694906234741
+            ],
+            [
+                "Number",
+                0.7088079452514648
+            ],
+            [
+                "Pattern",
+                0.6915711164474487
+            ],
+            [
+                "Screenshot",
+                0.6855517029762268
+            ],
+            [
+                "Electric blue",
+                0.5649785995483398
+            ]
+        ]
+    },
+    "10": {
+        "type": "table",
+        "caption_text": "Figure 10. Proportion of questionnaire answers by AMPLIFICATION. Answers were inverted for Q2 for visual comparison. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8979735970497131
+            ],
+            [
+                "Font",
+                0.8271701335906982
+            ],
+            [
+                "Parallel",
+                0.7857555150985718
+            ],
+            [
+                "Pattern",
+                0.730456531047821
+            ],
+            [
+                "Number",
+                0.7052651643753052
+            ],
+            [
+                "Slope",
+                0.568770170211792
+            ],
+            [
+                "Circle",
+                0.5273016691207886
+            ]
+        ]
+    }
+}

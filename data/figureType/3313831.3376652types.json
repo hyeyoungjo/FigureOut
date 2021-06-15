@@ -1,0 +1,324 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1.  We created a virtual environment for designers, in which they can generate and arrange an arbitrary number of devices that execute real-\nworld  web  applications  (A).  This  allows  simulation  of  existing  interactive  spaces  and  multi-device  systems  (B,  C)  [71],  as  well  as  sketching  of  new \ninteractions with diverse tracking systems or futuristic devices, e.g., a cylindrical touch screen (D). \n",
+        "image_labels": [
+            [
+                "Arm",
+                0.9433920979499817
+            ],
+            [
+                "Muscle",
+                0.9147476553916931
+            ],
+            [
+                "Product",
+                0.9073686003684998
+            ],
+            [
+                "Gadget",
+                0.8618335127830505
+            ],
+            [
+                "Communication Device",
+                0.839484691619873
+            ],
+            [
+                "Finger",
+                0.832516074180603
+            ],
+            [
+                "Elbow",
+                0.7722614407539368
+            ],
+            [
+                "T-shirt",
+                0.7653314471244812
+            ],
+            [
+                "Display device",
+                0.7536696791648865
+            ],
+            [
+                "Electronic device",
+                0.7455787658691406
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2. Our experimental design tool uses \ufb01nger and hand tracking to \nlet users naturally interact with devices and objects in the VE. \n",
+        "image_labels": [
+            [
+                "Hand",
+                0.9588887691497803
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Art",
+                0.8369206190109253
+            ],
+            [
+                "Wood",
+                0.7970963716506958
+            ],
+            [
+                "Event",
+                0.7362564206123352
+            ],
+            [
+                "Communication Device",
+                0.7068482041358948
+            ],
+            [
+                "Font",
+                0.7039954662322998
+            ],
+            [
+                "Camera",
+                0.7006990909576416
+            ],
+            [
+                "Hat",
+                0.6901392936706543
+            ],
+            [
+                "Thumb",
+                0.6760268807411194
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3.  Simulations of existing systems in VR (right) and the original \nsystem (left).  1) Window Manager by Klokmose et al.  [49] for 75 LCD \ntiles.  2)  VisTiles  by  Langner  et  al.  [51].  3)  Peephole  navigation  with \nHuddleLamp by R\u00e4dle et al. [73]. 4) Edge Bubbles by R\u00e4dle et al. [74]. \n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9435917735099792
+            ],
+            [
+                "Product",
+                0.9085608124732971
+            ],
+            [
+                "Rectangle",
+                0.8103863000869751
+            ],
+            [
+                "Material property",
+                0.800922691822052
+            ],
+            [
+                "Font",
+                0.7691458463668823
+            ],
+            [
+                "Tablet computer",
+                0.7614737153053284
+            ],
+            [
+                "Electronic device",
+                0.7434791326522827
+            ],
+            [
+                "Snapshot",
+                0.7428480386734009
+            ],
+            [
+                "Design",
+                0.6875460743904114
+            ],
+            [
+                "Art",
+                0.6867255568504333
+            ]
+        ]
+    },
+    "4": {
+        "type": "picture",
+        "caption_text": "Figure 4.  VR-based design tools can enable designers to experience fu-\nturistic  touchscreen  devices,  e.g.,  Google  Maps  on  a  cylindrical  touch-\nscreen or drawing on a spherical display. \n",
+        "image_labels": [
+            [
+                "White",
+                0.9218624830245972
+            ],
+            [
+                "Green",
+                0.9094576239585876
+            ],
+            [
+                "Product",
+                0.9074433445930481
+            ],
+            [
+                "Font",
+                0.8339783549308777
+            ],
+            [
+                "Material property",
+                0.802263617515564
+            ],
+            [
+                "Drinkware",
+                0.792705774307251
+            ],
+            [
+                "Gas",
+                0.7773205637931824
+            ],
+            [
+                "Water",
+                0.7013329267501831
+            ],
+            [
+                "Event",
+                0.675113320350647
+            ],
+            [
+                "Wood",
+                0.6624757647514343
+            ]
+        ]
+    },
+    "5": {
+        "type": "picture",
+        "caption_text": "Figure 5.  In design mode (A), users can manipulate device properties and resize them.  In use mode (B), users can draw on devices and interact with \nreal-world applications using (multi-)touch. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9079359769821167
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8247825503349304
+            ],
+            [
+                "Line",
+                0.8163607120513916
+            ],
+            [
+                "Wood",
+                0.8039395809173584
+            ],
+            [
+                "Office supplies",
+                0.7529332637786865
+            ],
+            [
+                "Thumb",
+                0.7438439726829529
+            ],
+            [
+                "Urban design",
+                0.6747849583625793
+            ],
+            [
+                "Brand",
+                0.6723027229309082
+            ],
+            [
+                "Rectangle",
+                0.6412918567657471
+            ]
+        ]
+    },
+    "6": {
+        "type": "human",
+        "caption_text": "Figure 6. P6 tiptoes (left) and P9 jumps (right) to reach overhead targets. \n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9767915606498718
+            ],
+            [
+                "Shoulder",
+                0.9365576505661011
+            ],
+            [
+                "White",
+                0.9218782782554626
+            ],
+            [
+                "Thigh",
+                0.8188226819038391
+            ],
+            [
+                "Knee",
+                0.8138441443443298
+            ],
+            [
+                "Waist",
+                0.8023248910903931
+            ],
+            [
+                "Flooring",
+                0.789570689201355
+            ],
+            [
+                "Art",
+                0.7755774259567261
+            ],
+            [
+                "Wood",
+                0.7427968382835388
+            ],
+            [
+                "Font",
+                0.7123855948448181
+            ]
+        ]
+    },
+    "7": {
+        "type": "picture",
+        "caption_text": "Figure  7.  P1  throwing  a  ball  at  the  targets  on  the  display  (left).  P6 \npicking up a tablet she dropped (right). \n",
+        "image_labels": [
+            [
+                "Wood",
+                0.8245454430580139
+            ],
+            [
+                "Flooring",
+                0.7944690585136414
+            ],
+            [
+                "Art",
+                0.7515199780464172
+            ],
+            [
+                "Hardwood",
+                0.7499443292617798
+            ],
+            [
+                "Font",
+                0.7464253902435303
+            ],
+            [
+                "Electric blue",
+                0.643844485282898
+            ],
+            [
+                "Wood flooring",
+                0.6338357925415039
+            ],
+            [
+                "Visual arts",
+                0.6261956691741943
+            ],
+            [
+                "Room",
+                0.6241979002952576
+            ],
+            [
+                "Felidae",
+                0.6224218010902405
+            ]
+        ]
+    }
+}

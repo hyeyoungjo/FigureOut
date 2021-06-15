@@ -1,0 +1,366 @@
+{
+    "2": {
+        "type": "graphic",
+        "caption_text": "Figure 2: Left: Highlighted wall for next target. Right: Table. \n",
+        "image_labels": [
+            [
+                "Green",
+                0.8988228440284729
+            ],
+            [
+                "Wood",
+                0.8292505145072937
+            ],
+            [
+                "Line",
+                0.8170676231384277
+            ],
+            [
+                "Rectangle",
+                0.8169113993644714
+            ],
+            [
+                "Flooring",
+                0.7978832125663757
+            ],
+            [
+                "Space",
+                0.7297911047935486
+            ],
+            [
+                "Art",
+                0.7260419130325317
+            ],
+            [
+                "Traffic sign",
+                0.702979564666748
+            ],
+            [
+                "Games",
+                0.6931360363960266
+            ],
+            [
+                "Visual arts",
+                0.6674595475196838
+            ]
+        ]
+    },
+    "1": {
+        "type": "graphic",
+        "caption_text": "Figure 1: Left: Virtual environment with 1.0x (no) gain. \nRight: Virtual environment with 3.0x gain. \n",
+        "image_labels": [
+            [
+                "Wood",
+                0.8546709418296814
+            ],
+            [
+                "Rectangle",
+                0.8211154341697693
+            ],
+            [
+                "Flooring",
+                0.8184202909469604
+            ],
+            [
+                "Building",
+                0.8167319297790527
+            ],
+            [
+                "Ceiling",
+                0.752655565738678
+            ],
+            [
+                "Space",
+                0.718110203742981
+            ],
+            [
+                "Art",
+                0.7117306590080261
+            ],
+            [
+                "Room",
+                0.6364213824272156
+            ],
+            [
+                "Symmetry",
+                0.6121008992195129
+            ],
+            [
+                "Recreation",
+                0.6033998131752014
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3: Left: User reaching to select target cube, with inset \nreal-world environment. Right: Alignment cube. \n",
+        "image_labels": [
+            [
+                "Green",
+                0.9344878792762756
+            ],
+            [
+                "Rectangle",
+                0.9011505842208862
+            ],
+            [
+                "Building",
+                0.8431875109672546
+            ],
+            [
+                "Art",
+                0.8370361924171448
+            ],
+            [
+                "Paint",
+                0.8241032361984253
+            ],
+            [
+                "Line",
+                0.8187419176101685
+            ],
+            [
+                "Tints and shades",
+                0.7738537788391113
+            ],
+            [
+                "Font",
+                0.7583386301994324
+            ],
+            [
+                "Magenta",
+                0.7543836832046509
+            ],
+            [
+                "Pattern",
+                0.7276286482810974
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4: The three walking routes. Left: Straight. Middle: \nZig-zag. Right: Curve. Obstacles were scaled based on gain. \n",
+        "image_labels": [
+            [
+                "Azure",
+                0.8967254161834717
+            ],
+            [
+                "Rectangle",
+                0.8952812552452087
+            ],
+            [
+                "Art",
+                0.8443529605865479
+            ],
+            [
+                "Line",
+                0.8160839080810547
+            ],
+            [
+                "Font",
+                0.8151284456253052
+            ],
+            [
+                "Aqua",
+                0.810284435749054
+            ],
+            [
+                "Material property",
+                0.8016108274459839
+            ],
+            [
+                "Shelving",
+                0.7753638029098511
+            ],
+            [
+                "Tints and shades",
+                0.7688593864440918
+            ],
+            [
+                "Pattern",
+                0.7470831274986267
+            ]
+        ]
+    },
+    "5": {
+        "type": "formula",
+        "caption_text": "Figure 5. Scatterplot of controller attach point at target \ngrab/release, front-on for Wall, top-down for Table (mean-\ning both are effectively front-on relative to the target). The \nspread increases with increasing gain. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8529096245765686
+            ],
+            [
+                "Rectangle",
+                0.8451493978500366
+            ],
+            [
+                "Parallel",
+                0.6763865947723389
+            ],
+            [
+                "Symmetry",
+                0.6603621244430542
+            ],
+            [
+                "Pattern",
+                0.6451277732849121
+            ],
+            [
+                "Circle",
+                0.5788066387176514
+            ],
+            [
+                "Art",
+                0.5694578886032104
+            ],
+            [
+                "Science",
+                0.5338185429573059
+            ],
+            [
+                "Number",
+                0.5206533670425415
+            ]
+        ]
+    },
+    "6": {
+        "type": "diagram",
+        "caption_text": "Figure 6. Side-on view of reach trajectory in real-world space \nwhen within 1m virtually of the target. \n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Light",
+                0.9106788039207458
+            ],
+            [
+                "Human body",
+                0.8872509598731995
+            ],
+            [
+                "Slope",
+                0.8722366690635681
+            ],
+            [
+                "Rectangle",
+                0.8722035884857178
+            ],
+            [
+                "Organism",
+                0.862951397895813
+            ],
+            [
+                "Rainbow",
+                0.8555442094802856
+            ],
+            [
+                "Font",
+                0.8266385197639465
+            ],
+            [
+                "Line",
+                0.8243932127952576
+            ],
+            [
+                "Circle",
+                0.7544436454772949
+            ]
+        ]
+    },
+    "7": {
+        "type": "table",
+        "caption_text": "Figure 7. Real-world walking velocity whilst navigating ob-\nstacles mid-trial. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9076112508773804
+            ],
+            [
+                "Font",
+                0.8307880759239197
+            ],
+            [
+                "Pattern",
+                0.7672335505485535
+            ],
+            [
+                "Rectangle",
+                0.7658365368843079
+            ],
+            [
+                "Parallel",
+                0.7628238201141357
+            ],
+            [
+                "Symmetry",
+                0.7194089889526367
+            ],
+            [
+                "Circle",
+                0.7031461000442505
+            ],
+            [
+                "Electric blue",
+                0.6295886039733887
+            ],
+            [
+                "Number",
+                0.6272949576377869
+            ],
+            [
+                "Screenshot",
+                0.6107149720191956
+            ]
+        ]
+    },
+    "8": {
+        "type": "table",
+        "caption_text": "Figure 8. Overall NASA TLX workload score across different \nlevels of gain. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9072715044021606
+            ],
+            [
+                "Font",
+                0.8561113476753235
+            ],
+            [
+                "Line",
+                0.825433075428009
+            ],
+            [
+                "Rectangle",
+                0.8216306567192078
+            ],
+            [
+                "Material property",
+                0.8009670972824097
+            ],
+            [
+                "Parallel",
+                0.7715747356414795
+            ],
+            [
+                "Symmetry",
+                0.7503467798233032
+            ],
+            [
+                "Pattern",
+                0.7253924012184143
+            ],
+            [
+                "Circle",
+                0.710238516330719
+            ],
+            [
+                "Design",
+                0.6823909878730774
+            ]
+        ]
+    }
+}

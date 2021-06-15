@@ -1,0 +1,186 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1: Augmented Body system for physiotherapy educa-\ntion - (a) projection mapping on a student\u2019s body, (b) pen-\nbased tablet interface for annotation, and (c) pen-based selec-\ntion/drawing on the physical body.\n",
+        "image_labels": [
+            [
+                "Arm",
+                0.9441115260124207
+            ],
+            [
+                "Photograph",
+                0.9419562220573425
+            ],
+            [
+                "Product",
+                0.9074803590774536
+            ],
+            [
+                "Human",
+                0.889203667640686
+            ],
+            [
+                "Sleeve",
+                0.8723848462104797
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Flash photography",
+                0.8495606780052185
+            ],
+            [
+                "Finger",
+                0.8391759991645813
+            ],
+            [
+                "Font",
+                0.833114743232727
+            ],
+            [
+                "Elbow",
+                0.8240090012550354
+            ]
+        ]
+    },
+    "2": {
+        "type": "chart",
+        "caption_text": "Figure 2: Schematic diagram of the setup and tablet interface (a) Study one setup, (b) Study two setup, and (c) Hand drawing\nannotations (green and red strokes on the upper thigh) and text annotation (green window) in the tablet device.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9076672792434692
+            ],
+            [
+                "Rectangle",
+                0.9004562497138977
+            ],
+            [
+                "Font",
+                0.8433895111083984
+            ],
+            [
+                "Screenshot",
+                0.8008285164833069
+            ],
+            [
+                "Software",
+                0.7993086576461792
+            ],
+            [
+                "Parallel",
+                0.7894240021705627
+            ],
+            [
+                "Technology",
+                0.772295355796814
+            ],
+            [
+                "Circle",
+                0.7640581130981445
+            ],
+            [
+                "Electronic device",
+                0.7568964958190918
+            ],
+            [
+                "Slope",
+                0.7550398707389832
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3: (a) 3D printed pen, (b) Projected palette, and (c) Sam-\nple of notes taken during projection-based classes.\n",
+        "image_labels": [
+            [
+                "Handwriting",
+                0.9070751667022705
+            ],
+            [
+                "Rectangle",
+                0.8676034212112427
+            ],
+            [
+                "Gesture",
+                0.8521924614906311
+            ],
+            [
+                "Font",
+                0.8252670168876648
+            ],
+            [
+                "Material property",
+                0.8011963367462158
+            ],
+            [
+                "Parallel",
+                0.7737290859222412
+            ],
+            [
+                "Communication Device",
+                0.7673766016960144
+            ],
+            [
+                "Screenshot",
+                0.7667986154556274
+            ],
+            [
+                "Telephony",
+                0.7629747986793518
+            ],
+            [
+                "Portable communications device",
+                0.7451459169387817
+            ]
+        ]
+    },
+    "4": {
+        "type": "human",
+        "caption_text": "Figure 4: (a) Teacher could remove upper layer to reveal inner\nlayer of muscles and bones, (b) Part of the classroom.\n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9762844443321228
+            ],
+            [
+                "Photograph",
+                0.9413672089576721
+            ],
+            [
+                "Muscle",
+                0.9174596071243286
+            ],
+            [
+                "Shorts",
+                0.8825584650039673
+            ],
+            [
+                "Fashion",
+                0.8793836832046509
+            ],
+            [
+                "Sleeve",
+                0.8724408149719238
+            ],
+            [
+                "Flash photography",
+                0.8646931052207947
+            ],
+            [
+                "Waist",
+                0.8268117308616638
+            ],
+            [
+                "T-shirt",
+                0.7959475517272949
+            ],
+            [
+                "Fashion design",
+                0.7855232954025269
+            ]
+        ]
+    }
+}

@@ -1,0 +1,408 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1.  Outline Pursuits support selection in occluded 3D scenes.  A: The user points at an object of interest but the selection is ambiguous due to \nocclusion by other objects.  B: Potential targets are outlined, with each outline presenting a moving stimulus that the user can follow with their gaze. \nC: Matching of the user\u2019s smooth pursuit eye movement completes the selection. Note that outline pursuits can augment manual pointing as shown, or \nsupport hands-free input using the head or gaze for initial pointing. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9074531197547913
+            ],
+            [
+                "Sleeve",
+                0.8567034602165222
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8341010808944702
+            ],
+            [
+                "Line",
+                0.8179546594619751
+            ],
+            [
+                "Building",
+                0.7766393423080444
+            ],
+            [
+                "Art",
+                0.762148380279541
+            ],
+            [
+                "Diagram",
+                0.7326175570487976
+            ],
+            [
+                "Human settlement",
+                0.7314842939376831
+            ],
+            [
+                "Illustration",
+                0.7310596704483032
+            ]
+        ]
+    },
+    "2": {
+        "type": "table",
+        "caption_text": "Figure 2. Cone casting with a primary pointer is used to select Nc  candi-\ndate targets within a visual angle radius rc. In this example, with Nc = 2, \nfour objects are within the cone (A) and objects 2 and 3 are selected as \nthey are closest to the centre of the cone. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8308239579200745
+            ],
+            [
+                "Parallel",
+                0.7876772880554199
+            ],
+            [
+                "Circle",
+                0.7624399065971375
+            ],
+            [
+                "Electric blue",
+                0.7475923299789429
+            ],
+            [
+                "Technology",
+                0.734032928943634
+            ],
+            [
+                "Pattern",
+                0.7318658232688904
+            ],
+            [
+                "Electronic instrument",
+                0.7300668358802795
+            ],
+            [
+                "Symmetry",
+                0.7010037302970886
+            ],
+            [
+                "Diagram",
+                0.6946629881858826
+            ],
+            [
+                "Graphics",
+                0.6836161613464355
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3.  Movement paths for occluded objects.  A: Whole:  the target \nmoves along the whole outline.  B: Shared:  the target moves along the \nvisible part of the object.  C: Cut:  the target moves along the shortest \npath  to  the  next  visible  part.  D:  Jump:  the  target  jumps  to  the  next \nvisible part. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9071738719940186
+            ],
+            [
+                "Rectangle",
+                0.8996360301971436
+            ],
+            [
+                "Azure",
+                0.8931237459182739
+            ],
+            [
+                "Font",
+                0.8249835968017578
+            ],
+            [
+                "Parallel",
+                0.7871286273002625
+            ],
+            [
+                "Circle",
+                0.7458273768424988
+            ],
+            [
+                "Pattern",
+                0.699508786201477
+            ],
+            [
+                "Diagram",
+                0.6432918310165405
+            ],
+            [
+                "Symbol",
+                0.6221025586128235
+            ],
+            [
+                "Electric blue",
+                0.6045244932174683
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4. Hands-free Outline Pursuits in an interactive virtual cityscape \nenvironment.  A: The user selects candidate buildings by pointing with \ntheir head; B: The user follows the outline motion with their gaze (red) \nto select the building.  The outline shows feedback of selection progress \nvia colour change.  C: The building is selected and contextual feedback \nis displayed. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9079181551933289
+            ],
+            [
+                "Rectangle",
+                0.8736425042152405
+            ],
+            [
+                "Font",
+                0.838269829750061
+            ],
+            [
+                "Urban design",
+                0.8337309956550598
+            ],
+            [
+                "Terrestrial plant",
+                0.8091822862625122
+            ],
+            [
+                "Parallel",
+                0.7789857387542725
+            ],
+            [
+                "Technology",
+                0.7789562344551086
+            ],
+            [
+                "Slope",
+                0.7705125212669373
+            ],
+            [
+                "City",
+                0.7272847294807434
+            ],
+            [
+                "Diagram",
+                0.7227480411529541
+            ]
+        ]
+    },
+    "5": {
+        "type": "picture",
+        "caption_text": "Figure 5.  Controller-based Outline Pursuits in a Room Planner setting. \nA: The user wants to move a partially occluded book to a different shelf \nbut  does  not  know  which  book  is  which.  B:  The  user  points  with  the \ncontroller to pre-select the book and other nearby items, showing which \nbooks  are  available  for  interaction  via  their  outline  and  stimuli  move-\nments.  C: The user follows the motion of a book with their eyes, which \nin turn highlights it.  D: The user selects the book via a button click and \ncan now manipulate it in 3D space, moving it to another shelf. \n",
+        "image_labels": [
+            [
+                "Property",
+                0.9432476758956909
+            ],
+            [
+                "Furniture",
+                0.9343991875648499
+            ],
+            [
+                "Product",
+                0.9079700112342834
+            ],
+            [
+                "Green",
+                0.9014516472816467
+            ],
+            [
+                "Textile",
+                0.8734518885612488
+            ],
+            [
+                "Interior design",
+                0.865611732006073
+            ],
+            [
+                "Yellow",
+                0.8654311895370483
+            ],
+            [
+                "Wood",
+                0.857793390750885
+            ],
+            [
+                "Shelving",
+                0.8573406934738159
+            ],
+            [
+                "Rectangle",
+                0.847359836101532
+            ]
+        ]
+    },
+    "6": {
+        "type": "diagram",
+        "caption_text": "Figure  6.  A:  Participants  were  tasked  to  select  the  yellow  object.  B: \nParticipants were tasked to select the yellow object at a higher level of \nocclusion. C: The user was tasked to fnish the memory game. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8258643746376038
+            ],
+            [
+                "Rectangle",
+                0.762927770614624
+            ],
+            [
+                "Art",
+                0.7529773712158203
+            ],
+            [
+                "Urban design",
+                0.7460938692092896
+            ],
+            [
+                "Screenshot",
+                0.7455193400382996
+            ],
+            [
+                "Triangle",
+                0.6991286873817444
+            ],
+            [
+                "Software",
+                0.6819680333137512
+            ],
+            [
+                "Pattern",
+                0.6797175407409668
+            ],
+            [
+                "Logo",
+                0.6744776964187622
+            ],
+            [
+                "Diagram",
+                0.6714060306549072
+            ]
+        ]
+    },
+    "7": {
+        "type": "chart",
+        "caption_text": "Figure  7.  Study  2  task  performance  at  different  object  densities  and \nlevels of occlusion. Error bars represents mean 95% confdence interval. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9080533385276794
+            ],
+            [
+                "Font",
+                0.8388532400131226
+            ],
+            [
+                "Plot",
+                0.7962300181388855
+            ],
+            [
+                "Slope",
+                0.7922561764717102
+            ],
+            [
+                "Parallel",
+                0.7903258204460144
+            ],
+            [
+                "Rectangle",
+                0.7051202058792114
+            ],
+            [
+                "Design",
+                0.6840819120407104
+            ],
+            [
+                "Diagram",
+                0.6813216805458069
+            ],
+            [
+                "Number",
+                0.6617920994758606
+            ],
+            [
+                "Screenshot",
+                0.5841009020805359
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8.  Study 2 average translational head movements during trials. \nError bars represents 95% confdence interval for means. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8867362141609192
+            ],
+            [
+                "Slope",
+                0.8455846309661865
+            ],
+            [
+                "Font",
+                0.8070885539054871
+            ],
+            [
+                "Parallel",
+                0.7892301082611084
+            ],
+            [
+                "Plot",
+                0.7808219194412231
+            ],
+            [
+                "Number",
+                0.6979101300239563
+            ],
+            [
+                "Diagram",
+                0.6933127641677856
+            ],
+            [
+                "Pattern",
+                0.6436464190483093
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9. Median scores on a 5-point Likert scale with error bars repre-\nsenting interquartile ranges. \n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Rectangle",
+                0.9090229868888855
+            ],
+            [
+                "Product",
+                0.9073421955108643
+            ],
+            [
+                "Slope",
+                0.8457512259483337
+            ],
+            [
+                "Font",
+                0.8394649624824524
+            ],
+            [
+                "Line",
+                0.8190600872039795
+            ],
+            [
+                "Material property",
+                0.8002117276191711
+            ],
+            [
+                "Parallel",
+                0.7797834277153015
+            ],
+            [
+                "Pattern",
+                0.7533409595489502
+            ],
+            [
+                "Design",
+                0.6847741603851318
+            ]
+        ]
+    }
+}

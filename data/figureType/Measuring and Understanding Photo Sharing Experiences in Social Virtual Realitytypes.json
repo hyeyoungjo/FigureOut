@@ -1,0 +1,270 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1: Photo sharing experience in Facebook Spaces\u00a9 with\nremote partners (a) and (b) looking at the same photo.\n",
+        "image_labels": [
+            [
+                "Eyelash",
+                0.8836089968681335
+            ],
+            [
+                "Jaw",
+                0.8765950798988342
+            ],
+            [
+                "Vision care",
+                0.8661086559295654
+            ],
+            [
+                "Thigh",
+                0.7768210768699646
+            ],
+            [
+                "Art",
+                0.7698643803596497
+            ],
+            [
+                "Eyewear",
+                0.7681106328964233
+            ],
+            [
+                "Chest",
+                0.6624161005020142
+            ],
+            [
+                "Smile",
+                0.656959593296051
+            ],
+            [
+                "Abdomen",
+                0.6348209381103516
+            ],
+            [
+                "Beard",
+                0.628561794757843
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2: Methodological approach for constructing our So-\ncialVR questionnaire.\n",
+        "image_labels": [
+            [
+                "Computer",
+                0.9296903610229492
+            ],
+            [
+                "Output device",
+                0.9107133746147156
+            ],
+            [
+                "Building",
+                0.8747931122779846
+            ],
+            [
+                "Office equipment",
+                0.8175365328788757
+            ],
+            [
+                "Personal computer",
+                0.8121322989463806
+            ],
+            [
+                "Rectangle",
+                0.8049774765968323
+            ],
+            [
+                "Window",
+                0.7772340178489685
+            ],
+            [
+                "Wood",
+                0.760170042514801
+            ],
+            [
+                "Facade",
+                0.7259601354598999
+            ],
+            [
+                "Machine",
+                0.6859713196754456
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3: An example of experience timeline and five phases\nof actions during face-to-face photo sharing.\n",
+        "image_labels": [
+            [
+                "Building",
+                0.8829274773597717
+            ],
+            [
+                "Output device",
+                0.8451153635978699
+            ],
+            [
+                "Wood",
+                0.8359848260879517
+            ],
+            [
+                "Rectangle",
+                0.8130855560302734
+            ],
+            [
+                "Display device",
+                0.7391350865364075
+            ],
+            [
+                "Gadget",
+                0.7302784323692322
+            ],
+            [
+                "Hardwood",
+                0.7020411491394043
+            ],
+            [
+                "Event",
+                0.7012563943862915
+            ],
+            [
+                "Flat panel display",
+                0.6993101835250854
+            ],
+            [
+                "Multimedia",
+                0.694190502166748
+            ]
+        ]
+    },
+    "4": {
+        "type": "formula",
+        "caption_text": "Figure 4: Correspondence analysis, showing three distinct\nexperience components, along with the 20 (numerically dis-\nplayed) interactions.\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8680142760276794
+            ],
+            [
+                "Rectangle",
+                0.8594316244125366
+            ],
+            [
+                "Font",
+                0.8052214980125427
+            ],
+            [
+                "Parallel",
+                0.7861881256103516
+            ],
+            [
+                "Pattern",
+                0.7519148588180542
+            ],
+            [
+                "Number",
+                0.6766780018806458
+            ],
+            [
+                "Symmetry",
+                0.6549996137619019
+            ],
+            [
+                "Circle",
+                0.6091871857643127
+            ]
+        ]
+    },
+    "5": {
+        "type": "human",
+        "caption_text": "Figure 5: Illustrations of the three experimental conditions:\n(a) Face-to-face (b) Skype (c) FB Spaces.\n",
+        "image_labels": [
+            [
+                "Arm",
+                0.9433310627937317
+            ],
+            [
+                "Product",
+                0.9076954126358032
+            ],
+            [
+                "Font",
+                0.8333339691162109
+            ],
+            [
+                "Chair",
+                0.830935537815094
+            ],
+            [
+                "Art",
+                0.8070228099822998
+            ],
+            [
+                "Comfort",
+                0.7849581837654114
+            ],
+            [
+                "Technology",
+                0.7467086911201477
+            ],
+            [
+                "Machine",
+                0.7177973985671997
+            ],
+            [
+                "Fictional character",
+                0.6901056170463562
+            ],
+            [
+                "Animation",
+                0.6729514598846436
+            ]
+        ]
+    },
+    "6": {
+        "type": "diagram",
+        "caption_text": "Figure 6: (a)-(c) Sum of scores boxplots for across photo sharing conditions for face-to-face (F2F), FB Spaces (FBS), Skype (SKP).\n(d) Self-reported emotion ratings for each condition. ** = p<.001\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8745543956756592
+            ],
+            [
+                "Font",
+                0.8069140315055847
+            ],
+            [
+                "Parallel",
+                0.7844077348709106
+            ],
+            [
+                "Schematic",
+                0.7410189509391785
+            ],
+            [
+                "Pattern",
+                0.7324392199516296
+            ],
+            [
+                "Diagram",
+                0.7117449641227722
+            ],
+            [
+                "Slope",
+                0.7008484601974487
+            ],
+            [
+                "Plan",
+                0.6884538531303406
+            ],
+            [
+                "Number",
+                0.5481246113777161
+            ],
+            [
+                "Artwork",
+                0.5469501614570618
+            ]
+        ]
+    }
+}

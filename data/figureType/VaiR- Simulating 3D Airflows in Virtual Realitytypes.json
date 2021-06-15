@@ -1,0 +1,438 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1. The VaiR Prototype worn in combination with a HTC Vive\nhead mounted display. Fixed to frame mounted onto the Vive\u2019s straps\nare two bows. These bows are moved by two separate motors, allowing\nboth bows to each rotate 135\u25e6. Fixes on each bow are \ufb01ve nozzles (each\n36\u25e6 apart), were the air streams come out. Several nozzles can be used at\nthe same time. Due to the modular design, nozzles can be moved along\nthe bows and changed as needed. That way, angle and dispersion of the\nair streams can be customized. VaiR is so designed that a container of\npressurized air, valves, power source and an arduino controller can be\nworn as a backpack.\n",
+        "image_labels": [
+            [
+                "Automotive lighting",
+                0.9127308130264282
+            ],
+            [
+                "Product",
+                0.9078834652900696
+            ],
+            [
+                "Camera accessory",
+                0.8275687098503113
+            ],
+            [
+                "Gadget",
+                0.7749073505401611
+            ],
+            [
+                "Headlamp",
+                0.7574669718742371
+            ],
+            [
+                "Peripheral",
+                0.7384308576583862
+            ],
+            [
+                "Machine",
+                0.7360590696334839
+            ],
+            [
+                "Automotive design",
+                0.7282363176345825
+            ],
+            [
+                "Cable",
+                0.7206878662109375
+            ],
+            [
+                "Event",
+                0.719153642654419
+            ]
+        ]
+    },
+    "2": {
+        "type": "chart",
+        "caption_text": "Figure 2. Overview of the focus group results.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9073066711425781
+            ],
+            [
+                "Azure",
+                0.898369550704956
+            ],
+            [
+                "Organism",
+                0.8717080950737
+            ],
+            [
+                "Font",
+                0.8497899174690247
+            ],
+            [
+                "Aqua",
+                0.8068960309028625
+            ],
+            [
+                "Circle",
+                0.7864783406257629
+            ],
+            [
+                "Diagram",
+                0.7188787460327148
+            ],
+            [
+                "Electric blue",
+                0.6612681150436401
+            ],
+            [
+                "Event",
+                0.6284558176994324
+            ],
+            [
+                "Slope",
+                0.5635318160057068
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3. Examples of different nozzles to vary spray angle and intensity.\n",
+        "image_labels": [
+            [
+                "Automotive tire",
+                0.779001772403717
+            ],
+            [
+                "Rectangle",
+                0.7697157263755798
+            ],
+            [
+                "Cylinder",
+                0.7399667501449585
+            ],
+            [
+                "Font",
+                0.7371901869773865
+            ],
+            [
+                "Auto part",
+                0.712935209274292
+            ],
+            [
+                "Circle",
+                0.7012787461280823
+            ],
+            [
+                "Rim",
+                0.6920913457870483
+            ],
+            [
+                "Automotive wheel system",
+                0.6434807181358337
+            ],
+            [
+                "Metal",
+                0.5942740440368652
+            ],
+            [
+                "Engineering",
+                0.5783757567405701
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4. The VaiR setup: Two bows with nozzles having a angular\ndistance of 36\u25e6 and two servo motors to control the angle of each bow\nseperately (left). Each bow can be rotated 135\u25e6, overall 270\u25e6 around the\nuser\u2019s head and neck can be displayed (right).\n",
+        "image_labels": [
+            [
+                "White",
+                0.9218676686286926
+            ],
+            [
+                "Font",
+                0.8444688320159912
+            ],
+            [
+                "Line",
+                0.8328064680099487
+            ],
+            [
+                "Circle",
+                0.7754308581352234
+            ],
+            [
+                "Parallel",
+                0.7621446251869202
+            ],
+            [
+                "Auto part",
+                0.7589552998542786
+            ],
+            [
+                "Symmetry",
+                0.7462989091873169
+            ],
+            [
+                "Triangle",
+                0.7356386184692383
+            ],
+            [
+                "Slope",
+                0.7339794635772705
+            ],
+            [
+                "Rim",
+                0.6865600347518921
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure 5. The Backpack consists of a compressed air bottle and 14 valves\n(ten for the nozzles, and four to vary the intensity) as well as the control\nunit.\n",
+        "image_labels": [
+            [
+                "Font",
+                0.844729483127594
+            ],
+            [
+                "Parallel",
+                0.7713310718536377
+            ],
+            [
+                "Technology",
+                0.7516435384750366
+            ],
+            [
+                "Rectangle",
+                0.7410328388214111
+            ],
+            [
+                "Circle",
+                0.5895077586174011
+            ],
+            [
+                "Brand",
+                0.530961275100708
+            ],
+            [
+                "Diagram",
+                0.5248401165008545
+            ],
+            [
+                "Sharing",
+                0.5221665501594543
+            ]
+        ]
+    },
+    "6": {
+        "type": "graphic",
+        "caption_text": "Figure 6. The \ufb01rst and second scene used for the evaluation. a) The cliff scene looking towards the sea and b) view when turned around. c) The fair\nscene regarded from outside and d) the \ufb01rst person view. e) The golf cart scene from \ufb01rst person view.\n",
+        "image_labels": [
+            [
+                "Sky",
+                0.9540059566497803
+            ],
+            [
+                "Plant",
+                0.9294475317001343
+            ],
+            [
+                "Natural landscape",
+                0.8741165995597839
+            ],
+            [
+                "Tree",
+                0.8706768155097961
+            ],
+            [
+                "Grass",
+                0.8125485777854919
+            ],
+            [
+                "Woody plant",
+                0.8058821558952332
+            ],
+            [
+                "Tints and shades",
+                0.7713428139686584
+            ],
+            [
+                "Grassland",
+                0.7700283527374268
+            ],
+            [
+                "Art",
+                0.7641425132751465
+            ],
+            [
+                "Trunk",
+                0.7626209855079651
+            ]
+        ]
+    },
+    "7": {
+        "type": "diagram",
+        "caption_text": "Figure 7. The third and fourth scene used for the evaluation. a) The cart scene in \ufb01rst person view. b) The horror scene: bats \ufb02ying over the head, c) a\nrotating saw runs through the viewer\u2019s neck and d) a Zombie appears.\n",
+        "image_labels": [
+            [
+                "Automotive design",
+                0.879920482635498
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Rectangle",
+                0.8476657867431641
+            ],
+            [
+                "Art",
+                0.8412939310073853
+            ],
+            [
+                "Font",
+                0.803928792476654
+            ],
+            [
+                "Triangle",
+                0.7849979996681213
+            ],
+            [
+                "Tints and shades",
+                0.760381817817688
+            ],
+            [
+                "Pattern",
+                0.7231065630912781
+            ],
+            [
+                "Writing",
+                0.7177093029022217
+            ],
+            [
+                "Monochrome photography",
+                0.68614262342453
+            ]
+        ]
+    },
+    "8": {
+        "type": "diagram",
+        "caption_text": "Figure 8. The results of the enjoyment scores per scene.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8783260583877563
+            ],
+            [
+                "Font",
+                0.7887457013130188
+            ],
+            [
+                "Parallel",
+                0.7828803658485413
+            ],
+            [
+                "Slope",
+                0.7693790197372437
+            ],
+            [
+                "Technology",
+                0.7515947222709656
+            ],
+            [
+                "Diagram",
+                0.7212130427360535
+            ],
+            [
+                "Pattern",
+                0.6676132082939148
+            ],
+            [
+                "Symmetry",
+                0.5766145586967468
+            ],
+            [
+                "Number",
+                0.5505253672599792
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9. The results of the presence scores per scene.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.905192494392395
+            ],
+            [
+                "Font",
+                0.8295893669128418
+            ],
+            [
+                "Material property",
+                0.8009577393531799
+            ],
+            [
+                "Parallel",
+                0.7854976058006287
+            ],
+            [
+                "Slope",
+                0.7758785486221313
+            ],
+            [
+                "Diagram",
+                0.7539868354797363
+            ],
+            [
+                "Technology",
+                0.7508155703544617
+            ],
+            [
+                "Pattern",
+                0.7445943355560303
+            ],
+            [
+                "Symmetry",
+                0.6691035628318787
+            ]
+        ]
+    },
+    "10": {
+        "type": "diagram",
+        "caption_text": "Figure 10. The results of the E2I presence and enjoyment scores.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8869427442550659
+            ],
+            [
+                "Slope",
+                0.8177450895309448
+            ],
+            [
+                "Line",
+                0.8176704049110413
+            ],
+            [
+                "Parallel",
+                0.7895213961601257
+            ],
+            [
+                "Diagram",
+                0.7138073444366455
+            ],
+            [
+                "Symmetry",
+                0.6973487138748169
+            ],
+            [
+                "Font",
+                0.648809552192688
+            ],
+            [
+                "Pattern",
+                0.5859466791152954
+            ]
+        ]
+    }
+}

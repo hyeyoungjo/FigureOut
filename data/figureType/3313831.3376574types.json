@@ -1,0 +1,312 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1: The VR Strider device including mini exercise bike and electronics for pressure tracking and vibrotactile feedback. \n",
+        "image_labels": [
+            [
+                "Sleeve",
+                0.8724478483200073
+            ],
+            [
+                "Automotive tire",
+                0.8653630018234253
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Knee",
+                0.8275508880615234
+            ],
+            [
+                "Thigh",
+                0.8176320791244507
+            ],
+            [
+                "Material property",
+                0.800579309463501
+            ],
+            [
+                "Elbow",
+                0.7953891158103943
+            ],
+            [
+                "Chair",
+                0.7770039439201355
+            ],
+            [
+                "Bumper",
+                0.773052453994751
+            ],
+            [
+                "Waist",
+                0.7678540349006653
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2: A-F: Iterations of the IK layer of the walking animation. G: The result superimposed on the reference diagram [43]. \n",
+        "image_labels": [
+            [
+                "White",
+                0.9218801259994507
+            ],
+            [
+                "Human body",
+                0.8873367309570312
+            ],
+            [
+                "Sleeve",
+                0.8724464774131775
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Sports equipment",
+                0.8432719707489014
+            ],
+            [
+                "Happy",
+                0.8224235773086548
+            ],
+            [
+                "Line",
+                0.8216267824172974
+            ],
+            [
+                "Knee",
+                0.8176794648170471
+            ],
+            [
+                "Rectangle",
+                0.813967764377594
+            ],
+            [
+                "Font",
+                0.8013615012168884
+            ]
+        ]
+    },
+    "3": {
+        "type": "graphic",
+        "caption_text": "Figure 3: A view to the VE for the path-integration task. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8287500739097595
+            ],
+            [
+                "Grass",
+                0.8255574703216553
+            ],
+            [
+                "Rectangle",
+                0.8187116384506226
+            ],
+            [
+                "Table",
+                0.80367112159729
+            ],
+            [
+                "Recreation",
+                0.7995437979698181
+            ],
+            [
+                "Baize",
+                0.7889541983604431
+            ],
+            [
+                "Technology",
+                0.7770896553993225
+            ],
+            [
+                "Circle",
+                0.7703263759613037
+            ],
+            [
+                "Ball",
+                0.7578782439231873
+            ],
+            [
+                "Electronic device",
+                0.7492510676383972
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4: Task Time (left), Distance Error (center), and Angular Error (right). Lower is better in all plots. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.894544780254364
+            ],
+            [
+                "Font",
+                0.8138768672943115
+            ],
+            [
+                "Slope",
+                0.8009933829307556
+            ],
+            [
+                "Parallel",
+                0.7894188165664673
+            ],
+            [
+                "Schematic",
+                0.7647181153297424
+            ],
+            [
+                "Pattern",
+                0.7493512034416199
+            ],
+            [
+                "Diagram",
+                0.7173477411270142
+            ],
+            [
+                "Symmetry",
+                0.6927726864814758
+            ],
+            [
+                "Number",
+                0.6890192031860352
+            ],
+            [
+                "Plan",
+                0.6488619446754456
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure 5: Results for SSQ (left, lower is better), IPQ (center, higher is better), and SUS (right, higher is better). \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.898112952709198
+            ],
+            [
+                "Schematic",
+                0.830095112323761
+            ],
+            [
+                "Font",
+                0.8172088265419006
+            ],
+            [
+                "Parallel",
+                0.7890986800193787
+            ],
+            [
+                "Pattern",
+                0.721508264541626
+            ],
+            [
+                "Plan",
+                0.7038836479187012
+            ],
+            [
+                "Diagram",
+                0.6991074085235596
+            ],
+            [
+                "Number",
+                0.6708207726478577
+            ],
+            [
+                "Technical drawing",
+                0.6666030883789062
+            ],
+            [
+                "Slope",
+                0.6128525733947754
+            ]
+        ]
+    },
+    "6": {
+        "type": "table",
+        "caption_text": "Figure 6: Results for the Device Assessment (DAQ). \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8324077129364014
+            ],
+            [
+                "Font",
+                0.8133660554885864
+            ],
+            [
+                "Parallel",
+                0.778387188911438
+            ],
+            [
+                "Number",
+                0.6269822120666504
+            ],
+            [
+                "Slope",
+                0.5969777703285217
+            ],
+            [
+                "Electric blue",
+                0.5428484678268433
+            ],
+            [
+                "Document",
+                0.5255492329597473
+            ]
+        ]
+    },
+    "7": {
+        "type": "graphic",
+        "caption_text": "Figure 7: A translation of real pedalling to a virtual GoKart. \n",
+        "image_labels": [
+            [
+                "Sky",
+                0.964618980884552
+            ],
+            [
+                "Plant",
+                0.9483837485313416
+            ],
+            [
+                "Automotive tire",
+                0.9146806597709656
+            ],
+            [
+                "Wheel",
+                0.9068018794059753
+            ],
+            [
+                "Sports equipment",
+                0.9066259860992432
+            ],
+            [
+                "Tire",
+                0.8991398811340332
+            ],
+            [
+                "Tree",
+                0.8903506994247437
+            ],
+            [
+                "Asphalt",
+                0.8738634586334229
+            ],
+            [
+                "Helmet",
+                0.8569060564041138
+            ],
+            [
+                "Road surface",
+                0.8521711230278015
+            ]
+        ]
+    }
+}

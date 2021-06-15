@@ -1,0 +1,508 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1: Season Traveller is a multisensory VR experience\nintegrated with Samsung Gear VR HMD. It enhances partici-\npants\u2019 sense of presence using visual, auditory, wind, thermal,\nand olfactory stimuli.\n",
+        "image_labels": [
+            [
+                "Hearing",
+                0.9167740345001221
+            ],
+            [
+                "Peripheral",
+                0.8909295201301575
+            ],
+            [
+                "Ear",
+                0.8741432428359985
+            ],
+            [
+                "Eyelash",
+                0.8535832762718201
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Gadget",
+                0.841265082359314
+            ],
+            [
+                "Audio equipment",
+                0.8137010335922241
+            ],
+            [
+                "Flash photography",
+                0.8006716370582581
+            ],
+            [
+                "Font",
+                0.7949051856994629
+            ],
+            [
+                "Sports gear",
+                0.7474027276039124
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2: The experimental setup of the smell chamber used\nto compare olfactory delivery methods.\n",
+        "image_labels": [
+            [
+                "Font",
+                0.7901166081428528
+            ],
+            [
+                "Engineering",
+                0.769650399684906
+            ],
+            [
+                "Technology",
+                0.760202944278717
+            ],
+            [
+                "Cable",
+                0.7253695130348206
+            ],
+            [
+                "Machine",
+                0.7237933278083801
+            ],
+            [
+                "Eyewear",
+                0.7190402150154114
+            ],
+            [
+                "Space",
+                0.7179626226425171
+            ],
+            [
+                "Wire",
+                0.7097786664962769
+            ],
+            [
+                "Audio equipment",
+                0.6870439648628235
+            ],
+            [
+                "Automotive design",
+                0.6820175647735596
+            ]
+        ]
+    },
+    "3": {
+        "type": "table",
+        "caption_text": "Figure 3: Average sensation scores based on Labeled Magni-\ntude Scale (LMS). (Error bars represent 95% CI, n = 15).\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9107978940010071
+            ],
+            [
+                "Product",
+                0.9072318077087402
+            ],
+            [
+                "Slope",
+                0.8411766290664673
+            ],
+            [
+                "Font",
+                0.8379648327827454
+            ],
+            [
+                "Line",
+                0.8213242292404175
+            ],
+            [
+                "Material property",
+                0.8019596934318542
+            ],
+            [
+                "Parallel",
+                0.7915517687797546
+            ],
+            [
+                "Pattern",
+                0.778809130191803
+            ],
+            [
+                "Number",
+                0.7145065069198608
+            ],
+            [
+                "Diagram",
+                0.7104693651199341
+            ]
+        ]
+    },
+    "5": {
+        "type": "graphic",
+        "caption_text": "Figure 5: The four seasons and their stimuli: a) Spring (Jas-\nmine scent, medium wind strength and no thermal stimula-\ntion), b) Summer (Lemon scent, mild wind strength and heat-\ning stimulation), c) Autumn (Cinnamon scent, strong wind\nstrength and no thermal stimulation) and d) Winter (Mint scent,\nmedium wind strength and cooling stimulation).\n",
+        "image_labels": [
+            [
+                "Sky",
+                0.9470008611679077
+            ],
+            [
+                "Photograph",
+                0.9421589374542236
+            ],
+            [
+                "World",
+                0.8886272311210632
+            ],
+            [
+                "Biome",
+                0.8244980573654175
+            ],
+            [
+                "Travel",
+                0.8016024231910706
+            ],
+            [
+                "Adaptation",
+                0.7929297685623169
+            ],
+            [
+                "Plant",
+                0.739741861820221
+            ],
+            [
+                "Recreation",
+                0.7301362156867981
+            ],
+            [
+                "Landscape",
+                0.7249933481216431
+            ],
+            [
+                "Screenshot",
+                0.704613447189331
+            ]
+        ]
+    },
+    "4": {
+        "type": "picture",
+        "caption_text": "Figure 4: Main modules of Season Traveller: (a) Control\nModule, (b) Olfactory Simulation Module, (c) Front Casing\nand Wind Simulation Module, (d) Thermal Simulation Module\n",
+        "image_labels": [
+            [
+                "White",
+                0.9218786954879761
+            ],
+            [
+                "Light",
+                0.9122803807258606
+            ],
+            [
+                "Product",
+                0.9081564545631409
+            ],
+            [
+                "Automotive lighting",
+                0.9074392914772034
+            ],
+            [
+                "Font",
+                0.8341794610023499
+            ],
+            [
+                "Auto part",
+                0.7782119512557983
+            ],
+            [
+                "Cable",
+                0.7757405638694763
+            ],
+            [
+                "Electronic device",
+                0.7552018761634827
+            ],
+            [
+                "Machine",
+                0.7458145022392273
+            ],
+            [
+                "Jewellery",
+                0.7095316648483276
+            ]
+        ]
+    },
+    "6": {
+        "type": "graphic",
+        "caption_text": "Figure 6: The experimental setup of Season Traveller. Physio-\nlogical signals were recorded during each participant\u2019s experi-\nence with the system.\n",
+        "image_labels": [
+            [
+                "Sky",
+                0.9314103722572327
+            ],
+            [
+                "World",
+                0.8414950370788574
+            ],
+            [
+                "Landscape",
+                0.7133412957191467
+            ],
+            [
+                "Room",
+                0.6503563523292542
+            ],
+            [
+                "Event",
+                0.6444040536880493
+            ],
+            [
+                "Recreation",
+                0.6429463624954224
+            ],
+            [
+                "Pc game",
+                0.5868799090385437
+            ],
+            [
+                "Strategy video game",
+                0.5850598812103271
+            ],
+            [
+                "City",
+                0.5712178349494934
+            ],
+            [
+                "Animation",
+                0.5662714838981628
+            ]
+        ]
+    },
+    "7": {
+        "type": "graphic",
+        "caption_text": "Figure 7: Normalized average Sensory sub-factors scores for \ufb01ve system con\ufb01gurations (Error bars represent 95% CI, n = 20).\nSigni\ufb01cant differences are highlighted by asterisks.\n",
+        "image_labels": [
+            [
+                "Natural environment",
+                0.8922937512397766
+            ],
+            [
+                "Sky",
+                0.8866957426071167
+            ],
+            [
+                "Biome",
+                0.8340733051300049
+            ],
+            [
+                "Landscape",
+                0.790276825428009
+            ],
+            [
+                "Plant",
+                0.712363064289093
+            ],
+            [
+                "Travel",
+                0.6781914830207825
+            ],
+            [
+                "Soil",
+                0.6568794250488281
+            ],
+            [
+                "Aeolian landform",
+                0.6242400407791138
+            ],
+            [
+                "Natural landscape",
+                0.5877764225006104
+            ],
+            [
+                "Rock",
+                0.5724137425422668
+            ]
+        ]
+    },
+    "8": {
+        "type": "graphic",
+        "caption_text": "Figure 8: Normalized average Sensory Factors scores for \ufb01ve\nsystem con\ufb01gurations (Error bars represent 95% CI, n = 20).\n",
+        "image_labels": [
+            [
+                "Sky",
+                0.9564017057418823
+            ],
+            [
+                "World",
+                0.8863599300384521
+            ],
+            [
+                "Landmark",
+                0.7786828279495239
+            ],
+            [
+                "Font",
+                0.751615583896637
+            ],
+            [
+                "Facade",
+                0.7213771343231201
+            ],
+            [
+                "Glass",
+                0.6744800806045532
+            ],
+            [
+                "Freezing",
+                0.6673407554626465
+            ],
+            [
+                "Windshield",
+                0.6661381125450134
+            ],
+            [
+                "Rectangle",
+                0.6617021560668945
+            ],
+            [
+                "Mountain range",
+                0.6466115117073059
+            ]
+        ]
+    },
+    "9": {
+        "type": "human",
+        "caption_text": "Figure 9: Normalized average scores for item 30 (richness of\nexperience) (Error bars represent 95% CI, n = 20).\n",
+        "image_labels": [
+            [
+                "Computer",
+                0.9679934978485107
+            ],
+            [
+                "Laptop",
+                0.9503880143165588
+            ],
+            [
+                "Personal computer",
+                0.9410303831100464
+            ],
+            [
+                "Output device",
+                0.9152401089668274
+            ],
+            [
+                "Product",
+                0.9074806571006775
+            ],
+            [
+                "Netbook",
+                0.8809223771095276
+            ],
+            [
+                "Gadget",
+                0.8644766807556152
+            ],
+            [
+                "Hearing",
+                0.8607426285743713
+            ],
+            [
+                "Peripheral",
+                0.807549774646759
+            ],
+            [
+                "Font",
+                0.7874423265457153
+            ]
+        ]
+    },
+    "10": {
+        "type": "chart",
+        "caption_text": "Figure 10: Baseline adjusted HR of all the participants\nrecorded through the \ufb01ve different system con\ufb01gurations.\nSolid lines represent the means and the \ufb01lled areas represent\ntheir respective standard deviations.\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8854195475578308
+            ],
+            [
+                "Plot",
+                0.8519997596740723
+            ],
+            [
+                "Font",
+                0.8242508172988892
+            ],
+            [
+                "Parallel",
+                0.7762731909751892
+            ],
+            [
+                "Rectangle",
+                0.7641891837120056
+            ],
+            [
+                "Terrestrial plant",
+                0.7090298533439636
+            ],
+            [
+                "Diagram",
+                0.6742939949035645
+            ],
+            [
+                "Screenshot",
+                0.6400347948074341
+            ],
+            [
+                "Symmetry",
+                0.5457023978233337
+            ],
+            [
+                "Pattern",
+                0.5133402347564697
+            ]
+        ]
+    },
+    "11": {
+        "type": "chart",
+        "caption_text": "Figure 11: Baseline adjusted EDA of all the participants\nrecorded through the \ufb01ve different system con\ufb01gurations.\nSolid lines represent the means and the \ufb01lled areas represent\ntheir respective standard deviations.\n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Rectangle",
+                0.9048447012901306
+            ],
+            [
+                "Slope",
+                0.8814008831977844
+            ],
+            [
+                "Plot",
+                0.8680839538574219
+            ],
+            [
+                "Font",
+                0.8273550271987915
+            ],
+            [
+                "Line",
+                0.8196254968643188
+            ],
+            [
+                "Parallel",
+                0.7899464964866638
+            ],
+            [
+                "Pattern",
+                0.7498169541358948
+            ],
+            [
+                "Symmetry",
+                0.7397674322128296
+            ],
+            [
+                "Circle",
+                0.7076483964920044
+            ]
+        ]
+    }
+}

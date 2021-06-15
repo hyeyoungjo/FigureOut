@@ -1,0 +1,324 @@
+{
+    "1": {
+        "type": "graphic",
+        "caption_text": "Figure 1.  We show that throwing in reality (2-4) is more than twice as accurate compared to VR (1).  We investigate overhand throws at short range \nwith vertical targets (1, 2), underhand throws at short range with horizontal targets (3), and overhand throws at long range (4). \n",
+        "image_labels": [
+            [
+                "Sky",
+                0.887830376625061
+            ],
+            [
+                "Rectangle",
+                0.8466094136238098
+            ],
+            [
+                "Cloud",
+                0.8152366280555725
+            ],
+            [
+                "Tints and shades",
+                0.7672721743583679
+            ],
+            [
+                "Art",
+                0.7211859822273254
+            ],
+            [
+                "Facade",
+                0.696416437625885
+            ],
+            [
+                "Pole",
+                0.6773836612701416
+            ],
+            [
+                "Electric blue",
+                0.6751411557197571
+            ],
+            [
+                "Glass",
+                0.6489577293395996
+            ],
+            [
+                "Tree",
+                0.641212522983551
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2.  Throwing accuracy for three participants shows no improve-\nment after the initial 10-15 throws. \n",
+        "image_labels": [
+            [
+                "Window",
+                0.9196721911430359
+            ],
+            [
+                "Fixture",
+                0.8884150385856628
+            ],
+            [
+                "Art",
+                0.7829253077507019
+            ],
+            [
+                "Recreation",
+                0.7804633378982544
+            ],
+            [
+                "T-shirt",
+                0.7787736654281616
+            ],
+            [
+                "Glass",
+                0.7433850765228271
+            ],
+            [
+                "Shooting",
+                0.7026865482330322
+            ],
+            [
+                "Room",
+                0.673751175403595
+            ],
+            [
+                "Visual arts",
+                0.6474241018295288
+            ],
+            [
+                "Shooting sport",
+                0.6431342363357544
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3. Throwing accuracy in the real world is almost twice as high as \nin VR. \n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Floor",
+                0.8219378590583801
+            ],
+            [
+                "Window",
+                0.8165198564529419
+            ],
+            [
+                "Rectangle",
+                0.7992871403694153
+            ],
+            [
+                "Flooring",
+                0.7812297344207764
+            ],
+            [
+                "Gas",
+                0.7744579911231995
+            ],
+            [
+                "Wood",
+                0.7615309953689575
+            ],
+            [
+                "Wrist",
+                0.7321573495864868
+            ],
+            [
+                "Elbow",
+                0.7100237607955933
+            ],
+            [
+                "Machine",
+                0.6980174779891968
+            ]
+        ]
+    },
+    "4": {
+        "type": "human",
+        "caption_text": "Figure 4.  Throwing precision in the real world is 2-3 times higher, and \nmore stable between the participants compared to VR. \n",
+        "image_labels": [
+            [
+                "Window",
+                0.8917418718338013
+            ],
+            [
+                "Shooting range",
+                0.8829630613327026
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Plant",
+                0.8349623084068298
+            ],
+            [
+                "T-shirt",
+                0.784395158290863
+            ],
+            [
+                "Technology",
+                0.7429439425468445
+            ],
+            [
+                "Recreation",
+                0.7323735952377319
+            ],
+            [
+                "Precision sports",
+                0.7122038006782532
+            ],
+            [
+                "Elbow",
+                0.7094704508781433
+            ],
+            [
+                "Tree",
+                0.7007400989532471
+            ]
+        ]
+    },
+    "5": {
+        "type": "formula",
+        "caption_text": "Figure  5.  Scatter  plots  of  hit  points  with  kernel  density  estimator.  A \nsmall  number  of  virtual  hit  points  are  located  outside  the  viewport \nshown  here.  The  \ufb01rst  row  shows  the  real  setting  and  the  second  row \nVR. Stations 1, 2, and 3 are shown from left to right.  The black circle \nrepresents the outline of the target (All units are meters). \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9092763066291809
+            ],
+            [
+                "Slope",
+                0.8854066729545593
+            ],
+            [
+                "Font",
+                0.8508743643760681
+            ],
+            [
+                "Line",
+                0.822145402431488
+            ],
+            [
+                "Parallel",
+                0.7910609841346741
+            ],
+            [
+                "Pattern",
+                0.7841220498085022
+            ],
+            [
+                "Circle",
+                0.7713289856910706
+            ],
+            [
+                "Symmetry",
+                0.7399516701698303
+            ],
+            [
+                "Number",
+                0.716160774230957
+            ],
+            [
+                "Plot",
+                0.7085128426551819
+            ]
+        ]
+    },
+    "6": {
+        "type": "table",
+        "caption_text": "Figure 6.  Comparison of kinematic patterns for Station 1 (left) and 2 \n(right).  The real movement data recorded with OptiTrack is displayed \nin red.  Data points recorded in VR with Unity are shown in blue.  The \nthrowing  direction  followed  the  green  arrow  along  the  red  axis  to  the \nright. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9030441045761108
+            ],
+            [
+                "Slope",
+                0.8557312488555908
+            ],
+            [
+                "Font",
+                0.8267508149147034
+            ],
+            [
+                "Parallel",
+                0.7894033789634705
+            ],
+            [
+                "Circle",
+                0.7677604556083679
+            ],
+            [
+                "Pattern",
+                0.7517850399017334
+            ],
+            [
+                "Number",
+                0.707341730594635
+            ],
+            [
+                "Screenshot",
+                0.6833086609840393
+            ],
+            [
+                "Diagram",
+                0.6570173501968384
+            ],
+            [
+                "Symmetry",
+                0.6127812266349792
+            ]
+        ]
+    },
+    "7": {
+        "type": "table",
+        "caption_text": "Figure 7.  Boxplot of the average perceived workload according to the \nRaw NASA TLX scores. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9027091860771179
+            ],
+            [
+                "Slope",
+                0.8434436321258545
+            ],
+            [
+                "Font",
+                0.8146301507949829
+            ],
+            [
+                "Parallel",
+                0.7877222299575806
+            ],
+            [
+                "Circle",
+                0.7417516708374023
+            ],
+            [
+                "Pattern",
+                0.7293834090232849
+            ],
+            [
+                "Number",
+                0.7165192365646362
+            ],
+            [
+                "Diagram",
+                0.5949544906616211
+            ],
+            [
+                "Symmetry",
+                0.591335654258728
+            ],
+            [
+                "Square",
+                0.5285770297050476
+            ]
+        ]
+    }
+}

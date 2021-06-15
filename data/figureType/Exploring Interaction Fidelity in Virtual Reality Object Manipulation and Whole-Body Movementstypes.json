@@ -1,0 +1,232 @@
+{
+    "1": {
+        "type": "graphic",
+        "caption_text": "Figure 1: In two user studies, we explored player experiences with varying degrees of interaction fidelity in VR. One study\nexplored object manipulation (a & b), while the other focused on whole-body movements (c).\n",
+        "image_labels": [
+            [
+                "Space",
+                0.7271263599395752
+            ],
+            [
+                "Video game software",
+                0.6634188890457153
+            ],
+            [
+                "Room",
+                0.6606771945953369
+            ],
+            [
+                "Event",
+                0.643794596195221
+            ],
+            [
+                "Font",
+                0.6323253512382507
+            ],
+            [
+                "Chair",
+                0.6080254912376404
+            ],
+            [
+                "Games",
+                0.6073793768882751
+            ],
+            [
+                "Pc game",
+                0.5805715918540955
+            ],
+            [
+                "Darkness",
+                0.5683602094650269
+            ],
+            [
+                "Shooter game",
+                0.5536268353462219
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2: Task T1: In the HF condition, users had to physi-\ncally use each buckle a\u20dd and then push open the chest\u2019s lid\nb\u20dd, while the low-fidelity version offered clicks and a widget\nc\u20dd to allow users to interact with the chest and its contents.\n",
+        "image_labels": [
+            [
+                "Wood",
+                0.867171585559845
+            ],
+            [
+                "Flooring",
+                0.8069403171539307
+            ],
+            [
+                "Wood stain",
+                0.789297342300415
+            ],
+            [
+                "Hardwood",
+                0.7802510261535645
+            ],
+            [
+                "Rectangle",
+                0.7723603248596191
+            ],
+            [
+                "Building",
+                0.7701073288917542
+            ],
+            [
+                "Stairs",
+                0.758650541305542
+            ],
+            [
+                "Window",
+                0.680944561958313
+            ],
+            [
+                "Ceiling",
+                0.6730502843856812
+            ],
+            [
+                "Font",
+                0.6720026731491089
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3: Potion brewing (T2) in HF involved physically\npouring potion vial contents into the cauldron a\u20dd. In the\nLF variant, players dragged potion vials from their inven-\ntory to the activated cauldron widget b\u20dd.\n",
+        "image_labels": [
+            [
+                "Yellow",
+                0.8500356674194336
+            ],
+            [
+                "Rectangle",
+                0.816944420337677
+            ],
+            [
+                "Mixing bowl",
+                0.7984969019889832
+            ],
+            [
+                "Flooring",
+                0.7784305214881897
+            ],
+            [
+                "Wood",
+                0.7776122093200684
+            ],
+            [
+                "Tints and shades",
+                0.7691713571548462
+            ],
+            [
+                "Font",
+                0.7486425638198853
+            ],
+            [
+                "Gadget",
+                0.7453410625457764
+            ],
+            [
+                "Pattern",
+                0.6781194806098938
+            ],
+            [
+                "Serveware",
+                0.6551836133003235
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4: The higher fidelity condition resulted in signifi-\ncantly higher values for all IEQ factors except challenge.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9065836071968079
+            ],
+            [
+                "Font",
+                0.8335735201835632
+            ],
+            [
+                "Plot",
+                0.8204981684684753
+            ],
+            [
+                "Slope",
+                0.8174719214439392
+            ],
+            [
+                "Parallel",
+                0.7907500267028809
+            ],
+            [
+                "Pattern",
+                0.7606340050697327
+            ],
+            [
+                "Diagram",
+                0.7534308433532715
+            ],
+            [
+                "Screenshot",
+                0.7196619510650635
+            ],
+            [
+                "Number",
+                0.7117332816123962
+            ],
+            [
+                "Circle",
+                0.640649676322937
+            ]
+        ]
+    },
+    "5": {
+        "type": "human",
+        "caption_text": "Figure 5: The player (b) and their view (a) while crawling,\ncompared to the player (d) and their view (c) while dangling\nalong two bars.\n",
+        "image_labels": [
+            [
+                "Arm",
+                0.9435228109359741
+            ],
+            [
+                "Product",
+                0.9076051115989685
+            ],
+            [
+                "Black",
+                0.8977872729301453
+            ],
+            [
+                "Output device",
+                0.8318033218383789
+            ],
+            [
+                "Font",
+                0.817933976650238
+            ],
+            [
+                "Flooring",
+                0.7432376742362976
+            ],
+            [
+                "Snapshot",
+                0.742847204208374
+            ],
+            [
+                "Automotive design",
+                0.7370600700378418
+            ],
+            [
+                "Machine",
+                0.7024142742156982
+            ],
+            [
+                "Room",
+                0.6867488622665405
+            ]
+        ]
+    }
+}

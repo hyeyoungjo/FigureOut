@@ -1,0 +1,384 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1: Selected Mode-switching techniques: (a) non dominant fist (nd-fist); (b) non dominant palm (nd-palm); (c) hand in\nfield of view (nd-fov); (d) touch head (nd-head); (e) dominant fist (d-fist); (f) dominant palm (d-palm); (g) point (d-point) .\n",
+        "image_labels": [
+            [
+                "Nose",
+                0.9835830330848694
+            ],
+            [
+                "Joint",
+                0.977387547492981
+            ],
+            [
+                "Head",
+                0.9749500751495361
+            ],
+            [
+                "Hand",
+                0.9609222412109375
+            ],
+            [
+                "Arm",
+                0.9447230696678162
+            ],
+            [
+                "Facial expression",
+                0.9333510994911194
+            ],
+            [
+                "Vertebrate",
+                0.9255759119987488
+            ],
+            [
+                "White",
+                0.9218897819519043
+            ],
+            [
+                "Organ",
+                0.9180508852005005
+            ],
+            [
+                "Cartoon",
+                0.9058073163032532
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2: Line drawing task: (a) baseline; (b) compound.\n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9774527549743652
+            ],
+            [
+                "Hand",
+                0.9573550820350647
+            ],
+            [
+                "White",
+                0.9218885898590088
+            ],
+            [
+                "Blue",
+                0.8972417116165161
+            ],
+            [
+                "Azure",
+                0.8933515548706055
+            ],
+            [
+                "Human body",
+                0.8844165205955505
+            ],
+            [
+                "Sleeve",
+                0.8723360300064087
+            ],
+            [
+                "Organism",
+                0.8683058023452759
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8436470031738281
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3: Mode-switch time by techniqe (error bars in all\ngraphs are 95% CI).\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8558085560798645
+            ],
+            [
+                "Rectangle",
+                0.8484078645706177
+            ],
+            [
+                "Plot",
+                0.8427490592002869
+            ],
+            [
+                "Font",
+                0.8259895443916321
+            ],
+            [
+                "Parallel",
+                0.7807008028030396
+            ],
+            [
+                "Diagram",
+                0.5792666077613831
+            ],
+            [
+                "Pattern",
+                0.5363712906837463
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4: Overall error rate by techniqe.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8728874325752258
+            ],
+            [
+                "Slope",
+                0.8646169304847717
+            ],
+            [
+                "Plot",
+                0.8485181927680969
+            ],
+            [
+                "Font",
+                0.8129622936248779
+            ],
+            [
+                "Parallel",
+                0.7810248136520386
+            ],
+            [
+                "Number",
+                0.5499907732009888
+            ],
+            [
+                "Diagram",
+                0.5302696228027344
+            ],
+            [
+                "Pattern",
+                0.5102139711380005
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5: Proportion of specific error rates by techniqe.\nNote multiple error types can occur in a cycle.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9081137180328369
+            ],
+            [
+                "Slope",
+                0.8631927371025085
+            ],
+            [
+                "Font",
+                0.8469071984291077
+            ],
+            [
+                "Parallel",
+                0.7887896299362183
+            ],
+            [
+                "Plot",
+                0.7718707919120789
+            ],
+            [
+                "Pattern",
+                0.7479084134101868
+            ],
+            [
+                "Diagram",
+                0.7007371187210083
+            ],
+            [
+                "Number",
+                0.5892793536186218
+            ],
+            [
+                "Screenshot",
+                0.5092268586158752
+            ]
+        ]
+    },
+    "6": {
+        "type": "diagram",
+        "caption_text": "Figure 6: Mode switching techniques evaluated in experi-\nment 2. (a) orientated pinch (d-orient); (b) middle finger\npinch (d-middle)\n",
+        "image_labels": [
+            [
+                "Head",
+                0.9725534915924072
+            ],
+            [
+                "Hand",
+                0.9604997634887695
+            ],
+            [
+                "Facial expression",
+                0.9333964586257935
+            ],
+            [
+                "White",
+                0.9218708276748657
+            ],
+            [
+                "Vertebrate",
+                0.918586254119873
+            ],
+            [
+                "Organ",
+                0.9137362241744995
+            ],
+            [
+                "Human",
+                0.9052112698554993
+            ],
+            [
+                "Human body",
+                0.8858513832092285
+            ],
+            [
+                "Sleeve",
+                0.8724493980407715
+            ],
+            [
+                "Happy",
+                0.8704310655593872
+            ]
+        ]
+    },
+    "7": {
+        "type": "formula",
+        "caption_text": "Figure 7: Mode-switch times by techniqe.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9021156430244446
+            ],
+            [
+                "Slope",
+                0.8742172718048096
+            ],
+            [
+                "Plot",
+                0.8579370379447937
+            ],
+            [
+                "Font",
+                0.8038031458854675
+            ],
+            [
+                "Parallel",
+                0.790178120136261
+            ],
+            [
+                "Circle",
+                0.757603645324707
+            ],
+            [
+                "Pattern",
+                0.7530916929244995
+            ],
+            [
+                "Symmetry",
+                0.7304604053497314
+            ],
+            [
+                "Number",
+                0.7139192819595337
+            ],
+            [
+                "Diagram",
+                0.7115092277526855
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8: Overall error rate by techniqe. Baseline tech-\nniques have start and end error rates.\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8690914511680603
+            ],
+            [
+                "Rectangle",
+                0.8559720516204834
+            ],
+            [
+                "Plot",
+                0.8431469798088074
+            ],
+            [
+                "Font",
+                0.8003805875778198
+            ],
+            [
+                "Parallel",
+                0.7880538105964661
+            ],
+            [
+                "Diagram",
+                0.6697118878364563
+            ],
+            [
+                "Pattern",
+                0.6521862745285034
+            ],
+            [
+                "Screenshot",
+                0.550635576248169
+            ],
+            [
+                "Circle",
+                0.540748655796051
+            ],
+            [
+                "Number",
+                0.5157208442687988
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9: Proportion of specific error rates by techniqe.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9050945043563843
+            ],
+            [
+                "Font",
+                0.8486728072166443
+            ],
+            [
+                "Slope",
+                0.829886257648468
+            ],
+            [
+                "Parallel",
+                0.7867321968078613
+            ],
+            [
+                "Plot",
+                0.7649604678153992
+            ],
+            [
+                "Diagram",
+                0.6151034235954285
+            ],
+            [
+                "Number",
+                0.60468590259552
+            ],
+            [
+                "Pattern",
+                0.5312193632125854
+            ]
+        ]
+    }
+}

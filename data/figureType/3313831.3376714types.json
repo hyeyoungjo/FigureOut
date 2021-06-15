@@ -1,0 +1,324 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1: Left: Our framework splits the problem of simulating interactive VR sword \ufb01ghting characters into a \u201cphysical\u201d level, \nrelying on data-driven models, and a \u201csemantic\u201d level, where designers can con\ufb01gure the behaviour of the character.  Right: \nThe framework generates responsive animations against player attacks (top), avoiding nonreactive behaviour from the character \n(bottom left). A neural network parameterised by the position of the player\u2019s sword synthesises the animation (bottom right). \n",
+        "image_labels": [
+            [
+                "Sleeve",
+                0.8723382949829102
+            ],
+            [
+                "Gesture",
+                0.8526048064231873
+            ],
+            [
+                "Font",
+                0.8041285276412964
+            ],
+            [
+                "Parallel",
+                0.7754640579223633
+            ],
+            [
+                "Elbow",
+                0.7575609683990479
+            ],
+            [
+                "Technology",
+                0.7362807989120483
+            ],
+            [
+                "Rectangle",
+                0.6456978917121887
+            ],
+            [
+                "Pattern",
+                0.5726943612098694
+            ],
+            [
+                "Diagram",
+                0.566862940788269
+            ],
+            [
+                "Soil",
+                0.5648443102836609
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2: Character behaviour diagram. Transitions marked \nwith * depend on the con\ufb01guration of the framework. \n",
+        "image_labels": [
+            [
+                "Joint",
+                0.977756142616272
+            ],
+            [
+                "Bow",
+                0.977241575717926
+            ],
+            [
+                "Arm",
+                0.9451131224632263
+            ],
+            [
+                "Shoulder",
+                0.9402890205383301
+            ],
+            [
+                "Muscle",
+                0.9207428693771362
+            ],
+            [
+                "Human",
+                0.8918034434318542
+            ],
+            [
+                "Human body",
+                0.8850886821746826
+            ],
+            [
+                "Sleeve",
+                0.8699164986610413
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Elbow",
+                0.8459000587463379
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3: Gesture class and progress prediction accuracy. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9079147577285767
+            ],
+            [
+                "Slope",
+                0.8973167538642883
+            ],
+            [
+                "Azure",
+                0.8966305255889893
+            ],
+            [
+                "Plot",
+                0.8679818511009216
+            ],
+            [
+                "Rectangle",
+                0.8652808666229248
+            ],
+            [
+                "Font",
+                0.8573365211486816
+            ],
+            [
+                "Parallel",
+                0.7611035108566284
+            ],
+            [
+                "Circle",
+                0.7468262910842896
+            ],
+            [
+                "Diagram",
+                0.7101064324378967
+            ],
+            [
+                "Terrestrial plant",
+                0.6952239274978638
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure  4:  The  pose  difference  measures  the  total  distance \nbetween pairs of corresponding bones (bone A and bone B), \ncomputing the area of the four triangles from the bone ends \n(A1, A2, B1, B2) to the mid point (M). \n",
+        "image_labels": [
+            [
+                "Azure",
+                0.8954986929893494
+            ],
+            [
+                "Slope",
+                0.8869740962982178
+            ],
+            [
+                "Plot",
+                0.8465191721916199
+            ],
+            [
+                "Font",
+                0.8444973230361938
+            ],
+            [
+                "Rectangle",
+                0.8376122117042542
+            ],
+            [
+                "Parallel",
+                0.7606083750724792
+            ],
+            [
+                "Circle",
+                0.7287526726722717
+            ],
+            [
+                "Terrestrial plant",
+                0.6904533505439758
+            ],
+            [
+                "Diagram",
+                0.6544243097305298
+            ],
+            [
+                "Number",
+                0.6348875164985657
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure 5:  Normalised histogram and kernel density estima-\ntion of the distribution of pose difference between the motion \npredicted by our model and the evaluation data. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8946455717086792
+            ],
+            [
+                "Slope",
+                0.8899474143981934
+            ],
+            [
+                "Triangle",
+                0.877501904964447
+            ],
+            [
+                "Font",
+                0.8363965153694153
+            ],
+            [
+                "Parallel",
+                0.789455235004425
+            ],
+            [
+                "Symmetry",
+                0.7591755390167236
+            ],
+            [
+                "Pattern",
+                0.7572644948959351
+            ],
+            [
+                "Electric blue",
+                0.7270436882972717
+            ],
+            [
+                "Circle",
+                0.7104920744895935
+            ],
+            [
+                "Drawing",
+                0.688848614692688
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure 6: Interest / Enjoyment, Realism, Skill and Repetitive-\nness scores for the questionnaire study. The control condition \nC was generally inferior, while differences between A and D \nre\ufb02ect the impact of the framework con\ufb01guration. \n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8692304491996765
+            ],
+            [
+                "Plot",
+                0.8254811763763428
+            ],
+            [
+                "Line",
+                0.8240307569503784
+            ],
+            [
+                "Rectangle",
+                0.7888625860214233
+            ],
+            [
+                "Font",
+                0.7322098016738892
+            ],
+            [
+                "Parallel",
+                0.6961941719055176
+            ],
+            [
+                "Electric blue",
+                0.6084613800048828
+            ],
+            [
+                "Terrestrial plant",
+                0.5933721661567688
+            ],
+            [
+                "Number",
+                0.5902926921844482
+            ],
+            [
+                "Diagram",
+                0.5805783271789551
+            ]
+        ]
+    },
+    "7": {
+        "type": "formula",
+        "caption_text": "Figure 7: Interest / Enjoyment, Realism, Skill and Repetitive-\nness scores for the interactive study. \n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8781793117523193
+            ],
+            [
+                "Rectangle",
+                0.8347318172454834
+            ],
+            [
+                "Font",
+                0.7941603660583496
+            ],
+            [
+                "Parallel",
+                0.7880626916885376
+            ],
+            [
+                "Symmetry",
+                0.7095445394515991
+            ],
+            [
+                "Diagram",
+                0.6949467658996582
+            ],
+            [
+                "Pattern",
+                0.6370718479156494
+            ],
+            [
+                "Circle",
+                0.6319397687911987
+            ],
+            [
+                "Number",
+                0.6183384656906128
+            ],
+            [
+                "Plot",
+                0.6011378169059753
+            ]
+        ]
+    }
+}

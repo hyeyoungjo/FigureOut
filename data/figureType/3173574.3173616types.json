@@ -1,0 +1,504 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1. An illustrative scenario of eyes-free target acquisition in vir-\ntual reality. A user is doing design and he fetches tools in the interaction\nspace around the body in an eyes-free manner. The FOV (\ufb01eld of view)\nsize of his HMD is visualized (110 - 120 degrees).\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9076847434043884
+            ],
+            [
+                "Gesture",
+                0.8526033759117126
+            ],
+            [
+                "Line",
+                0.821934700012207
+            ],
+            [
+                "Font",
+                0.7554393410682678
+            ],
+            [
+                "Illustration",
+                0.7134969234466553
+            ],
+            [
+                "Elbow",
+                0.7001704573631287
+            ],
+            [
+                "Graphics",
+                0.6895608901977539
+            ],
+            [
+                "Circle",
+                0.6532456874847412
+            ],
+            [
+                "Drawing",
+                0.6482841372489929
+            ],
+            [
+                "Sharing",
+                0.6442968249320984
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2. The setting of the experiment and the task interface in Study1.\nA user moved the controller to acquire the virtual sphere in the 5 \u00d7 5\ngrid. Then he turned head to see which sphere he had acquired (the red\none).\n",
+        "image_labels": [
+            [
+                "Sleeve",
+                0.8724503517150879
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8210521936416626
+            ],
+            [
+                "Elbow",
+                0.7972264289855957
+            ],
+            [
+                "T-shirt",
+                0.7927221655845642
+            ],
+            [
+                "Circle",
+                0.7065497040748596
+            ],
+            [
+                "Handwriting",
+                0.6977922320365906
+            ],
+            [
+                "Brand",
+                0.656843900680542
+            ],
+            [
+                "Gadget",
+                0.6434772610664368
+            ],
+            [
+                "Cap",
+                0.6375023126602173
+            ]
+        ]
+    },
+    "4": {
+        "type": "formula",
+        "caption_text": "Figure 4. The averaged distances between targets and comfort ratings of\nthe target positions with different horizontal angles.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8947694301605225
+            ],
+            [
+                "Slope",
+                0.8886734843254089
+            ],
+            [
+                "Font",
+                0.8509701490402222
+            ],
+            [
+                "Plot",
+                0.8245552778244019
+            ],
+            [
+                "Parallel",
+                0.7895768880844116
+            ],
+            [
+                "Symmetry",
+                0.7707427740097046
+            ],
+            [
+                "Pattern",
+                0.7663910388946533
+            ],
+            [
+                "Circle",
+                0.7547529935836792
+            ],
+            [
+                "Number",
+                0.6969045996665955
+            ],
+            [
+                "Diagram",
+                0.6362271904945374
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3. The circles summarize the comfort level (color) and the mini-\nmum distance between targets (radius) for different target positions (cen-\nters) when users acquired them.\n",
+        "image_labels": [
+            [
+                "Vertebrate",
+                0.920448899269104
+            ],
+            [
+                "Organism",
+                0.873297393321991
+            ],
+            [
+                "Yellow",
+                0.8493854999542236
+            ],
+            [
+                "Font",
+                0.8455010652542114
+            ],
+            [
+                "Material property",
+                0.8023210167884827
+            ],
+            [
+                "Symmetry",
+                0.7949726581573486
+            ],
+            [
+                "Circle",
+                0.7859109044075012
+            ],
+            [
+                "Pattern",
+                0.776374340057373
+            ],
+            [
+                "Beehive",
+                0.736836314201355
+            ],
+            [
+                "Rectangle",
+                0.7365286946296692
+            ]
+        ]
+    },
+    "5": {
+        "type": "picture",
+        "caption_text": "Figure 5. The concept of the experiment settings. The furniture indicates\nthe virtual surroundings of the participants. The red spheres indicate\nthe twelve directions that the participants rotate to, and the green sphere\nindicates the positioned target.\n",
+        "image_labels": [
+            [
+                "Line",
+                0.8159716129302979
+            ],
+            [
+                "Audio equipment",
+                0.813050389289856
+            ],
+            [
+                "Circuit component",
+                0.7894126176834106
+            ],
+            [
+                "Gas",
+                0.778863251209259
+            ],
+            [
+                "Engineering",
+                0.7640402913093567
+            ],
+            [
+                "Composite material",
+                0.7506933212280273
+            ],
+            [
+                "Slope",
+                0.7417543530464172
+            ],
+            [
+                "Circle",
+                0.7225489020347595
+            ],
+            [
+                "Parallel",
+                0.7222366333007812
+            ],
+            [
+                "Font",
+                0.712702214717865
+            ]
+        ]
+    },
+    "6": {
+        "type": "formula",
+        "caption_text": "Figure 6. Summary of the main results of this experiment. The centers of\nthe circles are the averaged positions of twelve acquisitions of 24 users\nand radiuses are the standard deviations. The blue lines visualize the\noffsets of the average positions from the target\u2019s actual positions. All\ncoordinates and lengths are converted to angles in degrees.\n",
+        "image_labels": [
+            [
+                "Facial expression",
+                0.9327357411384583
+            ],
+            [
+                "Organism",
+                0.8689411282539368
+            ],
+            [
+                "Yellow",
+                0.8408101797103882
+            ],
+            [
+                "Line",
+                0.8206447958946228
+            ],
+            [
+                "Happy",
+                0.8189058303833008
+            ],
+            [
+                "Font",
+                0.8126749992370605
+            ],
+            [
+                "Symmetry",
+                0.7849860787391663
+            ],
+            [
+                "Circle",
+                0.7744051814079285
+            ],
+            [
+                "Pattern",
+                0.7629913091659546
+            ],
+            [
+                "Pleased",
+                0.6479572057723999
+            ]
+        ]
+    },
+    "7": {
+        "type": "chart",
+        "caption_text": "Figure 7. (a) The horizontal angular offset of the acquisitions at differ-\nent horizontal angles; (b) The vertical angular offset of the acquisitions\nat different horizontal angles; (c) The spatial offset and head movement\namplitudes of the acquisitions at different horizontal angles; (d) The spa-\ntial offset of the acquisitions after different times of rotations.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9074873924255371
+            ],
+            [
+                "Green",
+                0.9071974158287048
+            ],
+            [
+                "Rectangle",
+                0.9048359990119934
+            ],
+            [
+                "Slope",
+                0.8892943859100342
+            ],
+            [
+                "Font",
+                0.8650786876678467
+            ],
+            [
+                "Line",
+                0.832989513874054
+            ],
+            [
+                "Plot",
+                0.820104718208313
+            ],
+            [
+                "Parallel",
+                0.787680447101593
+            ],
+            [
+                "Pattern",
+                0.7781080007553101
+            ],
+            [
+                "Symmetry",
+                0.7763490676879883
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8. The interpolation of the standard deviations of the target ac-\nquisition points on the whole surface, visualized into a heat map.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8933888077735901
+            ],
+            [
+                "Plot",
+                0.833355724811554
+            ],
+            [
+                "Slope",
+                0.8271834254264832
+            ],
+            [
+                "Font",
+                0.8260719776153564
+            ],
+            [
+                "Line",
+                0.8236539363861084
+            ],
+            [
+                "Pattern",
+                0.7450956702232361
+            ],
+            [
+                "Electric blue",
+                0.7308304905891418
+            ],
+            [
+                "Parallel",
+                0.6946678757667542
+            ],
+            [
+                "Diagram",
+                0.6419900059700012
+            ],
+            [
+                "Graphics",
+                0.6418096423149109
+            ]
+        ]
+    },
+    "9": {
+        "type": "graphic",
+        "caption_text": "Figure 9. The concept of the experiment setting. Targets were located on\nboth sides of users\u2019 body. A shortcut of the target layout was visualized\nin the front, as well as the character for the second task.\n",
+        "image_labels": [
+            [
+                "Outerwear",
+                0.9537776708602905
+            ],
+            [
+                "Bow",
+                0.8902513980865479
+            ],
+            [
+                "Astronomical object",
+                0.8110276460647583
+            ],
+            [
+                "Slope",
+                0.7668996453285217
+            ],
+            [
+                "Recreation",
+                0.7611315250396729
+            ],
+            [
+                "Space",
+                0.7198678851127625
+            ],
+            [
+                "Fictional character",
+                0.6862033009529114
+            ],
+            [
+                "Font",
+                0.6706084609031677
+            ],
+            [
+                "Science",
+                0.624869704246521
+            ],
+            [
+                "Illustration",
+                0.6146675944328308
+            ]
+        ]
+    },
+    "10": {
+        "type": "chart",
+        "caption_text": "Figure 10. The speed (average acquisition time) and accuracy (rate) re-\nsults of the acquisitions in different conditions. The error bars represent\nthe standard deviations.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9071717858314514
+            ],
+            [
+                "Rectangle",
+                0.8534407019615173
+            ],
+            [
+                "Font",
+                0.8444203734397888
+            ],
+            [
+                "Plot",
+                0.8430727124214172
+            ],
+            [
+                "Slope",
+                0.8221138119697571
+            ],
+            [
+                "Parallel",
+                0.790677011013031
+            ],
+            [
+                "Pattern",
+                0.7198742032051086
+            ],
+            [
+                "Diagram",
+                0.6243528127670288
+            ],
+            [
+                "Number",
+                0.5217123627662659
+            ],
+            [
+                "Screenshot",
+                0.5150032639503479
+            ]
+        ]
+    },
+    "11": {
+        "type": "chart",
+        "caption_text": "Figure 11. User\u2019s subjective ratings for the experience using two ap-\nproaches to acquire targets. The error bars represent the standard devi-\nations.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8779060244560242
+            ],
+            [
+                "Slope",
+                0.8760671615600586
+            ],
+            [
+                "Plot",
+                0.8397533893585205
+            ],
+            [
+                "Font",
+                0.8203679919242859
+            ],
+            [
+                "Parallel",
+                0.7862685322761536
+            ],
+            [
+                "Number",
+                0.6730833649635315
+            ],
+            [
+                "Electric blue",
+                0.5924932956695557
+            ],
+            [
+                "Pattern",
+                0.5921397805213928
+            ],
+            [
+                "Screenshot",
+                0.5504189729690552
+            ]
+        ]
+    }
+}

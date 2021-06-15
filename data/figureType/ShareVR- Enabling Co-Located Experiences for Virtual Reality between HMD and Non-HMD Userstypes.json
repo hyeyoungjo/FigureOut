@@ -1,0 +1,370 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1. ShareVR enables co-located asymmetric interaction between users wearing an HMD and users without an HMD. ShareVR uses a tracked\ndisplay (a, e) as a window into the virtual world and a \ufb02oor projection to visualize the virtual environment to all Non-HMD users. It enables collaborative\nexperiences such as exploring a dungeon together (b), drawing (h), sports (c) or solving puzzles (e, f) as well as competitive experiences such as \u201cStatues\u201d (d)\nor a sword\ufb01ght (g). ShareVR facilitates a shared physical and virtual space, increasing the presence and enjoyment for both HMD and Non-HMD users.\n",
+        "image_labels": [
+            [
+                "Clothing",
+                0.9870152473449707
+            ],
+            [
+                "Footwear",
+                0.9818487763404846
+            ],
+            [
+                "Joint",
+                0.9777394533157349
+            ],
+            [
+                "Trousers",
+                0.9615556001663208
+            ],
+            [
+                "Shoulder",
+                0.9502262473106384
+            ],
+            [
+                "Arm",
+                0.9466367959976196
+            ],
+            [
+                "Photograph",
+                0.9432048201560974
+            ],
+            [
+                "Product",
+                0.9078710675239563
+            ],
+            [
+                "Shorts",
+                0.9018949270248413
+            ],
+            [
+                "Human",
+                0.8906325101852417
+            ]
+        ]
+    },
+    "2": {
+        "type": "table",
+        "caption_text": "Figure 2. An excerpt from our online survey on the questions: (a) \u201cWhen demonstrating my VR headset to friends and family I tend to:\u201d, (b) \u201cAssuming\nthat you own and actively use only one headset, please rate the following statements:\u201d, (c) \u201cA technology which would allow me to actively in\ufb02uence the\nvirtual environment of the immersed user should...\u201d (Note: the statements are shortened and rephrased to \ufb01t into one \ufb01gure.)\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9076967835426331
+            ],
+            [
+                "Rectangle",
+                0.89215087890625
+            ],
+            [
+                "Organism",
+                0.8638062477111816
+            ],
+            [
+                "Font",
+                0.84352707862854
+            ],
+            [
+                "Slope",
+                0.8277995586395264
+            ],
+            [
+                "Line",
+                0.8162951469421387
+            ],
+            [
+                "Parallel",
+                0.7804444432258606
+            ],
+            [
+                "Screenshot",
+                0.7675819993019104
+            ],
+            [
+                "Circle",
+                0.7449154853820801
+            ],
+            [
+                "Number",
+                0.7010761499404907
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3. Left: Display mounted on the controller of the Non-HMD user.\nRight: Physical setup of ShareVR, replicating a living-room layout\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9076582789421082
+            ],
+            [
+                "Output device",
+                0.853488028049469
+            ],
+            [
+                "Font",
+                0.8072910904884338
+            ],
+            [
+                "Gadget",
+                0.8070518374443054
+            ],
+            [
+                "Cameras & optics",
+                0.7840982675552368
+            ],
+            [
+                "Camera accessory",
+                0.7712064385414124
+            ],
+            [
+                "Electronic device",
+                0.7467435002326965
+            ],
+            [
+                "Multimedia",
+                0.7043145895004272
+            ],
+            [
+                "Electric blue",
+                0.6884540319442749
+            ],
+            [
+                "Computer monitor accessory",
+                0.6857736706733704
+            ]
+        ]
+    },
+    "4": {
+        "type": "graphic",
+        "caption_text": "Figure 4. Two users (a: handheld view, b: HMD view) \ufb01ghting monsters\nin the caves of BeMyLight. Note that the HMD user (b) only can see where\nthe Non-HMD user (a) shines light on.\n",
+        "image_labels": [
+            [
+                "Purple",
+                0.8988860845565796
+            ],
+            [
+                "Violet",
+                0.8148001432418823
+            ],
+            [
+                "Art",
+                0.7970405220985413
+            ],
+            [
+                "Font",
+                0.7726358771324158
+            ],
+            [
+                "Entertainment",
+                0.7541487812995911
+            ],
+            [
+                "Event",
+                0.7403896450996399
+            ],
+            [
+                "Magenta",
+                0.7352024912834167
+            ],
+            [
+                "Flash photography",
+                0.728664755821228
+            ],
+            [
+                "Space",
+                0.7257175445556641
+            ],
+            [
+                "Animation",
+                0.6821829676628113
+            ]
+        ]
+    },
+    "5": {
+        "type": "graphic",
+        "caption_text": "Figure 5. Two users playing SneakyBoxes and their individual views:\n(a) handheld (b) inside the HMD. Note that the HMD user (b) can not\ndistinguish between a regular box and the Non-HMD box.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9077602624893188
+            ],
+            [
+                "Font",
+                0.843995988368988
+            ],
+            [
+                "Technology",
+                0.7422069311141968
+            ],
+            [
+                "Space",
+                0.7366991639137268
+            ],
+            [
+                "Event",
+                0.7248746156692505
+            ],
+            [
+                "Audio equipment",
+                0.7123574018478394
+            ],
+            [
+                "Fashion design",
+                0.7044894695281982
+            ],
+            [
+                "Automotive design",
+                0.7007690072059631
+            ],
+            [
+                "Graphics",
+                0.6969203948974609
+            ],
+            [
+                "Screenshot",
+                0.6876124143600464
+            ]
+        ]
+    },
+    "6": {
+        "type": "picture",
+        "caption_text": "Figure 6. An overview of the individual applications with overlaid visualizations from the Sandbox: (a) throwing a ball to the HMD user in the soccer\napplication, (b) instructing the HMD user in the puzzle application, (c) drawing a palm tree together and (d) having a lightsaber duel.\n",
+        "image_labels": [
+            [
+                "Jeans",
+                0.9706673622131348
+            ],
+            [
+                "Green",
+                0.9379037618637085
+            ],
+            [
+                "Engineering",
+                0.7123197317123413
+            ],
+            [
+                "Toy block",
+                0.7061902284622192
+            ],
+            [
+                "Machine",
+                0.6895567774772644
+            ],
+            [
+                "Event",
+                0.6831995248794556
+            ],
+            [
+                "Urban design",
+                0.6830739378929138
+            ],
+            [
+                "Toy",
+                0.6592928767204285
+            ],
+            [
+                "Lego",
+                0.647720217704773
+            ],
+            [
+                "Electric blue",
+                0.6355350613594055
+            ]
+        ]
+    },
+    "7": {
+        "type": "chart",
+        "caption_text": "Figure 7. Averages (with standard deviation) of the positive experiences\nsubscale (GEQ), behavioural involvement (GEQ) and presence (SUS).\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8836795687675476
+            ],
+            [
+                "Font",
+                0.82110995054245
+            ],
+            [
+                "Parallel",
+                0.7895240783691406
+            ],
+            [
+                "Pattern",
+                0.7477909922599792
+            ],
+            [
+                "Diagram",
+                0.6950299143791199
+            ],
+            [
+                "Number",
+                0.6689245700836182
+            ],
+            [
+                "Slope",
+                0.6381425857543945
+            ],
+            [
+                "Plot",
+                0.5741556882858276
+            ],
+            [
+                "Square",
+                0.5649024844169617
+            ],
+            [
+                "Electric blue",
+                0.5605542063713074
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8. Averages (+/- sd) of the \ufb01nal questions on enjoyment (\u201cI enjoyed\nusing {System}\u201d), presence (\u201cI felt being in the game using {System}\u201d) and\nsocial interaction (\u201cI felt engagement with the other using {System}\u201d).\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8501606583595276
+            ],
+            [
+                "Font",
+                0.8271517157554626
+            ],
+            [
+                "Parallel",
+                0.7868991494178772
+            ],
+            [
+                "Pattern",
+                0.7450959086418152
+            ],
+            [
+                "Diagram",
+                0.6628174185752869
+            ],
+            [
+                "Number",
+                0.6614074110984802
+            ],
+            [
+                "Slope",
+                0.6300560235977173
+            ],
+            [
+                "Square",
+                0.5929075479507446
+            ],
+            [
+                "Electric blue",
+                0.5401248335838318
+            ],
+            [
+                "Plot",
+                0.5224381685256958
+            ]
+        ]
+    }
+}

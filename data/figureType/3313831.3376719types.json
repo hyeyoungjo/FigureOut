@@ -1,0 +1,178 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1.  Is the presented character a human-controlled avatar or computer-controlled agent?  If the character reaches out and physically performs a \nsocial touch on a user, it will blur the boundaries between avatar and agent. For this we used a heat-able hand prototype with \ufb02exible joints, to recreate \na touch sensation that is indistinguishable from a real hand. \n",
+        "image_labels": [
+            [
+                "Green",
+                0.9020063877105713
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Toy",
+                0.7784112095832825
+            ],
+            [
+                "Technology",
+                0.7415112257003784
+            ],
+            [
+                "Electronic device",
+                0.7384651303291321
+            ],
+            [
+                "Electrical wiring",
+                0.7283885478973389
+            ],
+            [
+                "Audio equipment",
+                0.7271016836166382
+            ],
+            [
+                "Machine",
+                0.7241761684417725
+            ],
+            [
+                "Gadget",
+                0.7194269299507141
+            ],
+            [
+                "Cable",
+                0.6947611570358276
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2. The above-mentioned features were named by the participants \nof the main and preliminary studies as features that in\ufb02uenced the deci-\nsion whether they perceived the presented character as an agent or an \navatar. Social cues \u2013 such as the in the study induced social touch \u2013 were \nselected as clear hints towards a human-controlled entity. \n",
+        "image_labels": [
+            [
+                "Human body",
+                0.8846279978752136
+            ],
+            [
+                "Neck",
+                0.874275803565979
+            ],
+            [
+                "Sleeve",
+                0.8723934292793274
+            ],
+            [
+                "Organism",
+                0.8539135456085205
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Rectangle",
+                0.8495948314666748
+            ],
+            [
+                "Font",
+                0.8271214962005615
+            ],
+            [
+                "Elbow",
+                0.8197081685066223
+            ],
+            [
+                "Slope",
+                0.8113169074058533
+            ],
+            [
+                "Parallel",
+                0.7887336611747742
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3. The silicone hand contains a baseplate for solidity, a wire skele-\nton, a heat-able foil element and a mount for tripods. The inner skeleton \nprovides adaptability for the hand posture.  The mount allows the hand \nto be connected to other mechanical devices such as levers. \n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8317491412162781
+            ],
+            [
+                "Finger",
+                0.8306780457496643
+            ],
+            [
+                "Thumb",
+                0.7770041823387146
+            ],
+            [
+                "Terrestrial plant",
+                0.7522023916244507
+            ],
+            [
+                "Wrist",
+                0.7091906070709229
+            ],
+            [
+                "Parallel",
+                0.6826570630073547
+            ],
+            [
+                "Fashion accessory",
+                0.6732963919639587
+            ],
+            [
+                "Personal protective equipment",
+                0.6482848525047302
+            ],
+            [
+                "Sports gear",
+                0.6264564394950867
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4.  The Figure shows the ratings of the participants regarding four measures and two factors (Entity and Touch).  Higher ratings indicate for \nall measures that the character was perceived as human-controlled.  For all measures the avatar was rated signi\ufb01cantly higher compared to the agent \nconditions. For Perceived Agency, Co-Presence and Embarrassment we see an signi\ufb01cant increase based on the introduction of Touch. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8924703001976013
+            ],
+            [
+                "Font",
+                0.8460670113563538
+            ],
+            [
+                "Slope",
+                0.7917987704277039
+            ],
+            [
+                "Parallel",
+                0.7878661155700684
+            ],
+            [
+                "Diagram",
+                0.735833466053009
+            ],
+            [
+                "Pattern",
+                0.715660035610199
+            ],
+            [
+                "Number",
+                0.667686939239502
+            ],
+            [
+                "Circle",
+                0.603145182132721
+            ]
+        ]
+    }
+}

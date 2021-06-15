@@ -1,0 +1,140 @@
+{
+    "1": {
+        "type": "graphic",
+        "caption_text": "Figure 1: Interfaces for Voice Condition. On the left, the bar is balanced between speakers and the volume icon is \ngreyed out as the user is not speaking. In the middle, the green speaker indicates the user\u2019s volume is in the correct \nrange, and on the right the larger red speaker indicates the user is speaking too loud. \n",
+        "image_labels": [
+            [
+                "Sky",
+                0.9664083123207092
+            ],
+            [
+                "Ecoregion",
+                0.9221683144569397
+            ],
+            [
+                "Asphalt",
+                0.8267008662223816
+            ],
+            [
+                "Rectangle",
+                0.8262801766395569
+            ],
+            [
+                "Horizon",
+                0.8220940232276917
+            ],
+            [
+                "Line",
+                0.8184077739715576
+            ],
+            [
+                "Font",
+                0.7993200421333313
+            ],
+            [
+                "Adaptation",
+                0.792820394039154
+            ],
+            [
+                "Landscape",
+                0.7883781790733337
+            ],
+            [
+                "Technology",
+                0.7393521666526794
+            ]
+        ]
+    },
+    "2": {
+        "type": "formula",
+        "caption_text": "Figure 2: Images of the five interfaces for Proximity Condition: A.) Baseline, B.) Proximity correct zone, C.) Too far away zone, D.) A bit \ntoo close for acquaintances zone, E.) Intrusion into personal space. \n",
+        "image_labels": [
+            [
+                "Organism",
+                0.8644787669181824
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Rectangle",
+                0.8375741243362427
+            ],
+            [
+                "Line",
+                0.8197073936462402
+            ],
+            [
+                "Font",
+                0.8158661127090454
+            ],
+            [
+                "Screenshot",
+                0.7462558746337891
+            ],
+            [
+                "Pattern",
+                0.7189157009124756
+            ],
+            [
+                "Electric blue",
+                0.7152609825134277
+            ],
+            [
+                "Magenta",
+                0.6919835805892944
+            ],
+            [
+                "Circle",
+                0.6827370524406433
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3: Split plot graphs depicting percent correct proximity (left), percent correct volume (middle) and time spent talking (right) \nacross four conditions, over five sessions. The purple line represents the combination condition, the green line represents the \nproximity condition, the yellow line represents the volume condition and the blue represents the baseline condition. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8832098841667175
+            ],
+            [
+                "Line",
+                0.8175711035728455
+            ],
+            [
+                "Slope",
+                0.8026788234710693
+            ],
+            [
+                "Font",
+                0.8016960620880127
+            ],
+            [
+                "Parallel",
+                0.7857695817947388
+            ],
+            [
+                "Auto part",
+                0.6900540590286255
+            ],
+            [
+                "Musical instrument",
+                0.6453645825386047
+            ],
+            [
+                "Event",
+                0.6094931960105896
+            ],
+            [
+                "Circle",
+                0.6091024279594421
+            ],
+            [
+                "Number",
+                0.5873912572860718
+            ]
+        ]
+    }
+}

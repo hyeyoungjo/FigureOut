@@ -1,0 +1,646 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1.  RoomShift is composed of a swarm of shape-changing robots for haptic feedback in VR. RoomShift robots move beneath a piece of furniture \nto lift, move and place it.  Multiple robots move furniture to construct a physical haptic environment collectively.  The corresponding virtual scene is \nshown, with a human silhouette added for a reference. \n",
+        "image_labels": [
+            [
+                "Art",
+                0.835770308971405
+            ],
+            [
+                "Floor",
+                0.817507266998291
+            ],
+            [
+                "Flooring",
+                0.7990536093711853
+            ],
+            [
+                "Event",
+                0.719136655330658
+            ],
+            [
+                "Design",
+                0.6831137537956238
+            ],
+            [
+                "Sitting",
+                0.6723793148994446
+            ],
+            [
+                "Visual arts",
+                0.6593554019927979
+            ],
+            [
+                "Room",
+                0.6481683254241943
+            ],
+            [
+                "Font",
+                0.5800668001174927
+            ],
+            [
+                "Performance art",
+                0.5767611861228943
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2. A RoomShift robot drives beneath a desk, lifts it by extending \nthe scissor structure, and moves it. \n",
+        "image_labels": [
+            [
+                "Furniture",
+                0.9319865107536316
+            ],
+            [
+                "Light",
+                0.9107359051704407
+            ],
+            [
+                "Rectangle",
+                0.8925010561943054
+            ],
+            [
+                "Interior design",
+                0.8532018661499023
+            ],
+            [
+                "Architecture",
+                0.852003276348114
+            ],
+            [
+                "Style",
+                0.8378063440322876
+            ],
+            [
+                "Font",
+                0.835814893245697
+            ],
+            [
+                "Flooring",
+                0.8080705404281616
+            ],
+            [
+                "Chair",
+                0.7849776744842529
+            ],
+            [
+                "Musical instrument accessory",
+                0.7640270590782166
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3. Mechanical design of the robot and the scissor structure. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8202698826789856
+            ],
+            [
+                "Triangle",
+                0.8202046155929565
+            ],
+            [
+                "Parallel",
+                0.748212993144989
+            ],
+            [
+                "Circle",
+                0.7190121412277222
+            ],
+            [
+                "Jewellery",
+                0.6828669905662537
+            ],
+            [
+                "Auto part",
+                0.6735365986824036
+            ],
+            [
+                "Rectangle",
+                0.6560503840446472
+            ],
+            [
+                "Drawing",
+                0.602874755859375
+            ],
+            [
+                "Line art",
+                0.6026467680931091
+            ],
+            [
+                "Diagram",
+                0.6014730334281921
+            ]
+        ]
+    },
+    "4": {
+        "type": "picture",
+        "caption_text": "Figure 4. Each robot can extend from 30 cm to 100 cm to lift objects. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8781713843345642
+            ],
+            [
+                "Wood",
+                0.8574240803718567
+            ],
+            [
+                "Vehicle",
+                0.8174417018890381
+            ],
+            [
+                "Font",
+                0.7874778509140015
+            ],
+            [
+                "Mast",
+                0.7759623527526855
+            ],
+            [
+                "Boat",
+                0.7684704065322876
+            ],
+            [
+                "Automotive design",
+                0.7669245004653931
+            ],
+            [
+                "Curtain",
+                0.7377113103866577
+            ],
+            [
+                "Watercraft",
+                0.6988722085952759
+            ],
+            [
+                "Event",
+                0.6874426007270813
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure 6. Photo of tracked space and screenshot of tracking software. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.7736281156539917
+            ],
+            [
+                "Rectangle",
+                0.7625709772109985
+            ],
+            [
+                "Engineering",
+                0.7465658187866211
+            ],
+            [
+                "Space",
+                0.7188571691513062
+            ],
+            [
+                "Flooring",
+                0.7093452215194702
+            ],
+            [
+                "Composite material",
+                0.6782190203666687
+            ],
+            [
+                "Event",
+                0.6692894697189331
+            ],
+            [
+                "Science",
+                0.623167872428894
+            ],
+            [
+                "Machine",
+                0.6218017935752869
+            ],
+            [
+                "Slope",
+                0.610005259513855
+            ]
+        ]
+    },
+    "5": {
+        "type": "picture",
+        "caption_text": "Figure 5. Different types of furniture moved by the system. \n",
+        "image_labels": [
+            [
+                "Furniture",
+                0.9496103525161743
+            ],
+            [
+                "Chair",
+                0.912703275680542
+            ],
+            [
+                "Wood",
+                0.8776106238365173
+            ],
+            [
+                "Automotive design",
+                0.8570699095726013
+            ],
+            [
+                "Interior design",
+                0.8554899096488953
+            ],
+            [
+                "Architecture",
+                0.8528101444244385
+            ],
+            [
+                "Floor",
+                0.828702986240387
+            ],
+            [
+                "Flooring",
+                0.8240346312522888
+            ],
+            [
+                "Wall",
+                0.8140866160392761
+            ],
+            [
+                "Armrest",
+                0.7621874213218689
+            ]
+        ]
+    },
+    "7": {
+        "type": "picture",
+        "caption_text": "Figure 7.  Retro-re\ufb02ective markers mounted to parallel lift bars,  high-\nlighted in pink. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8488062620162964
+            ],
+            [
+                "Triangle",
+                0.8414028286933899
+            ],
+            [
+                "Automotive lighting",
+                0.8284823298454285
+            ],
+            [
+                "Font",
+                0.8228269815444946
+            ],
+            [
+                "Line",
+                0.822433352470398
+            ],
+            [
+                "Red",
+                0.8003867864608765
+            ],
+            [
+                "Magenta",
+                0.7512919902801514
+            ],
+            [
+                "Art",
+                0.7235581874847412
+            ],
+            [
+                "Bumper",
+                0.7012658715248108
+            ],
+            [
+                "Trunk",
+                0.6644308567047119
+            ]
+        ]
+    },
+    "9": {
+        "type": "diagram",
+        "caption_text": "Figure 9. Hardware schematic of the robot. \n",
+        "image_labels": [
+            [
+                "Line",
+                0.822898805141449
+            ],
+            [
+                "Font",
+                0.8169432282447815
+            ],
+            [
+                "Parallel",
+                0.7804116606712341
+            ],
+            [
+                "Circle",
+                0.6908336877822876
+            ],
+            [
+                "Logo",
+                0.6780487298965454
+            ],
+            [
+                "Diagram",
+                0.6654423475265503
+            ],
+            [
+                "Brand",
+                0.6278001666069031
+            ],
+            [
+                "Auto part",
+                0.6274908185005188
+            ],
+            [
+                "Line art",
+                0.6123568415641785
+            ],
+            [
+                "Graphics",
+                0.5831648111343384
+            ]
+        ]
+    },
+    "8": {
+        "type": "diagram",
+        "caption_text": "Figure  8.  The  system  \ufb01rst  navigates  the  robot  to  a  user-de\ufb01ned  entry \npoint to avoid the collision with the legs of furniture. \n",
+        "image_labels": [
+            [
+                "Property",
+                0.9428826570510864
+            ],
+            [
+                "Product",
+                0.9081375002861023
+            ],
+            [
+                "Table",
+                0.8637682199478149
+            ],
+            [
+                "Font",
+                0.837537944316864
+            ],
+            [
+                "Output device",
+                0.8358919024467468
+            ],
+            [
+                "Line",
+                0.8179548382759094
+            ],
+            [
+                "Parallel",
+                0.7838391065597534
+            ],
+            [
+                "Technology",
+                0.7524881958961487
+            ],
+            [
+                "Sharing",
+                0.7193532586097717
+            ],
+            [
+                "Rectangle",
+                0.7138528227806091
+            ]
+        ]
+    },
+    "10": {
+        "type": "diagram",
+        "caption_text": "Figure 10. The communication software. \n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8140679597854614
+            ],
+            [
+                "Parallel",
+                0.7778043746948242
+            ],
+            [
+                "Slope",
+                0.7557178735733032
+            ],
+            [
+                "Circle",
+                0.7333635687828064
+            ],
+            [
+                "Foot",
+                0.7222775816917419
+            ],
+            [
+                "Human leg",
+                0.7158947587013245
+            ],
+            [
+                "Outdoor shoe",
+                0.6955231428146362
+            ],
+            [
+                "Diagram",
+                0.6889058351516724
+            ],
+            [
+                "Elbow",
+                0.6528525352478027
+            ]
+        ]
+    },
+    "11": {
+        "type": "diagram",
+        "caption_text": "Figure 11. The interaction design space of RoomShift. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8194005489349365
+            ],
+            [
+                "Parallel",
+                0.7849888205528259
+            ],
+            [
+                "Rectangle",
+                0.7765091061592102
+            ],
+            [
+                "Triangle",
+                0.7555352449417114
+            ],
+            [
+                "Engineering",
+                0.7102559804916382
+            ],
+            [
+                "Diagram",
+                0.7028393745422363
+            ],
+            [
+                "Computer networking",
+                0.6977463960647583
+            ],
+            [
+                "Logo",
+                0.6857592463493347
+            ],
+            [
+                "Graphics",
+                0.6848360300064087
+            ],
+            [
+                "Brand",
+                0.6755439639091492
+            ]
+        ]
+    },
+    "12": {
+        "type": "picture",
+        "caption_text": "Figure 12. Simulating a larger table by moving a smaller surface. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8562853336334229
+            ],
+            [
+                "Font",
+                0.7961859107017517
+            ],
+            [
+                "Table",
+                0.7732593417167664
+            ],
+            [
+                "Event",
+                0.7284514904022217
+            ],
+            [
+                "Chair",
+                0.7024990320205688
+            ],
+            [
+                "Fashion design",
+                0.6842377185821533
+            ],
+            [
+                "Fashion accessory",
+                0.6695170998573303
+            ],
+            [
+                "Art",
+                0.6169291734695435
+            ],
+            [
+                "Room",
+                0.6111859679222107
+            ],
+            [
+                "Metal",
+                0.5871907472610474
+            ]
+        ]
+    },
+    "13": {
+        "type": "graphic",
+        "caption_text": "Figure  13.  When  teleporting,  the  robots  move  furniture  to  match  the \nnew scene position. \n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.941646158695221
+            ],
+            [
+                "Light",
+                0.9108840823173523
+            ],
+            [
+                "Product",
+                0.9075145125389099
+            ],
+            [
+                "Black",
+                0.8964647650718689
+            ],
+            [
+                "Automotive design",
+                0.8884726762771606
+            ],
+            [
+                "Fashion",
+                0.8815416693687439
+            ],
+            [
+                "Wood",
+                0.8765549659729004
+            ],
+            [
+                "Interior design",
+                0.8717286586761475
+            ],
+            [
+                "Lighting",
+                0.8669388294219971
+            ],
+            [
+                "Architecture",
+                0.8635838627815247
+            ]
+        ]
+    },
+    "14": {
+        "type": "picture",
+        "caption_text": "Figure 14. Pointing and moving with a gesture. \n",
+        "image_labels": [
+            [
+                "Flooring",
+                0.8171764016151428
+            ],
+            [
+                "Wood",
+                0.7929191589355469
+            ],
+            [
+                "Art",
+                0.7825156450271606
+            ],
+            [
+                "Entertainment",
+                0.763470470905304
+            ],
+            [
+                "Performing arts",
+                0.7229090929031372
+            ],
+            [
+                "Event",
+                0.7197185158729553
+            ],
+            [
+                "Toy",
+                0.7004284262657166
+            ],
+            [
+                "Hardwood",
+                0.663613498210907
+            ],
+            [
+                "Fashion design",
+                0.6531249284744263
+            ],
+            [
+                "Visual arts",
+                0.6526345610618591
+            ]
+        ]
+    }
+}

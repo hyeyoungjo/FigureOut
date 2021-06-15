@@ -1,0 +1,404 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure  1.  The  3D  panorama  unit  reconstructs  the  local  environment, \nand then streams the stitched point-cloud data to the remote VR expert \nvia the network. The eye gaze and hand gesture information are shared \nback to the local AR worker from the remote VR expert synchronously. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9079885482788086
+            ],
+            [
+                "Font",
+                0.8257849812507629
+            ],
+            [
+                "Motor vehicle",
+                0.7901502251625061
+            ],
+            [
+                "Auto part",
+                0.7631581425666809
+            ],
+            [
+                "Machine",
+                0.7502163648605347
+            ],
+            [
+                "Fictional character",
+                0.71470046043396
+            ],
+            [
+                "Illustration",
+                0.7075653672218323
+            ],
+            [
+                "Lego",
+                0.6940603256225586
+            ],
+            [
+                "Automotive exterior",
+                0.677233099937439
+            ],
+            [
+                "Engineering",
+                0.6653427481651306
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2.  a) The sensor cluster with eight depth camera units;  b) The \ncalibration result of the sensor cluster. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9075175523757935
+            ],
+            [
+                "Peripheral",
+                0.8881832957267761
+            ],
+            [
+                "Triangle",
+                0.8489768505096436
+            ],
+            [
+                "Input device",
+                0.8345855474472046
+            ],
+            [
+                "Font",
+                0.8344412446022034
+            ],
+            [
+                "Automotive design",
+                0.7316554188728333
+            ],
+            [
+                "Machine",
+                0.7152262330055237
+            ],
+            [
+                "Art",
+                0.6858770251274109
+            ],
+            [
+                "Gadget",
+                0.6761072874069214
+            ],
+            [
+                "Logo",
+                0.6681699752807617
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3.  Natural visual cues shared from the remote to the local user: \nthe purple gaze raycast line,  and the grey hand mesh in a) the remote \nVR mode and b) the local AR mode. \n",
+        "image_labels": [
+            [
+                "Vertebrate",
+                0.9214532971382141
+            ],
+            [
+                "Eyelash",
+                0.9131366014480591
+            ],
+            [
+                "Purple",
+                0.8721792101860046
+            ],
+            [
+                "Mammal",
+                0.8561622500419617
+            ],
+            [
+                "Feather",
+                0.8446986675262451
+            ],
+            [
+                "Violet",
+                0.8330014944076538
+            ],
+            [
+                "Font",
+                0.8173104524612427
+            ],
+            [
+                "Material property",
+                0.8008833527565002
+            ],
+            [
+                "Rectangle",
+                0.7687100768089294
+            ],
+            [
+                "Art",
+                0.7511734366416931
+            ]
+        ]
+    },
+    "4": {
+        "type": "picture",
+        "caption_text": "Figure  4.  Auxiliary  awareness  cues  for  the  local  worker:  the  simple \navatar has the purple sphere head and half-transparent yellow view frus-\ntum, and the pin arrow in orange always points to the head sphere. \n",
+        "image_labels": [
+            [
+                "Building",
+                0.8955238461494446
+            ],
+            [
+                "Interior design",
+                0.8723710179328918
+            ],
+            [
+                "Balloon",
+                0.8563836216926575
+            ],
+            [
+                "Plant",
+                0.8109491467475891
+            ],
+            [
+                "Material property",
+                0.8030745983123779
+            ],
+            [
+                "Font",
+                0.7855812311172485
+            ],
+            [
+                "Condominium",
+                0.7790324687957764
+            ],
+            [
+                "Urban design",
+                0.7682428359985352
+            ],
+            [
+                "Leisure",
+                0.7682129144668579
+            ],
+            [
+                "Tower block",
+                0.7514757513999939
+            ]
+        ]
+    },
+    "5": {
+        "type": "picture",
+        "caption_text": "Figure  5.  Experiment  environment:  a)  The  local  section  with  Lego \nbricks placed around desks and the live 3D panorama capture unit in-\nstalled on the ceiling; b) The remote part with the VR headset installed; \nc) A screenshot of the reconstructed live 3D panorama in VR. \n",
+        "image_labels": [
+            [
+                "Table",
+                0.9371532797813416
+            ],
+            [
+                "Light",
+                0.9109851121902466
+            ],
+            [
+                "Line",
+                0.8247239589691162
+            ],
+            [
+                "Font",
+                0.8216139078140259
+            ],
+            [
+                "Flooring",
+                0.7746046781539917
+            ],
+            [
+                "Wood",
+                0.7593571543693542
+            ],
+            [
+                "Machine",
+                0.7482582330703735
+            ],
+            [
+                "Cabinetry",
+                0.7335981726646423
+            ],
+            [
+                "Rectangle",
+                0.7228351831436157
+            ],
+            [
+                "Engineering",
+                0.7123830914497375
+            ]
+        ]
+    },
+    "6": {
+        "type": "picture",
+        "caption_text": "Figure 6. a) Lego bricks on the tags; b) The overlaid cubes with numbers \nto indicate the brick for picking up, and the overlaid cubes with numbers \nand arrows to indicate the target position and orientation of the Lego \nbrick with the same pickup number. \n",
+        "image_labels": [
+            [
+                "Table",
+                0.9525246620178223
+            ],
+            [
+                "Product",
+                0.9074033498764038
+            ],
+            [
+                "Font",
+                0.8312803506851196
+            ],
+            [
+                "Screenshot",
+                0.733337938785553
+            ],
+            [
+                "Event",
+                0.7001432180404663
+            ],
+            [
+                "Automotive tire",
+                0.6790334582328796
+            ],
+            [
+                "Machine",
+                0.6594105958938599
+            ],
+            [
+                "Advertising",
+                0.6472455859184265
+            ],
+            [
+                "Auto part",
+                0.6456310749053955
+            ],
+            [
+                "Brand",
+                0.6404057145118713
+            ]
+        ]
+    },
+    "7": {
+        "type": "chart",
+        "caption_text": "Figure  7.  Results  of  Co-presence  questionnaires  (7-point  Likert  scale \nfrom 1 to 7, the higher the better). \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8879024386405945
+            ],
+            [
+                "Slope",
+                0.8236929774284363
+            ],
+            [
+                "Font",
+                0.8180418014526367
+            ],
+            [
+                "Line",
+                0.8170241117477417
+            ],
+            [
+                "Parallel",
+                0.7904180884361267
+            ],
+            [
+                "Diagram",
+                0.6534613370895386
+            ],
+            [
+                "Pattern",
+                0.6453211903572083
+            ],
+            [
+                "Number",
+                0.5661452412605286
+            ],
+            [
+                "Symmetry",
+                0.550523042678833
+            ],
+            [
+                "Plot",
+                0.5118440389633179
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure  8.  Results  of  the  TLX  questionnaire  (100-points  range  with  5-\npoint steps, 0: very low~100: very high, the lower the better). \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8958878517150879
+            ],
+            [
+                "Slope",
+                0.8681619167327881
+            ],
+            [
+                "Font",
+                0.8066903948783875
+            ],
+            [
+                "Plot",
+                0.7982447743415833
+            ],
+            [
+                "Parallel",
+                0.7900221347808838
+            ],
+            [
+                "Pattern",
+                0.7486085295677185
+            ],
+            [
+                "Diagram",
+                0.6952149271965027
+            ],
+            [
+                "Number",
+                0.6694198846817017
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9. User preference based ranking results (Rank1 is the most pre-\nferred, *: statistically signi\ufb01cant). \n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Rectangle",
+                0.8739578723907471
+            ],
+            [
+                "Slope",
+                0.8577927350997925
+            ],
+            [
+                "Font",
+                0.8281197547912598
+            ],
+            [
+                "Parallel",
+                0.7809524536132812
+            ],
+            [
+                "Number",
+                0.6148408055305481
+            ],
+            [
+                "Plot",
+                0.6046385169029236
+            ],
+            [
+                "Diagram",
+                0.5887324810028076
+            ],
+            [
+                "Electric blue",
+                0.503849983215332
+            ]
+        ]
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1. Head tilt is used to indicate the direction of travel\nWalking-in-place (WIP) closely mimics walking, e.g., users\nprovide step-like motions while remaining stationary [29].\nWIP closely approximates real walking input in terms of per-\nformance [25] and presence [27]. Compared to a controller,\nWIP is handsfree; offers higher presence [33]; improves spa-\ntial orientation [19]; and is less likely to induce cybersickness\n[16], because of the generation of proprioceptive feedback.\nHowever, a controller allows for 360\u25e6 omnidirectional nav-\nigation, where WIP only navigates users in the direction of\ntheir gaze. This impedes navigation ef\ufb01ciency, for example,\nif a user wants to back up a little bit, it requires them to turn\naround, move forward, turn around again and then move to\nwhere they want to be. Because prior studies [25, 13, 27,\n37] have only evaluated navigation tasks that include forward\nmotion, they \ufb01nd a similar performance for WIP as controller\ninput. However, these results are misleading, as VR naviga-\ntion also contains lateral movements [15] and controller input\noutperforms WIP as it allows omnidirectional navigation.\n",
+        "image_labels": [
+            [
+                "Jaw",
+                0.8777840733528137
+            ],
+            [
+                "Gesture",
+                0.8447897434234619
+            ],
+            [
+                "Sharing",
+                0.8445950746536255
+            ],
+            [
+                "Headgear",
+                0.8115994930267334
+            ],
+            [
+                "Font",
+                0.8049200773239136
+            ],
+            [
+                "Eyewear",
+                0.7454558610916138
+            ],
+            [
+                "Art",
+                0.6816748976707458
+            ],
+            [
+                "Cap",
+                0.6686902046203613
+            ],
+            [
+                "Eyelash",
+                0.666901707649231
+            ],
+            [
+                "Graphics",
+                0.6506527662277222
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2. head tilt de-\n\ufb01ned using vectors.\n",
+        "image_labels": [
+            [
+                "Font",
+                0.7907208204269409
+            ],
+            [
+                "Liquid",
+                0.7904278635978699
+            ],
+            [
+                "Circle",
+                0.765109658241272
+            ],
+            [
+                "Sharing",
+                0.7520750761032104
+            ],
+            [
+                "Art",
+                0.708641529083252
+            ],
+            [
+                "Recreation",
+                0.6763677597045898
+            ],
+            [
+                "Diagram",
+                0.6601384878158569
+            ],
+            [
+                "Graphics",
+                0.6547669172286987
+            ],
+            [
+                "Rectangle",
+                0.5825027227401733
+            ],
+            [
+                "Drawing",
+                0.5756887197494507
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3. Reticle shows: 1) no 2) right\n3) right-back 4) back motion.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8201888799667358
+            ],
+            [
+                "Font",
+                0.8032149076461792
+            ],
+            [
+                "Circle",
+                0.7680544257164001
+            ],
+            [
+                "Parallel",
+                0.7679467797279358
+            ],
+            [
+                "Symbol",
+                0.7431470155715942
+            ],
+            [
+                "Logo",
+                0.7312408685684204
+            ],
+            [
+                "Number",
+                0.7016409635543823
+            ],
+            [
+                "Brand",
+                0.6748800277709961
+            ],
+            [
+                "Graphics",
+                0.6723288893699646
+            ],
+            [
+                "Symmetry",
+                0.662177324295044
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4. Left: navigation task showing corridor with the obstacles the\nparticipant users must navigate. Right: when colliding with an obstacle\nit turns red and becomes sticky; requiring users to navigate laterally.\n",
+        "image_labels": [
+            [
+                "Azure",
+                0.8949552178382874
+            ],
+            [
+                "Rectangle",
+                0.8749122023582458
+            ],
+            [
+                "Font",
+                0.8291295170783997
+            ],
+            [
+                "Slope",
+                0.8267443180084229
+            ],
+            [
+                "Line",
+                0.8181836009025574
+            ],
+            [
+                "Triangle",
+                0.8107128143310547
+            ],
+            [
+                "Parallel",
+                0.7817754149436951
+            ],
+            [
+                "Pattern",
+                0.7706020474433899
+            ],
+            [
+                "Electric blue",
+                0.7610502243041992
+            ],
+            [
+                "Circle",
+                0.7599900364875793
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5. Avg Likert scores and standard deviation for each method\n",
+        "image_labels": [
+            [
+                "Plot",
+                0.8728104829788208
+            ],
+            [
+                "Slope",
+                0.867692232131958
+            ],
+            [
+                "Rectangle",
+                0.8467696309089661
+            ],
+            [
+                "Font",
+                0.8069682121276855
+            ],
+            [
+                "Parallel",
+                0.7704485058784485
+            ],
+            [
+                "Diagram",
+                0.7223978042602539
+            ]
+        ]
+    }
+}

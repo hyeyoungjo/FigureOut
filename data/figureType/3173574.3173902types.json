@@ -1,0 +1,94 @@
+{
+    "1": {
+        "type": "chart",
+        "caption_text": "Figure 1. Factors of IEQ for the study comparing monitor-display version of the game to the HMD-VR version. Emotional involvement was signi\ufb01cantly\nhigher for HMD-VR, while challenge was signi\ufb01cantly higher for monitor-display (p<0.05).\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9072985053062439
+            ],
+            [
+                "Rectangle",
+                0.9056845903396606
+            ],
+            [
+                "Font",
+                0.8310058116912842
+            ],
+            [
+                "Parallel",
+                0.7885604500770569
+            ],
+            [
+                "Slope",
+                0.7851139307022095
+            ],
+            [
+                "Pattern",
+                0.7623776197433472
+            ],
+            [
+                "Number",
+                0.7184175252914429
+            ],
+            [
+                "Diagram",
+                0.7122759819030762
+            ],
+            [
+                "Plot",
+                0.6741294264793396
+            ],
+            [
+                "Symmetry",
+                0.6246026158332825
+            ]
+        ]
+    },
+    "2": {
+        "type": "chart",
+        "caption_text": "Figure 2. Factors of IEQ compared by audio condition showed no signi\ufb01cant differences (p>0.05) for increased audio dimensionality.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9085054397583008
+            ],
+            [
+                "Product",
+                0.9074258208274841
+            ],
+            [
+                "Slope",
+                0.8709312677383423
+            ],
+            [
+                "Font",
+                0.8416361212730408
+            ],
+            [
+                "Parallel",
+                0.7891308665275574
+            ],
+            [
+                "Diagram",
+                0.7621455788612366
+            ],
+            [
+                "Pattern",
+                0.7613499164581299
+            ],
+            [
+                "Number",
+                0.7187058329582214
+            ],
+            [
+                "Plot",
+                0.7008503675460815
+            ],
+            [
+                "Screenshot",
+                0.6889846324920654
+            ]
+        ]
+    }
+}

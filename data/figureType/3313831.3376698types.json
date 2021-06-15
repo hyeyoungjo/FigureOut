@@ -1,0 +1,588 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1. A user grips a pen controller to perform (a) poke gestures, and \n(b) tilt gestures. \n",
+        "image_labels": [
+            [
+                "Nose",
+                0.9835830330848694
+            ],
+            [
+                "Joint",
+                0.9773190021514893
+            ],
+            [
+                "Head",
+                0.9741605520248413
+            ],
+            [
+                "Chin",
+                0.966794490814209
+            ],
+            [
+                "Hand",
+                0.9606131911277771
+            ],
+            [
+                "Shoulder",
+                0.9520668983459473
+            ],
+            [
+                "Hairstyle",
+                0.9509009122848511
+            ],
+            [
+                "Arm",
+                0.9455352425575256
+            ],
+            [
+                "Facial expression",
+                0.9333087205886841
+            ],
+            [
+                "Muscle",
+                0.9227875471115112
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2.  Candidate grip postures:  (a) tripod at front end, (b) tripod at \nrear end, (c) quadropod at rear end, (d) pinch, and (e) overhand. \n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9775506854057312
+            ],
+            [
+                "Hand",
+                0.9581981897354126
+            ],
+            [
+                "Arm",
+                0.9448533058166504
+            ],
+            [
+                "Vertebrate",
+                0.9239076972007751
+            ],
+            [
+                "Product",
+                0.9079974889755249
+            ],
+            [
+                "Human",
+                0.896472692489624
+            ],
+            [
+                "Sleeve",
+                0.8687241077423096
+            ],
+            [
+                "Font",
+                0.8649901151657104
+            ],
+            [
+                "Mammal",
+                0.8609136939048767
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ]
+        ]
+    },
+    "3": {
+        "type": "human",
+        "caption_text": "Figure 3. (a) The 3D printed pen was used in the studies; (b) A user took \nparticipant in Study 1. \n",
+        "image_labels": [
+            [
+                "Computer",
+                0.9634166955947876
+            ],
+            [
+                "Laptop",
+                0.9597154259681702
+            ],
+            [
+                "Personal computer",
+                0.9534276127815247
+            ],
+            [
+                "Netbook",
+                0.9270085692405701
+            ],
+            [
+                "Output device",
+                0.8893166184425354
+            ],
+            [
+                "Gadget",
+                0.8292422890663147
+            ],
+            [
+                "Touchpad",
+                0.828139066696167
+            ],
+            [
+                "Communication Device",
+                0.7995495200157166
+            ],
+            [
+                "Input device",
+                0.7654725909233093
+            ],
+            [
+                "Office equipment",
+                0.7642541527748108
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4. The results of Study 1: (a) Pen tip travelled distance (mm); (b) \nPen shaft tilted angle (\u25e6). \n",
+        "image_labels": [
+            [
+                "Triangle",
+                0.8483985662460327
+            ],
+            [
+                "Line",
+                0.8182101249694824
+            ],
+            [
+                "Rectangle",
+                0.7947899103164673
+            ],
+            [
+                "Symmetry",
+                0.794771134853363
+            ],
+            [
+                "Font",
+                0.7908424735069275
+            ],
+            [
+                "Slope",
+                0.7881242632865906
+            ],
+            [
+                "Circle",
+                0.7722097635269165
+            ],
+            [
+                "Parallel",
+                0.7521994113922119
+            ],
+            [
+                "Pattern",
+                0.7488012909889221
+            ],
+            [
+                "Diagram",
+                0.7303051352500916
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure  5.  Participant  responses  to  the  workload  of  different  grip  pos-\ntures.  Graphs are centered around the neutral response, with the pro-\nportion of positive and negative responses on the right and left side, re-\nspectively. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.891613781452179
+            ],
+            [
+                "Slope",
+                0.865006685256958
+            ],
+            [
+                "Font",
+                0.8286315202713013
+            ],
+            [
+                "Parallel",
+                0.7871193289756775
+            ],
+            [
+                "Pattern",
+                0.7303304076194763
+            ],
+            [
+                "Number",
+                0.6537970304489136
+            ],
+            [
+                "Diagram",
+                0.6478303074836731
+            ],
+            [
+                "Square",
+                0.5350601673126221
+            ]
+        ]
+    },
+    "6": {
+        "type": "human",
+        "caption_text": "Figure 6. (a) The user interface for selection with the poke; (b) A partic-\nipant uses the Pen Grip and selects with the poke in Study 2. \n",
+        "image_labels": [
+            [
+                "Sleeve",
+                0.8724210262298584
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8183608055114746
+            ],
+            [
+                "Circle",
+                0.7251529097557068
+            ],
+            [
+                "Elbow",
+                0.683009922504425
+            ],
+            [
+                "Art",
+                0.6363798379898071
+            ],
+            [
+                "Fashion accessory",
+                0.6180733442306519
+            ],
+            [
+                "Pattern",
+                0.5971056222915649
+            ],
+            [
+                "Office supplies",
+                0.5795076489448547
+            ],
+            [
+                "Ceiling",
+                0.563826322555542
+            ]
+        ]
+    },
+    "7": {
+        "type": "human",
+        "caption_text": "Figure 7.  (a) The user interface for selection with tilt; (b) A participant \nuses the Palm Grip and selects with tilt in Study 2. \n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9420621991157532
+            ],
+            [
+                "Sleeve",
+                0.8716076612472534
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.7958605885505676
+            ],
+            [
+                "Beauty",
+                0.7510457038879395
+            ],
+            [
+                "Snapshot",
+                0.7428476214408875
+            ],
+            [
+                "Jewellery",
+                0.7414654493331909
+            ],
+            [
+                "Event",
+                0.6979894042015076
+            ],
+            [
+                "Circle",
+                0.672389805316925
+            ],
+            [
+                "Fashion accessory",
+                0.6610291600227356
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8. Mean selection time for poke and tilt. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8929629921913147
+            ],
+            [
+                "Plot",
+                0.8522302508354187
+            ],
+            [
+                "Slope",
+                0.8467223644256592
+            ],
+            [
+                "Font",
+                0.7991793751716614
+            ],
+            [
+                "Parallel",
+                0.7896196246147156
+            ],
+            [
+                "Diagram",
+                0.6755661368370056
+            ],
+            [
+                "Electric blue",
+                0.6350899934768677
+            ],
+            [
+                "Number",
+                0.5535285472869873
+            ],
+            [
+                "Event",
+                0.5292436480522156
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9.  Fitts\u2019 law models for the poke (solid line) and tilt (dash line) \ntasks. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9015613794326782
+            ],
+            [
+                "Slope",
+                0.8900375366210938
+            ],
+            [
+                "Plot",
+                0.8447749614715576
+            ],
+            [
+                "Font",
+                0.8399624824523926
+            ],
+            [
+                "Triangle",
+                0.8110972046852112
+            ],
+            [
+                "Parallel",
+                0.7909565567970276
+            ],
+            [
+                "Pattern",
+                0.7611841559410095
+            ],
+            [
+                "Circle",
+                0.7590266466140747
+            ],
+            [
+                "Symmetry",
+                0.7446626424789429
+            ],
+            [
+                "Diagram",
+                0.703342616558075
+            ]
+        ]
+    },
+    "10": {
+        "type": "chart",
+        "caption_text": "Figure  10.  Participant  responses  to  the  workload  of  poke  and  tilt. \nGraphs are centered around the neutral response, with the proportion \nof positive and negative responses on the right and left side, respectively. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8827019333839417
+            ],
+            [
+                "Slope",
+                0.869101345539093
+            ],
+            [
+                "Font",
+                0.8055999279022217
+            ],
+            [
+                "Parallel",
+                0.7866367101669312
+            ],
+            [
+                "Pattern",
+                0.7413695454597473
+            ],
+            [
+                "Symmetry",
+                0.7269237637519836
+            ],
+            [
+                "Plot",
+                0.6754716634750366
+            ],
+            [
+                "Number",
+                0.6476214528083801
+            ],
+            [
+                "Circle",
+                0.584647536277771
+            ],
+            [
+                "Diagram",
+                0.5670046210289001
+            ]
+        ]
+    },
+    "11": {
+        "type": "graphic",
+        "caption_text": "Figure 11.  (a) A participant \ufb01rst selected a furniture using Palm Grip, \n(b) then changed its color using Pen Grip. \n",
+        "image_labels": [
+            [
+                "Wood",
+                0.8342917561531067
+            ],
+            [
+                "Screenshot",
+                0.8010631799697876
+            ],
+            [
+                "Urban design",
+                0.7816547155380249
+            ],
+            [
+                "Font",
+                0.7787713408470154
+            ],
+            [
+                "Software",
+                0.7415452003479004
+            ],
+            [
+                "Table",
+                0.7386383414268494
+            ],
+            [
+                "Flooring",
+                0.7224348783493042
+            ],
+            [
+                "Facade",
+                0.6990079879760742
+            ],
+            [
+                "Multimedia software",
+                0.6925303339958191
+            ],
+            [
+                "Multimedia",
+                0.6788701415061951
+            ]
+        ]
+    },
+    "13": {
+        "type": "diagram",
+        "caption_text": "Figure 13.  (a) A participant can select an invisible object; (b) A partici-\npant can see but cannot select the target. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8196355700492859
+            ],
+            [
+                "Line",
+                0.8173509836196899
+            ],
+            [
+                "Parallel",
+                0.7840373516082764
+            ],
+            [
+                "Triangle",
+                0.7475730180740356
+            ],
+            [
+                "Rectangle",
+                0.7160286903381348
+            ],
+            [
+                "Slope",
+                0.6878765821456909
+            ],
+            [
+                "Screenshot",
+                0.6814125776290894
+            ],
+            [
+                "Advertising",
+                0.6794454455375671
+            ],
+            [
+                "Brand",
+                0.6598711609840393
+            ],
+            [
+                "Magenta",
+                0.6305890083312988
+            ]
+        ]
+    },
+    "12": {
+        "type": "diagram",
+        "caption_text": "Figure 12.  (a) A participant used tilt gesture to scroll the web page, (b) \nand double poked to zoom in or zoom out. \n",
+        "image_labels": [
+            [
+                "Font",
+                0.8337076902389526
+            ],
+            [
+                "Parallel",
+                0.7827897667884827
+            ],
+            [
+                "Rectangle",
+                0.7693653106689453
+            ],
+            [
+                "Brand",
+                0.6656229496002197
+            ],
+            [
+                "Diagram",
+                0.6490288972854614
+            ],
+            [
+                "Magenta",
+                0.6443526148796082
+            ],
+            [
+                "Science",
+                0.6275907158851624
+            ],
+            [
+                "Screenshot",
+                0.6121079921722412
+            ],
+            [
+                "Advertising",
+                0.6090129017829895
+            ],
+            [
+                "Circle",
+                0.5920264720916748
+            ]
+        ]
+    }
+}

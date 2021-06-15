@@ -1,0 +1,232 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1. Mini-Me Concept: (a) MR view through the HoloLens of a remote VR user\u2019s Mini-Me avatar standing on a table and a \nlife-size avatar standing on the right, both avatars gaze toward the same place and point at the same target with gaze and pointing \nof the Mini-Me avatar redirected, (b) A male (VR user) and a female (AR user) avatars in VR, (c) Design features of the Mini-Me \navatar, (d) The local AR user moving a tea box, (e) + (f) The remote VR user is pointing at a box and the Mini-Me in the AR user\u2019s \nFOV has its gaze and pointing gesture redirected to the same box (g) A remote VR user is pointing. \n",
+        "image_labels": [
+            [
+                "Arm",
+                0.9427445530891418
+            ],
+            [
+                "Photograph",
+                0.9414098858833313
+            ],
+            [
+                "Shirt",
+                0.9404494762420654
+            ],
+            [
+                "Product",
+                0.9086913466453552
+            ],
+            [
+                "Fashion",
+                0.8942529559135437
+            ],
+            [
+                "Font",
+                0.8536843657493591
+            ],
+            [
+                "Community",
+                0.8084548711776733
+            ],
+            [
+                "T-shirt",
+                0.8028280735015869
+            ],
+            [
+                "Art",
+                0.7983278036117554
+            ],
+            [
+                "Automotive design",
+                0.7956177592277527
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2: The AR user views the Mini-Me from two different perspectives showing Mini-Me consistently gazing and pointing at the \nsame location: a) in front of the whiteboard, b) side view of the whiteboard, c) As the AR user gazes at the remote VR user\u2019s life-\nsize avatar, the Mini-Me moves toward this avatar and d) fuses with it and disappears, e) AR user can gaze at the Mini-Me and \nperform an air-tap to pin it in place or f) Tap again to unpin it from that location. \n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9414019584655762
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Output device",
+                0.83171546459198
+            ],
+            [
+                "Television set",
+                0.8201888799667358
+            ],
+            [
+                "Gadget",
+                0.8186891674995422
+            ],
+            [
+                "Display device",
+                0.7875171303749084
+            ],
+            [
+                "Entertainment",
+                0.7821506261825562
+            ],
+            [
+                "Television program",
+                0.7600113749504089
+            ],
+            [
+                "Font",
+                0.7557410597801208
+            ],
+            [
+                "Electronic device",
+                0.755721926689148
+            ]
+        ]
+    },
+    "3": {
+        "type": "human",
+        "caption_text": "Figure  3:  a)  Scaled  down  VR  user\u2019s  perspective  seeing  the  AR  user  as  a  giant,  b)  VR  user  shrunk  down  interacting  inside  the \nminiature dome, c) VR user is a giant looking down at the AR reconstructed space, d) The real experimental space for the AR user, \nand e) its virtual reconstruction for the VR user \n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Event",
+                0.7227703928947449
+            ],
+            [
+                "Public speaking",
+                0.6802507042884827
+            ],
+            [
+                "Speech",
+                0.6634907126426697
+            ],
+            [
+                "Elbow",
+                0.6354610323905945
+            ],
+            [
+                "Display device",
+                0.6350910663604736
+            ],
+            [
+                "Spokesperson",
+                0.6318936347961426
+            ],
+            [
+                "Stage equipment",
+                0.6254972219467163
+            ],
+            [
+                "Room",
+                0.6023863554000854
+            ],
+            [
+                "Job",
+                0.5864243507385254
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4. Baseline condition illustrating how the remote VR user\u2019s avatar look through a HoloLens. (a-d) Tea Party task (a) VR \nuser asks the AR user to pick up a tea box (b) the AR user follows the pointing ray from the avatar\u2019s hand to a correct tea box with \na virtual replica overlaid on the physical box (c) VR user points at the shelf to place the box (d) AR user adjusts the orientation of \nthe box as the VR user instructs (e-h) Urban Planner task (e) VR view showing VR and AR users sitting side by side (f) AR user \nlooks at the VR user\u2019s avatar (g) VR user is pointing at the building at the top while AR user is pointing at the one at the bottom (h) \nAR user looks at a physical model that the VR user is pointing. The gaze cursors of both users can be seen here. \n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9429597854614258
+            ],
+            [
+                "Product",
+                0.9088330864906311
+            ],
+            [
+                "Purple",
+                0.9071856737136841
+            ],
+            [
+                "Font",
+                0.8554403781890869
+            ],
+            [
+                "Violet",
+                0.8282400965690613
+            ],
+            [
+                "Material property",
+                0.8026047348976135
+            ],
+            [
+                "Magenta",
+                0.7863658666610718
+            ],
+            [
+                "Technology",
+                0.7695704102516174
+            ],
+            [
+                "Electronic device",
+                0.7510818839073181
+            ],
+            [
+                "Beauty",
+                0.7494902014732361
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5. Task completion time. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8922281861305237
+            ],
+            [
+                "Slope",
+                0.8579924702644348
+            ],
+            [
+                "Font",
+                0.8196054697036743
+            ],
+            [
+                "Parallel",
+                0.7892882227897644
+            ],
+            [
+                "Pattern",
+                0.7143169641494751
+            ],
+            [
+                "Plot",
+                0.6802378296852112
+            ],
+            [
+                "Diagram",
+                0.6668192148208618
+            ],
+            [
+                "Electric blue",
+                0.6041127443313599
+            ],
+            [
+                "Number",
+                0.5917048454284668
+            ],
+            [
+                "Symmetry",
+                0.5317345261573792
+            ]
+        ]
+    }
+}

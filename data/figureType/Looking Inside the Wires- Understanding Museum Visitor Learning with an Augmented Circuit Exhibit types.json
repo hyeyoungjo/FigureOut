@@ -1,0 +1,542 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1. Spark interactive tabletop exhibit. \n",
+        "image_labels": [
+            [
+                "Azure",
+                0.8959220051765442
+            ],
+            [
+                "Computer",
+                0.8563817143440247
+            ],
+            [
+                "Gadget",
+                0.8492078185081482
+            ],
+            [
+                "Communication Device",
+                0.8397020101547241
+            ],
+            [
+                "Output device",
+                0.8314968943595886
+            ],
+            [
+                "Operating system",
+                0.8291970491409302
+            ],
+            [
+                "Display device",
+                0.7661884427070618
+            ],
+            [
+                "Font",
+                0.7628566026687622
+            ],
+            [
+                "Electronic device",
+                0.7514801621437073
+            ],
+            [
+                "Tablet computer",
+                0.7476546764373779
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2. Linking two representations of a circuit (a) side-by-\nside on one display and (b) with AR on a second display. \n",
+        "image_labels": [
+            [
+                "Line",
+                0.8259679079055786
+            ],
+            [
+                "Tire",
+                0.7968682646751404
+            ],
+            [
+                "Technology",
+                0.7494080066680908
+            ],
+            [
+                "Parallel",
+                0.7422093749046326
+            ],
+            [
+                "Machine",
+                0.7354998588562012
+            ],
+            [
+                "Wheel",
+                0.7314626574516296
+            ],
+            [
+                "Engineering",
+                0.6917834281921387
+            ],
+            [
+                "Art",
+                0.6854208707809448
+            ],
+            [
+                "Font",
+                0.684157133102417
+            ],
+            [
+                "Games",
+                0.6687944531440735
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure 3. Snapshot of Spark system in the single-display \ncondition. \n",
+        "image_labels": [
+            [
+                "Light",
+                0.9107969999313354
+            ],
+            [
+                "Product",
+                0.9080995917320251
+            ],
+            [
+                "Organism",
+                0.8734864592552185
+            ],
+            [
+                "Font",
+                0.8533065319061279
+            ],
+            [
+                "Line",
+                0.8215342164039612
+            ],
+            [
+                "Screenshot",
+                0.7861905694007874
+            ],
+            [
+                "Parallel",
+                0.7731059789657593
+            ],
+            [
+                "Technology",
+                0.7689096331596375
+            ],
+            [
+                "Rectangle",
+                0.7386173009872437
+            ],
+            [
+                "Electronic device",
+                0.7385327219963074
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4. Electron model display in the AR condition. The \nblue dots are moving electrons and the red dots represent ions \nin conductive materials. Resistors have higher ion densities \nthan wires. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9077778458595276
+            ],
+            [
+                "Rectangle",
+                0.8734346032142639
+            ],
+            [
+                "Font",
+                0.8336284756660461
+            ],
+            [
+                "Screenshot",
+                0.7974544763565063
+            ],
+            [
+                "Technology",
+                0.778512716293335
+            ],
+            [
+                "Electronic device",
+                0.7662965655326843
+            ],
+            [
+                "Circle",
+                0.7620530128479004
+            ],
+            [
+                "Pattern",
+                0.7094280123710632
+            ],
+            [
+                "Software",
+                0.6613984107971191
+            ],
+            [
+                "Slope",
+                0.660207986831665
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure 5. Final task (task 3) in the series of tasks.  \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8879870176315308
+            ],
+            [
+                "Organism",
+                0.8684739470481873
+            ],
+            [
+                "Yellow",
+                0.8514888882637024
+            ],
+            [
+                "Font",
+                0.8337472677230835
+            ],
+            [
+                "Parallel",
+                0.7877723574638367
+            ],
+            [
+                "Slope",
+                0.6667503714561462
+            ],
+            [
+                "Circle",
+                0.6270901560783386
+            ],
+            [
+                "Number",
+                0.609682559967041
+            ],
+            [
+                "Illustration",
+                0.5772749185562134
+            ],
+            [
+                "Happy",
+                0.5637567043304443
+            ]
+        ]
+    },
+    "6": {
+        "type": "formula",
+        "caption_text": "Figure 6. Post-interview questions and two examples of \nchildren\u2019s drawings to show the flow of current. \n",
+        "image_labels": [
+            [
+                "White",
+                0.9218693971633911
+            ],
+            [
+                "Product",
+                0.907844066619873
+            ],
+            [
+                "Rectangle",
+                0.8861275315284729
+            ],
+            [
+                "Font",
+                0.8263726234436035
+            ],
+            [
+                "Line",
+                0.8236293196678162
+            ],
+            [
+                "Handwriting",
+                0.7911152839660645
+            ],
+            [
+                "Parallel",
+                0.7844210863113403
+            ],
+            [
+                "Circle",
+                0.7146132588386536
+            ],
+            [
+                "Slope",
+                0.6984426379203796
+            ],
+            [
+                "Gas",
+                0.6809818148612976
+            ]
+        ]
+    },
+    "7": {
+        "type": "human",
+        "caption_text": "Figure 7. Snapshots of parent-child dyads using the exhibit in \nthe single-display condition (left) and the AR condition (right)\n",
+        "image_labels": [
+            [
+                "Computer",
+                0.9268943667411804
+            ],
+            [
+                "Product",
+                0.9072782397270203
+            ],
+            [
+                "Personal computer",
+                0.902165949344635
+            ],
+            [
+                "Output device",
+                0.8585943579673767
+            ],
+            [
+                "T-shirt",
+                0.8370172381401062
+            ],
+            [
+                "Gadget",
+                0.8194460272789001
+            ],
+            [
+                "Peripheral",
+                0.7810379266738892
+            ],
+            [
+                "Display device",
+                0.7741117477416992
+            ],
+            [
+                "Desktop computer",
+                0.7732314467430115
+            ],
+            [
+                "Technology",
+                0.7610502243041992
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8. Children\u2019s mental models of current flow path in \ncontrol condition (C1); single-display condition (C2); and AR \ncondition (C3). \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.883632242679596
+            ],
+            [
+                "Slope",
+                0.8735465407371521
+            ],
+            [
+                "Plot",
+                0.8586583733558655
+            ],
+            [
+                "Font",
+                0.798169732093811
+            ],
+            [
+                "Parallel",
+                0.7866775989532471
+            ],
+            [
+                "Pattern",
+                0.7429417967796326
+            ],
+            [
+                "Diagram",
+                0.7037690877914429
+            ],
+            [
+                "Number",
+                0.7000918984413147
+            ],
+            [
+                "Circle",
+                0.5283840298652649
+            ],
+            [
+                "Symmetry",
+                0.5055310726165771
+            ]
+        ]
+    },
+    "9": {
+        "type": "diagram",
+        "caption_text": "Figure 9. Children\u2019s mental models of mechanism of current \nflow with cyclic model and concurrent model grouped as \n\u201dprogressed\u201d conceptions. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.888176679611206
+            ],
+            [
+                "Font",
+                0.8111857771873474
+            ],
+            [
+                "Parallel",
+                0.7654626965522766
+            ],
+            [
+                "Technology",
+                0.7483339309692383
+            ],
+            [
+                "Diagram",
+                0.718339204788208
+            ],
+            [
+                "Brand",
+                0.5952029228210449
+            ],
+            [
+                "Slope",
+                0.5713675022125244
+            ],
+            [
+                "Number",
+                0.5377166271209717
+            ],
+            [
+                "Handwriting",
+                0.521099865436554
+            ]
+        ]
+    },
+    "10": {
+        "type": "chart",
+        "caption_text": "Figure 10. Parent-child dyad predictions for task 3. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9072564244270325
+            ],
+            [
+                "Rectangle",
+                0.8954532146453857
+            ],
+            [
+                "Portable communications device",
+                0.8275497555732727
+            ],
+            [
+                "Font",
+                0.8260669112205505
+            ],
+            [
+                "Communication Device",
+                0.8070339560508728
+            ],
+            [
+                "Parallel",
+                0.7881978750228882
+            ],
+            [
+                "Technology",
+                0.7540817260742188
+            ],
+            [
+                "Gadget",
+                0.733475387096405
+            ],
+            [
+                "Diagram",
+                0.6990056037902832
+            ],
+            [
+                "Slope",
+                0.6187981367111206
+            ]
+        ]
+    },
+    "11": {
+        "type": "chart",
+        "caption_text": "Figure 11. Different types of parental roles in task 2 in the \nsingle-display condition (C2) and the AR condition (C3). \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8826406598091125
+            ],
+            [
+                "Plot",
+                0.8597306609153748
+            ],
+            [
+                "Slope",
+                0.8367030024528503
+            ],
+            [
+                "Font",
+                0.7910772562026978
+            ],
+            [
+                "Parallel",
+                0.7707752585411072
+            ],
+            [
+                "Diagram",
+                0.6536498665809631
+            ],
+            [
+                "Number",
+                0.6148626804351807
+            ],
+            [
+                "Electric blue",
+                0.556962251663208
+            ]
+        ]
+    },
+    "12": {
+        "type": "graphic",
+        "caption_text": "Figure 12. A demonstration of Tangible Spark. \n",
+        "image_labels": [
+            [
+                "Tablet computer",
+                0.8933975696563721
+            ],
+            [
+                "Gadget",
+                0.8807883262634277
+            ],
+            [
+                "Communication Device",
+                0.8744301199913025
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8504009246826172
+            ],
+            [
+                "Finger",
+                0.8448742628097534
+            ],
+            [
+                "Display device",
+                0.7733892798423767
+            ],
+            [
+                "Screenshot",
+                0.768648624420166
+            ],
+            [
+                "Technology",
+                0.7671842575073242
+            ],
+            [
+                "Electronic device",
+                0.743261456489563
+            ]
+        ]
+    }
+}

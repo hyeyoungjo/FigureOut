@@ -1,0 +1,404 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1: Crossing a (a) target disc in 3D space; (b) goal line\non 2D plane.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8858030438423157
+            ],
+            [
+                "Wood",
+                0.8821677565574646
+            ],
+            [
+                "Slope",
+                0.8407396674156189
+            ],
+            [
+                "Asphalt",
+                0.8387237191200256
+            ],
+            [
+                "Triangle",
+                0.8365532159805298
+            ],
+            [
+                "Shade",
+                0.8250293731689453
+            ],
+            [
+                "Parallel",
+                0.7783608436584473
+            ],
+            [
+                "Font",
+                0.7774021625518799
+            ],
+            [
+                "Tints and shades",
+                0.7727718949317932
+            ],
+            [
+                "Flooring",
+                0.7637553811073303
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2: (a) Target positions in the virtual environment\nfrom an overhead perspective. Z-axis is the default orien-\ntation of the virtual camera in VR. Dotted lines represent\ntarget depths (768, 2304 and 3456 mm). Circles with iden-\ntical numbers indicate target pairs in an experiment trial.\nEach target pair corresponds to a target angle, either 20.4\u25e6\nor 90.2\u25e6. The shaded area indicates the apparatus\u2019s default\nFOV (\u2248 80\u25e6) (b) Participant wearing the Oculus Rift using\na touch controller. Inset: close-up of the Oculus Touch con-\ntroller. \u201cButton A\u201d is highlighted in a dotted red circle.\n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8365368247032166
+            ],
+            [
+                "Musical instrument",
+                0.785149335861206
+            ],
+            [
+                "Peripheral",
+                0.744644045829773
+            ],
+            [
+                "Computer keyboard",
+                0.7444653511047363
+            ],
+            [
+                "Audio equipment",
+                0.7137306928634644
+            ],
+            [
+                "Output device",
+                0.7005971670150757
+            ],
+            [
+                "T-shirt",
+                0.6775367856025696
+            ],
+            [
+                "Machine",
+                0.6602101922035217
+            ],
+            [
+                "Computer monitor",
+                0.6404395699501038
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3: The five tested task types in 3D space.\n",
+        "image_labels": [
+            [
+                "Street light",
+                0.8926868438720703
+            ],
+            [
+                "Asphalt",
+                0.8511766791343689
+            ],
+            [
+                "Line",
+                0.8200637698173523
+            ],
+            [
+                "Slope",
+                0.7920770645141602
+            ],
+            [
+                "Parallel",
+                0.7785857915878296
+            ],
+            [
+                "Font",
+                0.7597663998603821
+            ],
+            [
+                "Road surface",
+                0.7415258288383484
+            ],
+            [
+                "Road",
+                0.7406288385391235
+            ],
+            [
+                "Rectangle",
+                0.737331748008728
+            ],
+            [
+                "Tree",
+                0.6979091763496399
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5: Fitts\u2019 law models for the pointing and four crossing\ntasks in (a) Experiment One and (b) Two.\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8795768618583679
+            ],
+            [
+                "Rectangle",
+                0.8735651969909668
+            ],
+            [
+                "Font",
+                0.821948230266571
+            ],
+            [
+                "Line",
+                0.8186153173446655
+            ],
+            [
+                "Parallel",
+                0.7626223564147949
+            ],
+            [
+                "Pattern",
+                0.7365712523460388
+            ],
+            [
+                "Symmetry",
+                0.7235391139984131
+            ],
+            [
+                "Triangle",
+                0.6974908113479614
+            ],
+            [
+                "Number",
+                0.6825095415115356
+            ],
+            [
+                "Plot",
+                0.6537653207778931
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4: Mean selection time for the five task types in (a)\nthree target depths and (b) seven IDs. Error bars represent\n0.95 confidence interval.\n",
+        "image_labels": [
+            [
+                "Plot",
+                0.8678606748580933
+            ],
+            [
+                "Slope",
+                0.8583211898803711
+            ],
+            [
+                "Font",
+                0.8349179029464722
+            ],
+            [
+                "Line",
+                0.8172298073768616
+            ],
+            [
+                "Rectangle",
+                0.804039716720581
+            ],
+            [
+                "Parallel",
+                0.7778570652008057
+            ],
+            [
+                "Diagram",
+                0.7200102210044861
+            ],
+            [
+                "Graphics",
+                0.6756001114845276
+            ],
+            [
+                "Number",
+                0.6344651579856873
+            ],
+            [
+                "Logo",
+                0.6155681014060974
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure 6: Error rates for the five task types in (a) three target\ndepths and (b) seven IDs.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8579871654510498
+            ],
+            [
+                "Plot",
+                0.8563976883888245
+            ],
+            [
+                "Font",
+                0.8446201086044312
+            ],
+            [
+                "Slope",
+                0.8299127221107483
+            ],
+            [
+                "Parallel",
+                0.7848353981971741
+            ],
+            [
+                "Diagram",
+                0.7043901681900024
+            ],
+            [
+                "Number",
+                0.6096957325935364
+            ]
+        ]
+    },
+    "7": {
+        "type": "picture",
+        "caption_text": "Figure 7: The five tested task types on 2D planes.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8593925833702087
+            ],
+            [
+                "Slope",
+                0.8373750448226929
+            ],
+            [
+                "Asphalt",
+                0.825607180595398
+            ],
+            [
+                "Line",
+                0.8184897899627686
+            ],
+            [
+                "Wood",
+                0.8053739070892334
+            ],
+            [
+                "Parallel",
+                0.7844197750091553
+            ],
+            [
+                "Font",
+                0.7471845149993896
+            ],
+            [
+                "Road",
+                0.7319514751434326
+            ],
+            [
+                "Electric blue",
+                0.7310401797294617
+            ],
+            [
+                "Circle",
+                0.7204806804656982
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8: Mean selection time for the five task types in (a)\nthree target depths and (b) seven IDs.\n",
+        "image_labels": [
+            [
+                "Plot",
+                0.8804879188537598
+            ],
+            [
+                "Slope",
+                0.856806218624115
+            ],
+            [
+                "Font",
+                0.8491054177284241
+            ],
+            [
+                "Line",
+                0.8221462368965149
+            ],
+            [
+                "Rectangle",
+                0.7916446924209595
+            ],
+            [
+                "Parallel",
+                0.7778446078300476
+            ],
+            [
+                "Diagram",
+                0.7196691632270813
+            ],
+            [
+                "Screenshot",
+                0.6494788527488708
+            ],
+            [
+                "Number",
+                0.6474107503890991
+            ],
+            [
+                "Graphics",
+                0.6072844862937927
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9: Error rates for the five task types in (a) three target\ndepths and (b) seven IDs.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8971914052963257
+            ],
+            [
+                "Slope",
+                0.8645718097686768
+            ],
+            [
+                "Font",
+                0.8435364961624146
+            ],
+            [
+                "Plot",
+                0.8296096324920654
+            ],
+            [
+                "Parallel",
+                0.7862072587013245
+            ],
+            [
+                "Screenshot",
+                0.7097015976905823
+            ],
+            [
+                "Pattern",
+                0.6729335188865662
+            ],
+            [
+                "Number",
+                0.6653629541397095
+            ],
+            [
+                "Diagram",
+                0.6596527695655823
+            ],
+            [
+                "Circle",
+                0.5854885578155518
+            ]
+        ]
+    }
+}

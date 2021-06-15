@@ -1,0 +1,370 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1. The four VR scenarios. Top: Gaming and Illusions scenarios. Bottom: Cognitive and Perception scenarios. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9076346755027771
+            ],
+            [
+                "Floor",
+                0.8204079866409302
+            ],
+            [
+                "Automotive exterior",
+                0.7737613320350647
+            ],
+            [
+                "Peripheral",
+                0.7674769759178162
+            ],
+            [
+                "Flooring",
+                0.7576402425765991
+            ],
+            [
+                "Font",
+                0.7473419904708862
+            ],
+            [
+                "Technology",
+                0.7377816438674927
+            ],
+            [
+                "Output device",
+                0.7254441380500793
+            ],
+            [
+                "Desk",
+                0.719648003578186
+            ],
+            [
+                "Machine",
+                0.713403046131134
+            ]
+        ]
+    },
+    "2": {
+        "type": "graphic",
+        "caption_text": "Figure  2.  Illustration  of  the  Illusion  Scenario.  The  player \nstarts  in  the  green  location  in  both  the  virtual  and  real \nenvironments. By slightly varying the player\u2019s rotation in VR, \nthe player ends up in one corner of the room in VR (orange), \nbut  in  the  opposite  corner,  facing  the  opposite  direction  in \nreality (blue). \n",
+        "image_labels": [
+            [
+                "Interior design",
+                0.8637957572937012
+            ],
+            [
+                "Urban design",
+                0.8262525796890259
+            ],
+            [
+                "Art",
+                0.7698583006858826
+            ],
+            [
+                "Space",
+                0.7391055226325989
+            ],
+            [
+                "Wood",
+                0.73785001039505
+            ],
+            [
+                "Screenshot",
+                0.7234438061714172
+            ],
+            [
+                "Facade",
+                0.7110503315925598
+            ],
+            [
+                "Flooring",
+                0.7070966362953186
+            ],
+            [
+                "Symmetry",
+                0.693301260471344
+            ],
+            [
+                "Room",
+                0.6773589849472046
+            ]
+        ]
+    },
+    "3": {
+        "type": "chart",
+        "caption_text": "Figure  3.  Illustrating  Abrupt  vs  Open  Endings.  Left:  an \nabrupt  ending  (fade  to  black),  forces  the  player  to  exit  VR. \nRight:  the  game  world  remains  visible  while  suggesting  an \nexit, leaving the player in control. \n",
+        "image_labels": [
+            [
+                "Couch",
+                0.9243000745773315
+            ],
+            [
+                "Rectangle",
+                0.8932402729988098
+            ],
+            [
+                "Font",
+                0.8192023038864136
+            ],
+            [
+                "Electric blue",
+                0.7028310894966125
+            ],
+            [
+                "Magenta",
+                0.6580834984779358
+            ],
+            [
+                "Brand",
+                0.6568652987480164
+            ],
+            [
+                "Pattern",
+                0.6536073684692383
+            ],
+            [
+                "Graphics",
+                0.6440399289131165
+            ],
+            [
+                "Logo",
+                0.6439892649650574
+            ],
+            [
+                "Carmine",
+                0.6323526501655579
+            ]
+        ]
+    },
+    "5": {
+        "type": "picture",
+        "caption_text": "Figure  5.  Spatial  Alignment  illustration.  Towards  the  end  of \nthe game, objects of focus are moved to the extremities of the \nreal-space,  helping  the  player  adapt  to  the  real-world \nproportions before exiting VR. \n",
+        "image_labels": [
+            [
+                "Couch",
+                0.9418556094169617
+            ],
+            [
+                "Rectangle",
+                0.8914093971252441
+            ],
+            [
+                "Font",
+                0.8156948089599609
+            ],
+            [
+                "Pillow",
+                0.7489311695098877
+            ],
+            [
+                "Magenta",
+                0.7152097225189209
+            ],
+            [
+                "Electric blue",
+                0.7132071256637573
+            ],
+            [
+                "Pattern",
+                0.7047429084777832
+            ],
+            [
+                "Wood",
+                0.6754382252693176
+            ],
+            [
+                "Brand",
+                0.6697219610214233
+            ],
+            [
+                "Linens",
+                0.6646087765693665
+            ]
+        ]
+    },
+    "4": {
+        "type": "graphic",
+        "caption_text": "Figure  4.  Illustrating  Soft  Transitions.  From  left  to  right,  the \ngame  world  softly  fades  into  the  real  world,  allowing  the \nplayer to re-orient themselves before removing the headset. \n",
+        "image_labels": [
+            [
+                "Urban design",
+                0.8178499341011047
+            ],
+            [
+                "Art",
+                0.7843908071517944
+            ],
+            [
+                "Rectangle",
+                0.7768392562866211
+            ],
+            [
+                "Symmetry",
+                0.7339112758636475
+            ],
+            [
+                "Space",
+                0.719935953617096
+            ],
+            [
+                "Screenshot",
+                0.6882391571998596
+            ],
+            [
+                "Pattern",
+                0.6580762267112732
+            ],
+            [
+                "Graphics",
+                0.6382088661193848
+            ],
+            [
+                "Illustration",
+                0.6212172508239746
+            ],
+            [
+                "Room",
+                0.6056419610977173
+            ]
+        ]
+    },
+    "6": {
+        "type": "picture",
+        "caption_text": "Figure  6.  Illustration  of  Ability  Dashboards.  A  heads-up-\ndisplay  shows  the  participant  special  capabilities  that  are \nenabled in VR (left) and shows them disabled before removing \nthe headset (right). \n",
+        "image_labels": [
+            [
+                "Output device",
+                0.8666948676109314
+            ],
+            [
+                "Rectangle",
+                0.8244743347167969
+            ],
+            [
+                "Font",
+                0.8148136734962463
+            ],
+            [
+                "Flooring",
+                0.7752717733383179
+            ],
+            [
+                "Machine",
+                0.7080267071723938
+            ],
+            [
+                "Multimedia",
+                0.6535122394561768
+            ],
+            [
+                "Brand",
+                0.6530444622039795
+            ],
+            [
+                "Event",
+                0.6494004130363464
+            ],
+            [
+                "Presentation",
+                0.6475280523300171
+            ],
+            [
+                "Room",
+                0.6414071321487427
+            ]
+        ]
+    },
+    "7": {
+        "type": "diagram",
+        "caption_text": "Figure  7.  Spatial  Reconfiguration  illustration.  Left:  the  room \nlayout as the player enters VR. Right: The re-arranged layout \n(where furnishings have moved) as the player exits VR. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8897088170051575
+            ],
+            [
+                "Font",
+                0.8118835687637329
+            ],
+            [
+                "Slope",
+                0.790299117565155
+            ],
+            [
+                "Parallel",
+                0.7898683547973633
+            ],
+            [
+                "Pattern",
+                0.7310194373130798
+            ],
+            [
+                "Symmetry",
+                0.67132169008255
+            ],
+            [
+                "Diagram",
+                0.6697058081626892
+            ],
+            [
+                "Circle",
+                0.6585884094238281
+            ],
+            [
+                "Drawing",
+                0.6579155921936035
+            ],
+            [
+                "Plan",
+                0.6386087536811829
+            ]
+        ]
+    },
+    "8": {
+        "type": "human",
+        "caption_text": "Figure  8.  Illustration  of  Social  Setting  Changes.  Left:  the \nsocial setting of the space as the player enters VR. Right: The \nsocial  setting  upon  exiting  VR,  where  multiple  people  are \npresent. \n",
+        "image_labels": [
+            [
+                "Output device",
+                0.8955981135368347
+            ],
+            [
+                "Computer",
+                0.8075206279754639
+            ],
+            [
+                "Gadget",
+                0.7702547907829285
+            ],
+            [
+                "Window",
+                0.7650310397148132
+            ],
+            [
+                "Urban design",
+                0.7538677453994751
+            ],
+            [
+                "Technology",
+                0.745234489440918
+            ],
+            [
+                "Electronic device",
+                0.7381601333618164
+            ],
+            [
+                "Multimedia",
+                0.7366523146629333
+            ],
+            [
+                "Machine",
+                0.7324073910713196
+            ],
+            [
+                "Personal computer",
+                0.729909360408783
+            ]
+        ]
+    }
+}

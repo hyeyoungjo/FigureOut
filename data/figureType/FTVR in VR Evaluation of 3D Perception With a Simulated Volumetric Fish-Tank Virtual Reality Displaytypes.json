@@ -1,0 +1,362 @@
+{
+    "1": {
+        "type": "graphic",
+        "caption_text": "Figure 1: A spherical FTVR display (right) is simulated in VR\n(left) to evaluate the importance of stereo cues.\n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9414364695549011
+            ],
+            [
+                "Product",
+                0.907360851764679
+            ],
+            [
+                "World",
+                0.8864305019378662
+            ],
+            [
+                "Art",
+                0.803622305393219
+            ],
+            [
+                "Circle",
+                0.7640912532806396
+            ],
+            [
+                "Font",
+                0.7550676465034485
+            ],
+            [
+                "Terrestrial plant",
+                0.7508931159973145
+            ],
+            [
+                "Snapshot",
+                0.742847740650177
+            ],
+            [
+                "Space",
+                0.7298042178153992
+            ],
+            [
+                "Oval",
+                0.7109547853469849
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2: An example, with exaggerated stereo disparity, of\nwhat the left and right eyes would see in the Stereo (top), Non-\nStereo (middle), and Monocular (bottom) viewing conditions.\nNote that non-stereo rendering creates a perspective mis-\nmatch between the background 3D world and the display.\n",
+        "image_labels": [
+            [
+                "Clothing",
+                0.987116277217865
+            ],
+            [
+                "Forehead",
+                0.9846563935279846
+            ],
+            [
+                "Face",
+                0.9846245646476746
+            ],
+            [
+                "Hair",
+                0.9832674860954285
+            ],
+            [
+                "Head",
+                0.9751291871070862
+            ],
+            [
+                "Chin",
+                0.9660079479217529
+            ],
+            [
+                "Outerwear",
+                0.9605262875556946
+            ],
+            [
+                "Eyebrow",
+                0.9433122873306274
+            ],
+            [
+                "Eye",
+                0.941373348236084
+            ],
+            [
+                "Facial expression",
+                0.932380199432373
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3: Pattern alignment task: the pattern starts distorted\n(left) and then the participant moves their head left, right,\nup, or down to align their viewpoint so that the pattern ap-\npears to have straight lines and circular rings (right).\n",
+        "image_labels": [
+            [
+                "White",
+                0.9218959808349609
+            ],
+            [
+                "Light",
+                0.91425621509552
+            ],
+            [
+                "Black",
+                0.8966187238693237
+            ],
+            [
+                "Line",
+                0.8304538130760193
+            ],
+            [
+                "Font",
+                0.8225303292274475
+            ],
+            [
+                "Parallel",
+                0.7862251400947571
+            ],
+            [
+                "Electric blue",
+                0.7553454041481018
+            ],
+            [
+                "Circle",
+                0.7444188594818115
+            ],
+            [
+                "Triangle",
+                0.7195131778717041
+            ],
+            [
+                "Brand",
+                0.6632080078125
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4: Mean Time and Error vs. Viewing Condition for the\nPattern Alignment task. Error bars represent the standard\nerror of the mean, highlighted bars indicate significant best\nresults, and dashed lines indicate a significant difference.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9075112342834473
+            ],
+            [
+                "Rectangle",
+                0.8879764080047607
+            ],
+            [
+                "Font",
+                0.8434704542160034
+            ],
+            [
+                "Line",
+                0.8199114799499512
+            ],
+            [
+                "Parallel",
+                0.790822446346283
+            ],
+            [
+                "Slope",
+                0.7555361390113831
+            ],
+            [
+                "Plot",
+                0.7260333299636841
+            ],
+            [
+                "Diagram",
+                0.7142459750175476
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure 5: The geometric mean (red) of measurements (blue/orange) is shown relative to the ground truth (green). Calibrations\nwere perturbed by 5 cm (black circles) at the start of each trial. Plots are scaled to 6.3 cm pupillary distance.\n",
+        "image_labels": [
+            [
+                "Head",
+                0.9740030169487
+            ],
+            [
+                "Eye",
+                0.9416090846061707
+            ],
+            [
+                "Facial expression",
+                0.9324291944503784
+            ],
+            [
+                "Rectangle",
+                0.8755030035972595
+            ],
+            [
+                "Iris",
+                0.8556188344955444
+            ],
+            [
+                "Font",
+                0.8241136074066162
+            ],
+            [
+                "Circle",
+                0.7807307243347168
+            ],
+            [
+                "Parallel",
+                0.7569716572761536
+            ],
+            [
+                "Symmetry",
+                0.748931348323822
+            ],
+            [
+                "Eyelash",
+                0.7467339634895325
+            ]
+        ]
+    },
+    "6": {
+        "type": "diagram",
+        "caption_text": "Figure 6: Subjective preference task: the participant was\nforced to move left and right to induce a minimum amount\nof head motion before selecting their preference between a\npair of viewing conditions.\n",
+        "image_labels": [
+            [
+                "Head",
+                0.9742294549942017
+            ],
+            [
+                "Outerwear",
+                0.9523621797561646
+            ],
+            [
+                "Organ",
+                0.9041434526443481
+            ],
+            [
+                "Black",
+                0.8952034711837769
+            ],
+            [
+                "Human body",
+                0.8850501775741577
+            ],
+            [
+                "Sleeve",
+                0.8724502325057983
+            ],
+            [
+                "Organism",
+                0.8594192862510681
+            ],
+            [
+                "Font",
+                0.8249906897544861
+            ],
+            [
+                "Terrestrial plant",
+                0.7765510678291321
+            ],
+            [
+                "Circle",
+                0.6687818169593811
+            ]
+        ]
+    },
+    "7": {
+        "type": "picture",
+        "caption_text": "Figure 7: Point cloud visualizations on our simulated display\nin the Distance (left), Selection (middle), and Manipulation\n(right) tasks in Experiment 3.\n",
+        "image_labels": [
+            [
+                "Light",
+                0.9126356840133667
+            ],
+            [
+                "Black",
+                0.8967635035514832
+            ],
+            [
+                "Automotive lighting",
+                0.8891123533248901
+            ],
+            [
+                "Purple",
+                0.8817790150642395
+            ],
+            [
+                "Font",
+                0.7930608987808228
+            ],
+            [
+                "Astronomical object",
+                0.7799320816993713
+            ],
+            [
+                "Art",
+                0.7728039622306824
+            ],
+            [
+                "Gas",
+                0.7649979591369629
+            ],
+            [
+                "Science",
+                0.7535250782966614
+            ],
+            [
+                "Circle",
+                0.7451868057250977
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8: Mean Time, Error and Head Speed vs. Viewing Con-\ndition grouped by Task. Error bars represent the standard\nerror of the mean, highlighted bars indicate significant best\nresults, and dashed lines indicate a significant difference.\n",
+        "image_labels": [
+            [
+                "Colorfulness",
+                0.9619269967079163
+            ],
+            [
+                "Product",
+                0.907603919506073
+            ],
+            [
+                "Rectangle",
+                0.8802165985107422
+            ],
+            [
+                "Font",
+                0.8381240367889404
+            ],
+            [
+                "Material property",
+                0.8025022745132446
+            ],
+            [
+                "Magenta",
+                0.7977043986320496
+            ],
+            [
+                "Parallel",
+                0.7795448303222656
+            ],
+            [
+                "Pattern",
+                0.7677430510520935
+            ],
+            [
+                "Diagram",
+                0.6920920014381409
+            ],
+            [
+                "Design",
+                0.6863299608230591
+            ]
+        ]
+    }
+}

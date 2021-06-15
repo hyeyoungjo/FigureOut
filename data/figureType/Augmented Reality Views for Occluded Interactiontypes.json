@@ -1,0 +1,366 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1: In some situations, we need to manipulate objects out of our sight. We investigate how different views of occluded\nobjects support users during manipulation tasks. An example of such a task is plugging in an HDMI cable. While the port is\nnormally out of sight, see-through view (middle) and displaced 3D view (right) enable visual feedback during interactions.\n",
+        "image_labels": [
+            [
+                "Hat",
+                0.9326736330986023
+            ],
+            [
+                "Cap",
+                0.9199678897857666
+            ],
+            [
+                "Picture frame",
+                0.8981055617332458
+            ],
+            [
+                "Jaw",
+                0.8779603242874146
+            ],
+            [
+                "Mammal",
+                0.8538230657577515
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Headgear",
+                0.8162640333175659
+            ],
+            [
+                "Sun hat",
+                0.8127167224884033
+            ],
+            [
+                "Art",
+                0.81000816822052
+            ],
+            [
+                "Baseball cap",
+                0.8016678690910339
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2: During the study participants performed five different tasks (left to right): pressing one of two light switches, rotating\na dial, dragging a slider, plugging an HDMI stick into one of four ports, and placing a key fob onto one of three hooks.\n",
+        "image_labels": [
+            [
+                "Face",
+                0.982708752155304
+            ],
+            [
+                "Glasses",
+                0.9737920165061951
+            ],
+            [
+                "Muscle",
+                0.9239447116851807
+            ],
+            [
+                "White",
+                0.9218590259552002
+            ],
+            [
+                "Sunglasses",
+                0.9146347045898438
+            ],
+            [
+                "Vision care",
+                0.9094862937927246
+            ],
+            [
+                "Eyewear",
+                0.8942789435386658
+            ],
+            [
+                "Goggles",
+                0.8865453600883484
+            ],
+            [
+                "Toy",
+                0.8600180745124817
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ]
+        ]
+    },
+    "3": {
+        "type": "human",
+        "caption_text": "Figure 3: Four of the views used in the experiment: A) Static\ncamera, b) Dynamic camera, c) Cloned 3D and d) See-through\nview. No visualization view is not shown, as it does not render\nanything in user\u2019s field of view.\n",
+        "image_labels": [
+            [
+                "Clothing",
+                0.987845778465271
+            ],
+            [
+                "Footwear",
+                0.9826156497001648
+            ],
+            [
+                "Joint",
+                0.9777281284332275
+            ],
+            [
+                "Hand",
+                0.9600579142570496
+            ],
+            [
+                "Shirt",
+                0.9511401057243347
+            ],
+            [
+                "Shoulder",
+                0.9497097730636597
+            ],
+            [
+                "Arm",
+                0.9443768262863159
+            ],
+            [
+                "Helmet",
+                0.940786600112915
+            ],
+            [
+                "Muscle",
+                0.9265782833099365
+            ],
+            [
+                "White",
+                0.9218708276748657
+            ]
+        ]
+    },
+    "4": {
+        "type": "human",
+        "caption_text": "Figure 4: During the study, participants were seated in front\nof a 1 m3 frame. They reached in from the right side and\ninteracted with objects placed on a wall, that was tilted at a\n30 \u00b0 angle. Movement inside the frame was tracked with an\nOptitrack setup and participants received visual feedback in\na HoloLens headset.\n",
+        "image_labels": [
+            [
+                "Automotive design",
+                0.9037207365036011
+            ],
+            [
+                "Hat",
+                0.8419581651687622
+            ],
+            [
+                "Engineering",
+                0.762405276298523
+            ],
+            [
+                "Machine",
+                0.7525738477706909
+            ],
+            [
+                "Electronic device",
+                0.737029492855072
+            ],
+            [
+                "Output device",
+                0.7288748025894165
+            ],
+            [
+                "Baseball cap",
+                0.7277536392211914
+            ],
+            [
+                "Computer",
+                0.6586933732032776
+            ],
+            [
+                "Cap",
+                0.6238976120948792
+            ],
+            [
+                "T-shirt",
+                0.6138278841972351
+            ]
+        ]
+    },
+    "5": {
+        "type": "formula",
+        "caption_text": "Figure 5: Delay till start of manipulation per view (top) and\nper view and object (bottom). Error bars show bootstrapped\n95 % confidence intervals.\n",
+        "image_labels": [
+            [
+                "Font",
+                0.8595294952392578
+            ],
+            [
+                "Rectangle",
+                0.8500544428825378
+            ],
+            [
+                "Line",
+                0.8203033804893494
+            ],
+            [
+                "Parallel",
+                0.7885164618492126
+            ],
+            [
+                "Slope",
+                0.7883644700050354
+            ],
+            [
+                "Circle",
+                0.7211485505104065
+            ],
+            [
+                "Pattern",
+                0.7185288667678833
+            ],
+            [
+                "Number",
+                0.6863828301429749
+            ],
+            [
+                "Diagram",
+                0.6515807509422302
+            ],
+            [
+                "Symmetry",
+                0.5375221371650696
+            ]
+        ]
+    },
+    "6": {
+        "type": "formula",
+        "caption_text": "Figure 6: Duration of manipulation per view (top) and per\nview and object (bottom). Error bars show bootstrapped 95 %\nconfidence intervals.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8470689058303833
+            ],
+            [
+                "Font",
+                0.842431366443634
+            ],
+            [
+                "Line",
+                0.818139374256134
+            ],
+            [
+                "Parallel",
+                0.7883017659187317
+            ],
+            [
+                "Slope",
+                0.762867271900177
+            ],
+            [
+                "Diagram",
+                0.6799389719963074
+            ],
+            [
+                "Number",
+                0.6645526885986328
+            ],
+            [
+                "Pattern",
+                0.6397225856781006
+            ],
+            [
+                "Circle",
+                0.6002294421195984
+            ]
+        ]
+    },
+    "7": {
+        "type": "formula",
+        "caption_text": "Figure 7: Relative error and absolute errors per view (top\ntwo) and per view and object (bottom two). Error bars show\nbootstrapped 95 % confidence intervals.\n",
+        "image_labels": [
+            [
+                "Font",
+                0.8507821559906006
+            ],
+            [
+                "Line",
+                0.815454363822937
+            ],
+            [
+                "Parallel",
+                0.7888273596763611
+            ],
+            [
+                "Slope",
+                0.7039147615432739
+            ],
+            [
+                "Number",
+                0.6799115538597107
+            ],
+            [
+                "Symmetry",
+                0.6349024176597595
+            ],
+            [
+                "Rectangle",
+                0.6336049437522888
+            ],
+            [
+                "Pattern",
+                0.6233190894126892
+            ],
+            [
+                "Document",
+                0.5961644053459167
+            ],
+            [
+                "Circle",
+                0.5866933465003967
+            ]
+        ]
+    },
+    "8": {
+        "type": "table",
+        "caption_text": "Figure 8: At the end of the study, participants provided an\noverall rating of each view, indicating on a 7-point Likert\nscale how well the view supported them in the tasks. Shown\nhere are the number of ratings for each level of the scale,\nstacked horizontally to highlight overall trends.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9009988903999329
+            ],
+            [
+                "Font",
+                0.8367002606391907
+            ],
+            [
+                "Slope",
+                0.8073946237564087
+            ],
+            [
+                "Material property",
+                0.8004313707351685
+            ],
+            [
+                "Parallel",
+                0.788103461265564
+            ],
+            [
+                "Number",
+                0.7117375135421753
+            ],
+            [
+                "Pattern",
+                0.6713356375694275
+            ],
+            [
+                "Square",
+                0.634377658367157
+            ],
+            [
+                "Screenshot",
+                0.6214149594306946
+            ],
+            [
+                "Diagram",
+                0.5898306369781494
+            ]
+        ]
+    }
+}

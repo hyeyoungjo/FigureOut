@@ -1,0 +1,274 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1:  Our proposed technique HiveFive, in which a swarm visualization is used as a diegetic cue for guiding attention in \nVirtual Reality (in two different environments - left: forest, right: city\n",
+        "image_labels": [
+            [
+                "Tire",
+                0.9749963283538818
+            ],
+            [
+                "Wheel",
+                0.9746403694152832
+            ],
+            [
+                "Plant",
+                0.9349644780158997
+            ],
+            [
+                "Car",
+                0.9210416078567505
+            ],
+            [
+                "Vehicle",
+                0.9184226989746094
+            ],
+            [
+                "Automotive lighting",
+                0.8911668658256531
+            ],
+            [
+                "Automotive tire",
+                0.8797480463981628
+            ],
+            [
+                "Tree",
+                0.8716256618499756
+            ],
+            [
+                "Building",
+                0.8570044040679932
+            ],
+            [
+                "Motor vehicle",
+                0.8386943340301514
+            ]
+        ]
+    },
+    "2": {
+        "type": "graphic",
+        "caption_text": "Figure 2: The visible FOV of the HTC Vive is given as 110\u25e6 \n(red line) under optimal conditions. However, since the visible \nrange depends on many factors such as the \ufb01t of the headset, \nfacial  geometry  and  the  distance  between  eyes  and  lenses, \nwe have identi\ufb01ed an average FOV of 65\u25e6  (blue line).  The \nlemniscate is located in the centre with a total width of 45\u25e6 \n(white line). Best seen in color. \n",
+        "image_labels": [
+            [
+                "Plant",
+                0.9657135605812073
+            ],
+            [
+                "Sky",
+                0.9348598122596741
+            ],
+            [
+                "Tree",
+                0.8997887969017029
+            ],
+            [
+                "Land lot",
+                0.8452941179275513
+            ],
+            [
+                "Terrestrial plant",
+                0.839206874370575
+            ],
+            [
+                "Grass",
+                0.8302276730537415
+            ],
+            [
+                "Slope",
+                0.813184916973114
+            ],
+            [
+                "Font",
+                0.778739869594574
+            ],
+            [
+                "Symmetry",
+                0.7647044658660889
+            ],
+            [
+                "Circle",
+                0.7454684972763062
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3:  Boxplot of times to \ufb01rst \ufb01xation for both swarm \nmotion types for each environment (forest, city). \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9016023278236389
+            ],
+            [
+                "Font",
+                0.8355662822723389
+            ],
+            [
+                "Line",
+                0.8178281784057617
+            ],
+            [
+                "Parallel",
+                0.7899186015129089
+            ],
+            [
+                "Slope",
+                0.7755547165870667
+            ],
+            [
+                "Symmetry",
+                0.7312074303627014
+            ],
+            [
+                "Diagram",
+                0.6976419687271118
+            ],
+            [
+                "Pattern",
+                0.678615152835846
+            ],
+            [
+                "Line art",
+                0.6153803467750549
+            ],
+            [
+                "Drawing",
+                0.5493180751800537
+            ]
+        ]
+    },
+    "4": {
+        "type": "graphic",
+        "caption_text": "Figure 4: The apple tree used in the second study as overview (a) and the compared techniques (b-f). Best seen in color. \n",
+        "image_labels": [
+            [
+                "Flower",
+                0.980587363243103
+            ],
+            [
+                "Plant",
+                0.9648364782333374
+            ],
+            [
+                "Plant community",
+                0.9400880932807922
+            ],
+            [
+                "Ecoregion",
+                0.9302923083305359
+            ],
+            [
+                "Petal",
+                0.9071203470230103
+            ],
+            [
+                "Botany",
+                0.9040789008140564
+            ],
+            [
+                "Nature",
+                0.9015703201293945
+            ],
+            [
+                "Leaf",
+                0.8998965620994568
+            ],
+            [
+                "Natural landscape",
+                0.8745776414871216
+            ],
+            [
+                "Tree",
+                0.8742997646331787
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure 5: Boxplot of times to \ufb01rst \ufb01xation for all techniques. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8910039067268372
+            ],
+            [
+                "Slope",
+                0.8782942295074463
+            ],
+            [
+                "Schematic",
+                0.8479306697845459
+            ],
+            [
+                "Font",
+                0.8328262567520142
+            ],
+            [
+                "Parallel",
+                0.790450930595398
+            ],
+            [
+                "Pattern",
+                0.7663395404815674
+            ],
+            [
+                "Symmetry",
+                0.7325148582458496
+            ],
+            [
+                "Plan",
+                0.7201383709907532
+            ],
+            [
+                "Diagram",
+                0.7100157737731934
+            ],
+            [
+                "Drawing",
+                0.6988720893859863
+            ]
+        ]
+    },
+    "6": {
+        "type": "table",
+        "caption_text": "Figure 6: Results from the 5-point Likert-scale questionnaire. \n",
+        "image_labels": [
+            [
+                "Slope",
+                0.842399001121521
+            ],
+            [
+                "Font",
+                0.8237747550010681
+            ],
+            [
+                "Line",
+                0.8158704042434692
+            ],
+            [
+                "Parallel",
+                0.7730635404586792
+            ],
+            [
+                "Rectangle",
+                0.7535557746887207
+            ],
+            [
+                "Pattern",
+                0.6572387218475342
+            ],
+            [
+                "Number",
+                0.6218746900558472
+            ],
+            [
+                "Diagram",
+                0.6158900260925293
+            ],
+            [
+                "Square",
+                0.5746488571166992
+            ]
+        ]
+    }
+}

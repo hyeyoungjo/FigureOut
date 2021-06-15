@@ -1,0 +1,442 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1: Our operationalization of tool embodiment relies\non the idea that, when embodied with a tool, a person\u2019s\nattention will be on the task, rather than on the tool.\n",
+        "image_labels": [
+            [
+                "Parallel",
+                0.7519862055778503
+            ],
+            [
+                "Font",
+                0.7438012361526489
+            ],
+            [
+                "Rectangle",
+                0.7206255197525024
+            ],
+            [
+                "Circle",
+                0.6135020852088928
+            ],
+            [
+                "Brand",
+                0.6012226343154907
+            ]
+        ]
+    },
+    "2": {
+        "type": "chart",
+        "caption_text": "Figure 2: A photograph (a) and diagram (b) of the physical study setup.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9072561264038086
+            ],
+            [
+                "Line",
+                0.8224624395370483
+            ],
+            [
+                "Font",
+                0.8115262389183044
+            ],
+            [
+                "Rectangle",
+                0.7735334038734436
+            ],
+            [
+                "Parallel",
+                0.7718697190284729
+            ],
+            [
+                "Gas",
+                0.7676326632499695
+            ],
+            [
+                "Technology",
+                0.7635303735733032
+            ],
+            [
+                "Screenshot",
+                0.7561440467834473
+            ],
+            [
+                "Electronic device",
+                0.7515089511871338
+            ],
+            [
+                "Tool",
+                0.7459449172019958
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3: shows the virtual tool used in our study\n",
+        "image_labels": [
+            [
+                "Human body",
+                0.8850987553596497
+            ],
+            [
+                "Slope",
+                0.8655684590339661
+            ],
+            [
+                "Rectangle",
+                0.848679780960083
+            ],
+            [
+                "Font",
+                0.8020986318588257
+            ],
+            [
+                "Parallel",
+                0.785368025302887
+            ],
+            [
+                "Circle",
+                0.6807314157485962
+            ],
+            [
+                "Pipe",
+                0.64924556016922
+            ],
+            [
+                "Screenshot",
+                0.6278448104858398
+            ],
+            [
+                "Cylinder",
+                0.6165235638618469
+            ],
+            [
+                "Science",
+                0.5926980972290039
+            ]
+        ]
+    },
+    "4": {
+        "type": "human",
+        "caption_text": "Figure 4: The three controllers used in our study.\n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9777917861938477
+            ],
+            [
+                "Shoe",
+                0.9586958289146423
+            ],
+            [
+                "Hand",
+                0.9564107060432434
+            ],
+            [
+                "Arm",
+                0.9447479248046875
+            ],
+            [
+                "Leg",
+                0.9312955141067505
+            ],
+            [
+                "Muscle",
+                0.9211351275444031
+            ],
+            [
+                "Product",
+                0.9078895449638367
+            ],
+            [
+                "Black",
+                0.8973995447158813
+            ],
+            [
+                "Automotive design",
+                0.8838739991188049
+            ],
+            [
+                "Eyewear",
+                0.8780859708786011
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5: Virtual study Scene Setup. a. Virtual study scene setup with a virtual tool, bookshelf, task plates, and information\ndisplay. b. The virtual study scene when the pause button is pressed. Numbers on visual dots support the secondary task.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9073795676231384
+            ],
+            [
+                "Font",
+                0.829612135887146
+            ],
+            [
+                "Gas",
+                0.7663524150848389
+            ],
+            [
+                "Rectangle",
+                0.7349045872688293
+            ],
+            [
+                "Urban design",
+                0.712399423122406
+            ],
+            [
+                "Screenshot",
+                0.708228588104248
+            ],
+            [
+                "Slope",
+                0.7056286931037903
+            ],
+            [
+                "Diagram",
+                0.6330926418304443
+            ],
+            [
+                "Graphics",
+                0.6253257989883423
+            ],
+            [
+                "Machine",
+                0.6240087747573853
+            ]
+        ]
+    },
+    "6": {
+        "type": "graphic",
+        "caption_text": "Figure 6: From left to right, example of breakage (cube falls).\n",
+        "image_labels": [
+            [
+                "Gesture",
+                0.8385012149810791
+            ],
+            [
+                "Line",
+                0.8176174163818359
+            ],
+            [
+                "Asphalt",
+                0.8138223886489868
+            ],
+            [
+                "Font",
+                0.7817959189414978
+            ],
+            [
+                "Terrestrial plant",
+                0.7756913900375366
+            ],
+            [
+                "Auto part",
+                0.7268998026847839
+            ],
+            [
+                "Musical instrument accessory",
+                0.703226625919342
+            ],
+            [
+                "Tree",
+                0.6907145380973816
+            ],
+            [
+                "Road",
+                0.6404060125350952
+            ],
+            [
+                "Screenshot",
+                0.6314570307731628
+            ]
+        ]
+    },
+    "7": {
+        "type": "table",
+        "caption_text": "Figure 7: Our LAI measure corresponds to our theory above\nand measures across the entirety of a trial whether the\nattention is on the tool (negative) or on the task (positive).\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8305699825286865
+            ],
+            [
+                "Font",
+                0.7992596626281738
+            ],
+            [
+                "Parallel",
+                0.7801153659820557
+            ],
+            [
+                "Circle",
+                0.7512340545654297
+            ],
+            [
+                "Number",
+                0.6661041975021362
+            ],
+            [
+                "Symmetry",
+                0.6623268723487854
+            ],
+            [
+                "Brand",
+                0.6515978574752808
+            ],
+            [
+                "Logo",
+                0.6428727507591248
+            ],
+            [
+                "Electric blue",
+                0.6106778979301453
+            ],
+            [
+                "Graphics",
+                0.5697177052497864
+            ]
+        ]
+    },
+    "8": {
+        "type": "diagram",
+        "caption_text": "Figure 8: SLAI measures a shift in attention from either the\ntask to the tool (e.g., when a tool breaks) or vice versa.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8811778426170349
+            ],
+            [
+                "Slope",
+                0.8561179041862488
+            ],
+            [
+                "Font",
+                0.823174238204956
+            ],
+            [
+                "Parallel",
+                0.789794921875
+            ],
+            [
+                "Circle",
+                0.7512845396995544
+            ],
+            [
+                "Symmetry",
+                0.7239757180213928
+            ],
+            [
+                "Triangle",
+                0.6995207071304321
+            ],
+            [
+                "Pattern",
+                0.67934250831604
+            ],
+            [
+                "Number",
+                0.6792786121368408
+            ],
+            [
+                "Diagram",
+                0.6784635782241821
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9: Results for the locus of attention index (LAI). There\nwere main effects of interaction technique, state of the\ntool (working/broken) and phase. Note only [0,1] range of\npossible [-1,1] range is represented.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9072479605674744
+            ],
+            [
+                "Rectangle",
+                0.9051982760429382
+            ],
+            [
+                "Slope",
+                0.8976132869720459
+            ],
+            [
+                "Font",
+                0.8329367637634277
+            ],
+            [
+                "Parallel",
+                0.7912821769714355
+            ],
+            [
+                "Symmetry",
+                0.7654719352722168
+            ],
+            [
+                "Circle",
+                0.7630160450935364
+            ],
+            [
+                "Pattern",
+                0.7604007124900818
+            ],
+            [
+                "Plot",
+                0.7513415813446045
+            ],
+            [
+                "Diagram",
+                0.7181165814399719
+            ]
+        ]
+    },
+    "10": {
+        "type": "formula",
+        "caption_text": "Figure 10: Results for engagement (GEQ). There was a signif-\nicant main effect of state (working/broken) and a marginally\nsignificant effect of interaction technique.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.900716245174408
+            ],
+            [
+                "Slope",
+                0.8951595425605774
+            ],
+            [
+                "Plot",
+                0.8387401700019836
+            ],
+            [
+                "Parallel",
+                0.7911916375160217
+            ],
+            [
+                "Font",
+                0.7882282137870789
+            ],
+            [
+                "Circle",
+                0.7610499262809753
+            ],
+            [
+                "Symmetry",
+                0.7592934966087341
+            ],
+            [
+                "Pattern",
+                0.7574146389961243
+            ],
+            [
+                "Diagram",
+                0.7408068776130676
+            ],
+            [
+                "Number",
+                0.6818950176239014
+            ]
+        ]
+    }
+}

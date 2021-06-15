@@ -1,0 +1,94 @@
+{
+    "1": {
+        "type": "chart",
+        "caption_text": "Figure 1: (a) The map of locations used by Santa\u2019s Lil Helper; \n \n(b) A column location marker; (c) A signpost location marker; \n \n \n(d) A family interacting with the application. \n \n \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9074854254722595
+            ],
+            [
+                "Font",
+                0.8101809620857239
+            ],
+            [
+                "Gadget",
+                0.7974045276641846
+            ],
+            [
+                "Gas",
+                0.7757577896118164
+            ],
+            [
+                "Poster",
+                0.7551072835922241
+            ],
+            [
+                "Electronic device",
+                0.7497515678405762
+            ],
+            [
+                "Output device",
+                0.7416822910308838
+            ],
+            [
+                "Rectangle",
+                0.7341431379318237
+            ],
+            [
+                "Multimedia",
+                0.7231449484825134
+            ],
+            [
+                "Advertising",
+                0.7086450457572937
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2: (a) AR content in SLH; (b) Users interacting in city \n \nspace; (c) A marker at Federation Square; (d) Markers \u2018blend-\n \ning in\u2019 and being blocked within urban space. \n \n",
+        "image_labels": [
+            [
+                "Leisure",
+                0.8147358894348145
+            ],
+            [
+                "Recreation",
+                0.8010713458061218
+            ],
+            [
+                "Fun",
+                0.7917269468307495
+            ],
+            [
+                "Chair",
+                0.7686851024627686
+            ],
+            [
+                "Electronic device",
+                0.751979410648346
+            ],
+            [
+                "Fictional character",
+                0.7504830360412598
+            ],
+            [
+                "Technology",
+                0.7364029288291931
+            ],
+            [
+                "Games",
+                0.7256910800933838
+            ],
+            [
+                "Machine",
+                0.7141252160072327
+            ],
+            [
+                "Event",
+                0.714038074016571
+            ]
+        ]
+    }
+}

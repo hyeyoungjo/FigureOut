@@ -1,0 +1,186 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1: EEG and tDCS channel set-up. All the channels ex-\ncept for AF3 and AF4 were used for the EEG recording (white\nand semi-white background). For right hand stimulation, C3\nwas the anode and AF4 the return electrode (yellow). For left\nhand stimulation, C4 was the anode and AF3 the return elec-\ntrode (green).\n",
+        "image_labels": [
+            [
+                "Font",
+                0.8169476389884949
+            ],
+            [
+                "Art",
+                0.8124015927314758
+            ],
+            [
+                "Happy",
+                0.7987012267112732
+            ],
+            [
+                "Circle",
+                0.77491295337677
+            ],
+            [
+                "Logo",
+                0.7206898331642151
+            ],
+            [
+                "Illustration",
+                0.6918041706085205
+            ],
+            [
+                "Symbol",
+                0.688294529914856
+            ],
+            [
+                "Drawing",
+                0.6583042144775391
+            ],
+            [
+                "Fashion accessory",
+                0.657590925693512
+            ],
+            [
+                "Oval",
+                0.634852409362793
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure 2: Experimental setting and the experimental VR scene.\n",
+        "image_labels": [
+            [
+                "Table",
+                0.9085572361946106
+            ],
+            [
+                "Output device",
+                0.8617574572563171
+            ],
+            [
+                "Wood",
+                0.8524553775787354
+            ],
+            [
+                "Rectangle",
+                0.8385807275772095
+            ],
+            [
+                "Easel",
+                0.8348007202148438
+            ],
+            [
+                "Folding chair",
+                0.8195536732673645
+            ],
+            [
+                "Flooring",
+                0.8184279203414917
+            ],
+            [
+                "Electronic device",
+                0.7427266836166382
+            ],
+            [
+                "Computer monitor accessory",
+                0.7340236902236938
+            ],
+            [
+                "Electric blue",
+                0.7283387780189514
+            ]
+        ]
+    },
+    "3": {
+        "type": "graphic",
+        "caption_text": "Figure 3: Active phase of the experiment.\n",
+        "image_labels": [
+            [
+                "Joint",
+                0.976678192615509
+            ],
+            [
+                "Hand",
+                0.9585230946540833
+            ],
+            [
+                "Shoulder",
+                0.9380283951759338
+            ],
+            [
+                "Product",
+                0.9074770212173462
+            ],
+            [
+                "Output device",
+                0.8939252495765686
+            ],
+            [
+                "Human body",
+                0.8847156167030334
+            ],
+            [
+                "Comfort",
+                0.8795582056045532
+            ],
+            [
+                "Lighting",
+                0.8682821989059448
+            ],
+            [
+                "Rectangle",
+                0.8641496896743774
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ]
+        ]
+    },
+    "4": {
+        "type": "chart",
+        "caption_text": "Figure 4: Grand-averaged ERPs for the dominant hand at electrode location Pz, passive condition. Left plot \u2013 non-stimulated,\nright plot \u2013 stimulated. To generate these plots, data were cleaned with higher high-pass filter setting (cut-off 2.5 Hz) than for\nthe analysis purposes. Enhanced N140 and P100 are visible at these plots, as well as stronger P300 in the stimulated condition.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9099845886230469
+            ],
+            [
+                "Slope",
+                0.8954927325248718
+            ],
+            [
+                "Azure",
+                0.8939268589019775
+            ],
+            [
+                "Plot",
+                0.8522639870643616
+            ],
+            [
+                "Font",
+                0.8357519507408142
+            ],
+            [
+                "Parallel",
+                0.7908787727355957
+            ],
+            [
+                "Pattern",
+                0.780839204788208
+            ],
+            [
+                "Circle",
+                0.7691207528114319
+            ],
+            [
+                "Symmetry",
+                0.7623485326766968
+            ],
+            [
+                "Triangle",
+                0.7221968173980713
+            ]
+        ]
+    }
+}

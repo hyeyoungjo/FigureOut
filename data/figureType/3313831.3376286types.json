@@ -1,0 +1,492 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure  1.  Overview  of  MoveVR.  A:  Hardware  setup.  B:  Adjusting \ntension  intensities  and  directions  by  con\ufb01guring  the  relative  position \nbetween the robot and the user. C: Multi-level resistance force feedback \nby con\ufb01guring the robot\u2019s direction of motion.  D: Simulating material \nrigidity through rotating different material proxies within reach of users. \nE: Applying different levels of impact force to users by varying the speed. \n",
+        "image_labels": [
+            [
+                "Clothing",
+                0.9867185354232788
+            ],
+            [
+                "Footwear",
+                0.9800083041191101
+            ],
+            [
+                "Joint",
+                0.9758262634277344
+            ],
+            [
+                "Jeans",
+                0.9656699299812317
+            ],
+            [
+                "Outerwear",
+                0.9552472233772278
+            ],
+            [
+                "Arm",
+                0.9435039162635803
+            ],
+            [
+                "Leg",
+                0.9086059927940369
+            ],
+            [
+                "Product",
+                0.9083394408226013
+            ],
+            [
+                "Sleeve",
+                0.8722991943359375
+            ],
+            [
+                "Standing",
+                0.8642165660858154
+            ]
+        ]
+    },
+    "2": {
+        "type": "chart",
+        "caption_text": "Figure 2. MoveVR system architecture. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9031784534454346
+            ],
+            [
+                "Font",
+                0.8235915899276733
+            ],
+            [
+                "Parallel",
+                0.7892398238182068
+            ],
+            [
+                "Diagram",
+                0.6856846213340759
+            ],
+            [
+                "Slope",
+                0.5916714072227478
+            ],
+            [
+                "Handwriting",
+                0.550677478313446
+            ],
+            [
+                "Pattern",
+                0.5399228930473328
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure  3.  Fabricating  and  assembling  MoveVR.  A:  Example  of \nfabrication tools.  B: Example of everyday objects as proxies.  C: Touch \nfasteners or double-sided tape to \ufb01x the carry-on proxy. D: Attaching the \nshared-proxy onto the robot.  E: Fixing the carry-on proxy using touch \nfasteners. F: Fixing the carry-on proxy using tapes. H - I: Attaching the \nVR controller with the user-driving proxy.  G/J: Examples of MoveVR \ncarrying proxies. \n",
+        "image_labels": [
+            [
+                "Green",
+                0.9204425811767578
+            ],
+            [
+                "Light",
+                0.9118480086326599
+            ],
+            [
+                "Product",
+                0.9077404141426086
+            ],
+            [
+                "Yellow",
+                0.8710912466049194
+            ],
+            [
+                "Sleeve",
+                0.8703495264053345
+            ],
+            [
+                "Line",
+                0.8288139700889587
+            ],
+            [
+                "Plant",
+                0.809084951877594
+            ],
+            [
+                "Font",
+                0.803907573223114
+            ],
+            [
+                "Automotive tire",
+                0.7606261372566223
+            ],
+            [
+                "Tire",
+                0.7594456076622009
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure  4.  Force  expression  explanation.  A:  Tension  force  through \nan  elastic  string.  B:  Reaction  force  simulating  material  rigidity.  C: \nResistance  force  against  user\u2019s  force.  D:  Impact  force  that  the  robot \nactively applies to the user. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9074109196662903
+            ],
+            [
+                "Font",
+                0.8282231688499451
+            ],
+            [
+                "Line",
+                0.8281789422035217
+            ],
+            [
+                "Red",
+                0.8224359154701233
+            ],
+            [
+                "Rectangle",
+                0.7983061075210571
+            ],
+            [
+                "Parallel",
+                0.7833411693572998
+            ],
+            [
+                "Circle",
+                0.7599108815193176
+            ],
+            [
+                "Auto part",
+                0.7286803126335144
+            ],
+            [
+                "Diagram",
+                0.7121719717979431
+            ],
+            [
+                "Graphics",
+                0.698404848575592
+            ]
+        ]
+    },
+    "5": {
+        "type": "diagram",
+        "caption_text": "Figure 5. MoveVR can simulate a variety of force feedback with everyday \nobjects as proxies.  A: Tension using string/rope proxies between users \nand  robots.  B:  Reaction  with  proxies  built  by  different  materials.  C: \nResistance by con\ufb01guring the wheels\u2019 status.  D: Impact from the robot \ncrashing on users with varying speeds. \n",
+        "image_labels": [
+            [
+                "White",
+                0.9218758344650269
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8389806747436523
+            ],
+            [
+                "Elbow",
+                0.8111685514450073
+            ],
+            [
+                "Hat",
+                0.7315704226493835
+            ],
+            [
+                "Drawing",
+                0.6767057180404663
+            ],
+            [
+                "Illustration",
+                0.639153242111206
+            ],
+            [
+                "Sharing",
+                0.618134081363678
+            ],
+            [
+                "Diagram",
+                0.6142799854278564
+            ],
+            [
+                "Fedora",
+                0.5679516196250916
+            ]
+        ]
+    },
+    "6": {
+        "type": "table",
+        "caption_text": "Figure 6. Results of force perception accuracy. A: Tension force intensity. \nB:  Resistive  force  intensity.  C:  Impact  force  intensity.  D:  Material \nrigidity. E: Tension force direction. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9076228141784668
+            ],
+            [
+                "Font",
+                0.8545435070991516
+            ],
+            [
+                "Material property",
+                0.8032441139221191
+            ],
+            [
+                "Pattern",
+                0.7783731818199158
+            ],
+            [
+                "Design",
+                0.6849341988563538
+            ],
+            [
+                "Monochrome",
+                0.6830018162727356
+            ],
+            [
+                "Square",
+                0.6733365654945374
+            ],
+            [
+                "Circle",
+                0.6144625544548035
+            ],
+            [
+                "Symmetry",
+                0.576834499835968
+            ],
+            [
+                "Carmine",
+                0.5061072111129761
+            ]
+        ]
+    },
+    "7": {
+        "type": "human",
+        "caption_text": "Figure 7. Dog walking VR scenario with four haptic conditions. \n",
+        "image_labels": [
+            [
+                "Footwear",
+                0.9825104475021362
+            ],
+            [
+                "Joint",
+                0.9750568270683289
+            ],
+            [
+                "Trousers",
+                0.971419095993042
+            ],
+            [
+                "Shoe",
+                0.944680392742157
+            ],
+            [
+                "Leg",
+                0.9165926575660706
+            ],
+            [
+                "Shorts",
+                0.8577583432197571
+            ],
+            [
+                "Thigh",
+                0.8477830290794373
+            ],
+            [
+                "Knee",
+                0.8389229774475098
+            ],
+            [
+                "T-shirt",
+                0.8134838342666626
+            ],
+            [
+                "Sportswear",
+                0.8076390624046326
+            ]
+        ]
+    },
+    "8": {
+        "type": "human",
+        "caption_text": "Figure 8. Box Pushing VR scenario with four haptic conditions. \n",
+        "image_labels": [
+            [
+                "Footwear",
+                0.9845145344734192
+            ],
+            [
+                "Shoe",
+                0.9536879062652588
+            ],
+            [
+                "Shorts",
+                0.9163888096809387
+            ],
+            [
+                "Automotive design",
+                0.8900770545005798
+            ],
+            [
+                "Interior design",
+                0.8698828220367432
+            ],
+            [
+                "Building",
+                0.8566776514053345
+            ],
+            [
+                "Luggage and bags",
+                0.8489280343055725
+            ],
+            [
+                "Yellow",
+                0.8433469533920288
+            ],
+            [
+                "T-shirt",
+                0.828925371170044
+            ],
+            [
+                "Floor",
+                0.8157457709312439
+            ]
+        ]
+    },
+    "9": {
+        "type": "human",
+        "caption_text": "Figure  9.  Enemy  hitting  VR  scenario  with  four  haptic  conditions.  A: \nThe user strikes the enemy successfully.  B: The enemy avoids a strike \nfrom the user. C: The enemy attacks the user and the user striking back. \n",
+        "image_labels": [
+            [
+                "Trousers",
+                0.9741424322128296
+            ],
+            [
+                "Jeans",
+                0.9682829976081848
+            ],
+            [
+                "Outerwear",
+                0.9565921425819397
+            ],
+            [
+                "Photograph",
+                0.9434647560119629
+            ],
+            [
+                "White",
+                0.9218736290931702
+            ],
+            [
+                "Product",
+                0.9074721932411194
+            ],
+            [
+                "Fashion",
+                0.8838215470314026
+            ],
+            [
+                "Architecture",
+                0.8574739694595337
+            ],
+            [
+                "Red",
+                0.8501315712928772
+            ],
+            [
+                "Community",
+                0.8263053894042969
+            ]
+        ]
+    },
+    "10": {
+        "type": "chart",
+        "caption_text": "Figure 10.  Overall Likert score of four conditions.  Error bar indicates \nthe  standard  error  of  the  mean.  *  indicates  signi\ufb01cant  difference \nbetween two conditions with p <0.05. \n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9013305902481079
+            ],
+            [
+                "Slope",
+                0.8451677560806274
+            ],
+            [
+                "Font",
+                0.834357500076294
+            ],
+            [
+                "Line",
+                0.8156454563140869
+            ],
+            [
+                "Plot",
+                0.8066861629486084
+            ],
+            [
+                "Parallel",
+                0.7756937742233276
+            ],
+            [
+                "Diagram",
+                0.692907452583313
+            ],
+            [
+                "Electric blue",
+                0.524252712726593
+            ],
+            [
+                "Magenta",
+                0.5164388418197632
+            ]
+        ]
+    },
+    "11": {
+        "type": "chart",
+        "caption_text": "Figure 11.  A: Likert scores of continuous pulling force feedback (dog \nleading  scenario).  B:  Likert  scores  of  resistive  force  feedback  (box \npushing scenario).  C: Likert scores of reaction force feedback (enemy \nhitting  scenario).  D:  Likert  scores  of  impact  force  feedback  (enemy \nattacking scenario). Error bar indicates the standard error of the mean. \n* indicates signi\ufb01cant difference between two conditions with p <0.05. \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9083709120750427
+            ],
+            [
+                "Font",
+                0.8532691597938538
+            ],
+            [
+                "Rectangle",
+                0.8277139067649841
+            ],
+            [
+                "Material property",
+                0.8028296232223511
+            ],
+            [
+                "Parallel",
+                0.7765381932258606
+            ],
+            [
+                "Electric blue",
+                0.7208104729652405
+            ],
+            [
+                "Diagram",
+                0.7011027932167053
+            ],
+            [
+                "Design",
+                0.6845791935920715
+            ],
+            [
+                "Pattern",
+                0.6830615401268005
+            ],
+            [
+                "Slope",
+                0.669888436794281
+            ]
+        ]
+    }
+}

@@ -1,0 +1,462 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure   1.   Wireality   enables   strong,   whole-hand  haptic   feed-\nback for  complex  objects  in VR  experiences.  \n",
+        "image_labels": [
+            [
+                "Arm",
+                0.9435240626335144
+            ],
+            [
+                "Shoulder",
+                0.9397373199462891
+            ],
+            [
+                "Statue",
+                0.8683944940567017
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Hearing",
+                0.8510436415672302
+            ],
+            [
+                "Art",
+                0.8498852252960205
+            ],
+            [
+                "Sculpture",
+                0.846424400806427
+            ],
+            [
+                "Eyewear",
+                0.7412855625152588
+            ],
+            [
+                "Audio equipment",
+                0.726015031337738
+            ],
+            [
+                "Event",
+                0.7107271552085876
+            ]
+        ]
+    },
+    "2": {
+        "type": "picture",
+        "caption_text": "Figure  2.  An  earlier  prototype  using  a  motor  for  string  retrac-\ntion  and  a  potentiometer  for  tracking  hand  positions.  \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9072940349578857
+            ],
+            [
+                "Circuit component",
+                0.8555748462677002
+            ],
+            [
+                "Gas",
+                0.7798857092857361
+            ],
+            [
+                "Font",
+                0.7732551097869873
+            ],
+            [
+                "Electronic component",
+                0.7685312628746033
+            ],
+            [
+                "Machine",
+                0.756456196308136
+            ],
+            [
+                "Cylinder",
+                0.751455545425415
+            ],
+            [
+                "Engineering",
+                0.7513186931610107
+            ],
+            [
+                "Electronic device",
+                0.7381377220153809
+            ],
+            [
+                "Auto part",
+                0.7307344079017639
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure  3.  Exploded  illustration  of  one  haptic  module. \n",
+        "image_labels": [
+            [
+                "Output device",
+                0.8533698916435242
+            ],
+            [
+                "Font",
+                0.78355473279953
+            ],
+            [
+                "Auto part",
+                0.7578519582748413
+            ],
+            [
+                "Circle",
+                0.7283235788345337
+            ],
+            [
+                "Audio equipment",
+                0.7229018807411194
+            ],
+            [
+                "Sharing",
+                0.7108746767044067
+            ],
+            [
+                "Cylinder",
+                0.6865385174751282
+            ],
+            [
+                "Circuit component",
+                0.6821355819702148
+            ],
+            [
+                "Cable",
+                0.6578680276870728
+            ],
+            [
+                "Diagram",
+                0.6533184051513672
+            ]
+        ]
+    },
+    "4": {
+        "type": "picture",
+        "caption_text": "Figure 4. Locking mechanism. Our driver board actuates the \n \nsolenoid  pawl  for  40  milliseconds,  which  locks  the  ratchet \ngear,  stopping  a  joint  from  further  forward  movement  (A). \nString tension keeps the gear latched even after the solenoid is \nnot powered (B). When the user pulls back from touching the \n \nvirtual  surface,  slack  is  created  in  the  string,  which  then  re-\n \n \nleases the ratchet (C). \n \n",
+        "image_labels": [
+            [
+                "Font",
+                0.7909885048866272
+            ],
+            [
+                "Auto part",
+                0.7399454116821289
+            ],
+            [
+                "Engineering",
+                0.7284501791000366
+            ],
+            [
+                "Machine",
+                0.7209568023681641
+            ],
+            [
+                "Rectangle",
+                0.7162224054336548
+            ],
+            [
+                "Screenshot",
+                0.7107142806053162
+            ],
+            [
+                "Circle",
+                0.7093786001205444
+            ],
+            [
+                "Magenta",
+                0.7092463970184326
+            ],
+            [
+                "Fashion accessory",
+                0.6740120053291321
+            ],
+            [
+                "Rim",
+                0.671429455280304
+            ]
+        ]
+    },
+    "5": {
+        "type": "picture",
+        "caption_text": "Figure  5.  Example  Wireality  setup  with  seven  haptic  modules.  \n",
+        "image_labels": [
+            [
+                "Camera lens",
+                0.8841517567634583
+            ],
+            [
+                "Automotive lighting",
+                0.8467276096343994
+            ],
+            [
+                "Camera",
+                0.8285438418388367
+            ],
+            [
+                "Gadget",
+                0.8277591466903687
+            ],
+            [
+                "Camera accessory",
+                0.8230743408203125
+            ],
+            [
+                "Cameras & optics",
+                0.7992461919784546
+            ],
+            [
+                "Lens",
+                0.7972748279571533
+            ],
+            [
+                "Circuit component",
+                0.7744237184524536
+            ],
+            [
+                "Toy",
+                0.7584971785545349
+            ],
+            [
+                "Electronic device",
+                0.7438554763793945
+            ]
+        ]
+    },
+    "6": {
+        "type": "graphic",
+        "caption_text": "Figure 6. Exemplary objects used in the study. Left to right:  a \nwall, tilted flat surface, sphere, pole, and irregular object. \n \n \n",
+        "image_labels": [
+            [
+                "Post-it note",
+                0.7725456357002258
+            ],
+            [
+                "Tints and shades",
+                0.758114755153656
+            ],
+            [
+                "Astronomical object",
+                0.7546384930610657
+            ],
+            [
+                "Science",
+                0.7512484788894653
+            ],
+            [
+                "Rectangle",
+                0.7430344223976135
+            ],
+            [
+                "Circle",
+                0.7390298247337341
+            ],
+            [
+                "Font",
+                0.7264931201934814
+            ],
+            [
+                "Space",
+                0.7208366990089417
+            ],
+            [
+                "Magenta",
+                0.6960409283638
+            ],
+            [
+                "Event",
+                0.6779585480690002
+            ]
+        ]
+    },
+    "8": {
+        "type": "graphic",
+        "caption_text": "Figure   8.   Our   system   restrains   a   user\u2019s   hand  collided  with   a \nwall  (A),  railings  (B),  a  roadblock  (C),  and  a  fire  hydrant  (D).  \n",
+        "image_labels": [
+            [
+                "Product",
+                0.9080547094345093
+            ],
+            [
+                "Hood",
+                0.8918436765670776
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8496809601783752
+            ],
+            [
+                "Finger",
+                0.8417500853538513
+            ],
+            [
+                "Automotive exterior",
+                0.804125189781189
+            ],
+            [
+                "Material property",
+                0.8016586303710938
+            ],
+            [
+                "Vehicle door",
+                0.775762140750885
+            ],
+            [
+                "Automotive design",
+                0.7636643648147583
+            ],
+            [
+                "Tap",
+                0.7411964535713196
+            ]
+        ]
+    },
+    "9": {
+        "type": "picture",
+        "caption_text": "Figure  9.  Our  system  provides   force   feedback  when   touching \na virtual  sofa (A),  stereo (B),  sculpture  (C),  and  car  (D).  \n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9423351883888245
+            ],
+            [
+                "White",
+                0.9218939542770386
+            ],
+            [
+                "Hood",
+                0.9177696108818054
+            ],
+            [
+                "Green",
+                0.9161193370819092
+            ],
+            [
+                "Light",
+                0.9123916625976562
+            ],
+            [
+                "Vehicle",
+                0.9053706526756287
+            ],
+            [
+                "Automotive lighting",
+                0.8941777348518372
+            ],
+            [
+                "Automotive design",
+                0.8814781904220581
+            ],
+            [
+                "Motor vehicle",
+                0.8596734404563904
+            ],
+            [
+                "Line",
+                0.819025456905365
+            ]
+        ]
+    },
+    "10": {
+        "type": "graphic",
+        "caption_text": "Figure  10.   Our   system  provides   force  feedback  when  a  user\u2019s \nhand interacts  with an ATM   touchscreen  (A),  a  button  (B),  a \nlever  (C),  and  a  piano  (D).  \n",
+        "image_labels": [
+            [
+                "Piano",
+                0.9333412051200867
+            ],
+            [
+                "Musical instrument",
+                0.9325065612792969
+            ],
+            [
+                "Musical keyboard",
+                0.9069018363952637
+            ],
+            [
+                "Keyboard",
+                0.8898741006851196
+            ],
+            [
+                "Electric piano",
+                0.874315619468689
+            ],
+            [
+                "Electronic keyboard",
+                0.8609674572944641
+            ],
+            [
+                "Gadget",
+                0.85941082239151
+            ],
+            [
+                "Audio equipment",
+                0.8363146185874939
+            ],
+            [
+                "Digital piano",
+                0.8212059736251831
+            ],
+            [
+                "Electronic musical instrument",
+                0.8050987124443054
+            ]
+        ]
+    },
+    "11": {
+        "type": "graphic",
+        "caption_text": "Figure  11.  Our  system  provides  haptic  feedback  when  a  user\u2019s \nhand  interacts   with  virtual   characters:   high  five   (A),   tap  on \nshoulder  (B),  shaking  hands (C),  and  face  slapping  (D).  \n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9777162075042725
+            ],
+            [
+                "Hand",
+                0.9570719003677368
+            ],
+            [
+                "Arm",
+                0.9447945952415466
+            ],
+            [
+                "Vertebrate",
+                0.9234878420829773
+            ],
+            [
+                "Sky",
+                0.9207205176353455
+            ],
+            [
+                "Product",
+                0.9075683951377869
+            ],
+            [
+                "Green",
+                0.9048571586608887
+            ],
+            [
+                "Human",
+                0.8893082737922668
+            ],
+            [
+                "Mammal",
+                0.8572812676429749
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ]
+        ]
+    }
+}

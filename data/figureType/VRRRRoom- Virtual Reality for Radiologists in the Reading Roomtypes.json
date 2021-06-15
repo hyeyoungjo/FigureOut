@@ -1,0 +1,186 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1. A) A typical radiology reading room; B) Our approach combining virtual reality and desktop touch interactions.\n",
+        "image_labels": [
+            [
+                "Table",
+                0.9700627326965332
+            ],
+            [
+                "Personal computer",
+                0.9563980102539062
+            ],
+            [
+                "Computer",
+                0.9491974711418152
+            ],
+            [
+                "Furniture",
+                0.9375903606414795
+            ],
+            [
+                "Computer keyboard",
+                0.9304698705673218
+            ],
+            [
+                "Peripheral",
+                0.9222721457481384
+            ],
+            [
+                "Desk",
+                0.921481192111969
+            ],
+            [
+                "Output device",
+                0.918455183506012
+            ],
+            [
+                "Computer desk",
+                0.9114924669265747
+            ],
+            [
+                "Input device",
+                0.9069100022315979
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2. Desk surface gestures for left and right hands.\n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9747521281242371
+            ],
+            [
+                "Jaw",
+                0.8807545304298401
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Art",
+                0.8034570813179016
+            ],
+            [
+                "Desk",
+                0.7681899666786194
+            ],
+            [
+                "Font",
+                0.7456880211830139
+            ],
+            [
+                "Table",
+                0.7207580804824829
+            ],
+            [
+                "Job",
+                0.675172746181488
+            ],
+            [
+                "Thumb",
+                0.6584593057632446
+            ],
+            [
+                "Illustration",
+                0.6531752347946167
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4. Virtual desk and volume rendered from medical images.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9077052474021912
+            ],
+            [
+                "Sleeve",
+                0.8723066449165344
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Slope",
+                0.8210106492042542
+            ],
+            [
+                "Font",
+                0.7958614826202393
+            ],
+            [
+                "Parallel",
+                0.7743586897850037
+            ],
+            [
+                "Elbow",
+                0.7721311450004578
+            ],
+            [
+                "Diagram",
+                0.7069064378738403
+            ],
+            [
+                "Design",
+                0.6836663484573364
+            ],
+            [
+                "Brand",
+                0.6438879370689392
+            ]
+        ]
+    },
+    "3": {
+        "type": "human",
+        "caption_text": "Figure 3. The setup consists of an Oculus Rift HMD with a head track-\ning sensor and a multitouch frame to detect touches on the desk surface.\n",
+        "image_labels": [
+            [
+                "White",
+                0.9218600392341614
+            ],
+            [
+                "Product",
+                0.9081666469573975
+            ],
+            [
+                "Rectangle",
+                0.8771466612815857
+            ],
+            [
+                "Orange",
+                0.8710569143295288
+            ],
+            [
+                "Sleeve",
+                0.8693291544914246
+            ],
+            [
+                "Font",
+                0.8594128489494324
+            ],
+            [
+                "Gesture",
+                0.8525975346565247
+            ],
+            [
+                "Slope",
+                0.8449355363845825
+            ],
+            [
+                "Line",
+                0.8211768269538879
+            ],
+            [
+                "Elbow",
+                0.7991222143173218
+            ]
+        ]
+    }
+}

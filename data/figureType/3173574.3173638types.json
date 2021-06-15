@@ -1,0 +1,220 @@
+{
+    "1": {
+        "type": "diagram",
+        "caption_text": "Figure 1: Depth con\ufb02ict illustration. An interface (the video\nplayer) overlays a video object (the actress) but is actually\nbehind her in depth. Left: The resulting graphics are uncom-\nfortable to view in VR (e.g., the areas behind the text 00:01 in\nthe insets are different between the left and right views). View-\ners may also experience dif\ufb01culty changing focus between the\ninterface and the video. Right: illustration of the con\ufb02icting\ndepth cues perceived by the same viewer in the same view.\n\u00a9 Kevin Kunze\n",
+        "image_labels": [
+            [
+                "Nose",
+                0.9835830330848694
+            ],
+            [
+                "Eyebrow",
+                0.9438295960426331
+            ],
+            [
+                "Jaw",
+                0.8794311285018921
+            ],
+            [
+                "Eyelash",
+                0.878707766532898
+            ],
+            [
+                "Font",
+                0.7659687995910645
+            ],
+            [
+                "Screenshot",
+                0.7560582160949707
+            ],
+            [
+                "Output device",
+                0.7530422210693359
+            ],
+            [
+                "Multimedia",
+                0.7234112024307251
+            ],
+            [
+                "Advertising",
+                0.7081813812255859
+            ],
+            [
+                "Brand",
+                0.6515952348709106
+            ]
+        ]
+    },
+    "2": {
+        "type": "human",
+        "caption_text": "Figure 2: Overview of Dynamic Depth. (A) We pre-process the input video to \ufb01nd feature points and left/right disparities (e.g.,\ngreen lines on the actress) (B) Features points are mapped to the VR view and shown as the green dots (only for illustrative\npurposes). Dynamic Depth estimates the perceived depth of the video based on these points. It detects when depth con\ufb02ict occurs\nby comparing the depths between the UI and the video. (C) Dynamic Depth moves the UI closer to the viewer to reduce depth\ncon\ufb02icts. Notice in the insets that the areas around the interface\u2019s corner are more geometrically consistent compared to the same\nscene in Figure 1. \u00a9 Kevin Kunze\n",
+        "image_labels": [
+            [
+                "Automotive tire",
+                0.8809479475021362
+            ],
+            [
+                "Sleeve",
+                0.8722500801086426
+            ],
+            [
+                "Font",
+                0.8397146463394165
+            ],
+            [
+                "Cameras & optics",
+                0.7684611082077026
+            ],
+            [
+                "Circle",
+                0.7467067241668701
+            ],
+            [
+                "Electronic device",
+                0.7422838807106018
+            ],
+            [
+                "Rectangle",
+                0.7040725350379944
+            ],
+            [
+                "Vehicle door",
+                0.7024116516113281
+            ],
+            [
+                "Street fashion",
+                0.6730430126190186
+            ],
+            [
+                "Room",
+                0.6711726784706116
+            ]
+        ]
+    },
+    "3": {
+        "type": "human",
+        "caption_text": "Figure 3: Halo Blur blurs the video content around the UI.\nInsets: compared to the same scene in Figure 1, the current\nscene is still not geometrically consistent. However, the blur\neffects mask high-frequency spatial information in the video\nand make the details from the UI clearer. \u00a9 Kevin Kunze\n",
+        "image_labels": [
+            [
+                "Glasses",
+                0.9769750833511353
+            ],
+            [
+                "Automotive tire",
+                0.8686572313308716
+            ],
+            [
+                "Font",
+                0.8163945078849792
+            ],
+            [
+                "Tire",
+                0.8139351010322571
+            ],
+            [
+                "Sunglasses",
+                0.8123877644538879
+            ],
+            [
+                "Eyewear",
+                0.7634109854698181
+            ],
+            [
+                "Screenshot",
+                0.7493615746498108
+            ],
+            [
+                "Audio equipment",
+                0.7472837567329407
+            ],
+            [
+                "Window",
+                0.7441517114639282
+            ],
+            [
+                "Circle",
+                0.7136980295181274
+            ]
+        ]
+    },
+    "4": {
+        "type": "picture",
+        "caption_text": "Figure 4: Illustration of the Subtitles task (Left) and the Search\ntask (Right). Please refer to the video demo for a better assess-\nment. \u00a9 Kevin Kunze\n",
+        "image_labels": [
+            [
+                "Cat",
+                0.9332629442214966
+            ],
+            [
+                "Rectangle",
+                0.8201572299003601
+            ],
+            [
+                "Carnivore",
+                0.8119643926620483
+            ],
+            [
+                "Felidae",
+                0.7603152394294739
+            ],
+            [
+                "Font",
+                0.7562664747238159
+            ],
+            [
+                "Small to medium-sized cats",
+                0.7319504618644714
+            ],
+            [
+                "Wood",
+                0.7188591957092285
+            ],
+            [
+                "Shade",
+                0.700824499130249
+            ],
+            [
+                "Output device",
+                0.7006471157073975
+            ],
+            [
+                "Automotive lighting",
+                0.696278989315033
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5: (Left) Summary of participants\u2019 ratings to the subjective questionnaire in both tasks. (Middle and Right) Task time and\ntask error summary of the Search task.\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.8866627216339111
+            ],
+            [
+                "Plot",
+                0.8841589689254761
+            ],
+            [
+                "Rectangle",
+                0.8578594326972961
+            ],
+            [
+                "Font",
+                0.7924261093139648
+            ],
+            [
+                "Parallel",
+                0.7736530900001526
+            ],
+            [
+                "Diagram",
+                0.6503157615661621
+            ],
+            [
+                "Number",
+                0.5891438126564026
+            ]
+        ]
+    }
+}

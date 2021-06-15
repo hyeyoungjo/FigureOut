@@ -1,0 +1,646 @@
+{
+    "1": {
+        "type": "human",
+        "caption_text": "Figure 1: Haptic interactions using a quadcopter. Left: user touching fabrics attached to the quad for texture rendering. Middle:\nuser picking up a physical hanger attached to the quad. Right: user picking up the turned off quad as a passive haptic device.\n",
+        "image_labels": [
+            [
+                "Photograph",
+                0.9413726925849915
+            ],
+            [
+                "Black",
+                0.8958261609077454
+            ],
+            [
+                "Sleeve",
+                0.8723577857017517
+            ],
+            [
+                "Line",
+                0.8192805051803589
+            ],
+            [
+                "Font",
+                0.741464376449585
+            ],
+            [
+                "Machine",
+                0.7117278575897217
+            ],
+            [
+                "Art",
+                0.679209291934967
+            ],
+            [
+                "Recreation",
+                0.6647312641143799
+            ],
+            [
+                "Rectangle",
+                0.5941352844238281
+            ],
+            [
+                "Cameras & optics",
+                0.5580766201019287
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2: Affordances of quadcopters as haptic devices in VR,\nfocused on force feedback: (a) weight simulation (b) surface\nstiffness simulation (c) lateral force feedback.\n",
+        "image_labels": [
+            [
+                "Font",
+                0.7905020117759705
+            ],
+            [
+                "Logo",
+                0.7274085879325867
+            ],
+            [
+                "Rectangle",
+                0.6876012682914734
+            ],
+            [
+                "Symbol",
+                0.6799326539039612
+            ],
+            [
+                "Brand",
+                0.6752665042877197
+            ],
+            [
+                "Graphics",
+                0.6686698794364929
+            ],
+            [
+                "Circle",
+                0.6188854575157166
+            ],
+            [
+                "Trademark",
+                0.5343068242073059
+            ],
+            [
+                "Auto part",
+                0.5331465601921082
+            ],
+            [
+                "Art",
+                0.5136527419090271
+            ]
+        ]
+    },
+    "3": {
+        "type": "diagram",
+        "caption_text": "Figure 3: We present three techniques for appropriating ob-\njects and the environment: (a) dynamic positioning of pas-\nsive haptics (b) texture mapping (c) animating passive props.\n",
+        "image_labels": [
+            [
+                "Table",
+                0.9443168640136719
+            ],
+            [
+                "Furniture",
+                0.9301124811172485
+            ],
+            [
+                "Rectangle",
+                0.8981618881225586
+            ],
+            [
+                "Font",
+                0.8392134308815002
+            ],
+            [
+                "Parallel",
+                0.7790098190307617
+            ],
+            [
+                "Logo",
+                0.7358617782592773
+            ],
+            [
+                "Illustration",
+                0.7103351950645447
+            ],
+            [
+                "Drawing",
+                0.6957759261131287
+            ],
+            [
+                "Graphics",
+                0.6774215698242188
+            ],
+            [
+                "Art",
+                0.6726928353309631
+            ]
+        ]
+    },
+    "4": {
+        "type": "human",
+        "caption_text": "Figure 4: Based on the prediction algorithm, the closest ren-\nderable patch is shown to the user.\n",
+        "image_labels": [
+            [
+                "Outerwear",
+                0.9568468928337097
+            ],
+            [
+                "White",
+                0.9218710660934448
+            ],
+            [
+                "Neck",
+                0.8880258202552795
+            ],
+            [
+                "Sleeve",
+                0.8724504709243774
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Collar",
+                0.8407042026519775
+            ],
+            [
+                "Clothes hanger",
+                0.827810525894165
+            ],
+            [
+                "Font",
+                0.8241045475006104
+            ],
+            [
+                "Fashion design",
+                0.7841396927833557
+            ],
+            [
+                "Formal wear",
+                0.7804023623466492
+            ]
+        ]
+    },
+    "5": {
+        "type": "human",
+        "caption_text": "Figure 5: Visuo-haptic illusions are used to compensate for\nlack of control accuracy. (a) Quad is accurately positioned\nand no illusion is needed. (b) To correct for the position off-\nset, as the virtual hand touches the virtual target, body warp-\ning is used to retarget the hand towards the quad.\n",
+        "image_labels": [
+            [
+                "Joint",
+                0.9751985669136047
+            ],
+            [
+                "Shoulder",
+                0.936153769493103
+            ],
+            [
+                "Vertebrate",
+                0.9188117980957031
+            ],
+            [
+                "Product",
+                0.9076058864593506
+            ],
+            [
+                "Sleeve",
+                0.8724502921104431
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8478690981864929
+            ],
+            [
+                "Shorts",
+                0.7731949687004089
+            ],
+            [
+                "Illustration",
+                0.72362220287323
+            ],
+            [
+                "Fashion design",
+                0.7073201537132263
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure 6: The emergency scene: the box in the center rep-\nresents the current position of the quadcopter and warning\nsigns pointing towards the quad are placed around the user.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8829677700996399
+            ],
+            [
+                "Motor vehicle",
+                0.8391112089157104
+            ],
+            [
+                "Font",
+                0.8364066481590271
+            ],
+            [
+                "Automotive lighting",
+                0.8167020082473755
+            ],
+            [
+                "Material property",
+                0.8002328872680664
+            ],
+            [
+                "Triangle",
+                0.7967824339866638
+            ],
+            [
+                "Parallel",
+                0.7797135710716248
+            ],
+            [
+                "Automotive exterior",
+                0.74965900182724
+            ],
+            [
+                "Technology",
+                0.7386176586151123
+            ],
+            [
+                "Signage",
+                0.716927170753479
+            ]
+        ]
+    },
+    "7": {
+        "type": "human",
+        "caption_text": "Figure 7: Upon the quad\u2019s arrival the patch is highlighted in\ngreen, indicating that the user can touch the virtual object.\n",
+        "image_labels": [
+            [
+                "Sleeve",
+                0.8724501132965088
+            ],
+            [
+                "Rectangle",
+                0.8571166396141052
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Jersey",
+                0.8291909098625183
+            ],
+            [
+                "Art",
+                0.8071476221084595
+            ],
+            [
+                "Font",
+                0.7834203839302063
+            ],
+            [
+                "Sportswear",
+                0.7744532823562622
+            ],
+            [
+                "Electric blue",
+                0.7443556189537048
+            ],
+            [
+                "Clothes hanger",
+                0.737804114818573
+            ],
+            [
+                "Eyewear",
+                0.7240076065063477
+            ]
+        ]
+    },
+    "8": {
+        "type": "graphic",
+        "caption_text": "Figure 8: Safe-to-touch quadcopter with the protective cage.\n",
+        "image_labels": [
+            [
+                "Lego",
+                0.7398459911346436
+            ],
+            [
+                "Font",
+                0.7191619277000427
+            ],
+            [
+                "Aircraft",
+                0.7132483124732971
+            ],
+            [
+                "Radio-controlled toy",
+                0.6626493334770203
+            ],
+            [
+                "Recreation",
+                0.6459039449691772
+            ],
+            [
+                "Aviation",
+                0.6174238324165344
+            ],
+            [
+                "Net",
+                0.6122757792472839
+            ],
+            [
+                "Bicycle handlebar",
+                0.6090269684791565
+            ],
+            [
+                "Wing",
+                0.6078288555145264
+            ],
+            [
+                "Wheel",
+                0.5973408818244934
+            ]
+        ]
+    },
+    "9": {
+        "type": "diagram",
+        "caption_text": "Figure 9: Virtual boutique scene.\n",
+        "image_labels": [
+            [
+                "Property",
+                0.9429104924201965
+            ],
+            [
+                "Building",
+                0.907666027545929
+            ],
+            [
+                "Product",
+                0.9071695804595947
+            ],
+            [
+                "Automotive design",
+                0.8920761942863464
+            ],
+            [
+                "Sleeve",
+                0.8724499940872192
+            ],
+            [
+                "Clothes hanger",
+                0.8647122383117676
+            ],
+            [
+                "Interior design",
+                0.8545916080474854
+            ],
+            [
+                "Houseplant",
+                0.8511402606964111
+            ],
+            [
+                "Flowerpot",
+                0.8285828828811646
+            ],
+            [
+                "Plant",
+                0.8144409656524658
+            ]
+        ]
+    },
+    "10": {
+        "type": "human",
+        "caption_text": "Figure 10: Experimental Setup.\n",
+        "image_labels": [
+            [
+                "Sleeve",
+                0.8724450469017029
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Font",
+                0.8463038802146912
+            ],
+            [
+                "Cameras & optics",
+                0.7967283725738525
+            ],
+            [
+                "Happy",
+                0.7954486608505249
+            ],
+            [
+                "Gadget",
+                0.7926439046859741
+            ],
+            [
+                "Audio equipment",
+                0.7898263931274414
+            ],
+            [
+                "Multimedia",
+                0.6925351023674011
+            ],
+            [
+                "Advertising",
+                0.6672956347465515
+            ],
+            [
+                "Street fashion",
+                0.6559205651283264
+            ]
+        ]
+    },
+    "12": {
+        "type": "human",
+        "caption_text": "Figure 12: Animating passive props: user picking up a\nhanger and dropping it in the shopping basket.\n",
+        "image_labels": [
+            [
+                "Sleeve",
+                0.8724502921104431
+            ],
+            [
+                "Line",
+                0.8223418593406677
+            ],
+            [
+                "Font",
+                0.8094799518585205
+            ],
+            [
+                "Art",
+                0.7532210350036621
+            ],
+            [
+                "Technology",
+                0.7323048114776611
+            ],
+            [
+                "Design",
+                0.6837465763092041
+            ],
+            [
+                "Machine",
+                0.6715859770774841
+            ],
+            [
+                "Fictional character",
+                0.6582873463630676
+            ],
+            [
+                "Graphics",
+                0.6333906650543213
+            ],
+            [
+                "Automotive design",
+                0.6068421006202698
+            ]
+        ]
+    },
+    "11": {
+        "type": "human",
+        "caption_text": "Figure 11: Texture rendering: user feeling the material of a\nscarf and a shirt.\n",
+        "image_labels": [
+            [
+                "Outerwear",
+                0.9564110040664673
+            ],
+            [
+                "White",
+                0.9218820333480835
+            ],
+            [
+                "Product",
+                0.9077351689338684
+            ],
+            [
+                "Black",
+                0.896915853023529
+            ],
+            [
+                "Neck",
+                0.8750273585319519
+            ],
+            [
+                "Sleeve",
+                0.8724504709243774
+            ],
+            [
+                "Collar",
+                0.8395729064941406
+            ],
+            [
+                "Line",
+                0.8309107422828674
+            ],
+            [
+                "T-shirt",
+                0.8289858102798462
+            ],
+            [
+                "Font",
+                0.8288604617118835
+            ]
+        ]
+    },
+    "13": {
+        "type": "picture",
+        "caption_text": "Figure 13: Dynamic positioning of passive haptics: quad\nlanding on a table in the room to render a shoebox, and user\npicking up the shoebox.\n",
+        "image_labels": [
+            [
+                "Plant",
+                0.955416738986969
+            ],
+            [
+                "Outerwear",
+                0.9532853960990906
+            ],
+            [
+                "Flowerpot",
+                0.9117300510406494
+            ],
+            [
+                "Product",
+                0.9084001183509827
+            ],
+            [
+                "Sleeve",
+                0.8721154928207397
+            ],
+            [
+                "Houseplant",
+                0.8681206703186035
+            ],
+            [
+                "Rectangle",
+                0.8665066957473755
+            ],
+            [
+                "Font",
+                0.8165162205696106
+            ],
+            [
+                "Terrestrial plant",
+                0.7913104295730591
+            ],
+            [
+                "Table",
+                0.763229489326477
+            ]
+        ]
+    },
+    "14": {
+        "type": "formula",
+        "caption_text": "Figure 14: Affordances of multiple quads for haptics in VR:\n(a) complex geometry and (b) continuous surface rendering.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.9052950143814087
+            ],
+            [
+                "Gesture",
+                0.852604866027832
+            ],
+            [
+                "Handwriting",
+                0.8435498476028442
+            ],
+            [
+                "Font",
+                0.829990565776825
+            ],
+            [
+                "Parallel",
+                0.7802324891090393
+            ],
+            [
+                "Circle",
+                0.7377728223800659
+            ],
+            [
+                "Art",
+                0.7094003558158875
+            ],
+            [
+                "Logo",
+                0.6956183910369873
+            ],
+            [
+                "Magenta",
+                0.6951181292533875
+            ],
+            [
+                "Brand",
+                0.6857265830039978
+            ]
+        ]
+    }
+}

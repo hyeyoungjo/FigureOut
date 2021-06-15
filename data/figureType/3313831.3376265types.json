@@ -1,0 +1,186 @@
+{
+    "1": {
+        "type": "graphic",
+        "caption_text": "Figure 1. Screenshot of Karamaisu Slope. \n",
+        "image_labels": [
+            [
+                "Sky",
+                0.9720605611801147
+            ],
+            [
+                "Water",
+                0.9129056334495544
+            ],
+            [
+                "Azure",
+                0.8955556750297546
+            ],
+            [
+                "Larch",
+                0.8310630917549133
+            ],
+            [
+                "Tree",
+                0.7667369842529297
+            ],
+            [
+                "Evergreen",
+                0.7581670880317688
+            ],
+            [
+                "Leisure",
+                0.7338476181030273
+            ],
+            [
+                "Natural landscape",
+                0.7316009998321533
+            ],
+            [
+                "Winter",
+                0.7185970544815063
+            ],
+            [
+                "Slope",
+                0.7159654498100281
+            ]
+        ]
+    },
+    "2": {
+        "type": "graphic",
+        "caption_text": "Figure 2. Screenshot of Dungeon Spell. \n",
+        "image_labels": [
+            [
+                "Tire",
+                0.9709242582321167
+            ],
+            [
+                "Wheel",
+                0.9330213665962219
+            ],
+            [
+                "Automotive tire",
+                0.7509244680404663
+            ],
+            [
+                "Space",
+                0.7292594909667969
+            ],
+            [
+                "Event",
+                0.7285573482513428
+            ],
+            [
+                "Entertainment",
+                0.7277363538742065
+            ],
+            [
+                "Midnight",
+                0.714137852191925
+            ],
+            [
+                "Grass",
+                0.7083525061607361
+            ],
+            [
+                "Font",
+                0.6815756559371948
+            ],
+            [
+                "Darkness",
+                0.665541410446167
+            ]
+        ]
+    },
+    "3": {
+        "type": "graphic",
+        "caption_text": "Figure 3. Screenshot of Space Travel. \n",
+        "image_labels": [
+            [
+                "World",
+                0.9012112021446228
+            ],
+            [
+                "Astronomical object",
+                0.8142365217208862
+            ],
+            [
+                "Font",
+                0.798322319984436
+            ],
+            [
+                "Science",
+                0.7821067571640015
+            ],
+            [
+                "Art",
+                0.7598409056663513
+            ],
+            [
+                "Space",
+                0.7547744512557983
+            ],
+            [
+                "Galaxy",
+                0.7525354027748108
+            ],
+            [
+                "Event",
+                0.7387927174568176
+            ],
+            [
+                "Circle",
+                0.7357301115989685
+            ],
+            [
+                "Astronomy",
+                0.715460479259491
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4. Sketch of a player engaging with Space Travel. \n",
+        "image_labels": [
+            [
+                "Organism",
+                0.8609869480133057
+            ],
+            [
+                "Gesture",
+                0.8516952991485596
+            ],
+            [
+                "Art",
+                0.8146620392799377
+            ],
+            [
+                "Font",
+                0.8113487362861633
+            ],
+            [
+                "Creative arts",
+                0.8061681985855103
+            ],
+            [
+                "People in nature",
+                0.774428129196167
+            ],
+            [
+                "Magenta",
+                0.7409073114395142
+            ],
+            [
+                "Painting",
+                0.7240513563156128
+            ],
+            [
+                "Drawing",
+                0.6845870614051819
+            ],
+            [
+                "Illustration",
+                0.6829670667648315
+            ]
+        ]
+    }
+}

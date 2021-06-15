@@ -1,0 +1,664 @@
+{
+    "1": {
+        "type": "picture",
+        "caption_text": "Figure 1. Scenariot is a method for discovering and localizing IoT devices with a SLAM-based AR device. We register the discovered devices spatially\nin the AR scene to enable new spatial aware interactions.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9078990817070007
+            ],
+            [
+                "Gadget",
+                0.8149322271347046
+            ],
+            [
+                "Display device",
+                0.7823324799537659
+            ],
+            [
+                "Television set",
+                0.7608591318130493
+            ],
+            [
+                "Multimedia",
+                0.7549633979797363
+            ],
+            [
+                "Electronic device",
+                0.7495875954627991
+            ],
+            [
+                "Machine",
+                0.7440295219421387
+            ],
+            [
+                "Advertising",
+                0.7130634784698486
+            ],
+            [
+                "Event",
+                0.6762587428092957
+            ],
+            [
+                "Brand",
+                0.6323879957199097
+            ]
+        ]
+    },
+    "2": {
+        "type": "diagram",
+        "caption_text": "Figure 2. Scenariot localization principle.\n",
+        "image_labels": [
+            [
+                "Organism",
+                0.8537365794181824
+            ],
+            [
+                "Slope",
+                0.8252426385879517
+            ],
+            [
+                "Line",
+                0.8193986415863037
+            ],
+            [
+                "Font",
+                0.8089362978935242
+            ],
+            [
+                "Triangle",
+                0.7815392017364502
+            ],
+            [
+                "Parallel",
+                0.7813272476196289
+            ],
+            [
+                "Circle",
+                0.768589437007904
+            ],
+            [
+                "Rectangle",
+                0.7621737718582153
+            ],
+            [
+                "Symmetry",
+                0.7333984971046448
+            ],
+            [
+                "Pattern",
+                0.7237090468406677
+            ]
+        ]
+    },
+    "3": {
+        "type": "picture",
+        "caption_text": "Figure 3. Overview of the Scenariot hardware. Deploy IoT controller\nboards (right) to IoT devices and AR device (left).\n",
+        "image_labels": [
+            [
+                "Passive circuit component",
+                0.9524254202842712
+            ],
+            [
+                "Circuit component",
+                0.9192977547645569
+            ],
+            [
+                "Product",
+                0.9072455167770386
+            ],
+            [
+                "Green",
+                0.9000822305679321
+            ],
+            [
+                "Hardware programmer",
+                0.8667187094688416
+            ],
+            [
+                "Microcontroller",
+                0.8306403756141663
+            ],
+            [
+                "Electronic engineering",
+                0.8261843323707581
+            ],
+            [
+                "Output device",
+                0.8188863396644592
+            ],
+            [
+                "Gadget",
+                0.8114061951637268
+            ],
+            [
+                "Computer hardware",
+                0.8058193922042847
+            ]
+        ]
+    },
+    "4": {
+        "type": "diagram",
+        "caption_text": "Figure 4. Technical evaluation setup.\n",
+        "image_labels": [
+            [
+                "Slope",
+                0.779518187046051
+            ],
+            [
+                "Symmetry",
+                0.76851487159729
+            ],
+            [
+                "Circle",
+                0.7617563009262085
+            ],
+            [
+                "Pattern",
+                0.7393066883087158
+            ],
+            [
+                "Symbol",
+                0.6731991171836853
+            ],
+            [
+                "Parallel",
+                0.672887921333313
+            ],
+            [
+                "Electric blue",
+                0.6700655817985535
+            ],
+            [
+                "Font",
+                0.6609359979629517
+            ],
+            [
+                "Musical instrument",
+                0.6526115536689758
+            ],
+            [
+                "Triangle",
+                0.6373159289360046
+            ]
+        ]
+    },
+    "5": {
+        "type": "chart",
+        "caption_text": "Figure 5. Effect of sampling space on the localization accuracy:\n(left)assume a cubic volume, (right) varying h and set l = w = 1.6(m).\n",
+        "image_labels": [
+            [
+                "Font",
+                0.8072957396507263
+            ],
+            [
+                "Rectangle",
+                0.7790822386741638
+            ],
+            [
+                "Parallel",
+                0.7577572464942932
+            ],
+            [
+                "Plot",
+                0.7210702300071716
+            ],
+            [
+                "Slope",
+                0.6655482053756714
+            ],
+            [
+                "Number",
+                0.6523414850234985
+            ],
+            [
+                "Diagram",
+                0.6249042749404907
+            ]
+        ]
+    },
+    "6": {
+        "type": "chart",
+        "caption_text": "Figure 6. Effect of sampling Number (m) on the localization accuracy.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8922892212867737
+            ],
+            [
+                "Slope",
+                0.8227114081382751
+            ],
+            [
+                "Font",
+                0.8168661594390869
+            ],
+            [
+                "Parallel",
+                0.7869216799736023
+            ],
+            [
+                "Plot",
+                0.7714941501617432
+            ],
+            [
+                "Diagram",
+                0.712677001953125
+            ],
+            [
+                "Brand",
+                0.6110852360725403
+            ],
+            [
+                "Pattern",
+                0.5564042925834656
+            ]
+        ]
+    },
+    "7": {
+        "type": "chart",
+        "caption_text": "Figure 7. Effect of sampling distances (r) and number of devices (n) on\nthe localization accuracy.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8939003348350525
+            ],
+            [
+                "Plot",
+                0.8708007335662842
+            ],
+            [
+                "Slope",
+                0.8685409426689148
+            ],
+            [
+                "Parallel",
+                0.7898952960968018
+            ],
+            [
+                "Font",
+                0.7868880033493042
+            ],
+            [
+                "Circle",
+                0.7614664435386658
+            ],
+            [
+                "Pattern",
+                0.7556142807006836
+            ],
+            [
+                "Diagram",
+                0.7077959775924683
+            ],
+            [
+                "Grass",
+                0.6630203127861023
+            ],
+            [
+                "Graphics",
+                0.6410423517227173
+            ]
+        ]
+    },
+    "8": {
+        "type": "chart",
+        "caption_text": "Figure 8. Task evaluation setup with 8 IoT devices in an of\ufb01ce.\n",
+        "image_labels": [
+            [
+                "Product",
+                0.9072197675704956
+            ],
+            [
+                "Font",
+                0.8319308161735535
+            ],
+            [
+                "Rectangle",
+                0.8014625310897827
+            ],
+            [
+                "Parallel",
+                0.7848188877105713
+            ],
+            [
+                "Diagram",
+                0.7415003180503845
+            ],
+            [
+                "Technology",
+                0.7348713278770447
+            ],
+            [
+                "Illustration",
+                0.7267377972602844
+            ],
+            [
+                "Drawing",
+                0.6924241185188293
+            ],
+            [
+                "Electric blue",
+                0.6865350604057312
+            ],
+            [
+                "Line art",
+                0.6500265598297119
+            ]
+        ]
+    },
+    "9": {
+        "type": "chart",
+        "caption_text": "Figure 9. Localization accuracy study with users. Runtime: runtime lo-\ncalization result. Height Correction: results with height correction. Dis-\ntance: the distances of IoT devices to the center of the surveying space.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8758665919303894
+            ],
+            [
+                "Slope",
+                0.875709056854248
+            ],
+            [
+                "Plot",
+                0.874122679233551
+            ],
+            [
+                "Line",
+                0.8191030025482178
+            ],
+            [
+                "Font",
+                0.7932118773460388
+            ],
+            [
+                "Parallel",
+                0.7881485223770142
+            ],
+            [
+                "Diagram",
+                0.7156288027763367
+            ],
+            [
+                "Pattern",
+                0.7115907669067383
+            ],
+            [
+                "Screenshot",
+                0.5233784914016724
+            ]
+        ]
+    },
+    "10": {
+        "type": "chart",
+        "caption_text": "Figure 10. Distant pointing accuracy and completion time.\n",
+        "image_labels": [
+            [
+                "Rectangle",
+                0.8499782085418701
+            ],
+            [
+                "Font",
+                0.8389692306518555
+            ],
+            [
+                "Parallel",
+                0.7883959412574768
+            ],
+            [
+                "Electric blue",
+                0.7203508615493774
+            ],
+            [
+                "Pattern",
+                0.6629349589347839
+            ],
+            [
+                "Number",
+                0.6576486229896545
+            ],
+            [
+                "Slope",
+                0.6253648996353149
+            ],
+            [
+                "Screenshot",
+                0.6099739074707031
+            ],
+            [
+                "Plot",
+                0.5494533777236938
+            ]
+        ]
+    },
+    "11": {
+        "type": "chart",
+        "caption_text": "Figure 11. Proximity based control accuracy and completion time.\n",
+        "image_labels": [
+            [
+                "Azure",
+                0.8937981128692627
+            ],
+            [
+                "Rectangle",
+                0.8654224872589111
+            ],
+            [
+                "Font",
+                0.832327127456665
+            ],
+            [
+                "Parallel",
+                0.7887298464775085
+            ],
+            [
+                "Slope",
+                0.745313286781311
+            ],
+            [
+                "Electric blue",
+                0.7300247550010681
+            ],
+            [
+                "Pattern",
+                0.7171066999435425
+            ],
+            [
+                "Number",
+                0.6245968341827393
+            ],
+            [
+                "Plot",
+                0.6079620718955994
+            ],
+            [
+                "Screenshot",
+                0.6059065461158752
+            ]
+        ]
+    },
+    "12": {
+        "type": "picture",
+        "caption_text": "Figure 12. Discoverable World. The digital representations of the discov-\nered IoT devices are visualized within the AR scene with spatial PiPs.\n",
+        "image_labels": [
+            [
+                "Plant",
+                0.949669599533081
+            ],
+            [
+                "Houseplant",
+                0.8816346526145935
+            ],
+            [
+                "Rectangle",
+                0.8596611022949219
+            ],
+            [
+                "Flowerpot",
+                0.8303533792495728
+            ],
+            [
+                "Font",
+                0.7817273139953613
+            ],
+            [
+                "Office supplies",
+                0.7023343443870544
+            ],
+            [
+                "Machine",
+                0.6754963994026184
+            ],
+            [
+                "Electric blue",
+                0.6357629895210266
+            ],
+            [
+                "Room",
+                0.6130982041358948
+            ],
+            [
+                "Shelf",
+                0.6036278009414673
+            ]
+        ]
+    },
+    "13": {
+        "type": "picture",
+        "caption_text": "Figure 13. Proximity based Control. While users move closer to the\nmachine (a, b, c), the level of engagement is adjusted accordingly.\n",
+        "image_labels": [
+            [
+                "Gas",
+                0.7767998576164246
+            ],
+            [
+                "Machine",
+                0.7387199997901917
+            ],
+            [
+                "Engineering",
+                0.7060374021530151
+            ],
+            [
+                "Gadget",
+                0.7008674144744873
+            ],
+            [
+                "Audio equipment",
+                0.6104452610015869
+            ],
+            [
+                "Font",
+                0.609799325466156
+            ],
+            [
+                "Room",
+                0.6079421639442444
+            ],
+            [
+                "Brand",
+                0.5961688160896301
+            ],
+            [
+                "Display device",
+                0.5958319306373596
+            ],
+            [
+                "Electric blue",
+                0.5955810546875
+            ]
+        ]
+    },
+    "14": {
+        "type": "picture",
+        "caption_text": "Figure 14. Monitoring the IoT assets (a, b) and navigating the user to-\nwards the assets by visualizing the direction on the screen(c, d).\n",
+        "image_labels": [
+            [
+                "Fixture",
+                0.7933431267738342
+            ],
+            [
+                "Gas",
+                0.7797948718070984
+            ],
+            [
+                "Font",
+                0.7795130610466003
+            ],
+            [
+                "Machine",
+                0.7358449101448059
+            ],
+            [
+                "Engineering",
+                0.7125714421272278
+            ],
+            [
+                "Metal",
+                0.689152181148529
+            ],
+            [
+                "Cable",
+                0.6667468547821045
+            ],
+            [
+                "Wire",
+                0.6444934606552124
+            ],
+            [
+                "Transparency",
+                0.623279333114624
+            ],
+            [
+                "Room",
+                0.6209725141525269
+            ]
+        ]
+    },
+    "15": {
+        "type": "picture",
+        "caption_text": "Figure 15. User creates a miniature world of the physical environment\nenhanced by the digital interfaces of IoT devices.\n",
+        "image_labels": [
+            [
+                "Green",
+                0.9146871566772461
+            ],
+            [
+                "Automotive tire",
+                0.8475331664085388
+            ],
+            [
+                "Technology",
+                0.7350673079490662
+            ],
+            [
+                "Machine",
+                0.7116957306861877
+            ],
+            [
+                "Engineering",
+                0.7024253010749817
+            ],
+            [
+                "Font",
+                0.6788795590400696
+            ],
+            [
+                "Wrist",
+                0.628502368927002
+            ],
+            [
+                "Display device",
+                0.580263614654541
+            ],
+            [
+                "Gadget",
+                0.5801739692687988
+            ],
+            [
+                "Multimedia",
+                0.5797586441040039
+            ]
+        ]
+    }
+}
