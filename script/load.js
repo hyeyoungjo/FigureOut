@@ -42,8 +42,21 @@ $(function () {
                     $figCap = $(this).find("caption").html();
 
                     // Thumbnail
-                    var $thumbUrl = $storagePath + "" + $(this).find("url").eq(0).html();
-                    $mainThumb = "<p class='img' style='background-image:url(" + $thumbUrl + ")'></p>";
+                    var $thumbN = 0;
+                    var $maxScore = 0;
+                    $(this).find("url").each(function(i){
+                        var $img =  $(this).html() +"";
+                        var $type = getImgType($img);
+                        var $imgScore = getUserData($type);
+                        console.log($imgScore);
+                        console.log(getUserData(getImgType($img)));
+                        if ($imgScore > $maxScore) {
+                            $maxScore = $imgScore;
+                            $thumbN = i;
+                        }
+                    });
+                    var $thumbUrl = $storagePath + "" + $(this).find("url").eq($thumbN).html();
+                    $mainThumb = "<p class='img' style='background-image:url(" + $thumbUrl + ")'>" + $(this).find("url").eq(0).html() + "</p>";
 
                     // info
                     var $venue = "<span class='conf'>" + $(this).find("venue").html() + "</span>";
@@ -121,6 +134,7 @@ $(function () {
                 imgUrl = imgSrc.replace("crops/", "");
                 figCap = $(one).find("url:contains(" + imgUrl + ")").siblings("caption").html();
                 $(this).parents("figure").find("p.img").css("background-image", "url('" + imgSrc + "')");
+                $(this).parents("figure").find("p.img").html(imgUrl);
                 $(this).parents("figure").find("p.fig_des span:nth-of-type(2)").html(figCap);
             });
 
@@ -150,7 +164,7 @@ $(function () {
                 }, 300);
 
 
-                imgUrl = $(this).find(".figures img").attr('src').replace("crops/", "");
+                imgUrl = $(this).find("figure").find("p.img").text();
                 console.log(imgUrl); // imgurl 아닌듯 
                 updateUserData(imgUrl);
 
@@ -194,79 +208,16 @@ $(function () {
     //---jquery end
 });
 
-
-var uid = 100;
-// uid = getParameterByName('uid');
-
-// const userDb = firebase.database().ref('/users/' + uid);
-var chart = 0;
-var diagram = 0;
-var formula = 0;
-var graphic = 0;
-var human = 0;
-var picture = 0;
-var table = 0;
-
-getfirebase();
-
-function updateUserData(key) {
+function getImgType(img) {
+    console.log(img.replace(/\./gi, "`"));
     var type = "";
-    firebase.database().ref('/' + key.replace(/./gi, "`") + '/').once('value').then(function (snapshot) {
-        type = snapshot.val();
-        chart = chart + 1;
-        //if - - -- -
-        updateData();
+    firebase.database().ref('/' + img.replace(/\./gi, "`") + '/').get().then(function (snapshot) {
+        type = snapshot.val()+"";
+        console.log(type);
     });
+    return type;
 }
 
-function updateData() {
-    firebase.database().ref('/users/' + uid + '/history/').set({
-        // chart : userData[0].chart ,
-        // diagram : userData[0].diagram  ,
-        // formula : userData[0].formula ,
-        // graphic : userData[0].graphic ,
-        // human : userData[0].human ,
-        // picture : userData[0].picture ,
-        // table : userData[0].table
-        chart: chart,
-        diagram: diagram,
-        formula: formula,
-        graphic: graphic,
-        human: human,
-        picture: picture,
-        table: table
-    });
+function cardMaker() {
+    
 }
-
-function getfirebase() {
-    firebase.database().ref('/users/' + uid + '/history/chart').on('value', function (x) {
-        // userData[0].chart = x.val();
-        chart = x.val();
-    });
-    firebase.database().ref('/users/' + uid + '/history/diagram').on('value', function (x) {
-        // userData[0].diagram = x.val();
-        diagram = x.val();
-    });
-    firebase.database().ref('/users/' + uid + '/history/formula').on('value', function (x) {
-        // userData[0].formula = x.val();
-        formula = x.val();
-    });
-    firebase.database().ref('/users/' + uid + '/history/graphic').on('value', function (x) {
-        // userData[0].graphic = x.val();
-        graphic = x.val();
-    });
-    firebase.database().ref('/users/' + uid + '/history/human').on('value', function (x) {
-        // userData[0].human = x.val();
-        human = x.val();
-    });
-    firebase.database().ref('/users/' + uid + '/history/picture').on('value', function (x) {
-        // userData[0].picture = x.val();
-        picture = x.val();
-    });
-    firebase.database().ref('/users/' + uid + '/history/table').on('value', function (x) {
-        // userData[0].table = x.val();
-        table = x.val();
-    });
-}
-
-//새로 load 할때 -> 목록에서 현재까지의 preference 반영
