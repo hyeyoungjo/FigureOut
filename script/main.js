@@ -47,5 +47,8 @@ $("div.classify span").on("click", function(){
     $(this).addClass("active");
     $("div.classify span").not($(this)).removeClass("active");
 })
+
+
+
     //-----jquery end--------
 });
