@@ -144,7 +144,8 @@ $(function () {
                 $("section#detail").delay(1000).animate({
                     left: "50%"
                 }, 300);
-
+                
+                imgUrl = $(this).find(".figures img").attr('src').replace("crops/", "");
                 console.log(imgUrl);  // imgurl 아닌듯 
                 updateUserData( imgUrl );
             });
