@@ -82,7 +82,8 @@ function cardMaker() {
                         });
                         var $secLength = Math.ceil(Number($(this).find("word_count").html()) / $paperLength * 100) + "%";
                         var $secTitle = $(this).find("title").html();
-                        $secBar += "<span id='" + $secTitle.replace(" ", "_") + "' style='width:" + $secLength + "'>" + $secTitle + "</span>"
+                        var sectionType = whatSectionType($secTitle+"");
+                        $secBar += "<span id='" + $secTitle.replace(" ", "_") + "' class=" + sectionType + " style='width:" + $secLength + "'>" + $secTitle + "</span>"
                     });
                     $bar = "<div class='bar'>" + $secBar + "</div>";
 
@@ -118,7 +119,7 @@ function cardMaker() {
                         if($pageN*10 == 100)$("section#mainContainer").html(containerBarF + (($pageN-1)*10 + 1) + "-" + ($totalItem*1-1) + containerBarE);
                         $("section#mainContainer").append($figList[$pageN-1].replace("undefined", "")).append($pageGet);
                         $("section#mainContainer div.tags i").html($totalItem - 1);
-                        
+
                         $('html').animate({scrollTop: $("section#mainContainer").offset().top}, 600);
                         addListener($pageN);
                     });
@@ -358,3 +359,26 @@ var containerBarE = '</i> </span>'+
 '<li class="">20</li>'+
 '<li class="">30</li>'+
 '</ul> </div>';
+
+function whatSectionType(title) {
+    var t = title.toLowerCase();
+    if(t.includes("intro")) {
+        return "introduction";
+    }else if(t.includes("background") || t.includes("related")) {
+        return "relatedWorks";
+    }else if(t.includes("thod")) {
+        return "method";
+    }else if(t.includes("study")) {
+        return "study";
+    }else if(t.includes("result")) {
+        return "result";
+    }else if(t.includes("discuss")) {
+        return "discussion";
+    }else if(t.includes("conclu")) {
+        return "conclusion";
+    }else if(t.includes("referen")) {
+        return "reference";
+    }
+    return "else";
+
+}

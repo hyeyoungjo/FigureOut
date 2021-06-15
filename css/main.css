@@ -523,6 +523,28 @@ section.main div.card figure figcaption div.bar span:after {
   bottom: 0;
 }
 
+section.main div.card figure figcaption div.bar span.introduction:after {
+  background: red;
+}section.main div.card figure figcaption div.bar span.relatedWorks:after {
+  background: orange;
+}section.main div.card figure figcaption div.bar span.method:after {
+  background: greenyellow;
+}section.main div.card figure figcaption div.bar span.study:after {
+  background: green;
+}section.main div.card figure figcaption div.bar span.result:after {
+  background: skyblue;
+}section.main div.card figure figcaption div.bar span.discussion:after {
+  background: darkblue;
+}section.main div.card figure figcaption div.bar span.conclusion:after {
+  background: purple;
+}section.main div.card figure figcaption div.bar span.reference:after {
+  background: gray;
+}
+
+
+section.main div.card figure figcaption div.bar span.else:after {
+  background: lightgray;
+}
 span#background {
   color: black;
 }
