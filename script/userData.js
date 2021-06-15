@@ -1,5 +1,13 @@
-// var uid = "user:" + getParameterByName('uid');
-var uid = "100";
+var uid = "user:" + getParameterByName('uid');
+console.log(uid);
+// var uid = "100";
+function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+            results = regex.exec(location.search);
+    return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+
 
 var typeList = ["chart", "diagram", "formula", "graphic", "human", "picture", "table"];
 UserData = function() {
