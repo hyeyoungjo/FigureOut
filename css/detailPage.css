@@ -149,25 +149,31 @@ section#detail div.back:hover{
   margin-left: 20px;
 }
 
-.paper_info #subsection div#icon span {
+.paper_info #subsection div#icon span span{
+  position: absolute;
+  left: 0;
+  height: 16px;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left center;
 }
 
-.paper_info #subsection div#icon span.cite {
+.paper_info #subsection div#icon span.conf{
+  display: none;
+}
+.paper_info #subsection div#icon span.cite span{
   background-image: url("../img/I_Citation.png");
 }
 
-.paper_info #subsection div#icon span.down {
+.paper_info #subsection div#icon span.down span{
   background-image: url("../img/I_Download.png");
 }
 
-.paper_info #subsection div#icon span.graph {
+.paper_info #subsection div#icon span.graph span{
   background-image: url("../img/I_Graph.png");
 }
 
-.paper_info #subsection div#icon span img {
+.paper_info #subsection div#icon span img span{
   width: 18px;
   height: 18px;
   margin-right: 8px;
@@ -323,6 +329,7 @@ div#right .body {
   align-items: flex-start;
   justify-content: flex-start;
   position: relative;
+  overflow: hidden;
 }
 
 .bar_container span::after {
@@ -330,9 +337,11 @@ div#right .body {
   width: 100%;
   height: 5px;
   border-radius: 3px;
+  background: black;
   position: absolute;
   left: 0;
   bottom: 5px;
+
 }
 
 #progress_bar div.slider {

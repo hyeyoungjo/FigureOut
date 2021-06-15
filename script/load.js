@@ -106,7 +106,7 @@ function cardMaker() {
                 });
 
                 $("section#mainContainer").append($figList);
-                $("section#mainContainer div.tags i").html($totalItem);
+                $("section#mainContainer div.tags i").html($totalItem-1);
 
                 //figures jquery
 
@@ -130,6 +130,7 @@ function cardMaker() {
                     });
                 });
 
+
                 var imgSrc = "";
                 var imgUrl = "";
                 var figCap = "";
@@ -143,24 +144,59 @@ function cardMaker() {
                     $(this).parents("figure").find("p.fig_des span:nth-of-type(2)").html(figCap);
                 });
                 //load figures----------------------
-                var $coverEven="";
-                var $coverOdd="";
-                var $coverUrl="";
-                function callFigures(keyword){
-                    $(one).find("article:contains("+keyword+")").find("url").each(function (i) {
-                        $coverUrl= $(this).html();
-                        if (i%2==0){
-                            $coverEven+= "<img src='crops/"+$coverUrl+"'>"
-                        }else{
-                            $coverOdd+= "<img src='crops/"+$coverUrl+"'>"
+                var $coverEven = "";
+                var $coverOdd = "";
+                var $coverUrl = "";
+
+                function callFigures(keyword) {
+                    $(one).find("article:contains(" + keyword + ")").find("url").each(function (i) {
+                        $coverUrl = $(this).html();
+                        if (i % 2 == 0) {
+                            $coverEven += "<img src='crops/" + $coverUrl + "'>"
+                        } else {
+                            $coverOdd += "<img src='crops/" + $coverUrl + "'>"
                         }
                     });
                     $("div.container.list_top").html($coverEven);
                     $("div.container.list_bottom").html($coverOdd);
                 }
                 callFigures("");
+                //img Click---------
+                var $this;
+                function coverClick(coverTop, time, Num){
+                    $("article.selected_fig").delay(100).animate({
+                        top: coverTop
+                    }, time);
+                    $("article.all_figs>p").each(function (i) {
+                        $this=$(this);
+                        if (i == 0) {
+                            $this.animate({
+                                left: Num
+                            }, time)
+                        } else {
+                            $this.animate({
+                                right: Num
+                            }, time)
+                        }
+                    });
+                }
+                $("div.container>img").on("click", function () {
+                    var thisSrc = $(this).attr("src");
+                    var findItem=$(one).find("article:contains('"+thisSrc.replace("crops/", "")+"')");
+                    var findCaption=$(one).find("url:contains('"+thisSrc.replace("crops/", "")+"')").siblings("caption").html();
+                    $("div.img").html("<img src='" + thisSrc + "'>");
+                    coverClick(0,200,"-100%");
+                    $("div.description_area h3").html(findItem.find("data>title").html());
+                    $("div.description_area ul.authors").html(findItem.find("data>authors").html());
+                    $("div.description_area span.conf").html(findItem.find("data>venue").html());
+                    $("p.des").html(findCaption);
+                });
+                $("div.buttons li.back").on("click", function () {
+                    coverClick("-110%",200,0)
+                });
+            
                 //search---------
-                
+
 
                 //transition---------------
                 var $scrollTop = 0;
@@ -187,11 +223,21 @@ function cardMaker() {
                         top: 0
                     }, 300);
 
-
                     imgUrl = $(this).find("figure").find("p.img").text();
-                    console.log(imgUrl); // imgurl 아닌듯 
+                    console.log(imgUrl); 
                     updateUserData(imgUrl);
 
+                    //detail infochange------
+                    function infoChange($to, $text, $item){
+                        $($to).html($text+$this.find($item).html())
+                        return;
+                    }
+                    $this=$(this);
+                    infoChange("div#title h3", "", "h3");
+                    infoChange("div.bar_container","", "div.bar");
+                    infoChange("ul#authors","Authors:","ul.authors");
+                    infoChange("div#icon","","div.info");
+                
                 });
 
                 $("section#detail div.back").on("click", function () {
@@ -217,16 +263,21 @@ function cardMaker() {
                         $("html, body").animate({
                             scrollTop: $scrollTop
                         }, 300);
-                    }, 1000);
+
+                        setTimeout(function () {
+                            $("html, body").animate({
+                                scrollTop: $scrollTop
+                            }, 300);
+                        }, 1000);
+                    });
                 });
             },
             error: function () {
                 alert('Fail');
             }
-            //ajax end
+                //ajax end
         });
-
-        //---jquery end
+            //---jquery end
     });
 }
 function getImgType(img) {
