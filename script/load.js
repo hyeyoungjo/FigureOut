@@ -190,6 +190,9 @@ function cardMaker() {
                             }, time)
                         }
                     });
+                    $("div.classify").animate({
+                        bottom: Num
+                    },time)
                 }
                 $("div.container>img").on("click", function () {
                     var thisSrc = $(this).attr("src");
@@ -205,6 +208,7 @@ function cardMaker() {
                     imgUrl = thisSrc.replace("crops/", "").replace(/\./gi, "~");
                     console.log(imgUrl); 
                     updateUserData(imgUrl);
+                    
                 });
                 $("div.buttons li.back").on("click", function () {
                     coverClick("-110%", 200, 0)
@@ -247,7 +251,7 @@ function cardMaker() {
                         $($to).html($text + $this.find($item).html())
                         return;
                     }
-                    
+
                     $this = $(this);
                     infoChange("div#title h3", "", "h3");
                     infoChange("div.bar_container", "", "div.bar");
@@ -311,7 +315,6 @@ function cardMaker() {
                             scrollTop: $scrollTop
                         }, 300);
                     }, 1000);
-
                 });
             },
             error: function () {

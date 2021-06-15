@@ -27,7 +27,7 @@ $("section.main").css({
 });
 
 $("div#right").on("scroll", function(){
-   var $sliderTop= $(this).scrollTop()/$(this).height()*100/4+"%";
+   
     $("div#arrow").css("top", $sliderTop);
 })
 $("div.classify span").on("click", function(){

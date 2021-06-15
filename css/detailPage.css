@@ -7,6 +7,9 @@ section#detail {
   height: 100vh;
   transform: translateX(-50%);
   padding-top: 120px;
+  /* overflow-y: hidden; */
+  /* overflow-x:hidden; */
+
 }
 
 section#detail div.back{

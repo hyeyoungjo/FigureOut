@@ -188,6 +188,7 @@ section.cover article.all_figs div.classify{
   z-index: 999;
   transform: translateX(-50%);
 padding: 10px;
+margin-bottom: 10px;
 }
 section.cover article.all_figs div.classify span{
   /* border: 1px solid #000; */
@@ -457,6 +458,12 @@ section.main div.card figure figcaption div.bar span {
   padding-bottom: 5px;
   display: flex;
   align-items: flex-start;
+  color: transparent;
+  transition: 0.2s;
+  cursor: pointer;
+}
+section.main div.card figure figcaption div.bar span:hover{
+  color:black
 }
 section.main div.card figure figcaption div.bar span:after {
   content: " ";

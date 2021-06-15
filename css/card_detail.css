@@ -16,12 +16,16 @@ section.cover article.selected_fig {
 
 section.cover article.selected_fig div.img {
     height: 100%;
-    border-radius: 5px;
     overflow: hidden;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: 40px;
 }
 
 section.cover article.selected_fig div.img img {
     height: 100%;
+    border-radius: 10px;
 }
 
 section.cover article.selected_fig div.trans_cover {
@@ -31,6 +35,7 @@ section.cover article.selected_fig div.trans_cover {
     background: linear-gradient(to left, transparent, black);
     left: 0;
     top: 0;
+    z-index: 50;
 }
 
 section.cover article.selected_fig div.description_area {
