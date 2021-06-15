@@ -2517,21 +2517,7 @@
             </figure>
         </figures>
     </article>
-    <article>
-        <filename>3173574.3173927</filename><data>
-            <paper_id>3173574.3173927</paper_id>
-            <venue>CHI 18</venue>
-            <doi>10.1145/3173574.3173927</doi>
-            <sections></sections>
-            <keywords>
-                <li>H.5.2. Information interfaces and presentation: Input devices and strategies</li>
-                <li>Interaction styles</li>
-            </keywords>
-            <authors>
-                <li>undefined</li>
-            </authors>
-        </data>
-    </article>
+
     <article>
         <filename>3173574.3173937</filename>
         <data>
@@ -3516,43 +3502,7 @@
             </figure>
         </figures>
     </article>
-    <article>
-        <filename>3173574.3174088</filename>
-        <data>
-            <paper_id>3173574.3174088</paper_id>
-            <venue>CHI 18</venue>
-            <doi>10.1145/3173574.3174088.</doi>
-            <sections></sections>
-            <keywords>
-                <li>Dementia</li>
-                <li>Care</li>
-                <li>Virtual reality</li>
-                <li>Augmented reality</li>
-                <li>Creativity</li>
-                <li>Experience</li>
-                <li>Expression</li>
-            </keywords>
-            <authors>
-                <li>undefined</li>
-            </authors>
-        </data>
-        <figures>
-            <figure>
-                <id>1</id>
-                <url>3173574.3174088_crop_1.jpg</url>
-                <caption>Figure 1: From sketching to final environment
-                </caption>
-                <page>5</page>
-            </figure>
-            <figure>
-                <id>2</id>
-                <url>3173574.3174088_crop_2.jpg</url>
-                <caption>Figure 2: creating the concert venue for Janet
-                </caption>
-                <page>7</page>
-            </figure>
-        </figures>
-    </article>
+
     <article>
         <filename>3173574.3174151</filename>
         <data>
@@ -7704,6 +7654,7 @@
             <paper_id>3313831.3376719</paper_id>
             <venue>CHI 20</venue>
             <doi>10.1145/10.1145/3313831.3376719</doi>
+            <title>A Human Touch: Social Touch Increases the Perceived Human-likeness of Agents in Virtual Reality</title>
             <sections></sections>
             <keywords>
                 <li>Agency</li>
