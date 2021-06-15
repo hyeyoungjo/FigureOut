@@ -48,12 +48,12 @@ function cardMaker() {
                         // Thumbnail
                         var $thumbN = 0;
                         var $maxScore = 0;
-                        $(this).find("url").each(function(i){
-                            var $img =  $(this).html() + "";
-                            var $imgType = getFigureType ( $img.replace(/\./gi, "`") );
-                            var $imgScore = getUserData ( $imgType );
+                        $(this).find("url").each(function (i) {
+                            var $img = $(this).html() + "";
+                            var $imgType = getFigureType($img.replace(/\./gi, "`"));
+                            var $imgScore = getUserData($imgType);
 
-                            if ($imgScore*1 > $maxScore*1) {
+                            if ($imgScore * 1 > $maxScore * 1) {
                                 $thumbN = i;
                                 console.log($imgScore + "is lager than " + $maxScore);
                                 var $thumbUrl = $storagePath + "" + $(this).find("url").eq($thumbN).html();
@@ -107,7 +107,7 @@ function cardMaker() {
                 });
 
                 $("section#mainContainer").append($figList);
-                $("section#mainContainer div.tags i").html($totalItem-1);
+                $("section#mainContainer div.tags i").html($totalItem - 1);
 
                 //figures jquery
 
@@ -164,12 +164,13 @@ function cardMaker() {
                 callFigures("");
                 //img Click---------
                 var $this;
-                function coverClick(coverTop, time, Num){
+
+                function coverClick(coverTop, time, Num) {
                     $("article.selected_fig").delay(100).animate({
                         top: coverTop
                     }, time);
                     $("article.all_figs>p").each(function (i) {
-                        $this=$(this);
+                        $this = $(this);
                         if (i == 0) {
                             $this.animate({
                                 left: Num
@@ -183,10 +184,10 @@ function cardMaker() {
                 }
                 $("div.container>img").on("click", function () {
                     var thisSrc = $(this).attr("src");
-                    var findItem=$(one).find("article:contains('"+thisSrc.replace("crops/", "")+"')");
-                    var findCaption=$(one).find("url:contains('"+thisSrc.replace("crops/", "")+"')").siblings("caption").html();
+                    var findItem = $(one).find("article:contains('" + thisSrc.replace("crops/", "") + "')");
+                    var findCaption = $(one).find("url:contains('" + thisSrc.replace("crops/", "") + "')").siblings("caption").html();
                     $("div.img").html("<img src='" + thisSrc + "'>");
-                    coverClick(0,200,"-100%");
+                    coverClick(0, 200, "-100%");
                     $("div.description_area h3").html(findItem.find("data>title").html());
                     $("div.description_area ul.authors").html(findItem.find("data>authors").html());
                     $("div.description_area span.conf").html(findItem.find("data>venue").html());
@@ -197,9 +198,9 @@ function cardMaker() {
                     updateUserData(imgUrl);
                 });
                 $("div.buttons li.back").on("click", function () {
-                    coverClick("-110%",200,0)
+                    coverClick("-110%", 200, 0)
                 });
-            
+
                 //search---------
 
 
@@ -229,21 +230,39 @@ function cardMaker() {
                     }, 300);
 
                     imgUrl = $(this).find("figure").find("p.img").text();
-                    console.log(imgUrl); 
+                    console.log(imgUrl);
                     updateUserData(imgUrl);
 
                     //detail infochange------
-                    function infoChange($to, $text, $item){
-                        $($to).html($text+$this.find($item).html())
+                    function infoChange($to, $text, $item) {
+                        $($to).html($text + $this.find($item).html())
                         return;
                     }
-                    $this=$(this);
+                    $this = $(this);
                     infoChange("div#title h3", "", "h3");
-                    infoChange("div.bar_container","", "div.bar");
-                    infoChange("ul#authors","Authors:","ul.authors");
-                    infoChange("div#icon","","div.info");
-                
+                    infoChange("div.bar_container", "", "div.bar");
+                    infoChange("ul#authors", "Authors:", "ul.authors");
+                    infoChange("div#icon", "", "div.info");
+                    $("div#figure_selected img").attr("src", "crops/" + imgUrl); 
+                    var detailFig = "";
+                    var findXml = $("div#figure_caption").html($(one).find("url:contains('" + imgUrl + "')")); 
+                    
+                    // findXml.siblings("caption").html());
+
+                    findXml.parents("figure").each(function () {
+                        detailFig += "<li><img src='crops/" + $(this).find("url").html() + "'></li>"
+                        // if ($(this).find("url").html() == imgUrl) {
+                        //     detailFig += "<li id='list_selected'><img src='crops/" + $(this).find("url").html() + "'></li>"
+                        // } else {
+                            
+                        // }
+
+                    });
+
+                    $("div#figure_list").html(detailFig);
+
                 });
+                //-----detail page img change------------------------
 
                 $("section#detail div.back").on("click", function () {
                     $("div.back").animate({
@@ -280,18 +299,18 @@ function cardMaker() {
             error: function () {
                 alert('Fail');
             }
-                //ajax end
+            //ajax end
         });
-            //---jquery end
+        //---jquery end
     });
 }
+
 function getImgType(img) {
     console.log(img.replace(/\./gi, "`"));
     var type = "";
     firebase.database().ref('/' + img.replace(/\./gi, "`") + '/').get().then(function (snapshot) {
-        type = snapshot.val()+"";
+        type = snapshot.val() + "";
         console.log(type);
     });
     return type;
 }
-
