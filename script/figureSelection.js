@@ -21,7 +21,23 @@ function getFigureType(figUrl) {
     return fd.get(figUrl)+"";
 }
 
-function getFigureWallList() {
+function getFigureTypeList(type) {
+    if(type == "AI") {
+        return getFigureAIList();
+    }
+    var figureWallList = new Array();
+    var cc = 50;
+    for(var key in json) { 
+        if (cc < 0 ) break;
+        if(json[key] == type) { 
+            figureWallList.push(key.replace(/~/gi, "."));
+            cc--;
+        }
+    } 
+    return figureWallList;
+}
+
+function getFigureAIList() {
     var figureWallList = new Array();
     var curData = getAllData();
     var fkey = curData.getfirst();
@@ -793,12 +809,6 @@ var json = {
     "ThermoVR- Exploring Integrated Thermal Haptic Feedback with Head Mounted Displays_crop_3~jpg": "table",
     "ThermoVR- Exploring Integrated Thermal Haptic Feedback with Head Mounted Displays_crop_4~jpg": "picture",
     "ThermoVR- Exploring Integrated Thermal Haptic Feedback with Head Mounted Displays_crop_5~jpg": "table",
-    "Understanding Low Vision People’s Visual Perception on Commercial Augmented Reality Glasses_crop_1~jpg": "table",
-    "Understanding Low Vision People’s Visual Perception on Commercial Augmented Reality Glasses_crop_4~jpg": "picture",
-    "Understanding Low Vision People’s Visual Perception on Commercial Augmented Reality Glasses_crop_5~jpg": "table",
-    "Understanding Low Vision People’s Visual Perception on Commercial Augmented Reality Glasses_crop_6~jpg": "picture",
-    "Understanding Low Vision People’s Visual Perception on Commercial Augmented Reality Glasses_crop_7~jpg": "chart",
-    "Understanding Low Vision People’s Visual Perception on Commercial Augmented Reality Glasses_crop_8~jpg": "picture",
     "Using Presence Questionnaires in Virtual Reality_crop_1~jpg": "diagram",
     "Using Presence Questionnaires in Virtual Reality_crop_2~jpg": "graphic",
     "Using Presence Questionnaires in Virtual Reality_crop_3~jpg": "graphic",
