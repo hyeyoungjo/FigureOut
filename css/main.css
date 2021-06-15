@@ -299,7 +299,7 @@ section.main {
   background: white;
   position: absolute;
   z-index: 50;
-  padding-bottom: 120px;
+  padding-bottom: 50px;
 }
 section.main div {
   font-size: 18px;
@@ -309,6 +309,11 @@ section.main div.tags *,
 section.main div.results * {
   font-size: inherit;
 
+}
+section.main div.results i{
+  font-style: normal;
+  color: #f95700;
+  margin-left: 5px;
 }
 section.main div.tags {
 }
@@ -360,6 +365,35 @@ section.main div.tags ul li span {
   top: 50%;
   transform: translateY(-50%);
 }
+section.main div.page_move{
+  margin-top: 50px;
+width: 100%;
+display: flex;
+justify-content: center;
+}
+section.main div.page_move p{
+  height: 40px;
+ width: 40px;
+  display: flex;
+  border: 1px solid #f95700;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  background: #fff;
+  color: #f95700;
+  margin: 5px;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: 0.2s;
+}
+section.main div.page_move p.active,
+section.main div.page_move p:hover{
+background: #f95700;
+color: #fff;
+}
 section.main div.results {
   width: 100%;
   padding-top: 50px;
@@ -404,7 +438,7 @@ section.main div.card {
   position: relative;
   transition: 0.2s;
 }
-section.main div.card.active figure{
+section.main div.card figure.active{
   border: 1px solid #f95700;
 }
 section.main div.card.scale{

@@ -33,6 +33,7 @@ function cardMaker() {
             complete: function () {},
             success: function (one) {
                 //list articles
+                
                 $(one).find("article").each(function () {
                     $totalItem++;
                 });
@@ -105,8 +106,8 @@ function cardMaker() {
                         console.log(index);
                     }
                 });
-
-                $("section#mainContainer").append($figList);
+                var $pageGet= "<div class='page_move'><p class='active'>1</p><p>2</p><p>3</p><p>4</p><p>5</p><p>6</p><p>7</p><p>8</p><p>9</p><p>10</p></div>"
+                $("section#mainContainer").append($figList).append($pageGet);
                 $("section#mainContainer div.tags i").html($totalItem - 1);
 
                 //figures jquery
@@ -130,7 +131,6 @@ function cardMaker() {
                         height: 0
                     });
                 });
-
 
                 var imgSrc = "";
                 var imgUrl = "";
@@ -219,7 +219,7 @@ function cardMaker() {
 
                 //transition---------------
                 var $scrollTop = 0;
-                $("div.card").on("click", function () {
+                $("div.card figure").on("click", function () {
                     $scrollTop = $(window).scrollTop();
                     $(this).addClass("active");
                     $("div.card").not($(this)).removeClass("active");
@@ -242,7 +242,7 @@ function cardMaker() {
                         top: "120px"
                     }, 300);
 
-                    imgUrl = $(this).find("figure").find("p.img").text();
+                    imgUrl = $(this).find("p.img").text();
                     console.log(imgUrl);
                     updateUserData(imgUrl);
 
