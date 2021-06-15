@@ -99,7 +99,7 @@ $(function () {
             });
 
             $("section#mainContainer").append($figList);
-            $("section#mainContainer div.tags i").html($totalItem);
+            $("section#mainContainer div.tags i").html($totalItem-1);
 
 
             //figures jquery
@@ -179,12 +179,13 @@ $(function () {
                 var findCaption=$(one).find("url:contains('"+thisSrc.replace("crops/", "")+"')").siblings("caption").html();
                 $("div.img").html("<img src='" + thisSrc + "'>");
                coverClick(0,200,"-100%");
-               $("div.description_area h3").html(findItem.find("data>title").html())
-               $("div.description_area ul.authors").html(findItem.find("data>authors").html())
+               $("div.description_area h3").html(findItem.find("data>title").html());
+               $("div.description_area ul.authors").html(findItem.find("data>authors").html());
+               $("div.description_area span.conf").html(findItem.find("data>venue").html());
                $("p.des").html(findCaption);
             });
             $("div.buttons li.back").on("click", function () {
-                coverClick("-100%",200,0)
+                coverClick("-110%",200,0)
             })
             //search---------
 
@@ -213,7 +214,6 @@ $(function () {
                 $("div.back").delay(1200).animate({
                     top: 0
                 }, 300);
-
 
                 imgUrl = $(this).find("figure").find("p.img").text();
                 console.log(imgUrl); // imgurl 아닌듯 
