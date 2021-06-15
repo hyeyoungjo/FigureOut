@@ -50,12 +50,11 @@ function cardMaker() {
                         var $maxScore = 0;
                         $(this).find("url").each(function (i) {
                             var $img = $(this).html() + "";
-                            var $imgType = getFigureType($img.replace(/\./gi, "`"));
+                            var $imgType = getFigureType($img.replace(/\./gi, "~"));
                             var $imgScore = getUserData($imgType);
 
                             if ($imgScore * 1 > $maxScore * 1) {
                                 $thumbN = i;
-                                console.log($imgScore + "is lager than " + $maxScore);
                                 var $thumbUrl = $storagePath + "" + $(this).find("url").eq($thumbN).html();
                                 $mainThumb = "<p class='img' style='background-image:url(" + $thumbUrl + ")'>" + $(this).find("url").eq($thumbN).html() + "</p>";
                                 $maxScore = $imgScore;
@@ -64,6 +63,7 @@ function cardMaker() {
 
                         var $thumbUrl = $storagePath + "" + $(this).find("url").eq($thumbN).html();
                         $mainThumb = "<p class='img' style='background-image:url(" + $thumbUrl + ")'>" + $(this).find("url").eq($thumbN).html() + "</p>";
+                        console.log("fig type:" + getFigureType($(this).find("url").eq($thumbN).html().replace(/\./gi, "~"))+ " ");
 
                         // info
                         var $venue = "<span class='conf'>" + $(this).find("venue").html() + "</span>";
@@ -150,14 +150,23 @@ function cardMaker() {
                 var $coverUrl = "";
 
                 function callFigures(keyword) {
-                    $(one).find("article:contains(" + keyword + ")").find("url").each(function (i) {
-                        $coverUrl = $(this).html();
+                    var wallList = getFigureWallList();
+                    for (var i in wallList) {
                         if (i % 2 == 0) {
-                            $coverEven += "<img src='crops/" + $coverUrl + "'>"
+                            $coverEven += "<img src='crops/" + wallList[i] + "'>"
                         } else {
-                            $coverOdd += "<img src='crops/" + $coverUrl + "'>"
+                            $coverOdd += "<img src='crops/" + wallList[i] + "'>"
                         }
-                    });
+                    }
+                    // $(one).find("article:contains(" + keyword + ")").find("url").each(function (i) {
+
+                    //     $coverUrl = $(this).html();
+                    //     if (i % 2 == 0) {
+                    //         $coverEven += "<img src='crops/" + $coverUrl + "'>"
+                    //     } else {
+                    //         $coverOdd += "<img src='crops/" + $coverUrl + "'>"
+                    //     }
+                    // });
                     $("div.container.list_top").html($coverEven);
                     $("div.container.list_bottom").html($coverOdd);
                 }
@@ -193,7 +202,7 @@ function cardMaker() {
                     $("div.description_area span.conf").html(findItem.find("data>venue").html());
                     $("p.des").html(findCaption);
 
-                    imgUrl = thisSrc.replace("crops/", "").replace(/\./gi, "`");
+                    imgUrl = thisSrc.replace("crops/", "").replace(/\./gi, "~");
                     console.log(imgUrl); 
                     updateUserData(imgUrl);
                 });
@@ -306,9 +315,9 @@ function cardMaker() {
 }
 
 function getImgType(img) {
-    console.log(img.replace(/\./gi, "`"));
+    console.log(img.replace(/\./gi, "~"));
     var type = "";
-    firebase.database().ref('/' + img.replace(/\./gi, "`") + '/').get().then(function (snapshot) {
+    firebase.database().ref('/' + img.replace(/\./gi, "~") + '/').get().then(function (snapshot) {
         type = snapshot.val() + "";
         console.log(type);
     });
