@@ -1,0 +1,190 @@
+<!doctype html>
+
+<html>
+
+<head>
+    <title>Project1</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/card_detail.css">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+
+    <script src="https://www.gstatic.com/firebasejs/8.6.5/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.5/firebase-database.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.5/firebase-analytics.js"></script>
+    <script src="firebase.js"></script>
+
+    <!-- <script src="script/load.js"></script> -->
+    <script src="script/main.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <nav>
+            <div class="logo"></div>
+
+            <div class="nav_tab">
+                <a href="">Home</a>
+                <a href="">Recommendation</a>
+                <a href="">Community</a>
+            </div>
+            <div class="search">
+                <input type="text" name="search" placeholder="search">
+                <p></p>
+            </div>
+            <div class="icons">
+                <p></p>
+                <p></p>
+                <p></p>
+            </div>
+        </nav>
+        <section class="cover">
+            <ul class="mt_50">
+                <li class="pub active">publications</li>
+                <li class="aut">authors</li>
+                <li class="fil">Research Fields</li>
+            </ul>
+            <!--MINHA-->
+            <article class="selected_fig">
+                <!--
+                <p class="prev">&#60;</p>
+                <p class="next">&#62;</p>
+                -->
+                <div class="img">
+                    <img src="img/1_1.png">
+                </div>
+
+                <div class="trans_cover">
+                </div>
+
+                <div class="description_area" style="color: white;">
+                    <info_area>
+                        <div class="buttons">
+                            <img src="img/C_back.png">
+                            <img src="img/C_thumb.png">
+                            <img src="img/C_cart.png">
+                        </div>
+                        <div class="info">
+                            <span class="conf">CHI '17</span>
+                            <span class="cite"><span></span>7</span>
+                            <span class="down"><span></span>122</span>
+                            <span class="graph"><span></span>graph</span>
+                            <span class="figure"><span></span>figure</span>
+                        </div>
+                        <div class="caption">
+                            <h3 style="line-height: 120%;">Lorem ipsum dolor sit amet, consectetur adipiscing elit adipiscing elit</h2>
+                                <ul class="authors">
+                                    <li>author1,</li>
+                                    <li>author2,</li>
+                                    <li>author3</li>
+                                </ul>
+                                <span class="section">Result</span>
+                                <p class="fig_des">
+                                    <span class="sentence" style="line-height: 130%;">
+                                        Figure 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor eiusmod tempor eiusmod tempor incididunt ut
+                                    </span>
+                                </p>
+                        </div>
+                    </info_area>
+                </div>
+
+
+
+            </article>
+        </section>
+        <section class="main" id="mainContainer">
+            <div class="tags mt_80">
+                <ul>
+                    <b>Total <i>100</i> Results for : </b>
+                    <li class="active"><span>+</span>VR</li>
+                    <li class="active"><span>+</span>AR</li>
+                    <li class="active"><span>+</span>XR</li>
+                    <li class=""><span>+</span>system</li>
+                    <li class=""><span>+</span>technology</li>
+                    <li class=""><span>+</span>playing</li>
+                    <li class=""><span>+</span>AI</li>
+                    <li class=""><span>+</span>ML</li>
+                </ul>
+            </div>
+            <div class="results">
+                <span>Search Results</span>
+                <ul>
+                    Per Page :
+                    <li class="">10</li>
+                    <li class="active">20</li>
+                    <li class="">30</li>
+                </ul>
+            </div>
+            <div class="card">
+                <figure>
+                    <p class="img"></p>
+                    <figcaption>
+                        <div class="bar">
+                            <span id="background" style="width:15%">background</span>
+                            <span id="method" style="width:15%">method</span>
+                            <span id="result" style="width:30%">result</span>
+                            <span id="discussion" style="width:35%">discussion</span>
+                            <span id="conclusion" style="width:10%">conclusion</span>
+                        </div>
+                        <div class="info">
+                            <span class="conf">CHI '17</span>
+                            <span class="cite"><span></span>7</span>
+                            <span class="down"><span></span>122</span>
+                            <span class="graph"><span></span>graph</span>
+                            <span class="figure"><span></span>figure</span>
+                        </div>
+                        <div class="caption">
+                            <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h2>
+                                <ul class="authors">
+                                    <li>author1,</li>
+                                    <li>author2,</li>
+                                    <li>author3,</li>
+                                </ul>
+                                <span class="abstract">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut
+                                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                                    ullamco
+                                    laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                                    reprehenderit in
+                                    voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+                                    cupidatat
+                                    non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                </span>
+                                <p class="fig_des">
+                                    <span>◄</span>
+                                    <span>
+                                        Figure 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                                        eiusmod tempor
+                                        incididunt ut
+                                    </span>
+                                </p>
+                        </div>
+                        <div class="figures">
+                            <img src="img/1_1.png" alt="figure 1">
+                            <img src="img/1_2.png" alt="figure 2">
+                            <img src="img/1_3.jpeg" alt="figure 3">
+                            <img src="img/1_4.png" alt="figure 4">
+                            <img src="img/1_5.png" alt="figure 5">
+                        </div>
+                    </figcaption>
+
+                </figure>
+                <aside>
+                    <span class="thumb"></span>
+                    <span class="cart"></span>
+                </aside>
+            </div>
+            <<<<<<< Updated upstream=======>>>>>>> Stashed changes
+        </section>
+    </div>
+    <script src="cardFactory.js"></script>
+
+</body>
+
+</html>
