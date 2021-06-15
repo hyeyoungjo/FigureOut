@@ -1,79 +1,64 @@
-$(function () {
-    //-----jquery start
-    $.ajax({
-        url: 'data/one.xml',
-        type: 'GET',
-        dataType: 'xml',
-        beforeSend: function () {},
-        complete: function () {},
-        success: function (one) {
+// var $storagePath = "https://storage.cloud.google.com/staging.designproject1-f2b81.appspot.com/";
+var $storagePath = "crops/";
+var $articleIdx = 0;
+var $figList = "";
+var $info;
+var $caption;
 
-            // var $storagePath = "https://storage.cloud.google.com/staging.designproject1-f2b81.appspot.com/";
-            var $storagePath = "crops/";
-            var $articleIdx = 0;
-            var $figList = "";
-            var $info;
-            var $caption;
+var $bar;
 
-            var $bar;
+var $fig;
+var $figCap;
 
-            var $fig;
-            var $figCap;
+var $mainThumb;
+var $aside = "<aside><span class='thumb'></span><span class='cart'></span></aside>";
 
-            var $mainThumb;
-            var $aside = "<aside><span class='thumb'></span><span class='cart'></span></aside>";
+var $pageN = 1;
+var $cardPerPage = 10;
+var $totalItem = 0;
 
-            var $pageN = 1;
-            var $cardPerPage = 10;
-            var $totalItem = 0;
+setTimeout(function () {
+    cardMaker()
+}, 1000);
 
-            //list articles
-            $(one).find("article").each(function () {
-                $totalItem++;
-            });
-            $(one).find("article").each(function (index) {
-                if (index < ($pageN - 1) * $cardPerPage) {
-                    return;
-                } else if (index < $pageN * $cardPerPage) {
-                    var $secBar = "";
-                    var $figItem = "";
-                    $articleIdx = $(this).index();
-                    $figCap = $(this).find("caption").html();
+function cardMaker() {
+    $(function () {
+        //-----jquery start
+        $.ajax({
+            url: 'data/one.xml',
+            type: 'GET',
+            dataType: 'xml',
+            beforeSend: function () {},
+            complete: function () {},
+            success: function (one) {
+                //list articles
+                $(one).find("article").each(function () {
+                    $totalItem++;
+                });
+                $(one).find("article").each(function (index) {
+                    if (index < ($pageN - 1) * $cardPerPage) {
+                        return;
+                    } else if (index < $pageN * $cardPerPage) {
+                        var $secBar = "";
+                        var $figItem = "";
+                        $articleIdx = $(this).index();
+                        $figCap = $(this).find("caption").html();
 
-                    // Thumbnail
-                    var $thumbN = 0;
-                    var $maxScore = 0;
-                    $(this).find("url").each(function (i) {
-                        var $img = $(this).html() + "";
-                        var $type = getImgType($img);
-                        var $imgScore = getUserData($type);
-                        console.log($imgScore);
-                        console.log(getUserData(getImgType($img)));
-                        if ($imgScore > $maxScore) {
-                            $maxScore = $imgScore;
-                            $thumbN = i;
-                        }
-                    });
-                    var $thumbUrl = $storagePath + "" + $(this).find("url").eq($thumbN).html();
-                    $mainThumb = "<p class='img' style='background-image:url(" + $thumbUrl + ")'>" + $(this).find("url").eq(0).html() + "</p>";
+                        // Thumbnail
+                        var $thumbN = 0;
+                        var $maxScore = 0;
+                        $(this).find("url").each(function (i) {
+                            var $img = $(this).html() + "";
+                            var $imgType = getFigureType($img.replace(/\./gi, "`"));
+                            var $imgScore = getUserData($imgType);
 
-                    // info
-                    var $venue = "<span class='conf'>" + $(this).find("venue").html() + "</span>";
-                    var $cite = "<span class='cite'><span></span>" + Math.round(Math.random() * 100 + 1) + "</span>";
-                    var $down = "<span class='down'><span></span>" + Math.round(Math.random() * 100 + 1) + "</span>";
-                    $info = "<div class='info'>" + $venue + $cite + $down + "</div>"
-
-                    // div.caption
-                    var $title = "<h3>" + $(this).find("data>title").html() + "</h3>";
-                    var $authors = "<ul class='authors'>" + $(this).find("authors").html() + "</ul>";
-                    var $abstract = "<span class='abstract'>" + $(this).find("abstract").html() + "</span>";
-                    var $figDes = "<p class='fig_des'><span>◄</span><span>" + $figCap + "</span></p>";
-                    $caption = "<div class='caption'>" + $title + $authors + $abstract + $figDes + "</div>";
-
-                    $(this).find("sections").find("section").each(function (i) {
-                        var $paperLength = 0;
-                        $(this).parents("sections").find("word_count").each(function () {
-                            $paperLength += Number($(this).html());
+                            if ($imgScore * 1 > $maxScore * 1) {
+                                $thumbN = i;
+                                console.log($imgScore + "is lager than " + $maxScore);
+                                var $thumbUrl = $storagePath + "" + $(this).find("url").eq($thumbN).html();
+                                $mainThumb = "<p class='img' style='background-image:url(" + $thumbUrl + ")'>" + $(this).find("url").eq($thumbN).html() + "</p>";
+                                $maxScore = $imgScore;
+                            }
                         });
 
                         var $thumbUrl = $storagePath + "" + $(this).find("url").eq($thumbN).html();
@@ -121,7 +106,7 @@ $(function () {
                 });
 
                 $("section#mainContainer").append($figList);
-                $("section#mainContainer div.tags i").html($totalItem-1);
+                $("section#mainContainer div.tags i").html($totalItem - 1);
 
                 //figures jquery
 
@@ -178,12 +163,13 @@ $(function () {
                 callFigures("");
                 //img Click---------
                 var $this;
-                function coverClick(coverTop, time, Num){
+
+                function coverClick(coverTop, time, Num) {
                     $("article.selected_fig").delay(100).animate({
                         top: coverTop
                     }, time);
                     $("article.all_figs>p").each(function (i) {
-                        $this=$(this);
+                        $this = $(this);
                         if (i == 0) {
                             $this.animate({
                                 left: Num
@@ -197,19 +183,19 @@ $(function () {
                 }
                 $("div.container>img").on("click", function () {
                     var thisSrc = $(this).attr("src");
-                    var findItem=$(one).find("article:contains('"+thisSrc.replace("crops/", "")+"')");
-                    var findCaption=$(one).find("url:contains('"+thisSrc.replace("crops/", "")+"')").siblings("caption").html();
+                    var findItem = $(one).find("article:contains('" + thisSrc.replace("crops/", "") + "')");
+                    var findCaption = $(one).find("url:contains('" + thisSrc.replace("crops/", "") + "')").siblings("caption").html();
                     $("div.img").html("<img src='" + thisSrc + "'>");
-                    coverClick(0,200,"-100%");
+                    coverClick(0, 200, "-100%");
                     $("div.description_area h3").html(findItem.find("data>title").html());
                     $("div.description_area ul.authors").html(findItem.find("data>authors").html());
                     $("div.description_area span.conf").html(findItem.find("data>venue").html());
                     $("p.des").html(findCaption);
                 });
                 $("div.buttons li.back").on("click", function () {
-                    coverClick("-110%",200,0)
+                    coverClick("-110%", 200, 0)
                 });
-            
+
                 //search---------
 
 
@@ -239,123 +225,57 @@ $(function () {
                     }, 300);
 
                     imgUrl = $(this).find("figure").find("p.img").text();
-                    console.log(imgUrl); 
+                    console.log(imgUrl);
                     updateUserData(imgUrl);
 
                     //detail infochange------
-                    function infoChange($to, $text, $item){
-                        $($to).html($text+$this.find($item).html())
+                    function infoChange($to, $text, $item) {
+                        $($to).html($text + $this.find($item).html())
                         return;
                     }
-                });
-                $("div.container.list_top").html($coverEven);
-                $("div.container.list_bottom").html($coverOdd);
-            }
-            //img Click---------
-            var $this;
-
-            function coverClick(coverTop, time, Num) {
-                $("article.selected_fig").delay(100).animate({
-                    top: coverTop
-                }, time);
-                $("article.all_figs>p").each(function (i) {
                     $this = $(this);
-                    if (i == 0) {
-                        $this.animate({
-                            left: Num
-                        }, time)
-                    } else {
-                        $this.animate({
-                            right: Num
-                        }, time)
-                    }
+                    infoChange("div#title h3", "", "h3");
+                    infoChange("div.bar_container", "", "div.bar");
+                    infoChange("ul#authors", "Authors:", "ul.authors");
+                    infoChange("div#icon", "", "div.info");
+                    $("div#figure_selected img").attr("src", "crops/" + imgUrl); 
+                    var detailFig = "";
+                    var findXml = $("div#figure_caption").html($(one).find("url:contains('" + imgUrl + "')")); 
+                    
+                    // findXml.siblings("caption").html());
+
+                    findXml.parents("figure").each(function () {
+                        detailFig += "<li><img src='crops/" + $(this).find("url").html() + "'></li>"
+                        // if ($(this).find("url").html() == imgUrl) {
+                        //     detailFig += "<li id='list_selected'><img src='crops/" + $(this).find("url").html() + "'></li>"
+                        // } else {
+                            
+                        // }
+
+                    });
+
+                    $("div#figure_list").html(detailFig);
+
                 });
-            }
-            $("div.container>img").on("click", function () {
-                var thisSrc = $(this).attr("src");
-                var findItem = $(one).find("article:contains('" + thisSrc.replace("crops/", "") + "')");
-                var findCaption = $(one).find("url:contains('" + thisSrc.replace("crops/", "") + "')").siblings("caption").html();
-                $("div.img").html("<img src='" + thisSrc + "'>");
-                coverClick(0, 200, "-100%");
-                $("div.description_area h3").html(findItem.find("data>title").html());
-                $("div.description_area ul.authors").html(findItem.find("data>authors").html());
-                $("div.description_area span.conf").html(findItem.find("data>venue").html());
-                $("p.des").html(findCaption);
-            });
-            $("div.buttons li.back").on("click", function () {
-                coverClick("-110%", 200, 0)
-            })
+                //-----detail page img change------------------------
 
-            //search---------
+                $("section#detail div.back").on("click", function () {
+                    $("div.back").animate({
+                        top: "-50vh"
+                    }, 300)
 
+                    $("section#detail").delay(200).animate({
+                        left: "150%"
+                    }, 300);
 
-            //transition---------------
-            var $scrollTop = 0;
-            var $main = "";
-            $("div.card").on("click", function () {
-                $scrollTop = $(window).scrollTop();
-                $(this).addClass("active");
-                $("div.card").not($(this)).removeClass("active");
+                    $("nav").delay(200).animate({
+                        top: "-100%"
+                    }, 300).delay(400).animate({
+                        top: 0
+                    }, 300);
 
-                $("nav").animate({
-                    top: "-100%"
-                }, 300).delay(400).animate({
-                    top: 0
-                }, 300);
-
-                $("section.cover, section.main").delay(200).animate({
-                    left: "-100%"
-                }, 300);
-
-                $("section#detail").delay(1000).animate({
-                    left: "50%"
-                }, 300);
-
-                $("div.back").delay(1200).animate({
-                    top: 0
-                }, 300);
-
-                imgUrl = $(this).find("figure").find("p.img").text();
-                console.log(imgUrl); // imgurl 아닌듯 
-                updateUserData(imgUrl);
-
-                //detail infochange------
-                function infoChange($to, $text, $item) {
-                    $($to).html($text + $this.find($item).html())
-                    return;
-                }
-                $this = $(this);
-                infoChange("div#title h3", "", "h3");
-                infoChange("div.bar_container", "", "div.bar");
-                infoChange("ul#authors", "Authors:", "ul.authors");
-                infoChange("div#icon", "", "div.info");
-                $main = $(this).find("p.img").css('background-image').replace(/^url\(['"](.+)['"]\)/, '$1');
-                $("div#figure_selected img").attr("src", $main);
-    
-            });
-
-            $("section#detail div.back").on("click", function () {
-                $("div.back").animate({
-                    top: "-50vh"
-                }, 300)
-
-                $("section#detail").delay(200).animate({
-                    left: "150%"
-                }, 300);
-
-                $("nav").delay(200).animate({
-                    top: "-100%"
-                }, 300).delay(400).animate({
-                    top: 0
-                }, 300);
-
-                $("section.cover, section.main").delay(600).animate({
-                    left: 0
-                }, 300);
-
-                setTimeout(function () {
-                    $("html, body").animate({
-                        scrollTop: $scrollTop
+                    $("section.cover, section.main").delay(600).animate({
+                        left: 0
                     }, 300);
 
                     setTimeout(function () {
@@ -374,11 +294,12 @@ $(function () {
             error: function () {
                 alert('Fail');
             }
-                //ajax end
+            //ajax end
         });
-            //---jquery end
+        //---jquery end
     });
 }
+
 function getImgType(img) {
     console.log(img.replace(/\./gi, "`"));
     var type = "";
@@ -388,4 +309,3 @@ function getImgType(img) {
     });
     return type;
 }
-
