@@ -187,6 +187,7 @@ $(function () {
             $("div.buttons li.back").on("click", function () {
                 coverClick("-110%",200,0)
             })
+        
             //search---------
 
 
@@ -219,6 +220,17 @@ $(function () {
                 console.log(imgUrl); // imgurl 아닌듯 
                 updateUserData(imgUrl);
 
+                //detail infochange------
+                function infoChange($to, $text, $item){
+                    $($to).html($text+$this.find($item).html())
+                    return;
+                }
+                $this=$(this);
+                infoChange("div#title h3", "", "h3");
+                infoChange("div.bar_container","", "div.bar");
+                infoChange("ul#authors","Authors:","ul.authors");
+                infoChange("div#icon","","div.info");
+               
             });
 
             $("section#detail div.back").on("click", function () {
