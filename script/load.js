@@ -74,67 +74,6 @@ $(function () {
                         var $paperLength = 0;
                         $(this).parents("sections").find("word_count").each(function () {
                             $paperLength += Number($(this).html());
-// var $storagePath = "https://storage.cloud.google.com/staging.designproject1-f2b81.appspot.com/";
-var $storagePath = "crops/";
-var $articleIdx = 0;
-var $figList = "";
-var $info;
-var $caption;
-
-var $bar;
-
-var $fig;
-var $figCap;
-
-var $mainThumb;
-var $aside = "<aside><span class='thumb'></span><span class='cart'></span></aside>";
-
-var $pageN = 1;
-var $cardPerPage = 10;
-var $totalItem = 0;
-
-setTimeout(function() {
-    cardMaker()
-}, 1000);
-
-function cardMaker() {
-    $(function () {
-        //-----jquery start
-        $.ajax({
-            url: 'data/one.xml',
-            type: 'GET',
-            dataType: 'xml',
-            beforeSend: function () {},
-            complete: function () {},
-            success: function (one) {
-                //list articles
-                $(one).find("article").each(function () {
-                    $totalItem++;
-                });
-                $(one).find("article").each(function (index) {
-                    if (index < ($pageN - 1) * $cardPerPage) {
-                        return;
-                    } else if (index < $pageN * $cardPerPage) {
-                        var $secBar = "";
-                        var $figItem = "";
-                        $articleIdx = $(this).index();
-                        $figCap = $(this).find("caption").html();
-
-                        // Thumbnail
-                        var $thumbN = 0;
-                        var $maxScore = 0;
-                        $(this).find("url").each(function(i){
-                            var $img =  $(this).html() + "";
-                            var $imgType = getFigureType ( $img.replace(/\./gi, "`") );
-                            var $imgScore = getUserData ( $imgType );
-
-                            if ($imgScore*1 > $maxScore*1) {
-                                $thumbN = i;
-                                console.log($imgScore + "is lager than " + $maxScore);
-                                var $thumbUrl = $storagePath + "" + $(this).find("url").eq($thumbN).html();
-                                $mainThumb = "<p class='img' style='background-image:url(" + $thumbUrl + ")'>" + $(this).find("url").eq($thumbN).html() + "</p>";
-                                $maxScore = $imgScore;
-                            }
                         });
 
                         var $thumbUrl = $storagePath + "" + $(this).find("url").eq($thumbN).html();
@@ -312,7 +251,6 @@ function cardMaker() {
                 $("div.container.list_top").html($coverEven);
                 $("div.container.list_bottom").html($coverOdd);
             }
-            callFigures("");
             //img Click---------
             var $this;
 
@@ -419,7 +357,18 @@ function cardMaker() {
                     $("html, body").animate({
                         scrollTop: $scrollTop
                     }, 300);
-                    },1000);
+
+                    setTimeout(function () {
+                        $("html, body").animate({
+                            scrollTop: $scrollTop
+                        }, 300);
+
+                        setTimeout(function () {
+                            $("html, body").animate({
+                                scrollTop: $scrollTop
+                            }, 300);
+                        }, 1000);
+                    });
                 });
             },
             error: function () {
