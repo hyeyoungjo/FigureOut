@@ -26,14 +26,26 @@ $(function () {
         top: $("section.cover").outerHeight()
     });
 
-    $("div#right").on("scroll", function () {
+$("div#right").on("scroll", function(){
+   
+    $("div#arrow").css("top", $sliderTop);
+})
+$("div.classify span").on("click", function(){
+    var $coverEven = "";
+    var $coverOdd = "";
+    var wallList = getFigureTypeList( ($(this).attr("class")+"").replace(" active", "") );
+    for (var i in wallList) {
+        if (i % 2 == 0) {
+            $coverEven += "<img src='crops/" + wallList[i] + "'>"
+        } else {
+            $coverOdd += "<img src='crops/" + wallList[i] + "'>"
+        }
+    }
+    $("div.container.list_top").html($coverEven);
+    $("div.container.list_bottom").html($coverOdd);
 
-        $("div#arrow").css("top", $sliderTop);
-    });
-
-    $("div.classify span").on("click", function () {
-        $(this).addClass("active");
-        $("div.classify span").not($(this)).removeClass("active");
-    });
+    $(this).addClass("active");
+    $("div.classify span").not($(this)).removeClass("active");
+})
     //-----jquery end--------
 });

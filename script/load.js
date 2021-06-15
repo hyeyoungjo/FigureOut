@@ -20,7 +20,7 @@ var $totalItem = 0;
 setTimeout(function() {
     cardMaker();
     
-}, 1000);
+}, 1200);
 
 function cardMaker() {
     $(function () {
@@ -150,7 +150,7 @@ function cardMaker() {
                 var $coverUrl = "";
 
                 function callFigures(keyword) {
-                    var wallList = getFigureWallList();
+                    var wallList = getFigureAIList();
                     for (var i in wallList) {
                         if (i % 2 == 0) {
                             $coverEven += "<img src='crops/" + wallList[i] + "'>"
@@ -158,15 +158,6 @@ function cardMaker() {
                             $coverOdd += "<img src='crops/" + wallList[i] + "'>"
                         }
                     }
-                    // $(one).find("article:contains(" + keyword + ")").find("url").each(function (i) {
-
-                    //     $coverUrl = $(this).html();
-                    //     if (i % 2 == 0) {
-                    //         $coverEven += "<img src='crops/" + $coverUrl + "'>"
-                    //     } else {
-                    //         $coverOdd += "<img src='crops/" + $coverUrl + "'>"
-                    //     }
-                    // });
                     $("div.container.list_top").html($coverEven);
                     $("div.container.list_bottom").html($coverOdd);
                 }

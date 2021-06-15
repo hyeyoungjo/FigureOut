@@ -215,8 +215,14 @@ section.cover article.all_figs div.classify span.chart{
 section.cover article.all_figs div.classify span.human{
   background-image: url("../img/F_5_unactive.png");
 }
-section.cover article.all_figs div.classify span.image{
+section.cover article.all_figs div.classify span.graphic{
   background-image: url("../img/F_6_unactive.png");
+}
+section.cover article.all_figs div.classify span.picture{
+  background-image: url("../img/F_7_unactive.png");
+}
+section.cover article.all_figs div.classify span.diagram{
+  background-image: url("../img/F_8_unactive.png");
 }
 section.cover article.all_figs div.classify span.AI.active{
   background-image: url("../img/F_1_active.png");
@@ -233,8 +239,14 @@ section.cover article.all_figs div.classify span.chart.active{
 section.cover article.all_figs div.classify span.human.active{
   background-image: url("../img/F_5_active.png");
 }
-section.cover article.all_figs div.classify span.image.active{
+section.cover article.all_figs div.classify span.graphic.active{
   background-image: url("../img/F_6_active.png");
+}
+section.cover article.all_figs div.classify span.picture.active{
+  background-image: url("../img/F_7_active.png");
+}
+section.cover article.all_figs div.classify span.diagram.active{
+  background-image: url("../img/F_8_active.png");
 }
 
 section.cover article.all_figs>p {
