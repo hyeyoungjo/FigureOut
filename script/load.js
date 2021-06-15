@@ -174,6 +174,29 @@ function cardMaker() {
                         $("div.container.list_bottom").html($coverOdd);
                     }
                     callFigures("");
+                    
+                    $("div.classify span").on("click", function(){
+                        var $coverEven = "";
+                        var $coverOdd = "";
+                        var wallList = getFigureTypeList( ($(this).attr("class")+"").replace(" active", "") );
+                        for (var i in wallList) {
+                            if (i % 2 == 0) {
+                                $coverEven += "<img src='crops/" + wallList[i] + "'>"
+                            } else {
+                                $coverOdd += "<img src='crops/" + wallList[i] + "'>"
+                            }
+                        }
+                        $("div.container.list_top").html($coverEven);
+                        $("div.container.list_bottom").html($coverOdd);
+                    
+                        $(this).addClass("active");
+                        $("div.classify span").not($(this)).removeClass("active");
+                        addTCL();
+                    })
+                }
+                
+                addTCL();
+                function addTCL(){
                     //img Click---------
                     var $this;
 
