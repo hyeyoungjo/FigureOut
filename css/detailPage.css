@@ -143,6 +143,7 @@ section#detail div.back:hover{
 .paper_info #subsection div#icon span.cite,
 .paper_info #subsection div#icon span.down,
 .paper_info #subsection div#icon span.graph {
+  position: relative;
   font-size: 16px;
   height: 16px;
   padding-left: 26px;
@@ -152,7 +153,9 @@ section#detail div.back:hover{
 .paper_info #subsection div#icon span span{
   position: absolute;
   left: 0;
+  top: 0;
   height: 16px;
+  width: 16px;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left center;
@@ -171,12 +174,6 @@ section#detail div.back:hover{
 
 .paper_info #subsection div#icon span.graph span{
   background-image: url("../img/I_Graph.png");
-}
-
-.paper_info #subsection div#icon span img span{
-  width: 18px;
-  height: 18px;
-  margin-right: 8px;
 }
 
 /* LOWER PART */
