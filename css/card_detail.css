@@ -1,0 +1,641 @@
+@charset 'utf-8';
+
+div.container {}
+
+nav {
+    background: #F95700;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 5px 10px;
+}
+
+nav div {
+    height: 100%;
+}
+
+nav div.logo {
+    margin-top: 10px;
+    width: 70px;
+    background: url("../img/logo.png") center no-repeat;
+    background-size: contain;
+    cursor: pointer;
+}
+
+nav div.nav_tab {
+    width: 23%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav div.nav_tab a {
+    color: white;
+    text-transform: uppercase;
+    font-size: 16px;
+    transition: 0.2s;
+}
+
+nav div.nav_tab a:hover {
+    color: #9c3d09;
+    ;
+}
+
+
+nav div.search {
+    width: 45%;
+    height: 85%;
+    position: relative;
+}
+
+nav div.search input {
+    width: 100%;
+    height: 100%;
+    border-radius: 17px;
+    border: none;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    color: #F95700;
+}
+
+nav div.search input::placeholder {
+    color: #f95700;
+    text-transform: uppercase;
+}
+
+nav div.search p {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: url("../img/search.png") center no-repeat;
+    background-size: contain;
+    cursor: pointer;
+}
+
+nav div.icons {
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav div.icons p {
+    width: 80px;
+    height: 90%;
+    background: center no-repeat;
+    background-size: contain;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+nav div.icons p:hover {
+    opacity: 0.6;
+}
+
+nav div.icons p:nth-of-type(1) {
+    background-image: url("../img/I_History.png");
+}
+
+nav div.icons p:nth-of-type(2) {
+    background-image: url("../img/I_Cart.png");
+}
+
+nav div.icons p:nth-of-type(3) {
+    background-image: url("../img/I_Profile2.png");
+}
+section.cover{}
+section.cover>ul {
+width: 100%;
+padding-left: 3%;
+border-bottom: 1px solid #ddd;
+}
+
+section.cover>ul li {
+    text-align: center;
+    font-size: 18px;
+    text-transform: capitalize;
+    padding: 30px;
+    padding-bottom: 13px;
+    color: #757575;
+    cursor: pointer;
+    transition: 0.2s;
+    margin: 0;
+    font-weight: bold;
+}
+
+section.cover>ul li.active,
+section.cover>ul li:hover {
+    color: #F95700;
+    border-bottom: 2px solid #f95700;
+}
+
+section.cover ul li.pub {}
+
+section.cover ul li.aut {}
+
+section.cover ul li.fil {}
+
+/* ---------------------------------------- card detail ----------------------------------------*/
+/* semi transparent background */
+section.cover article.selected_fig {
+    padding: 0;
+    width:100%;
+    height: 450px;
+    border-top: 1px solid #e9e9e9;
+    border-bottom: 1px solid #e9e9e9;
+    overflow: hidden;
+    background: rgba(0, 0, 0, 0.5);
+    position: relative;
+}
+
+section.cover article.selected_fig div.img {
+    height: 100%;
+    position: absolute;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    top: 0;
+    right: 40px;
+}
+
+section.cover article.selected_fig div.img img {
+    height: 100%;
+}
+
+section.cover article.selected_fig div.trans_cover {
+    height: 100%;
+    position: absolute;
+    width: 80%;
+    background: linear-gradient(to left, transparent, black);
+    left: 0;
+}
+
+section.cover article.selected_fig div.description_area {
+    width: 40%;
+    overflow: hidden;
+    position: absolute;
+    left: 40px;
+    bottom: 40px;
+}
+
+section.cover article.selected_fig div.description_area info_area div.buttons {
+    /* height: 100%; */
+    /* padding-top: 30px; */
+    /* padding-bottom: 30px; */
+    width: 100%;
+    /* position: absolute; */
+    top: 0;
+    right: 40px;
+    margin-bottom: 15px;
+}
+
+section.cover article.selected_fig div.description_area info_area div.buttons img{
+    height: 30px;
+    width: 30px;
+    margin-right: 7px;
+}
+
+section.cover article.selected_fig div.description_area info_area div.info>span {
+    color: white;
+    margin-right: 20px;
+    font-size: 13px;
+    text-align: right;
+}
+section.cover article.selected_fig div.description_area info_area div.info>span span {
+    height: 12px;
+    width: 12px;
+    margin-right: 7px;
+    margin-bottom: 1px;
+    vertical-align: middle;
+}
+
+section.cover article.selected_fig div.description_area info_area div.info span.conf {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+section.cover article.selected_fig div.description_area info_area div.info span.cite {
+    color: #4865FF;
+}
+
+section.cover article.selected_fig div.description_area info_area div.info span.cite span {
+    background: url("../img/cite.png") center no-repeat;
+    background-size: contain;
+}
+
+section.cover article.selected_fig div.description_area info_area div.info span.down {}
+
+section.cover article.selected_fig div.description_area info_area div.info span.down span {
+    background: url("../img/download.png") center no-repeat;
+    background-size: contain;
+}
+
+section.cover article.selected_fig div.description_area info_area div.info span.graph {}
+
+section.cover article.selected_fig div.description_area info_area div.info span.graph span {
+    background: url("../img/graph.png") center no-repeat;
+    background-size: contain;
+}
+
+section.cover article.selected_fig div.description_area info_area div.info span.figure {}
+
+section.cover article.selected_fig div.description_area info_area div.info span.figure span {
+    background: url("../img/figure.png") center no-repeat;
+    background-size: contain;
+}
+
+section.cover article.selected_fig div.description_area info_area div.caption {
+    width: 100%;
+    overflow: hidden;    
+    padding-top: 8px;
+}
+
+section.cover article.selected_fig div.description_area info_area div.caption h3 {
+    text-transform: none;
+}
+
+section.cover article.selected_fig div.description_area info_area div.caption ul {
+    margin-top: 1px;
+    text-transform: capitalize;
+}
+
+section.cover article.selected_fig div.description_area info_area div.caption ul li {
+    font-size: 13px;
+    margin-top: 8px;
+    margin-bottom: 30px;
+}
+
+section.cover article.selected_fig div.description_area info_area div.caption span.section {
+    height: 22px;
+    font-size: 13px;
+    line-height: 20px;
+    padding: 0 12px 0 12px;
+    border-radius: 11px;
+    text-align: center;
+    vertical-align: middle;    
+    color: white;
+    position: relative;
+    font-weight: bold;
+    background: cornflowerblue;
+    justify-content: center;
+    align-items: center;
+}
+
+section.cover article.selected_fig div.description_area info_area div.caption p.fig_des {
+    margin-top: 8px;
+}
+
+section.cover article.selected_fig div.description_area info_area div.caption p.fig_des span.sentence {
+    font-size: 13px;
+}
+
+/* ----------------------------------------               ----------------------------------------*/
+
+section.main {
+    width: 70%;
+    margin: 80px auto;
+}
+section.main div{
+    font-size: 18px;
+    width: 100%;
+}
+section.main div.tags *,
+section.main div.results *{
+    font-size: inherit;
+}
+section.main div.tags{}
+section.main div ul{}
+section.main div.tags ul{
+
+}
+section.main div.tags ul i{
+    font-style: normal;
+    font-weight: bold;
+    color: #F95700;
+    padding-left: 3px;
+}
+section.main div.tags ul b{
+float: left;
+}
+
+section.main div.tags ul li{
+    height: 30px;
+    font-size: 14px;
+    padding: 3px 10px 0 30px;
+    border: 1px solid #F95700;
+    border-radius: 15px;
+    text-align: center;
+    color: #F95700;
+    position: relative;
+    margin: -3px 4px 0 4px;
+float: right;
+cursor: pointer;
+}
+
+section.main div.tags ul li.active{
+float:left;
+padding: 3px 10px 0 10px;
+background: #F95700;
+color: #fff;
+}
+section.main div.tags ul li.active span{
+    display: none;
+}
+section.main div.tags ul li span{
+    width: 22px;
+    height: 22px;
+    border: 1px solid #F95700;
+    border-radius: 11px;
+    position: absolute;
+    text-align: center;
+    left: 4px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+section.main div.results{
+    width: 100%;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+section.main div.results span{
+}
+section.main div.results ul{
+    display: flex;
+    align-items: center;
+}
+section.main div.results ul li{
+    height: 30px;
+    font-size: 14px;
+    line-height: 14px;
+    width: 50px;
+    border-radius: 15px;
+    text-align: center;
+    color: #000;
+    position: relative;
+    font-weight: bold;
+    background: #eee;
+    margin: 0 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+section.main div.results ul li.active{
+    background: #F95700;
+    color: #fff;
+}
+
+section.main div.card {
+    margin-top: 40px;
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+section.main div.card figure {
+    width: 95%;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+}
+
+section.main div.card figure p.img {
+    width: 30%;
+    height: 100%;
+    float: left;
+    background: url("../img/1_1.png") center no-repeat;
+    background-size: cover;
+    cursor: pointer;
+    border-right: 1px solid #757575;
+}
+
+section.main div.card figure figcaption {
+    width: 70%;
+    height: 100%;
+    float: right;
+    padding: 12px 40px;
+    position: relative;
+}
+
+section.main div.card figure figcaption div.bar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+section.main div.card figure figcaption div.bar span {
+    font-size: 12px;
+    margin-right: 5px;
+    position: relative;
+    text-transform: capitalize;
+    padding-bottom: 5px;
+}
+section.main div.card figure figcaption div.bar span:after{
+    content:" ";
+    width: 100%;
+    height: 4px;
+    border-radius: 3px;
+    background: #000;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+section.main div.card figure figcaption div.bar span#background {
+    color: black;
+}
+section.main div.card figure figcaption div.bar span#background:after {
+    background:black;
+}
+
+section.main div.card figure figcaption div.bar span#method {
+    color:coral
+}
+section.main div.card figure figcaption div.bar span#method:after {
+   background: coral;
+}
+
+section.main div.card figure figcaption div.bar span#result {
+    color: cornflowerblue;
+}
+section.main div.card figure figcaption div.bar span#result:after {
+    background: cornflowerblue;
+}
+
+section.main div.card figure figcaption div.bar span#discussion {
+    color: #8ddd5c;
+}
+section.main div.card figure figcaption div.bar span#discussion:after {
+    background: #8ddd5c;
+}
+
+section.main div.card figure figcaption div.bar span#conclusion {
+    color: #a6a6a6;
+}
+section.main div.card figure figcaption div.bar span#conclusion:after {
+    background: #a6a6a6;
+}
+
+section.main div.card figure figcaption div.info {
+    width: 100%;
+    padding: 15px 0px 5px 0;
+}
+
+section.main div.card figure figcaption div.info>span {
+    height: 100%;
+    color: #a6a6a6;
+    margin-right: 20px;
+    font-size: 12px;
+    text-align: right;
+}
+section.main div.card figure figcaption div.info>span span{
+    height: 9px;
+    width: 9px;
+    margin-right: 5px;
+}
+
+section.main div.card figure figcaption div.info span.conf {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+}
+section.main div.card figure figcaption div.info span.cite {
+    color: #4865FF;
+}
+section.main div.card figure figcaption div.info span.cite span {
+    background: url("../img/cite.png") center no-repeat;
+    background-size: contain;
+}
+
+section.main div.card figure figcaption div.info span.down {}
+section.main div.card figure figcaption div.info span.down span {
+    background: url("../img/download.png") center no-repeat;
+    background-size: contain;
+}
+
+section.main div.card figure figcaption div.info span.graph {
+    color: #585858;
+}
+section.main div.card figure figcaption div.info span.graph span {
+    background: url("../img/graph.png") center no-repeat;
+    background-size: contain;
+}
+
+section.main div.card figure figcaption div.info span.figure {
+    color: #585858;
+}
+section.main div.card figure figcaption div.info span.figure span {
+    background: url("../img/figure.png") center no-repeat;
+    background-size: contain;
+}
+
+section.main div.card figure figcaption div.caption {
+    width: 100%;
+    overflow: hidden;
+}
+
+section.main div.card figure figcaption div.caption h3 {
+    text-transform:none;
+}
+
+section.main div.card figure figcaption div.caption ul {
+    margin-top: 5px;
+    text-transform: capitalize;
+}
+
+section.main div.card figure figcaption div.caption ul li {
+    font-size: 12px;
+}
+
+section.main div.card figure figcaption div.caption span.abstract,
+section.main div.card figure figcaption div.caption p.fig_des {
+    margin-top: 15px;
+}
+section.main div.card figure figcaption div.caption span.abstract{
+    height: 100px;
+    overflow-y: scroll;
+}
+
+section.main div.card figure figcaption div.caption p.fig_des {
+    display: none;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+section.main div.card figure figcaption div.caption p span:nth-of-type(1) {
+    color: #4865FF;
+    margin-right: 10px;
+}
+
+section.main div.card figure figcaption div.caption p span:nth-of-type(2) {
+
+}
+
+section.main div.card figure figcaption div.figures {
+    width: 100%;
+    height: 60px;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    bottom: -100px;
+    padding-left: 40px;
+}
+
+section.main div.card figure figcaption div.figures img {
+    height: 100%;
+    margin-right: 7px;
+    border: 1px solid #757575;
+    opacity:0.5;
+    cursor: pointer;
+    transition: 0.2s;
+}
+section.main div.card figure figcaption div.figures img:hover{
+    opacity: 1;
+}
+
+section.main div.card aside {
+    width:auto;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+section.main div.card aside span {
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+section.main div.card aside span.thumb {
+    background: url("../img/thumb.png") center no-repeat;
+    background-size: contain;
+}
+
+section.main div.card aside span.cart {
+    background: url("../img/cart.png") center no-repeat;
+    background-size: contain;
+}
+
+section.main div.card aside span.thumb.active {
+    background: url("../img/thumb_active.png") center no-repeat;
+    background-size: contain;
+}
+
+section.main div.card aside span.cart.active {
+    background: url("../img/cart_active.png") center no-repeat;
+    background-size: contain;
+}
