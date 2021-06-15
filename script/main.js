@@ -25,5 +25,14 @@ $("div.bar_container").width($("div.column").outerHeight()).height($("div.column
 $("section.main").css({
     top: $("section.cover").outerHeight()
 });
+
+$("div#right").on("scroll", function(){
+   var $sliderTop= $(this).scrollTop()/$(this).height()*100/4+"%";
+    $("div#arrow").css("top", $sliderTop);
+})
+$("div.classify span").on("click", function(){
+    $(this).addClass("active");
+    $("div.classify span").not($(this)).removeClass("active");
+})
     //-----jquery end--------
 });

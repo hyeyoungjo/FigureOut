@@ -226,7 +226,7 @@ function cardMaker() {
                     }, 300);
 
                     $("div.back").delay(1200).animate({
-                        top: 0
+                        top: "120px"
                     }, 300);
 
                     imgUrl = $(this).find("figure").find("p.img").text();
@@ -238,25 +238,39 @@ function cardMaker() {
                         $($to).html($text + $this.find($item).html())
                         return;
                     }
+                    
                     $this = $(this);
                     infoChange("div#title h3", "", "h3");
                     infoChange("div.bar_container", "", "div.bar");
                     infoChange("ul#authors", "Authors:", "ul.authors");
                     infoChange("div#icon", "", "div.info");
-                    $("div#figure_selected img").attr("src", "crops/" + imgUrl); 
+                    $("div#figure_selected img").attr("src", "crops/" + imgUrl);
                     var detailFig = "";
-                    var findXml = $("div#figure_caption").html($(one).find("url:contains('" + imgUrl + "')")); 
-                    
-                    // findXml.siblings("caption").html());
+                    var $year = $(this).find("span.conf").html();
 
-                    findXml.parents("figure").each(function () {
-                        detailFig += "<li><img src='crops/" + $(this).find("url").html() + "'></li>"
-                        // if ($(this).find("url").html() == imgUrl) {
-                        //     detailFig += "<li id='list_selected'><img src='crops/" + $(this).find("url").html() + "'></li>"
-                        // } else {
-                            
-                        // }
-
+                    function $getVenue(year) {
+                        $("span#publication").html($year + ": Proceedings of the " + year + " CHI Conference on Human Factors in Computing Systems");
+                        return;
+                    }
+                    if ($year == "CHI 17") {
+                        $getVenue(2017)
+                    } else if ($year == "CHI 18") {
+                        $getVenue(2018)
+                    } else if ($year == "CHI 19") {
+                        $getVenue(2019)
+                    } else {
+                        $getVenue(2020)
+                    }
+                    var findXml = $(one).find("url:contains('" + imgUrl + "')");
+                    var $doi = "https://doi.org/" + findXml.parents("article").find("doi").html();
+                    $("div#doi").html("<a href='" + $doi + "'>" + $doi + "</a>");
+                    $("div#figure_caption").html(findXml.siblings("caption").html());
+                    findXml.parents("figures").find("figure").each(function () {
+                        if ($(this).find("url").html() == imgUrl) {
+                            detailFig += "<li id='list_selected'><img src='crops/" + $(this).find("url").html() + "'></li>"
+                        } else {
+                            detailFig += "<li><img src='crops/" + $(this).find("url").html() + "'></li>"
+                        }
                     });
 
                     $("div#figure_list").html(detailFig);
@@ -266,7 +280,7 @@ function cardMaker() {
 
                 $("section#detail div.back").on("click", function () {
                     $("div.back").animate({
-                        top: "-50vh"
+                        top: 0
                     }, 300)
 
                     $("section#detail").delay(200).animate({
@@ -287,13 +301,8 @@ function cardMaker() {
                         $("html, body").animate({
                             scrollTop: $scrollTop
                         }, 300);
+                    }, 1000);
 
-                        setTimeout(function () {
-                            $("html, body").animate({
-                                scrollTop: $scrollTop
-                            }, 300);
-                        }, 1000);
-                    });
                 });
             },
             error: function () {
