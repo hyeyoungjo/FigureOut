@@ -26,7 +26,7 @@ $(function () {
             var $pageN = 1;
             var $cardPerPage = 10;
             var $totalItem = 0;
-            
+
 
             //list articles
             $(one).find("article").each(function () {
@@ -145,14 +145,19 @@ $(function () {
                     left: "50%"
                 }, 300);
 
-                console.log(imgUrl);  // imgurl 아닌듯 
-                updateUserData( imgUrl );
+                $("div.back").delay(1200).animate({
+                    top: 0
+                }, 300)
+
+                console.log(imgUrl); // imgurl 아닌듯 
+                updateUserData(imgUrl);
+
             });
 
             $("section#detail div.back").on("click", function () {
                 $("div.back").animate({
                     top: "-50vh"
-                },300)
+                }, 300)
 
                 $("section#detail").delay(200).animate({
                     left: "150%"
@@ -202,18 +207,18 @@ var table = 0;
 
 getfirebase();
 
-function updateUserData(key) { 
+function updateUserData(key) {
     var type = "";
-    firebase.database().ref('/' + key.replace(/./gi, "`") + '/').once('value').then(function(snapshot){
+    firebase.database().ref('/' + key.replace(/./gi, "`") + '/').once('value').then(function (snapshot) {
         type = snapshot.val();
-        chart = chart + 1 ;
+        chart = chart + 1;
         //if - - -- -
         updateData();
     });
 }
 
 function updateData() {
-    firebase.database().ref('/users/' + uid + '/history/' ).set({
+    firebase.database().ref('/users/' + uid + '/history/').set({
         // chart : userData[0].chart ,
         // diagram : userData[0].diagram  ,
         // formula : userData[0].formula ,
@@ -221,47 +226,45 @@ function updateData() {
         // human : userData[0].human ,
         // picture : userData[0].picture ,
         // table : userData[0].table
-        chart : chart ,
-        diagram : diagram  ,
-        formula : formula ,
-        graphic : graphic ,
-        human : human ,
-        picture : picture ,
-        table : table
+        chart: chart,
+        diagram: diagram,
+        formula: formula,
+        graphic: graphic,
+        human: human,
+        picture: picture,
+        table: table
     });
 }
 
 function getfirebase() {
-    firebase.database().ref('/users/' + uid + '/history/chart').on('value', function(x){
+    firebase.database().ref('/users/' + uid + '/history/chart').on('value', function (x) {
         // userData[0].chart = x.val();
         chart = x.val();
     });
-    firebase.database().ref('/users/' + uid + '/history/diagram').on('value', function(x){
+    firebase.database().ref('/users/' + uid + '/history/diagram').on('value', function (x) {
         // userData[0].diagram = x.val();
         diagram = x.val();
     });
-    firebase.database().ref('/users/' + uid + '/history/formula').on('value', function(x){
+    firebase.database().ref('/users/' + uid + '/history/formula').on('value', function (x) {
         // userData[0].formula = x.val();
         formula = x.val();
     });
-    firebase.database().ref('/users/' + uid + '/history/graphic').on('value', function(x){
+    firebase.database().ref('/users/' + uid + '/history/graphic').on('value', function (x) {
         // userData[0].graphic = x.val();
         graphic = x.val();
     });
-    firebase.database().ref('/users/' + uid + '/history/human').on('value', function(x){
+    firebase.database().ref('/users/' + uid + '/history/human').on('value', function (x) {
         // userData[0].human = x.val();
         human = x.val();
     });
-    firebase.database().ref('/users/' + uid + '/history/picture').on('value', function(x){
+    firebase.database().ref('/users/' + uid + '/history/picture').on('value', function (x) {
         // userData[0].picture = x.val();
         picture = x.val();
     });
-    firebase.database().ref('/users/' + uid + '/history/table').on('value', function(x){
+    firebase.database().ref('/users/' + uid + '/history/table').on('value', function (x) {
         // userData[0].table = x.val();
         table = x.val();
-    }); 
+    });
 }
 
 //새로 load 할때 -> 목록에서 현재까지의 preference 반영
-
-
