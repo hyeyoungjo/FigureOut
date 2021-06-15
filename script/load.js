@@ -115,8 +115,10 @@ function cardMaker() {
                         $pageN = $(this).attr("class")*1;
                         
                         $("section#mainContainer").html(containerBarF + (($pageN-1)*10 + 1) + "-" + ($pageN)*10 + containerBarE);
+                        if($pageN*10 == 100)$("section#mainContainer").html(containerBarF + (($pageN-1)*10 + 1) + "-" + ($totalItem*1-1) + containerBarE);
                         $("section#mainContainer").append($figList[$pageN-1].replace("undefined", "")).append($pageGet);
-
+                        $("section#mainContainer div.tags i").html($totalItem - 1);
+                        
                         $('html').animate({scrollTop: $("section#mainContainer").offset().top}, 600);
                         addListener($pageN);
                     });
