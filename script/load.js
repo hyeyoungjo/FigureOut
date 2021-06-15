@@ -147,8 +147,10 @@ $(function () {
 
                 $("div.back").delay(1200).animate({
                     top: 0
-                }, 300)
+                }, 300);
 
+
+                imgUrl = $(this).find(".figures img").attr('src').replace("crops/", "");
                 console.log(imgUrl); // imgurl 아닌듯 
                 updateUserData(imgUrl);
 
