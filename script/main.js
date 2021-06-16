@@ -27,7 +27,7 @@ $(function () {
     });
 
 $("div#right").on("scroll", function(){
-   
+   var $sliderTop= $(this).scrollTop()-$(this).scrollHeight();
     $("div#arrow").css("top", $sliderTop);
 })
 
