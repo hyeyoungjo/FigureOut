@@ -51,7 +51,9 @@ getData();
 function getData(){
     typeList.forEach( function(typeName) {
         firebase.database().ref('/users/' + uid + '/history/' + typeName).on('value', function (x) {
-            data.put(typeName, x.val());
+            var v = x.val();
+            if(v == null) v=0;
+            data.put(typeName, v);
             console.log(typeName + " score  : " + data.get(typeName));
         //     console.log("fk : " + data.getfirst() + "  sk: " + data.getsecond());
         });
