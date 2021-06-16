@@ -33,6 +33,7 @@ UserData.prototype = {
         return this.map[key]+"";
     },
     increase : function(key) {
+        if(this.map[key]==null) this.map[key]=0;
         this.map[key] ++;
     },
     getfirst : function() { 
