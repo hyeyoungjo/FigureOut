@@ -57,6 +57,7 @@ section.cover article.selected_fig div.description_area div.buttons li{
     margin-right: 7px;
     background: center no-repeat;
     background-size: contain;
+    cursor: pointer;
 }
 section.cover article.selected_fig div.description_area div.buttons li.back{
     background-image: url("../img/C_back.png");

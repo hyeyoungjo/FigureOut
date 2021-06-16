@@ -1,11 +1,6 @@
 $(function () {
     //-----jquery start------
-    $("section.main").on("click", "aside span" ,function () {
-        $(this).toggleClass("active");
-    });
-    $(".tags li").on("click", function () {
-        $(this).toggleClass("active")
-    });
+
     $(".results li").on("click", function () {
         $(this).addClass("active");
         $(".results li").not($(this)).removeClass("active")
@@ -27,7 +22,7 @@ $(function () {
     });
 
 $("div#right").on("scroll", function(){
-   var $sliderTop= $(this).scrollTop()-$(this).scrollHeight();
+   var $sliderTop= $(this).scrollTop()/4;
     $("div#arrow").css("top", $sliderTop);
 })
 

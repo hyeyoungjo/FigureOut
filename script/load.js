@@ -1,40 +1,75 @@
 // var $storagePath = "https://storage.cloud.google.com/staging.designproject1-f2b81.appspot.com/";
-var $storagePath = "crops/";
-var $articleIdx = 0;
-var $figList = new Array();
-var $info;
-var $caption;
 
-var $bar;
 
-var $fig;
-var $figCap;
+$(function () {
+    //-----jquery start
+    $.ajax({
+        url: 'data/one.xml',
+        type: 'GET',
+        dataType: 'xml',
+        beforeSend: function () {},
+        complete: function () {},
+        success: function (one) {
 
-var $mainThumb;
-var $aside = "<aside><span class='thumb'></span><span class='cart'></span></aside>";
+            //list articles
+            var $tagKey = "article";
+            setTimeout(function () {
+                cardMaker($tagKey);
+            }, 1200);
 
-var $pageN = 1;
-var $cardPerPage = 10;
-var $totalItem = 0;
+            $(".tags li").not($("li.active")).on("click", function () {
+                $(this).toggleClass("active");
 
-setTimeout(function() {
-    cardMaker();
-    
-}, 1200);
+                $(".tags li.active").each(function (i) {
+                    if (i == 0) {
+                        $tagKey = "article:contains('" + $(this).html().replace("<span>+</span>", "") + "')"
+                    } else {
+                        $tagKey += ", article:contains('" + $(this).html().replace("<span>+</span>", "") + "')"
+                    }
+                });
 
-function cardMaker() {
-    $(function () {
-        //-----jquery start
-        $.ajax({
-            url: 'data/one.xml',
-            type: 'GET',
-            dataType: 'xml',
-            beforeSend: function () {},
-            complete: function () {},
-            success: function (one) {
-                //list articles
-            
-                $(one).find("article").each(function (index) {
+                $("div.card").remove();
+                $("div.page_move").remove();
+
+                setTimeout(function () {
+                    cardMaker($tagKey);
+                }, 200);
+            });
+            $(".tags li.active").on("click", function () {
+                $(this).toggleClass("active");
+                if ($(this).index() == 1) {
+                    $tagKey = "article";
+                } else {
+                    $tagKey -= ", article:contains('" + $(this).html().replace("<span>+</span>", "") + "')"
+                }
+
+                $("div.card").remove();
+                $("div.page_move").remove();
+
+                setTimeout(function () {
+                    cardMaker($tagKey);
+                }, 200);
+            });
+
+            function cardMaker($key) {
+                var $storagePath = "crops/";
+                var $articleIdx = 0;
+                var $figList = new Array();
+                var $info;
+                var $caption;
+
+                var $bar;
+
+                var $fig;
+                var $figCap;
+
+                var $mainThumb;
+                var $aside = "<aside><span class='thumb'></span><span class='cart'></span></aside>";
+
+                var $pageN = 1;
+                var $cardPerPage = 10;
+                var $totalItem = 0;
+                $(one).find($key).each(function (index) {
                     $totalItem++;
 
                     var $secBar = "";
@@ -45,6 +80,7 @@ function cardMaker() {
                     // Thumbnail
                     var $thumbN = 0;
                     var $maxScore = 0;
+
                     $(this).find("url").each(function (i) {
                         var $img = $(this).html() + "";
                         var $imgType = getFigureType($img.replace(/\./gi, "~"));
@@ -59,8 +95,8 @@ function cardMaker() {
                     });
 
                     var $thumbUrl = $storagePath + "" + $(this).find("url").eq($thumbN).html();
-                    $mainThumb = "<p class='img' style='background-image: url("+ '\"' + $thumbUrl +'\"' + ");'>" + $(this).find("url").eq($thumbN).html() + "</p>";
-                    console.log("fig type:" + getFigureType(($(this).find("url").eq($thumbN).html()+"").replace(/\./gi, "~"))+ " ");
+                    $mainThumb = "<p class='img' style='background-image: url(" + '\"' + $thumbUrl + '\"' + ");'>" + $(this).find("url").eq($thumbN).html() + "</p>";
+                    console.log("fig type:" + getFigureType(($(this).find("url").eq($thumbN).html() + "").replace(/\./gi, "~")) + " ");
 
                     // info
                     var $venue = "<span class='conf'>" + $(this).find("venue").html() + "</span>";
@@ -82,7 +118,7 @@ function cardMaker() {
                         });
                         var $secLength = Math.ceil(Number($(this).find("word_count").html()) / $paperLength * 100) + "%";
                         var $secTitle = $(this).find("title").html();
-                        var sectionType = whatSectionType($secTitle+"");
+                        var sectionType = whatSectionType($secTitle + "");
                         $secBar += "<span id='" + $secTitle.replace(" ", "_") + "' class=" + sectionType + " style='width:" + $secLength + "'>" + $secTitle + "</span>"
                     });
                     $bar = "<div class='bar'>" + $secBar + "</div>";
@@ -93,37 +129,44 @@ function cardMaker() {
                         $figUrl = "'" + $storagePath + $(this).find("url").html() + "'";
                         $figItem += "<img src=" + $figUrl + ">";
                     });
-                    $fig = "<div class='figures'>" + $figItem + "</div>";
+
+                    $fig = "<div class='figures'><div class='figwrap'>" + $figItem + "</div></div>";
 
                     // figure lists 
-                    $figList[parseInt(index/$cardPerPage)] += "<div class='card'><figure>" + $mainThumb + "<figcaption>" + $bar + $info + $caption + $fig + "</figcaption></figure>" + $aside + "</div>";
-                    
+                    $figList[parseInt(index / $cardPerPage)] += "<div class='card'><figure>" + $mainThumb + "<figcaption>" + $bar + $info + $caption + $fig + "</figcaption></figure>" + $aside + "</div>";
+
                     return;
-                    
+
                 });
-                var $pageGet= "<div class='page_move'><p class='1 active'>1</p><p class='2'>2</p><p class='3'>3</p><p class='4'>4</p><p class='5'>5</p><p class='6'>6</p><p class='7'>7</p><p class='8'>8</p><p class='9'>9</p><p class='10'>10</p></div>"
-                $("section#mainContainer").append($figList[$pageN-1].replace("undefined", "")).append($pageGet);
+                var $pageGet = "<div class='page_move'><p class='1'>1</p><p class='2'>2</p><p class='3'>3</p><p class='4'>4</p><p class='5'>5</p><p class='6'>6</p><p class='7'>7</p><p class='8'>8</p><p class='9'>9</p><p class='10'>10</p></div>"
+                $("section#mainContainer").append($figList[$pageN - 1].replace("undefined", "")).append($pageGet);
                 $("section#mainContainer div.tags i").html($totalItem - 1);
+
 
                 //figures jquery
 
                 addListener(1);
+
                 function addListener(pN) {
                     $("div.page_move p." + pN).addClass("active");
                     $("div.page_move p").not($("div.page_move p." + pN)).removeClass("active");
 
-                    $("div.page_move p").on("click", function(){
-                        $pageN = $(this).attr("class")*1;
-                        
-                        $("section#mainContainer").html(containerBarF + (($pageN-1)*10 + 1) + "-" + ($pageN)*10 + containerBarE);
-                        if($pageN*10 == 100)$("section#mainContainer").html(containerBarF + (($pageN-1)*10 + 1) + "-" + ($totalItem*1-1) + containerBarE);
-                        $("section#mainContainer").append($figList[$pageN-1].replace("undefined", "")).append($pageGet);
+                    $("div.page_move p").on("click", function () {
+                        $pageN = $(this).attr("class") * 1;
+
+                        $("section#mainContainer").html(containerBarF + (($pageN - 1) * 10 + 1) + "-" + ($pageN) * 10 + containerBarE);
+                        if ($pageN * 10 == 100) $("section#mainContainer").html(containerBarF + (($pageN - 1) * 10 + 1) + "-" + ($totalItem * 1 - 1) + containerBarE);
+                        $("section#mainContainer").append($figList[$pageN - 1].replace("undefined", "")).append($pageGet);
                         $("section#mainContainer div.tags i").html($totalItem - 1);
 
-                        $('html').animate({scrollTop: $("section#mainContainer").offset().top}, 600);
+                        $('html').animate({
+                            scrollTop: $("section#mainContainer").offset().top
+                        }, 600);
                         addListener($pageN);
                     });
 
+
+                    //---hover thumbnail---------------------------
                     $("p.img").on("mouseenter", function () {
                         $(this).siblings("figcaption").find("div.figures").animate({
                             bottom: "12px"
@@ -156,6 +199,7 @@ function cardMaker() {
                         $(this).parents("figure").find("p.img").html(imgUrl);
                         $(this).parents("figure").find("p.fig_des span:nth-of-type(2)").html(figCap);
                     });
+
                     //load figures----------------------
                     var $coverEven = "";
                     var $coverOdd = "";
@@ -174,11 +218,11 @@ function cardMaker() {
                         $("div.container.list_bottom").html($coverOdd);
                     }
                     callFigures("");
-                    
-                    $("div.classify span").on("click", function(){
+
+                    $("div.classify span").on("click", function () {
                         var $coverEven = "";
                         var $coverOdd = "";
-                        var wallList = getFigureTypeList( ($(this).attr("class")+"").replace(" active", "") );
+                        var wallList = getFigureTypeList(($(this).attr("class") + "").replace(" active", ""));
                         for (var i in wallList) {
                             if (i % 2 == 0) {
                                 $coverEven += "<img src='crops/" + wallList[i] + "'>"
@@ -188,16 +232,18 @@ function cardMaker() {
                         }
                         $("div.container.list_top").html($coverEven);
                         $("div.container.list_bottom").html($coverOdd);
-                    
+
                         $(this).addClass("active");
                         $("div.classify span").not($(this)).removeClass("active");
                         addTCL();
                     })
                 }
-                
+
+
                 addTCL();
-                function addTCL(){
-                    //img Click---------
+
+                function addTCL() {
+                    //cover image Click---------
                     var $this;
 
                     function coverClick(coverTop, time, Num) {
@@ -218,8 +264,9 @@ function cardMaker() {
                         });
                         $("div.classify").animate({
                             bottom: Num
-                        },time)
-                    }
+                        }, time)
+                    };
+
                     $("div.container>img").on("click", function () {
                         var thisSrc = $(this).attr("src");
                         var findItem = $(one).find("article:contains('" + thisSrc.replace("crops/", "") + "')");
@@ -232,126 +279,130 @@ function cardMaker() {
                         $("p.des").html(findCaption);
 
                         imgUrl = thisSrc.replace("crops/", "").replace(/\./gi, "~");
-                        console.log(imgUrl); 
+                        console.log(imgUrl);
                         updateUserData(imgUrl);
-                        
                     });
+
                     $("div.buttons li.back").on("click", function () {
                         coverClick("-110%", 200, 0)
                     });
+                };
 
-                    //search---------
+                //transition---------------
+                var $scrollTop = 0;
+                $("div.card figure").on("click", function () {
+                    $scrollTop = $(window).scrollTop();
+                    $(this).addClass("active");
+                    $("div.card").not($(this)).removeClass("active");
 
+                    $("nav").animate({
+                        top: "-100%"
+                    }, 300).delay(400).animate({
+                        top: 0
+                    }, 300);
 
-                    //transition---------------
-                    var $scrollTop = 0;
-                    $("div.card figure").on("click", function () {
-                        $scrollTop = $(window).scrollTop();
-                        $(this).addClass("active");
-                        $("div.card").not($(this)).removeClass("active");
+                    $("section.cover, section.main").delay(200).animate({
+                        left: "-100%"
+                    }, 300);
 
-                        $("nav").animate({
-                            top: "-100%"
-                        }, 300).delay(400).animate({
-                            top: 0
-                        }, 300);
+                    $("section#detail").delay(1000).animate({
+                        left: "50%"
+                    }, 300);
 
-                        $("section.cover, section.main").delay(200).animate({
-                            left: "-100%"
-                        }, 300);
+                    $("div.back").delay(1200).animate({
+                        top: "120px"
+                    }, 300);
 
-                        $("section#detail").delay(1000).animate({
-                            left: "50%"
-                        }, 300);
+                    imgUrl = $(this).find("p.img").text();
+                    console.log(imgUrl);
+                    updateUserData(imgUrl);
 
-                        $("div.back").delay(1200).animate({
-                            top: "120px"
-                        }, 300);
+                    //detail infochange------
+                    function infoChange($to, $text, $item) {
+                        $($to).html($text + $this.find($item).html())
+                        return;
+                    }
 
-                        imgUrl = $(this).find("p.img").text();
-                        console.log(imgUrl);
-                        updateUserData(imgUrl);
+                    $this = $(this);
+                    infoChange("div#title h3", "", "h3");
+                    infoChange("div.bar_container", "", "div.bar");
+                    infoChange("ul#authors", "Authors:", "ul.authors");
+                    infoChange("div#icon", "", "div.info");
+                    $("div#figure_selected img").attr("src", "crops/" + imgUrl);
+                    var detailFig = "";
+                    var $year = $(this).find("span.conf").html();
 
-                        //detail infochange------
-                        function infoChange($to, $text, $item) {
-                            $($to).html($text + $this.find($item).html())
-                            return;
-                        }
-
-                        $this = $(this);
-                        infoChange("div#title h3", "", "h3");
-                        infoChange("div.bar_container", "", "div.bar");
-                        infoChange("ul#authors", "Authors:", "ul.authors");
-                        infoChange("div#icon", "", "div.info");
-                        $("div#figure_selected img").attr("src", "crops/" + imgUrl);
-                        var detailFig = "";
-                        var $year = $(this).find("span.conf").html();
-
-                        function $getVenue(year) {
-                            $("span#publication").html($year + ": Proceedings of the " + year + " CHI Conference on Human Factors in Computing Systems");
-                            return;
-                        }
-                        if ($year == "CHI 17") {
-                            $getVenue(2017)
-                        } else if ($year == "CHI 18") {
-                            $getVenue(2018)
-                        } else if ($year == "CHI 19") {
-                            $getVenue(2019)
+                    function $getVenue(year) {
+                        $("span#publication").html($year + ": Proceedings of the " + year + " CHI Conference on Human Factors in Computing Systems");
+                        return;
+                    }
+                    if ($year == "CHI 17") {
+                        $getVenue(2017)
+                    } else if ($year == "CHI 18") {
+                        $getVenue(2018)
+                    } else if ($year == "CHI 19") {
+                        $getVenue(2019)
+                    } else {
+                        $getVenue(2020)
+                    }
+                    var findXml = $(one).find("url:contains('" + imgUrl + "')");
+                    var $doi = "https://doi.org/" + findXml.parents("article").find("doi").html();
+                    $("div#doi").html("<a href='" + $doi + "'>" + $doi + "</a>");
+                    $("div#figure_caption").html(findXml.siblings("caption").html());
+                    findXml.parents("figures").find("figure").each(function () {
+                        if ($(this).find("url").html() == imgUrl) {
+                            detailFig += "<li id='list_selected'><img src='crops/" + $(this).find("url").html() + "'></li>"
                         } else {
-                            $getVenue(2020)
+                            detailFig += "<li><img src='crops/" + $(this).find("url").html() + "'></li>"
                         }
-                        var findXml = $(one).find("url:contains('" + imgUrl + "')");
-                        var $doi = "https://doi.org/" + findXml.parents("article").find("doi").html();
-                        $("div#doi").html("<a href='" + $doi + "'>" + $doi + "</a>");
-                        $("div#figure_caption").html(findXml.siblings("caption").html());
-                        findXml.parents("figures").find("figure").each(function () {
-                            if ($(this).find("url").html() == imgUrl) {
-                                detailFig += "<li id='list_selected'><img src='crops/" + $(this).find("url").html() + "'></li>"
-                            } else {
-                                detailFig += "<li><img src='crops/" + $(this).find("url").html() + "'></li>"
-                            }
-                        });
-
-                        $("div#figure_list").html(detailFig);
-
                     });
-                    //-----detail page img change------------------------
 
-                    $("section#detail div.back").on("click", function () {
-                        $("div.back").animate({
-                            top: 0
-                        }, 300)
+                    $("div#figure_list").html(detailFig);
 
-                        $("section#detail").delay(200).animate({
-                            left: "150%"
+                });
+                //-----detail page img change------------------------
+
+                $("section#detail div.back").on("click", function () {
+                    $("div.back").animate({
+                        top: 0
+                    }, 300)
+
+                    $("section#detail").delay(200).animate({
+                        left: "150%"
+                    }, 300);
+
+                    $("nav").delay(200).animate({
+                        top: "-100%"
+                    }, 300).delay(400).animate({
+                        top: 0
+                    }, 300);
+
+                    $("section.cover, section.main").delay(600).animate({
+                        left: 0
+                    }, 300);
+
+                    setTimeout(function () {
+                        $("html, body").animate({
+                            scrollTop: $scrollTop
                         }, 300);
+                    }, 1000);
+                });
+                //cardMaker end-------------
 
-                        $("nav").delay(200).animate({
-                            top: "-100%"
-                        }, 300).delay(400).animate({
-                            top: 0
-                        }, 300);
+                setTimeout(function () {
 
-                        $("section.cover, section.main").delay(600).animate({
-                            left: 0
-                        }, 300);
-
-                        setTimeout(function () {
-                            $("html, body").animate({
-                                scrollTop: $scrollTop
-                            }, 300);
-                        }, 1000);
-                    });
-                }
-            },
-            error: function () {
-                alert('Fail');
-            }
-            //ajax end
-        });
-        //---jquery end
+                })
+            };
+            //success end---------
+        },
+        error: function () {
+            alert('Fail');
+        }
+        //ajax end
     });
-}
+    //---jquery end
+});
+
 
 function getImgType(img) {
     console.log(img.replace(/\./gi, "~"));
@@ -363,43 +414,43 @@ function getImgType(img) {
     return type;
 }
 
-var containerBarF = '<div class="tags mt_80"><ul>'+
-'<b>Total <i>100</i> Results for : </b>'+
-'<li class="active"><span>+</span>VR</li>'+
-'<li class=""><span>+</span>AR</li>'+
-'<li class=""><span>+</span>XR</li>'+
-'<li class=""><span>+</span>system</li>'+
-'<li class=""><span>+</span>technology</li>'+
-'<li class=""><span>+</span>playing</li>'+
-'<li class=""><span>+</span>AI</li>'+
-'<li class=""><span>+</span>ML</li>'+
-'</ul></div><div class="results">'+
-'<span>Search Results: <i>';
+var containerBarF = '<div class="tags mt_80"><ul>' +
+    '<b>Total <i>100</i> Results for : </b>' +
+    '<li class="active"><span>+</span>VR</li>' +
+    '<li class=""><span>+</span>AR</li>' +
+    '<li class=""><span>+</span>XR</li>' +
+    '<li class=""><span>+</span>system</li>' +
+    '<li class=""><span>+</span>technology</li>' +
+    '<li class=""><span>+</span>playing</li>' +
+    '<li class=""><span>+</span>AI</li>' +
+    '<li class=""><span>+</span>UX</li>' +
+    '</ul></div><div class="results">' +
+    '<span>Search Results: <i>';
 
-var containerBarE = '</i> </span>'+
-'<ul>Per Page :'+
-'<li class="active">10</li>'+
-'<li class="">20</li>'+
-'<li class="">30</li>'+
-'</ul> </div>';
+var containerBarE = '</i> </span>' +
+    '<ul>Per Page :' +
+    '<li class="active">10</li>' +
+    '<li class="">20</li>' +
+    '<li class="">30</li>' +
+    '</ul> </div>';
 
 function whatSectionType(title) {
     var t = title.toLowerCase();
-    if(t.includes("intro")) {
+    if (t.includes("intro")) {
         return "introduction";
-    }else if(t.includes("background") || t.includes("related")) {
+    } else if (t.includes("background") || t.includes("related")) {
         return "relatedWorks";
-    }else if(t.includes("thod")) {
+    } else if (t.includes("thod")) {
         return "method";
-    }else if(t.includes("study")) {
+    } else if (t.includes("study")) {
         return "study";
-    }else if(t.includes("result")) {
+    } else if (t.includes("result")) {
         return "result";
-    }else if(t.includes("discuss")) {
+    } else if (t.includes("discuss")) {
         return "discussion";
-    }else if(t.includes("conclu")) {
+    } else if (t.includes("conclu")) {
         return "conclusion";
-    }else if(t.includes("referen")) {
+    } else if (t.includes("referen")) {
         return "reference";
     }
     return "else";
