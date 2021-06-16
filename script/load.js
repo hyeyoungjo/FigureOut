@@ -238,56 +238,7 @@ $(function () {
                         $("div.classify span").not($(this)).removeClass("active");
                         addTCL();
                     })
-                }
-                addTCL();
-
-                function addTCL() {
-                    //cover image Click---------
-                    var $this;
-
-                    function coverClick(coverTop, time, Num) {
-                        $("article.selected_fig").delay(100).animate({
-                            top: coverTop
-                        }, time);
-                        $("article.all_figs>p").each(function (i) {
-                            $this = $(this);
-                            if (i == 0) {
-                                $this.animate({
-                                    left: Num
-                                }, time)
-                            } else {
-                                $this.animate({
-                                    right: Num
-                                }, time)
-                            }
-                        });
-                        $("div.classify").animate({
-                            bottom: Num
-                        }, time)
-                    };
-
-                    $("div.container>img").on("click", function () {
-                        var thisSrc = $(this).attr("src");
-                        var findItem = $(one).find("article:contains('" + thisSrc.replace("crops/", "") + "')");
-                        var findCaption = $(one).find("url:contains('" + thisSrc.replace("crops/", "") + "')").siblings("caption").html();
-                        $("div.img").html("<img src='" + thisSrc + "'>");
-                        coverClick(0, 200, "-100%");
-                        $("div.description_area h3").html(findItem.find("data>title").html());
-                        $("div.description_area ul.authors").html(findItem.find("data>authors").html());
-                        $("div.description_area span.conf").html(findItem.find("data>venue").html());
-                        $("p.des").html(findCaption);
-
-                        imgUrl = thisSrc.replace("crops/", "").replace(/\./gi, "~");
-                        console.log(imgUrl);
-                        updateUserData(imgUrl);
-                    });
-
-                    $("div.buttons li.back").on("click", function () {
-                        coverClick("-110%", 200, 0)
-                    });
-                };
-
-                //transition---------------
+                                    //transition---------------
                 var $scrollTop = 0;
                 $("div.card figure").on("click", function () {
                     $scrollTop = $(window).scrollTop();
@@ -409,6 +360,56 @@ $(function () {
                         $(this).find("div.info").append($one, $two);
                     })
                 }, 200);
+                }
+                addTCL();
+
+                function addTCL() {
+                    //cover image Click---------
+                    var $this;
+
+                    function coverClick(coverTop, time, Num) {
+                        $("article.selected_fig").delay(100).animate({
+                            top: coverTop
+                        }, time);
+                        $("article.all_figs>p").each(function (i) {
+                            $this = $(this);
+                            if (i == 0) {
+                                $this.animate({
+                                    left: Num
+                                }, time)
+                            } else {
+                                $this.animate({
+                                    right: Num
+                                }, time)
+                            }
+                        });
+                        $("div.classify").animate({
+                            bottom: Num
+                        }, time)
+                    };
+
+                    $("div.container>img").on("click", function () {
+                        var thisSrc = $(this).attr("src");
+                        var findItem = $(one).find("article:contains('" + thisSrc.replace("crops/", "") + "')");
+                        var findCaption = $(one).find("url:contains('" + thisSrc.replace("crops/", "") + "')").siblings("caption").html();
+                        $("div.img").html("<img src='" + thisSrc + "'>");
+                        coverClick(0, 200, "-100%");
+                        $("div.description_area h3").html(findItem.find("data>title").html());
+                        $("div.description_area ul.authors").html(findItem.find("data>authors").html());
+                        $("div.description_area span.conf").html(findItem.find("data>venue").html());
+                        $("p.des").html(findCaption);
+
+                        imgUrl = thisSrc.replace("crops/", "").replace(/\./gi, "~");
+                        console.log(imgUrl);
+                        updateUserData(imgUrl);
+                    });
+
+                    $("div.buttons li.back").on("click", function () {
+                        coverClick("-110%", 200, 0)
+                    });
+                };
+
+
 
                 //cardMaker end-------------
             };
