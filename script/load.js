@@ -35,6 +35,7 @@ $(function () {
                     cardMaker($tagKey);
                 }, 200);
             });
+
             $(".tags li.active").on("click", function () {
                 $(this).toggleClass("active");
                 if ($(this).index() == 1) {
@@ -238,8 +239,6 @@ $(function () {
                         addTCL();
                     })
                 }
-
-
                 addTCL();
 
                 function addTCL() {
@@ -387,11 +386,31 @@ $(function () {
                         }, 300);
                     }, 1000);
                 });
-                //cardMaker end-------------
-
+                
+                var $type = [
+                    "<span class='img'><span></span>image</span>",
+                    "<span class='table'><span></span>graphic</span>", 
+                    "<span class='formula'><span></span>formula</span>", 
+                    "<span class='graphic'><span></span>graphic</span>", 
+                    "<span class='human'><span></span>human</span>", 
+                    "<span class='chart'><span></span>chart</span>"
+                ]
                 setTimeout(function () {
+                    $("div.figures").each(function () {
+                        var $figWrapWidth = 0;
+                        $(this).find("img").each(function () {
+                            $figWrapWidth += $(this).width();
+                        })
+                        $(this).find("div.figwrap").css("width", $figWrapWidth);
+                    });
+                    $("div.card").each(function () {
+                        var $one = $type[Math.floor(Math.random()*$type.length)];
+                        var $two = $type[Math.floor(Math.random()*$type.length)];
+                        $(this).find("div.info").append($one, $two);
+                    })
+                }, 200);
 
-                })
+                //cardMaker end-------------
             };
             //success end---------
         },

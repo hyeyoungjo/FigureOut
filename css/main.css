@@ -643,8 +643,8 @@ div.info > span {
   text-align: right;
 }
  div.info > span span {
-  height: 9px;
-  width: 9px;
+  height: 10px;
+  width: 10px;
   margin-right: 5px;
 }
 
@@ -668,20 +668,40 @@ div.info > span {
   background-size: contain;
 }
 
- div.info span.graph {
+
+ div.info span.img,
+ div.info span.table,
+ div.info span.formula,
+ div.info span.graphic,
+ div.info span.human,
+ div.info span.chart {
   color: #585858;
-}
- div.info span.graph span {
-  background: url("../img/graph.png") center no-repeat;
-  background-size: contain;
 }
 
- div.info span.figure {
-  color: #585858;
+ div.info span.img span {
+  background: url("../img/img_img.png") center no-repeat;
+  background-size: cover;
 }
- div.info span.figure span {
-  background: url("../img/figure.png") center no-repeat;
-  background-size: contain;
+div.info span.graphic span {
+  background: url("../img/img_drawing.png") center no-repeat;
+  background-size: cover;
+}
+div.info span.human span {
+  background: url("../img/img_human.png") center no-repeat;
+  background-size: cover;
+}
+
+div.info span.formula span {
+  background: url("../img/img_formula.png") center no-repeat;
+  background-size: cover;
+}
+div.info span.table span {
+  background: url("../img/img_table.png") center no-repeat;
+  background-size: cover;
+}
+div.info span.chart span {
+  background: url("../img/img_chart.png") center no-repeat;
+  background-size: cover;
 }
 
 section.main div.card figure figcaption div.caption {
