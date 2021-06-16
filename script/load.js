@@ -354,6 +354,7 @@ $(function () {
                         })
                         $(this).find("div.figwrap").css("width", $figWrapWidth);
                     });
+                    
                     $("div.card").each(function () {
                         var $one = $type[Math.floor(Math.random()*$type.length)];
                         var $two = $type[Math.floor(Math.random()*$type.length)];
