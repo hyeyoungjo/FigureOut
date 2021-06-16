@@ -546,7 +546,7 @@ span.conclusion:after {
 span.reference:after {
   background: gray;
 }
-span.acknowledge:after {
+span.acknowledgements:after {
   background:sienna;
 }
 
@@ -582,8 +582,8 @@ span.reference:hover,
 section.main div.card figure figcaption div.bar span.reference:hover {
   color: gray;
 }
-span.acknowledge:hover,
-section.main div.card figure figcaption div.bar span.acknowledge:hover {
+span.acknowledgements:hover,
+section.main div.card figure figcaption div.bar span.acknowledgements:hover {
   color:sienna;
 }
 

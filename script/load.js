@@ -471,6 +471,8 @@ function whatSectionType(title) {
         return "conclusion";
     } else if (t.includes("referen")) {
         return "reference";
+    } else if (t.includes("ack")) {
+        return "acknowledgements";
     }
     return "else";
 
