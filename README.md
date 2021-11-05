@@ -19,13 +19,14 @@ efficient understanding of articles.
 
 ![The FigureOUT interface showing search result of “VR” (Left: main page, Right: detail page).](/img/explain.png)
 
-* A. Figure Cards show search result as a list of cards with thumbnails extracted from articles.
-* * B. Proportion Bar visualize how much each section of the paper takes up to help researchers guess the
+  * A. Figure Cards show search result as a list of cards with thumbnails extracted from articles.
+  * B. Proportion Bar visualize how much each section of the paper takes up to help researchers guess the
 construction of the article without opening the PDF file.
-* C. Content Icons labels a paper according to the number of graphs, images, and formulas to enable quick
+  * C. Content Icons labels a paper according to the number of graphs, images, and formulas to enable quick
 grasp an idea of what to expect from the paper.
-* D. Figure Wall collects images from multiple papers in one big frame to explore vague ideas and compare
+  * D. Figure Wall collects images from multiple papers in one big frame to explore vague ideas and compare
 multiple papers in more visually intuitive ways.
+
 In addition, the thumbnail extraction of Figure Cards and Figure Wall is different for all researchers based on
 their real-time search history and pre-defined area of interest. Researchers also have autonomy to choose
 between AI data-driven and user-chosen visual summary with the filter function of Figure Wall (E).
