@@ -17,6 +17,8 @@ personalized summarization and visualization tool of academic papers for literat
 Our search tool, FigureOUT visually summarizes the articles in four ways to enable researcher’s intuitive and
 efficient understanding of articles.
 
+[!The FigureOUT interface showing search result of “VR” (Left: main page, Right: detail page).](https://github.com/hyeyoungjo/FigureOut/blob/main/img/explain.png)
+
 A. Figure Cards show search result as a list of cards with thumbnails extracted from articles.
 B. Proportion Bar visualize how much each section of the paper takes up to help researchers guess the
 construction of the article without opening the PDF file.
