@@ -43,8 +43,8 @@ increase the data sample size more than 100 papers and beyond VR and AR related 
 
 ## Contributors
 All UX design in the prototype was ideated and conceived together by all team members.
-* Hye-Young Jo : User Interface, front-end development
-* Minha Lee : User Interface, front-end development
+* Hye-Young Jo : UI design, front-end development
+* Minha Lee : UI design, front-end development
 * Wooseok Kim : back-end data management and fake AI models
 * Yeonsoo Kim : front-end development(lead)
 
