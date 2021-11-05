@@ -18,7 +18,7 @@ Our search tool, FigureOUT visually summarizes the articles in four ways to enab
 efficient understanding of articles.
 
 ![The FigureOUT interface showing search result of “VR” (Left: main page, Right: detail page).](/img/explain.png)
-[Figure. The FigureOUT interface showing search result of “VR” (Left: main page, Right: detail page).]
+[Figure] The FigureOUT interface showing search result of “VR” (Left: main page, Right: detail page).
 
   * A. Figure Cards show search result as a list of cards with thumbnails extracted from articles.
   * B. Proportion Bar visualize how much each section of the paper takes up to help researchers guess the
