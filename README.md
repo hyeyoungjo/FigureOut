@@ -36,7 +36,8 @@ between AI data-driven and user-chosen visual summary with the filter function o
 Researchers can save tremendous time searching and discerning useful articles fitting their intent with
 FigureOUT. This time saved in finding papers will be spared for research itself and contribute to produce
 high-quality researches from a broad perspective. For more information, please read our paper.
-Final Thoughts & Next Steps
+
+## Final Thoughts & Next Steps
 There are several limitations. For one, different format other than PDF is needed for more optimized data
 collection automation. Moreover, in order to more reliably evaluate and develop our system further, we need to
 increase the data sample size more than 100 papers and beyond VR and AR related domain.
