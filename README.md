@@ -30,7 +30,7 @@ multiple papers in more visually intuitive ways.
 
 In addition, the thumbnail extraction of Figure Cards and Figure Wall is different for all researchers based on
 their real-time search history and pre-defined area of interest. Researchers also have autonomy to choose
-between AI data-driven and user-chosen visual summary with the filter function of Figure Wall (E).
+between AI data-driven and user-chosen visual summary with the filter function of Figure Wall Ⓔ.
 
 ## Value
 Researchers can save tremendous time searching and discerning useful articles fitting their intent with
